@@ -1,0 +1,808 @@
+[
+  {
+    "name": "Duke LIVE FOR LIFE employee wellness program",
+    "org": "Duke University Human Resources",
+    "role": null,
+    "type": "channel-partner",
+    "hunt": "partnership",
+    "why": "Duke Today (March 2026) reports LIVE FOR LIFE reached 20,092 staff and faculty across 24 programs in the past year; a January 2026 article says department leaders can request team well-being sessions through a digital form. A large employer wellness program with a defined request route.",
+    "why_now": "2026-03 Duke Today participation report; January 2026 article on team wellness-visit requests",
+    "evidence": [
+      "https://today.duke.edu/2026/03/24-programs-20092-participants-one-healthy-duke",
+      "https://today.duke.edu/2026/01/request-special-wellness-visit-and-turn-any-workday-well-being-moment",
+      "https://hr.duke.edu/wellness/liveforlife/"
+    ],
+    "channel": "contact form",
+    "contact_url": "https://hr.duke.edu/wellness/liveforlife/services-programs/",
+    "warm_path": "Duke research ties already on the board (BIG IDEAs Lab, CompHealth)",
+    "fit": 7,
+    "ice": {
+      "i": 7,
+      "c": 5,
+      "e": 5
+    },
+    "ask": "15-minute call with the LIVE FOR LIFE team on how they evaluate new well-being tools",
+    "opener": "Hi, I'm the founder of Vybe Health, a small team in Raleigh, North Carolina building a screenless band people wear overnight. We read about LIVE FOR LIFE reaching more than 20,000 Duke staff and faculty. Before our May 2027 launch we want to learn how employer wellness teams judge new tools. Could we have 15 minutes with whoever reviews new programs?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Durham, NC",
+    "deadline": null,
+    "last_signal_date": "2026-03-01",
+    "confidence": "verified",
+    "tags": [
+      "employer-wellness",
+      "sleep",
+      "north-carolina",
+      "snippet-only",
+      "date-month-precision"
+    ],
+    "opportunity": "Offer LIVE FOR LIFE a small staff pilot of overnight wear (opt-in, data stays with the employee) as an add-on to its existing sleep and stress offerings, after launch in May 2027",
+    "unknowns": "No named program lead found; whether LIVE FOR LIFE accepts outside vendors or device pilots is not stated; contracted-service terms unknown; pages not opened directly (search snippets only)"
+  },
+  {
+    "name": "WakeMed WakeWell Rewards and Healthworks employee wellness",
+    "org": "WakeMed Health & Hospitals",
+    "role": null,
+    "type": "channel-partner",
+    "hunt": "partnership",
+    "why": "WakeMed's employee benefits pages describe WakeWell Rewards (incentives for healthy habits) and Healthworks fitness centers; the 2026 employee plan is offered through Blue Cross NC, and the July 2026 Microscope newsletter lets donors fund employee well-being initiatives.",
+    "why_now": "July 2026 WakeMed Microscope newsletter (WakeMed Gives campaign through Aug 31, 2026); 2026 plan year",
+    "evidence": [
+      "https://www.wakemed.org/for-employees/benefits-and-wellness/wellness-programs",
+      "https://www.wakemed.org/sites/default/files/pdf/Microscope/MICRO%20July%2026.pdf",
+      "https://www.wakemed.org/for-employees/benefits-and-wellness"
+    ],
+    "channel": "warm intro needed",
+    "contact_url": null,
+    "warm_path": "Same city (Raleigh); Blue Cross NC already on the board",
+    "fit": 7,
+    "ice": {
+      "i": 7,
+      "c": 4,
+      "e": 4
+    },
+    "ask": "Intro to the WakeWell Rewards program owner for a 15-minute feedback call",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless band worn overnight and plan to launch in May 2027. WakeWell Rewards and Healthworks look like a thoughtful setup for staff who work shifts. Could I have 15 minutes with whoever runs WakeWell to hear what you'd need to see before considering a tool like ours?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Raleigh, NC",
+    "deadline": null,
+    "last_signal_date": "2026-07-01",
+    "confidence": "verified",
+    "tags": [
+      "employer-wellness",
+      "health-system",
+      "shift-work",
+      "north-carolina",
+      "snippet-only",
+      "date-month-precision"
+    ],
+    "opportunity": "Pitch an opt-in overnight-wear pilot for shift-working staff as a WakeWell Rewards activity or a Healthworks member add-on",
+    "unknowns": "No named wellness contact; whether WakeWell accepts outside devices unknown; procurement route unknown; pages seen only as search snippets"
+  },
+  {
+    "name": "North Carolina State Health Plan wellness and digital health benefits",
+    "org": "North Carolina State Health Plan (NC Department of State Treasurer)",
+    "role": null,
+    "type": "channel-partner",
+    "hunt": "partnership",
+    "why": "The State Health Plan publishes a 2026 benefit-information page and a wellness section (preventive care, worksite wellness); state rules require each agency to run worksite wellness in partnership with the Plan. The Treasurer added Hello Heart (monitor plus app) for rural members, so the Plan already contracts digital-health vendors.",
+    "why_now": "2026 plan year benefit information; premiums for 2026 set by the Board of Trustees",
+    "evidence": [
+      "https://www.shpnc.gov/2026-benefit-information",
+      "https://www.shpnc.gov/health-wellness",
+      "https://www.nctreasurer.gov/news/press-releases/2025/08/25/north-carolina-state-health-plan-adds-hello-heart-benefit-rural-members"
+    ],
+    "channel": "warm intro needed",
+    "contact_url": "https://www.shpnc.gov/health-wellness",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 9,
+      "c": 3,
+      "e": 2
+    },
+    "ask": "Ask the Plan's worksite wellness team what a digital wellness vendor must show to be considered",
+    "opener": "Hi, I'm the founder of Vybe Health, building a screenless overnight band in Raleigh, North Carolina, launching May 2027. We noticed the State Health Plan already offers digital tools like Hello Heart and supports worksite wellness across agencies. We aren't pitching yet. Could someone share, in a short call, what the Plan looks for before it considers a new wellness tool?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Raleigh, NC",
+    "deadline": null,
+    "last_signal_date": null,
+    "confidence": "verified",
+    "tags": [
+      "insurer",
+      "state-employees",
+      "employer-wellness",
+      "north-carolina",
+      "snippet-only"
+    ],
+    "opportunity": "Long-run: be considered as a worksite-wellness option for state agencies; near-term: learn the Plan's vendor criteria for digital wellness tools",
+    "unknowns": "Procurement is likely formal (RFP); no named wellness contact found; Hello Heart deal dated Aug 2025, 2026 updates not found; snippet-only evidence"
+  },
+  {
+    "name": "Premier Inc. employee well-being (2026 Healthiest 100 Workplaces)",
+    "org": "Premier Inc.",
+    "role": null,
+    "type": "channel-partner",
+    "hunt": "partnership",
+    "why": "Premier ranked 47th on the 2026 Healthiest 100 Workplaces in America list and placed first in its size category in the 2025 North Carolina Healthiest Employers awards; it is also a health care improvement company serving providers, so it could later be a channel too.",
+    "why_now": "2026 Healthiest 100 Workplaces in America ranking",
+    "evidence": [
+      "https://www.healthiestemployers.com/winner/2026-healthiest-100-workplaces-in-america",
+      "https://www.qcnews.com/news/u-s/north-carolina/mecklenburg-county/these-charlotte-companies-are-the-healthiest-in-north-carolina/"
+    ],
+    "channel": "LinkedIn",
+    "contact_url": null,
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 6,
+      "c": 5,
+      "e": 5
+    },
+    "ask": "15-minute call with Premier's well-being team about how they pick new tools",
+    "opener": "Hi, I'm the founder of Vybe Health, a small team in Raleigh, North Carolina building a screenless band worn overnight, launching May 2027. Congratulations on Premier's place on the 2026 Healthiest 100 Workplaces list. We'd value 15 minutes with your well-being team to learn how you judge new tools before we approach employers.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Charlotte, NC",
+    "deadline": null,
+    "last_signal_date": null,
+    "confidence": "verified",
+    "tags": [
+      "employer-wellness",
+      "healthcare",
+      "north-carolina",
+      "snippet-only"
+    ],
+    "opportunity": "Employee pilot with a recognised wellness-led employer; learn what award-winning programs look for",
+    "unknowns": "Wellness program owner not named; whether Premier pilots outside devices unknown; snippet-only evidence"
+  },
+  {
+    "name": "Henderson County Sheriff's Office (NCACP Performance and Wellness Grant award)",
+    "org": "Henderson County Sheriff's Office",
+    "role": null,
+    "type": "channel-partner",
+    "hunt": "partnership",
+    "why": "A Henderson County Board of Commissioners agenda (Sept 2, 2026) shows the Sheriff's Office received a $32,766.24 award from the NC Association of Chiefs of Police Performance and Wellness Grant Program. A Matthews filing says the program asks agencies to set up peer support and a health, wellness and safety program.",
+    "why_now": "2026-09-02 county agenda item accepting the NCACP grant",
+    "evidence": [
+      "https://www.hendersoncountync.gov/sites/default/files/fileattachments/board_of_commissioners/meeting/137941/ca.n.pdf",
+      "https://www.matthewsnc.gov/files/documents/11I-PDperformancewellnessgrant1315021209062025PM.pdf"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": "NC Sheriffs' Association corporate partners already on the board",
+    "fit": 7,
+    "ice": {
+      "i": 6,
+      "c": 5,
+      "e": 5
+    },
+    "ask": "Ask the Sheriff's Office who leads deputy wellness and whether they would give feedback on overnight-wear design",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We build a screenless band worn overnight and launch in May 2027. We saw the Sheriff's Office received an NCACP Performance and Wellness grant. We'd value 15 minutes with whoever leads deputy wellness to hear what shift workers need from a tool like this. No sales ask.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Hendersonville, NC",
+    "deadline": null,
+    "last_signal_date": "2026-09-02",
+    "confidence": "verified",
+    "tags": [
+      "tactical",
+      "law-enforcement",
+      "first-responders",
+      "north-carolina",
+      "snippet-only"
+    ],
+    "opportunity": "Agencies funded by the NCACP grant must stand up wellness programs; offer a no-cost DevKit evaluation to the wellness lead. Route: NCACP grant cohort, starting with Henderson County",
+    "unknowns": "The award is earmarked for a personnel management system, not devices; wellness lead not named; NCACP's own program page not found"
+  },
+  {
+    "name": "Wake County EMS peer support team (John Sammons)",
+    "org": "Wake County EMS",
+    "role": "Advanced practice paramedic; peer support team member",
+    "type": "channel-partner",
+    "hunt": "partnership",
+    "why": "A Jan 29, 2026 EMS One-Stop podcast features John Sammons, a Wake County EMS advanced practice paramedic, peer support team member and NAEMT Lighthouse Leadership Program leader, on burnout and Wake County's 'presence first' peer-support approach.",
+    "why_now": "2026-01-29 podcast episode",
+    "evidence": [
+      "https://emsonestop.podbean.com/e/ems-one-stop-resilience-and-beyond/"
+    ],
+    "channel": "LinkedIn",
+    "contact_url": null,
+    "warm_path": "Same county as Vybe (Raleigh)",
+    "fit": 7,
+    "ice": {
+      "i": 7,
+      "c": 5,
+      "e": 6
+    },
+    "ask": "15-minute conversation with John Sammons about shift-worker needs",
+    "opener": "Hi John, I'm the founder of Vybe Health in Raleigh, North Carolina. I heard your EMS One-Stop episode on peer support and the Wake County 'presence first' approach. We're building a screenless band worn overnight, launching May 2027, and want to understand paramedics' shift patterns before we design anything for them. Would you be open to a 15-minute call?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Raleigh, NC",
+    "deadline": null,
+    "last_signal_date": "2026-01-29",
+    "confidence": "single-source",
+    "tags": [
+      "ems",
+      "first-responders",
+      "peer-support",
+      "shift-work",
+      "north-carolina",
+      "snippet-only"
+    ],
+    "opportunity": "Ask the peer support team for design feedback on overnight wear for 24-hour-shift paramedics; possible small opt-in staff pilot later",
+    "unknowns": "Single source; no official Wake County EMS program page found; any pilot would need county approval"
+  },
+  {
+    "name": "Womack Army Medical Center Sleep Disorders Clinic",
+    "org": "Womack Army Medical Center (Defense Health Agency)",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "An Army.mil/DVIDS feature (2026) reports the Womack Sleep Clinic at Fort Bragg reopened in March 2026 for active-duty service members by referral, and names Cristina Cruz-Crespo as Sleep Disorders Medical Director. The clinic sits next to the H2F sleep-readiness push at Fort Bragg.",
+    "why_now": "Clinic reopened March 2026; Army feature published 2026",
+    "evidence": [
+      "https://www.army.mil/article/293859/womack_sleep_clinic_powers_mission_readiness",
+      "https://www.dvidshub.net/news/569811/womack-sleep-clinic-powers-mission-readiness"
+    ],
+    "channel": "warm intro needed",
+    "contact_url": "https://womack.tricare.mil/News-Gallery/Articles/Tag/325330/sleep-hygiene",
+    "warm_path": "Fort Bragg Research Institute (Geneva Foundation) already on the board",
+    "fit": 7,
+    "ice": {
+      "i": 6,
+      "c": 4,
+      "e": 3
+    },
+    "ask": "Ask for feedback on what overnight wellness data (if any) is useful context for sleep-readiness education, not clinical use",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless, general-wellness band worn overnight, launching May 2027. We read about the Womack Sleep Clinic reopening in March. We aren't a medical device and aren't pitching. Could someone on the team spare 15 minutes on how soldiers' consumer sleep data comes up in sleep-readiness education?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Fort Bragg, NC",
+    "deadline": null,
+    "last_signal_date": "2026-07-01",
+    "confidence": "verified",
+    "tags": [
+      "military",
+      "tactical",
+      "sleep",
+      "h2f",
+      "north-carolina",
+      "snippet-only",
+      "date-month-precision"
+    ]
+  },
+  {
+    "name": "Marine Corps Total Fitness (MCTFIT) implementation training at Camp Lejeune",
+    "org": "II Marine Expeditionary Force / Marine Corps Base Camp Lejeune",
+    "role": null,
+    "type": "channel-partner",
+    "hunt": "partnership",
+    "why": "DVIDS images show Camp Lejeune hosted Marine Corps Total Fitness implementation training in August 2026 for leaders, covering systems for total health and physical fitness. II MEF Support Battalion also ran resilience training in April 2026. Leaders are building total-fitness programs now.",
+    "why_now": "August 2026 MCTFIT implementation training",
+    "evidence": [
+      "https://www.dvidshub.net/image/9854990/marine-corps-total-fitness-implementation-training",
+      "https://www.dvidshub.net/image/9854967/marine-corps-total-fitness-implementation-training",
+      "https://www.iimef.marines.mil/Photos/igphoto/2003916084/"
+    ],
+    "channel": "warm intro needed",
+    "contact_url": null,
+    "warm_path": "2nd MLG Human Performance Center and MCCS Lejeune-New River already on the board; veteran network",
+    "fit": 7,
+    "ice": {
+      "i": 7,
+      "c": 3,
+      "e": 3
+    },
+    "ask": "Ask an MCTFIT trainer for 15 minutes on how sleep fits into unit total-fitness plans",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless band worn overnight, launching May 2027. We saw Camp Lejeune hosted Marine Corps Total Fitness implementation training in August. Before we design anything for Marines, we want to hear how leaders treat sleep inside total fitness. Could you spare 15 minutes?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Camp Lejeune, NC",
+    "deadline": null,
+    "last_signal_date": "2026-08-01",
+    "confidence": "single-source",
+    "tags": [
+      "military",
+      "tactical",
+      "usmc",
+      "sleep",
+      "north-carolina",
+      "snippet-only",
+      "date-month-precision"
+    ],
+    "opportunity": "Offer MCTFIT implementers a non-procurement DevKit evaluation on sleep as part of total fitness; route through MCCS Lejeune-New River or the 2nd MLG HPC",
+    "unknowns": "No named MCTFIT lead; device use needs command, OPSEC and privacy approval; DVIDS image captions are one event (counts as one source)"
+  },
+  {
+    "name": "Venture Connect 2027",
+    "org": "Council for Entrepreneurial Development (CED)",
+    "role": null,
+    "type": "event",
+    "hunt": "investor",
+    "why": "CED lists Venture Connect 2027 for March 23-24, 2027 ('save the date'). The 2026 edition at DPAC in Durham was billed as the Southeast's capital summit with Next-Gen Hardware and Human Health tracks; in 2025 a committee of angels and VCs picked 103 presenting companies from applications.",
+    "why_now": "Save-the-date listing for March 23-24, 2027",
+    "evidence": [
+      "https://cednc.org/event/venture-connect-2027/",
+      "https://cednc.org/events/2027-03-23/",
+      "https://cednc.org/ced-announces-103-companies-selected-to-pitch-at-venture-connect-2025/"
+    ],
+    "channel": "apply",
+    "contact_url": "https://cednc.org/event/venture-connect-2027/",
+    "warm_path": "CED GRO Incubator already on the board",
+    "fit": 8,
+    "ice": {
+      "i": 8,
+      "c": 6,
+      "e": 6
+    },
+    "ask": "Apply to present when the 2027 application opens; meanwhile ask CED which track hardware-health companies go in",
+    "opener": "Hi CED team, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless overnight band with a developer SDK, launching May 2027. We'd like to apply to present at Venture Connect 2027. Could you tell us when applications open and which track fits a consumer hardware company in health?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Durham, NC",
+    "deadline": null,
+    "last_signal_date": null,
+    "confidence": "verified",
+    "tags": [
+      "capital-summit",
+      "health-hardware",
+      "investors",
+      "north-carolina",
+      "snippet-only"
+    ]
+  },
+  {
+    "name": "Raleigh Founded",
+    "org": "Raleigh Founded",
+    "role": null,
+    "type": "community",
+    "hunt": "growth",
+    "why": "Raleigh Founded is a co-working hub and accelerator in downtown Raleigh, listed by the City of Raleigh; CED's 2026 calendar lists recurring First Friday events at Raleigh Founded North Street (April 3 and May 1, 2026), and a March 2026 guide ranks it among Raleigh's top tech coworking spaces.",
+    "why_now": "First Friday at Raleigh Founded events on CED's 2026 calendar",
+    "evidence": [
+      "https://raleighnc.gov/doing-business/incubators-and-co-working-spaces",
+      "https://cednc.org/events/category/accelerate/summary",
+      "https://www.nucamp.co/blog/top-10-tech-coworking-spaces-and-incubators-in-raleigh-nc-in-2026"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": "Same city; Campbell University hosts a Raleigh Founded location",
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 7,
+      "e": 8
+    },
+    "ask": "Attend a First Friday and ask to demo the DevKit to member founders",
+    "opener": "Hi, I'm the founder of Vybe Health, building a screenless overnight band in Raleigh, North Carolina, launching May 2027. We'd like to meet more local founders and builders. Could we attend an upcoming First Friday and, if it fits, show our developer kit to members who build health or fitness apps?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Raleigh, NC",
+    "deadline": null,
+    "last_signal_date": "2026-05-01",
+    "confidence": "verified",
+    "tags": [
+      "startup-community",
+      "coworking",
+      "dev-platform",
+      "north-carolina",
+      "snippet-only"
+    ]
+  },
+  {
+    "name": "NC Institute of Medicine 2026 Annual Meeting",
+    "org": "North Carolina Institute of Medicine (NCIOM)",
+    "role": null,
+    "type": "event",
+    "hunt": "growth",
+    "why": "NCIOM's 2026 Annual Meeting Sponsor Packet (posted July 2026) lists Wednesday, October 21, 2026, 8 a.m.-4 p.m. at the McKimmon Center in Raleigh, with topics including AI, telehealth and remote monitoring. It gathers NC health leaders and has sponsor tiers.",
+    "why_now": "Event on 2026-10-21 in Raleigh",
+    "evidence": [
+      "https://nciom.org/wp-content/uploads/2026/07/2026-Annual-Meeting-Sponsor-Packet.pdf"
+    ],
+    "channel": "email listed on site",
+    "contact_url": "https://nciom.org/wp-content/uploads/2026/07/2026-Annual-Meeting-Sponsor-Packet.pdf",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 6,
+      "c": 6,
+      "e": 7
+    },
+    "ask": "Register to attend and meet health-system and payer innovation leads; ask whether a low-tier sponsorship remains",
+    "opener": "Hi NCIOM team, I'm the founder of Vybe Health, a small team in Raleigh, North Carolina building a screenless overnight wellness band, launching May 2027. We plan to attend the Annual Meeting on October 21. Is there still a small sponsor or exhibitor option, and could you point us to the right contact?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Raleigh, NC",
+    "deadline": "2026-10-21",
+    "last_signal_date": "2026-07-01",
+    "confidence": "single-source",
+    "tags": [
+      "health-policy",
+      "event",
+      "remote-monitoring",
+      "north-carolina",
+      "snippet-only",
+      "date-month-precision"
+    ]
+  },
+  {
+    "name": "Greensboro Gargoyles (ECHL)",
+    "org": "Greensboro Gargoyles / Zawyer Sports & Entertainment",
+    "role": null,
+    "type": "team",
+    "hunt": "sponsorship",
+    "why": "The Gargoyles won ECHL Marketing Team of the Year at the June 2026 league meetings after their first season, published a 72-game 2026-27 schedule (36 home games at First Horizon Coliseum), and are hiring a 2026-27 partnership activation intern, so the partnership team is active.",
+    "why_now": "2026-27 season under way; June 2026 marketing award",
+    "evidence": [
+      "https://gargoyleshockey.com/news/2026/06/gargoyles-awarded-2026-marketing-team-of-the-year-at-echl-league-meetings",
+      "https://gargoyleshockey.com/news/2026/05/greensboro-gargoyles-announce-2026-27-regular-season-schedule",
+      "https://www.teamworkonline.com/multiple-properties/zawyer-sports/greensboro-pro-hockey/greensboro-gargoyles-partnership-marketing-and-activation-internship-2026-2027-season-2180960",
+      "https://gargoyleshockey.com/news/2026/09/gargoyles-ink-defenseman-tristan-de-jong-and-forward-eric-martin-for-2026-27"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": "Zawyer also owns the Charlotte Checkers, already on the board",
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 6,
+      "e": 6
+    },
+    "ask": "Seed 5 bands to players or staff for an off-ice recovery content collab; ask the partnership team for the entry-level package",
+    "opener": "Hi Gargoyles partnerships team, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight and launch in May 2027. Congratulations on the ECHL marketing award. We'd like to explore a small first step, like a few bands for staff and a behind-the-scenes recovery content piece. Who is the right person to talk to?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Greensboro, NC",
+    "deadline": null,
+    "last_signal_date": "2026-09-01",
+    "confidence": "verified",
+    "tags": [
+      "hockey",
+      "minor-league",
+      "north-carolina",
+      "snippet-only",
+      "date-month-precision"
+    ]
+  },
+  {
+    "name": "Wilson Warbirds (Carolina League, Brewers affiliate)",
+    "org": "Wilson Warbirds (Milwaukee Brewers)",
+    "role": null,
+    "type": "team",
+    "hunt": "sponsorship",
+    "why": "The former Carolina Mudcats moved from Zebulon to the new Wilson Ballpark and played their first season as the Wilson Warbirds in 2026 (home opener April 14, 2026); 2027 ticket plans and co-branded promotions are on sale, so the partner roster is still forming.",
+    "why_now": "Inaugural 2026 season completed; 2027 ticket plans on sale",
+    "evidence": [
+      "https://www.milb.com/wilson/news/warbirds-announce-inaugural-home-schedule",
+      "https://www.milb.com/wilson/news/warbirds-ticket-plans-and-packages-now-on-sale",
+      "https://www.mlb.com/news/wilson-warbirds-ballpark-guide"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 6,
+      "e": 6
+    },
+    "ask": "Ask for the 2027 entry-level partner menu; offer bands to the training staff for feedback",
+    "opener": "Hi Warbirds team, I'm the founder of Vybe Health, about an hour away in Raleigh, North Carolina. We make a screenless band worn overnight, launching May 2027, the same spring as your second season. As a new club building its partner list, would you share your entry-level 2027 options? We'd also be glad to send a few bands to staff for feedback.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Wilson, NC",
+    "deadline": null,
+    "last_signal_date": "2026-10-01",
+    "confidence": "verified",
+    "tags": [
+      "baseball",
+      "minor-league",
+      "north-carolina",
+      "snippet-only",
+      "date-month-precision"
+    ]
+  },
+  {
+    "name": "Winston-Salem Dash (High-A)",
+    "org": "Winston-Salem Dash / Diamond Baseball Holdings",
+    "role": null,
+    "type": "team",
+    "hunt": "sponsorship",
+    "why": "The Dash hired a seasonal partnership activation intern for March-September 2026 and a partnership activation manager for corporate accounts, and ran 2026 theme nights at Truist Stadium. The partnership team actively runs local sponsors.",
+    "why_now": "2026 season partnership activation hiring",
+    "evidence": [
+      "https://www.teamworkonline.com/baseball-jobs/diamond-baseball-holdings/winston-salem-dash/partnership-activation-intern-2150377",
+      "https://teamworkonline.com/baseball-jobs/diamond-baseball-holdings/winston-salem-dash/partnership-activation-manager-2087831",
+      "https://triadmomsonmain.com/?p=107659"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": "Diamond Baseball Holdings also owns Fayetteville Woodpeckers and Hickory Crawdads on the board",
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 6,
+      "e": 6
+    },
+    "ask": "Request the 2027 local partner menu (theme night or concourse table)",
+    "opener": "Hi Dash partnerships team, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight and launch in May 2027. We're looking for one or two Carolina ballparks for a small first partnership in 2027, maybe a theme night or concourse table. Could you share your entry-level options?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Winston-Salem, NC",
+    "deadline": null,
+    "last_signal_date": null,
+    "confidence": "verified",
+    "tags": [
+      "baseball",
+      "minor-league",
+      "north-carolina",
+      "snippet-only"
+    ]
+  },
+  {
+    "name": "Fayetteville Marksmen (SPHL)",
+    "org": "Fayetteville Marksmen",
+    "role": "Director of Corporate Partnerships (Brian Knight, per 2024 announcement)",
+    "type": "team",
+    "hunt": "sponsorship",
+    "why": "The Marksmen are signing their 2026-27 roster and released the 2026-27 schedule with presented-by games (Opening Night by Jaggers, School Day Games by PWC). Their Director of Corporate Partnerships, Brian Knight, is a retired Army Command Sergeant Major and former USO area manager (hired 2024). A military-town team.",
+    "why_now": "2026-27 season signings and schedule",
+    "evidence": [
+      "https://marksmenhockey.com/news/2026/murphy-kicks-off-2026-27-marksmen-signings/",
+      "https://www.oursportscentral.com/services/releases/2025-26-marksmen-schedule-announced/n-6394719",
+      "https://marksmenhockey.com/news/2024/marksmen-hire-brian-knight-as-director-of-corporate-partnerships/"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": "Veteran network: partnerships director is a retired Army CSM (2024 source; confirm he is still in the role)",
+    "fit": 7,
+    "ice": {
+      "i": 6,
+      "c": 7,
+      "e": 6
+    },
+    "ask": "Ask about a military-appreciation night presenting slot or a small seeding of bands to players",
+    "opener": "Hi Brian, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight, launching May 2027. Fayetteville's ties to Fort Bragg make the Marksmen a natural first hockey partner for us. Could we talk for 15 minutes about entry-level options for the 2026-27 season, such as a themed night or bands for players?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Fayetteville, NC",
+    "deadline": null,
+    "last_signal_date": null,
+    "confidence": "verified",
+    "tags": [
+      "hockey",
+      "military-town",
+      "minor-league",
+      "north-carolina",
+      "snippet-only"
+    ]
+  },
+  {
+    "name": "Twin City Thunderbirds (FPHL)",
+    "org": "Twin City Thunderbirds",
+    "role": null,
+    "type": "team",
+    "hunt": "sponsorship",
+    "why": "Renamed in September 2025, the Thunderbirds play FPHL hockey at the Winston-Salem Fairgrounds Arena and ran sponsor-presented nights in 2026 (Novant Healthcare Night in January, a Huntington Bank night in February). A small club with low-cost sponsor slots.",
+    "why_now": "2025-26 sponsor nights (Jan-Feb 2026); 2026-27 roster listed",
+    "evidence": [
+      "https://www.oursportscentral.com/services/releases/thunderbirds-set-for-novant-healthcare-night/n-6315773",
+      "https://en.wikipedia.org/wiki/Twin_City_Thunderbirds",
+      "https://www.eliteprospects.com/team/23083/twin-city-thunderbirds/2026-2027?tab=stats"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 6,
+      "e": 6
+    },
+    "ask": "Ask for a presented-by game night price for 2026-27",
+    "opener": "Hi Thunderbirds team, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight, launching May 2027. We like how you run presented-by nights at the Fairgrounds Arena. Could you share what a small game-night partnership costs this season, and would players be open to trying a few bands?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Winston-Salem, NC",
+    "deadline": null,
+    "last_signal_date": "2026-02-01",
+    "confidence": "verified",
+    "tags": [
+      "hockey",
+      "minor-league",
+      "north-carolina",
+      "snippet-only",
+      "date-month-precision"
+    ]
+  },
+  {
+    "name": "Charlotte Independence (USL League One)",
+    "org": "Charlotte Independence",
+    "role": null,
+    "type": "team",
+    "hunt": "sponsorship",
+    "why": "The Independence hosted 19 home matches in 2026 at American Legion Memorial Stadium and the Matthews Sportsplex, including a July 18, 2026 match run with Novant Health. The club runs community-tied partner nights.",
+    "why_now": "2026 season; July 18, 2026 Novant Health partner match",
+    "evidence": [
+      "https://tickets.charlotteindependence.com/event/charlotte-independence-vs-chattanooga-red-wolves-pih11r",
+      "https://www.charlotteindependence.com/news/2025/12/16/charlotte-independence-announce-2026-schedule/"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 6,
+      "e": 6
+    },
+    "ask": "Ask for the 2027 partner deck; offer bands to the performance staff for feedback",
+    "opener": "Hi Independence team, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight and launch in May 2027, early in your 2027 season. We'd like to explore a small first partnership in Charlotte. Could you send your 2027 partner options, and would your performance staff try a few bands and tell us what they think?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Charlotte, NC",
+    "deadline": null,
+    "last_signal_date": "2026-07-18",
+    "confidence": "verified",
+    "tags": [
+      "soccer",
+      "minor-league",
+      "north-carolina",
+      "snippet-only"
+    ]
+  },
+  {
+    "name": "Greensboro Swarm (NBA G League)",
+    "org": "Greensboro Swarm (Charlotte Hornets affiliate)",
+    "role": null,
+    "type": "team",
+    "hunt": "sponsorship",
+    "why": "The Swarm's 2026-27 schedule release was presented by Honda Aircraft Company and its 2026-27 open tryouts are presented by Greensboro Sports Performance; Novant Health's March 2026 extension with the Hornets also covers the Swarm. Presenting slots are sold for individual releases and events.",
+    "why_now": "2026-27 season; open tryouts announced",
+    "evidence": [
+      "https://greensboro.gleague.nba.com/news/greensboro-swarm-announce-2026-27-open-tryouts-presented-by-greensboro-sports-performance",
+      "https://greensboro.gleague.nba.com/news/greensboro-swarm-announce-2026-27-schedule",
+      "https://businessnc.com/hornets-and-novant-health-extend-and-expand-partnership/"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 6,
+      "e": 6
+    },
+    "ask": "Ask about a presenting slot for a community clinic or Education Day; offer bands for staff feedback",
+    "opener": "Hi Swarm team, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight, launching May 2027. We noticed you offer presenting partners for things like open tryouts. Could you share what a small presenting slot costs in 2026-27, and whether staff would try a few bands for feedback?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Greensboro, NC",
+    "deadline": null,
+    "last_signal_date": "2026-05-01",
+    "confidence": "verified",
+    "tags": [
+      "basketball",
+      "minor-league",
+      "north-carolina",
+      "snippet-only",
+      "date-month-precision"
+    ]
+  },
+  {
+    "name": "Charlotte Hornets / Novant Health Performance Center",
+    "org": "Charlotte Hornets (NBA)",
+    "role": null,
+    "type": "team",
+    "hunt": "sponsorship",
+    "why": "Axios (Aug 28, 2026) reports the Hornets' $190M Novant Health Performance Center, with physical therapy, hydrotherapy, nutrition areas and a float pod, now opens spring 2027; Novant extended its partnership in March 2026, and Judi Health holds the jersey patch. The Hornets sign health partners, but a top-tier deal is out of reach.",
+    "why_now": "Performance Center opening spring 2027; Novant extension March 2026",
+    "evidence": [
+      "https://www.axios.com/local/charlotte/2026/08/28/hornets-practice-facility-amenities",
+      "https://businessnc.com/hornets-and-novant-health-extend-and-expand-partnership/",
+      "https://www.nba.com/hornets/performancecenter"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 7,
+      "c": 3,
+      "e": 3
+    },
+    "ask": "Ask the basketball facilities team (Alex MacKenzie named by Axios) for a 15-minute feedback call on overnight recovery tools; no sponsorship ask yet",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight, launching May 2027. We read about the recovery spaces planned for the Novant Health Performance Center. We aren't asking for a sponsorship. We'd value 15 minutes with someone on the performance side on what staff want from overnight recovery tools.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Charlotte, NC",
+    "deadline": null,
+    "last_signal_date": "2026-08-28",
+    "confidence": "verified",
+    "tags": [
+      "basketball",
+      "nba",
+      "minor-league",
+      "north-carolina",
+      "snippet-only"
+    ]
+  },
+  {
+    "name": "Carolina Panthers / Atrium Health Training Facility",
+    "org": "Carolina Panthers (NFL)",
+    "role": null,
+    "type": "team",
+    "hunt": "sponsorship",
+    "why": "On April 16, 2026 the Panthers named Atrium Health the naming partner of a new ~101,400 sq ft Uptown training facility with training and recovery areas, due before 2027 training camp. A big health partner is locked in, so Vybe's realistic angle is staff feedback or a community program, not a sponsorship.",
+    "why_now": "2026-04-16 naming-rights announcement; facility due summer 2027",
+    "evidence": [
+      "https://www.panthers.com/news/carolina-panthers-unveil-atrium-health-training-facility-naming-partnership",
+      "https://www.beckershospitalreview.com/digital-marketing/atrium-health-inks-naming-rights-deal-for-panthers-training-site/",
+      "https://wsoctv.com/news/local/atrium-health-doubles-down-carolina-panthers-partnership-with-new-naming-rights-deal/ULESYPVFBFFOXG7ZSIQS2BFEEA"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 6,
+      "c": 2,
+      "e": 3
+    },
+    "ask": "Ask Panthers community relations whether a veterans or youth program could use donated bands for feedback in 2027",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight, launching May 2027. We saw the plans for the Atrium Health Training Facility. We're not seeking a sponsorship. Could someone in community relations tell us whether a veterans or youth program might want to try donated bands and share feedback in 2027?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Charlotte, NC",
+    "deadline": null,
+    "last_signal_date": "2026-04-16",
+    "confidence": "verified",
+    "tags": [
+      "football",
+      "nfl",
+      "minor-league",
+      "north-carolina",
+      "snippet-only"
+    ]
+  },
+  {
+    "name": "Greensboro Sports Performance",
+    "org": "Greensboro Sports Performance",
+    "role": null,
+    "type": "community",
+    "hunt": "growth",
+    "why": "Greensboro Sports Performance is the presenting partner of the Greensboro Swarm's 2026-27 open tryouts, which shows a local performance-training business investing in pro-sport visibility. A possible local retail or coach partner in the Triad.",
+    "why_now": "Presenting partner of Swarm 2026-27 open tryouts",
+    "evidence": [
+      "https://greensboro.gleague.nba.com/news/greensboro-swarm-announce-2026-27-open-tryouts-presented-by-greensboro-sports-performance"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": "Greensboro Swarm connection",
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 5,
+      "e": 7
+    },
+    "ask": "Seed 3-5 bands to coaches for honest feedback from athletes in training",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight, launching May 2027. We saw Greensboro Sports Performance presenting the Swarm open tryouts. Would your coaches try a few bands with athletes and tell us honestly what works and what doesn't?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Greensboro, NC",
+    "deadline": null,
+    "last_signal_date": null,
+    "confidence": "single-source",
+    "tags": [
+      "performance-training",
+      "coaches",
+      "north-carolina",
+      "snippet-only"
+    ]
+  }
+]
