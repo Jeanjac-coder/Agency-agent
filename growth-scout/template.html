@@ -276,7 +276,9 @@ const DATA = /*__DATA__*/null;
 
   const pills = (t) => {
     const d = daysTo(t.deadline);
-    return `<span class="pill ${esc(t.priority)}">${esc(t.priority)} · ${esc(t.score)}</span>` +
+    return (t.review ? `<span class="pill ${t.review === "A" ? "High" : "Medium"}" title="${esc(t.review_reason || "")}">Reviewed: ${esc(t.review)}</span>` : "") +
+      (t.when && t.when !== "now" ? `<span class="pill">${esc(t.when)}</span>` : "") +
+      `<span class="pill ${esc(t.priority)}">${esc(t.priority)} · ${esc(t.score)}</span>` +
       `<span class="pill hunt">${esc(t.hunt)}</span><span class="pill">${esc(TYPE_LABEL[t.type] || t.type)}</span>` +
       (d !== null && d >= 0 ? `<span class="pill due">Due in ${d}d</span>` : "") +
       (t.confidence === "single-source" ? `<span class="pill">single source</span>` : "") +
@@ -295,7 +297,7 @@ const DATA = /*__DATA__*/null;
       <div class="org">${esc([t.role, t.org !== t.name ? t.org : null, t.geo].filter(Boolean).join(" · "))}</div>
       <p class="why">${esc(t.why)}</p>
       ${t.why_now ? `<p class="why"><strong>Why now:</strong> ${esc(t.why_now)}</p>` : ""}
-      <p class="why"><strong>Ask:</strong> ${esc(t.ask)}</p>
+      <p class="why"><strong>${t.move ? "Next free move" : "Ask"}:</strong> ${esc(t.move || t.ask)}</p>
       <blockquote>${esc(t.opener)}</blockquote>
       <div class="row">
         <button class="btn primary" type="button" data-copy="${esc(t.id)}">Copy opener</button>

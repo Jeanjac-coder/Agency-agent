@@ -219,6 +219,14 @@ VALUE_BY_TYPE = {"app-partner": 15, "builder": 15, "research-lab": 10, "channel-
                  "sport": -5, "team": -10, "event": -10, "program": -10, "athlete": -15}
 
 
+REVIEW = ROOT / "data" / "review.json"
+
+
+def load_review() -> dict:
+    """Hand review of every growth/partner row (11 Oct): {id: {verdict A|B|cut, reason, move}}."""
+    return json.loads(REVIEW.read_text()).get("rows", {}) if REVIEW.exists() else {}
+
+
 def costs_money(row: dict) -> bool:
     if row.get("hunt") == "sponsorship" or row.get("type") in ("competitor-deal", "athlete"):
         return True
@@ -391,12 +399,20 @@ def build(params: dict, today: dt.date) -> tuple[list[dict], list[dict], dict]:
                 continue
             kept[key] = row
             lanes[lane]["kept"] += 1
-    parked = [r for r in kept.values() if costs_money(r)]
+    review = load_review()
+    for r in kept.values():
+        rid = re.sub(r"\s+", "-", norm(f"{r['name']} {r.get('org') or ''}"))[:80]
+        v = review.get(rid)
+        if v:
+            r["review"], r["review_reason"], r["move"] = v.get("verdict"), v.get("reason"), v.get("move")
+            r["score"] += {"A": 40, "B": 10}.get(v.get("verdict"), 0)
+    parked = [r for r in kept.values() if costs_money(r) or r.get("review") == "cut"]
     PARKED.clear()
-    PARKED.extend({"name": r["name"], "type": r["type"], "geo": r.get("geo"), "ask": r.get("ask")} for r in parked)
+    PARKED.extend({"name": r["name"], "type": r["type"], "geo": r.get("geo"), "ask": r.get("ask"),
+                   "why_parked": r.get("review_reason") if r.get("review") == "cut" else "costs money"} for r in parked)
     for r in kept.values():
         r["when"] = "after DevKit v0.1" if needs_units(r) else "now"
-    targets = sorted((r for r in kept.values() if not costs_money(r)),
+    targets = sorted((r for r in kept.values() if not costs_money(r) and r.get("review") != "cut"),
                      key=lambda r: (-r["score"], r.get("deadline") or "9999", r["name"]))
     for i, row in enumerate(targets, 1):
         row["rank"] = i
