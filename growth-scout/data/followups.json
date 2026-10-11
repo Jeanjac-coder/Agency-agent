@@ -174,9 +174,9 @@
       "org": "ANZER USA",
       "to": "JayM@anzer-usa.com",
       "first_sent": "2026-10-09",
-      "state": "replied",
-      "due": "2026-10-14",
-      "next": "11 Oct: sent John's reply with the correct Vybe link, offering Wed Oct 14 pm or Fri Oct 16. Waiting on their time zone and a slot."
+      "state": "call booked",
+      "due": "2026-10-15",
+      "next": "Call booked Fri Oct 16, 9:30am, on the Vybe Calendly (Jay Mendpara, CEO). He asks for DevKit requirements beforehand and offers to sign our NDA. Jeremy: send a requirements doc (plus NDA if wanted) by Thu Oct 15."
     },
     {
       "org": "Kyros Engineering",
@@ -434,7 +434,8 @@
     "1a12269231776cb8",
     "1a12621a40697ce8",
     "1a127dff527ae80c",
-    "1a127159fd6f49dc"
+    "1a127159fd6f49dc",
+    "1a12b9751e8baaac"
   ],
   "forward_to": "john@vybe.health"
 }
