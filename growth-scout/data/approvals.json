@@ -379,7 +379,8 @@
       "sent": "2026-10-10",
       "thread_id": "1a125d5532424d3b",
       "to": "john@vybe.health",
-      "count": 20
+      "count": 20,
+      "correction": "2026-10-11: booking line corrected to https://calendly.com/jeremy-vybe/30min (the first email to John showed the wrong company's calendar). Approve against the corrected text; correction sent on thread 1a12b3642c25f565."
     },
     {
       "batch": 2,
@@ -387,7 +388,8 @@
       "sent": "2026-10-11",
       "thread_id": "1a12b3642c25f565",
       "to": "john@vybe.health",
-      "count": 23
+      "count": 23,
+      "correction": "2026-10-11: booking line corrected to https://calendly.com/jeremy-vybe/30min (the first email to John showed the wrong company's calendar). Approve against the corrected text; correction sent on thread 1a12b3642c25f565."
     }
   ]
 }
