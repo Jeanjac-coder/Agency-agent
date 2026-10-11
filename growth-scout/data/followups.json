@@ -1,6 +1,6 @@
 {
   "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
-  "checked": "2026-10-10",
+  "checked": "2026-10-11",
   "threads": [
     {
       "org": "Head of the Schuylkill Regatta",
@@ -123,9 +123,9 @@
       "org": "Roy Hobbs World Series",
       "to": "teammatesupport@royhobbs.com",
       "first_sent": "2026-10-08",
-      "state": "declined",
+      "state": "no go",
       "due": null,
-      "next": "10 Oct: Ellen Giffen declined for now ('Perhaps in the future'). Closed; revisit for the 2027 season.",
+      "next": "No go (John, 11 Oct). They declined for now ('Perhaps in the future'). No further outreach.",
       "followed_up": "2026-10-09"
     },
     {
