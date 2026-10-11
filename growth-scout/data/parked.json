@@ -233,6 +233,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Wearables-HF registry (NCT07650669)",
+      "type": "research-lab",
+      "geo": "Cleveland, OH",
+      "ask": "15-min call with the CWRU platform team about adding a raw-data wellness band as a supported device before 2027 enrollment",
+      "why_parked": "Heart-failure clinical registry; medical angle."
+    },
+    {
       "name": "INVI MindHealth",
       "type": "builder",
       "geo": "Denver, CO",
@@ -252,6 +259,48 @@
       "geo": null,
       "ask": "Partnerships intro: what it takes to become a supported sensor data source",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Exposure Awareness System (CRG + VigiLife)",
+      "type": "builder",
+      "geo": "Dayton, OH",
+      "ask": "15-min call on Vybe as an HR/HRV sensor option inside EAS",
+      "why_parked": "Stale 2025 signal; real-time fireground monitoring isn't Vybe's overnight use."
+    },
+    {
+      "name": "H2F Management System",
+      "type": "builder",
+      "geo": null,
+      "ask": "Intro to the H2F MS integration team on device-data intake requirements",
+      "why_parked": "Army program via GDIT; huge, no realistic path for pre-launch."
+    },
+    {
+      "name": "DC Fire and EMS Health and Safety Division",
+      "type": "builder",
+      "geo": "Washington, DC",
+      "ask": "Feedback call on lessons from the recruit pilot and form-factor requirements",
+      "why_parked": "Stale 2025; cardiac-risk device angle."
+    },
+    {
+      "name": "Kye-Shin Lee lab (ECE)",
+      "type": "research-lab",
+      "geo": "Akron, OH",
+      "ask": "Coffee and lab visit on motion-artifact testing with Vybe DevKit units",
+      "why_parked": "Evidence from 2023; Akron premise."
+    },
+    {
+      "name": "UC Heart, Lung and Vascular Institute",
+      "type": "research-lab",
+      "geo": "Cincinnati, OH",
+      "ask": "20-min research conversation on what single-lead data quality wellness-grade bands need for academic use",
+      "why_parked": "ECG screening; clinical."
+    },
+    {
+      "name": "Notus Labs",
+      "type": "builder",
+      "geo": "Cleveland / Cuyahoga Falls, OH",
+      "ask": "Coffee chat on data interoperability between biomechanics and HRV for athlete recovery",
+      "why_parked": "Evidence from 2024. Stale."
     },
     {
       "name": "SweatID",
@@ -359,6 +408,69 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Wellable (employee wellness platform + reseller program)",
+      "type": "channel-partner",
+      "geo": "US",
+      "ask": "Ask whether devices that write to Apple Health/Health Connect count as eligible and whether a direct integration track exists.",
+      "why_parked": "Corporate wellness; premature."
+    },
+    {
+      "name": "Walkingspree channel partner program",
+      "type": "channel-partner",
+      "geo": "US",
+      "ask": "Email the listed partnerships address to ask how a new device source gets enabled for clients.",
+      "why_parked": "Corporate step wellness; weak fit."
+    },
+    {
+      "name": "ONU Health (wearable aggregation API + ONU for Companies)",
+      "type": "channel-partner",
+      "geo": "US",
+      "ask": "Contact ONU's team to ask about adding Vybe as a data source and a co-offering for employers.",
+      "why_parked": "Employer/insurer aggregator; undated, premature."
+    },
+    {
+      "name": "Medical Mutual of Ohio - MedMutual WELL (Vitality-powered)",
+      "type": "channel-partner",
+      "geo": "Cleveland, OH",
+      "ask": "Find a Medical Mutual wellness/innovation contact via Ohio networks (JumpStart lists a Medical Mutual medical director as a Trailblazer mentor).",
+      "why_parked": "Large insurer; no path."
+    },
+    {
+      "name": "Discovery Vitality (Vitality Group) device ecosystem",
+      "type": "channel-partner",
+      "geo": "US / South Africa",
+      "ask": "Ask for Vitality's device-partner intake contact (US) and the criteria for new device onboarding.",
+      "why_parked": "Huge insurer ecosystem; no realistic path."
+    },
+    {
+      "name": "Cleveland Clinic Innovations - industry partnerships",
+      "type": "channel-partner",
+      "geo": "Cleveland, OH",
+      "ask": "Request an introductory call with an Innovations business development contact about an employee-wellness or research-collaboration pilot.",
+      "why_parked": "Huge clinical health system."
+    },
+    {
+      "name": "OhioHealth New Ventures & Business Incubation (NVBI)",
+      "type": "channel-partner",
+      "geo": "Columbus, OH",
+      "ask": "Submit the New Venture form framing the SDK/API as a data layer for wellness programs.",
+      "why_parked": "Health-system intake; clinical."
+    },
+    {
+      "name": "Summa Health / HATCo (Akron) technology partnerships",
+      "type": "channel-partner",
+      "geo": "Akron, OH",
+      "ask": "Seek an intro to Summa's innovation/employee-wellness lead or a General Catalyst Ohio-network contact for a small employee-wellness or SummaCare pilot.",
+      "why_parked": "Closed health-system stack."
+    },
+    {
+      "name": "CareSource (Dayton, OH) innovation pilots",
+      "type": "channel-partner",
+      "geo": "Dayton, OH",
+      "ask": "Ask Ohio startup network (e.g., JumpStart) for a CareSource innovation contact before cold outreach.",
+      "why_parked": "Stale 2023 Medicaid precedent."
+    },
+    {
       "name": "Anytime Fitness Preferred Vendor program",
       "type": "channel-partner",
       "geo": "US (franchise HQ Hoffman Estates, IL)",
@@ -380,11 +492,25 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Ohio Association of Professional Fire Fighters (OAPFF) - health and wellness",
+      "type": "channel-partner",
+      "geo": "Ohio",
+      "ask": "Ask OAPFF's health/wellness leadership how locals evaluate wellness technology for health plans and trustees.",
+      "why_parked": "Ohio union; wrong geo, slow health-plan path."
+    },
+    {
       "name": "VA PathFinder (VHA Innovation Ecosystem)",
       "type": "channel-partner",
       "geo": "US (Washington, DC)",
       "ask": "Review the PathFinder submission criteria, then file an innovator submission describing the SDK/API and wellness use cases.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "VHA Innovators Network Greenhouse Initiative",
+      "type": "channel-partner",
+      "geo": "US (VA sites incl. Cleveland VAMC involved in related work)",
+      "ask": "Ask via PathFinder whether Greenhouse is still accepting external innovators and what prototype stage is expected.",
+      "why_parked": "2023 evidence; status unverified."
     },
     {
       "name": "The Ohio State University supplier registration (Ariba Discovery / Supplier Registration)",
@@ -527,6 +653,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "FOP Division of Wellness Services (provider network + State Wellness Liaison Cadre)",
+      "type": "channel-partner",
+      "geo": null,
+      "ask": "Ask the Division of Wellness Services what the provider-listing criteria are and who the Ohio State Lodge wellness liaison is.",
+      "why_parked": "Provider listing for practitioners; weak fit."
+    },
+    {
       "name": "Compass Program WHOOP rollout for police and firefighters",
       "type": "builder",
       "geo": "Huntington, WV",
@@ -534,11 +667,46 @@
       "why_parked": "costs money"
     },
     {
+      "name": "FireBeats / MyBeats (NYU Tandon fire research)",
+      "type": "app-partner",
+      "geo": "Brooklyn, NY",
+      "ask": "Offer one DevKit v0.1 and ask what data format/API their pipeline expects.",
+      "why_parked": "Firefighter cardiac-risk flagging is a medical-claim angle."
+    },
+    {
       "name": "Ohio Office of First Responder Wellness",
       "type": "channel-partner",
       "geo": "Columbus, OH",
       "ask": "Ask for 15 minutes with the office and whether vendors/resource tables are allowed at the next ODPS wellness event.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Independence (OH) Police Department wellness program",
+      "type": "builder",
+      "geo": "Independence, OH",
+      "ask": "Offer 5 bands for a 60-day overnight sleep/HRV feedback pilot with volunteer officers.",
+      "why_parked": "Needs 5 bands; out-of-state department."
+    },
+    {
+      "name": "Washington Township Fire Department fitness & wellness program (RFP)",
+      "type": "builder",
+      "geo": "Dublin, OH",
+      "ask": "Ask the fire department who won the fitness contract and offer that coach a DevKit for measuring recovery.",
+      "why_parked": "Stale 2025 RFP."
+    },
+    {
+      "name": "Tactical Athlete Rehabilitation and Performance Program (Chris Kolba, PT, PhD)",
+      "type": "research-lab",
+      "geo": "Columbus, OH",
+      "ask": "20-minute feedback call on whether overnight HRV/sleep trends would help tactical return-to-duty decisions.",
+      "why_parked": "Clinical return-to-duty rehab; medical angle."
+    },
+    {
+      "name": "Ohio State athletic training for ROTC cadets and Franklin County Sheriff's Office",
+      "type": "builder",
+      "geo": "Columbus, OH",
+      "ask": "Offer a small DevKit cohort to ROTC athletic training for a semester of overnight recovery tracking feedback.",
+      "why_parked": "Stale 2025; needs units."
     },
     {
       "name": "ProTeam Tactical Performance",
@@ -576,11 +744,60 @@
       "why_parked": "costs money"
     },
     {
+      "name": "R.E.A.C.H. correctional employee wellness study",
+      "type": "research-lab",
+      "geo": "Lansing, MI",
+      "ask": "Ask the R.E.A.C.H. investigators whether objective sleep/HRV is in scope and offer DevKits.",
+      "why_parked": "Stale 2025."
+    },
+    {
+      "name": "Holistic Officer Wellness (HOW) program - Garmin smartwatch rollout",
+      "type": "builder",
+      "geo": "New Castle, DE",
+      "ask": "Ask the HOW coordinator what made officers keep wearing (or stop wearing) the Garmins.",
+      "why_parked": "Out-of-state, 2021-2023 evidence; stale."
+    },
+    {
+      "name": "Ohio State Highway Patrol Health and Physical Fitness Program",
+      "type": "builder",
+      "geo": "Columbus, OH",
+      "ask": "Ask the OSHP fitness program lead for a feedback session on whether overnight recovery data fits their incentive model.",
+      "why_parked": "Old article; status unverified."
+    },
+    {
       "name": "Truemed merchant program (HSA/FSA checkout + marketplace)",
       "type": "channel-partner",
       "geo": "Austin, TX",
       "ask": "Book a 15-minute call with Truemed sales to ask how eligibility works for a general-wellness band and what onboarding costs.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Flex for Wearable Devices (HSA/FSA payments)",
+      "type": "channel-partner",
+      "geo": "New York, NY",
+      "ask": "Ask Flex for a demo and an eligibility review of a general-wellness ECG/HRV band before choosing an HSA/FSA partner.",
+      "why_parked": "HSA/FSA needs Letter of Medical Necessity and fees; medical framing, post-launch."
+    },
+    {
+      "name": "Sika Health (HSA/FSA checkout + marketplace)",
+      "type": "channel-partner",
+      "geo": "New York, NY",
+      "ask": "Request a merchant intro call to compare Sika's eligibility review with Truemed and Flex.",
+      "why_parked": "Stale 2023; retail channel premature."
+    },
+    {
+      "name": "FSA Store / HSA Store (Health-E Commerce) brand partnerships",
+      "type": "channel-partner",
+      "geo": "New York, NY",
+      "ask": "Ask for an intro to Health-E Commerce's brand partnerships team to learn listing requirements for a wellness wearable.",
+      "why_parked": "HSA/FSA store needs medical eligibility; post-launch."
+    },
+    {
+      "name": "Amazon Launchpad (US)",
+      "type": "channel-partner",
+      "geo": "US",
+      "ask": "Ask any accelerator or crowdfunding partner Vybe joins whether it is an Amazon Launchpad collaborator that can nominate brands.",
+      "why_parked": "Huge company; invite-only path."
     },
     {
       "name": "Gadget Flow product listing",
@@ -632,6 +849,20 @@
       "why_parked": "costs money"
     },
     {
+      "name": "ProMedica Innovations - startup partner",
+      "type": "channel-partner",
+      "geo": "Toledo, OH",
+      "ask": "Send a short note to ProMedica Innovations asking whether an employee-wellness or clinician-sleep pilot with a wellness band fits their startup-partner track.",
+      "why_parked": "Health-system innovation; clinical angle."
+    },
+    {
+      "name": "PerkSpot merchant network",
+      "type": "channel-partner",
+      "geo": "Chicago, IL",
+      "ask": "Apply to list a launch discount for employees across PerkSpot's employer clients.",
+      "why_parked": "Discount marketplace for a product that does not exist yet."
+    },
+    {
       "name": "Perks at Work partner program (Next Jump)",
       "type": "channel-partner",
       "geo": "New York, NY",
@@ -646,11 +877,60 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Marine Corps Exchange (MCX) supplier partnerships",
+      "type": "channel-partner",
+      "geo": "US / Marine Corps installations",
+      "ask": "Use the same RangeMe profile to flag MCX and ask for a buyer introduction.",
+      "why_parked": "Retail channel; premature."
+    },
+    {
+      "name": "Army & Air Force Exchange Service (AAFES) product sourcing via RangeMe",
+      "type": "channel-partner",
+      "geo": "US / Army and Air Force installations",
+      "ask": "Flag AAFES on the RangeMe profile and watch for the next sporting-goods or made-in-America call.",
+      "why_parked": "Retail channel for a product not yet for sale."
+    },
+    {
+      "name": "EMS Sleep Health Study (P. Daniel Patterson, PhD)",
+      "type": "research-lab",
+      "geo": "Pittsburgh, PA",
+      "ask": "Ask whether a wearable arm is planned for the next EMS fatigue study and offer DevKits.",
+      "why_parked": "Stale 2023 report."
+    },
+    {
       "name": "Firefighter shift-schedule smartwatch sleep study (Laura K. Barger, PhD; Matthew D. Weaver, PhD)",
       "type": "research-lab",
       "geo": "Boston, MA",
       "ask": "Ask whether the device for the Palm Beach study is chosen; offer DevKits as a no-subscription option.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Wildfire smoke and firefighter heart study (So-Min Cheong, PhD)",
+      "type": "research-lab",
+      "geo": "College Station, TX",
+      "ask": "Ask whether an overnight-only recovery device would add value between shifts on fire assignments.",
+      "why_parked": "No current evidence."
+    },
+    {
+      "name": "Wildland firefighter wearable workload research",
+      "type": "research-lab",
+      "geo": "Berkeley, CA",
+      "ask": "Ask who leads the NIOSH/Berkeley fatigue study and whether an overnight device is in scope.",
+      "why_parked": "No dated evidence; federal study, far."
+    },
+    {
+      "name": "Federal Wildland Firefighter Health and Wellbeing Program",
+      "type": "channel-partner",
+      "geo": null,
+      "ask": "Ask the program which office handles fatigue-management pilots and whether outside devices are considered.",
+      "why_parked": "Huge federal program; no path."
+    },
+    {
+      "name": "Trooper recruit mental performance program (Sgt. Ashley Kierpaul)",
+      "type": "builder",
+      "geo": "Lansing, MI",
+      "ask": "Ask whether recruits' sleep training could use objective overnight data in a small DevKit feedback cohort.",
+      "why_parked": "Out-of-state academy cohort needs bands."
     },
     {
       "name": "APCO Health & Wellness initiative and Wellness & Workforce Summit",
@@ -667,11 +947,32 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Chicago First Responders Wellness (CSFA 515-CFRW)",
+      "type": "channel-partner",
+      "geo": "Chicago, IL",
+      "ask": "Find the OPSA wellness coordinator and ask whether pilots of wellness technology are considered.",
+      "why_parked": "Chicago city program; far, no path."
+    },
+    {
+      "name": "Correctional officer self-regulation pilot (WHOOP straps, with IACP technical assistance)",
+      "type": "builder",
+      "geo": "Washington State",
+      "ask": "Ask what made WHOOP the choice and whether a later phase would consider a no-subscription device.",
+      "why_parked": "Undated; procurement path."
+    },
+    {
       "name": "Preservation of the Force and Family (POTFF) human performance support contract",
       "type": "channel-partner",
       "geo": null,
       "ask": "Find a POTFF program or human performance lead at KBR for a 15-minute feedback call on device requirements.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "In Extremis Performance (Jake Labhart)",
+      "type": "builder",
+      "geo": "Texas",
+      "ask": "Offer 5 DevKits for SWAT operators in an IEP course to test overnight recovery tracking.",
+      "why_parked": "Course passed; needs DevKits for SWAT."
     },
     {
       "name": "Engineered Sports (tactical movement assessments for Everett Police)",
@@ -681,11 +982,67 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Sleep and suicide-risk passive sensing research (Lily A. Brown, PhD)",
+      "type": "research-lab",
+      "geo": "Philadelphia, PA",
+      "ask": "Ask whether an overnight band with raw HRV/sleep data would help a follow-up passive-sensing study.",
+      "why_parked": "Psychiatric suicide-risk research. Clinical angle."
+    },
+    {
+      "name": "Simulated military operations HRV research (Jennifer C. Rood, PhD; Adam C. Lowe)",
+      "type": "research-lab",
+      "geo": "Baton Rouge, LA",
+      "ask": "Offer DevKits to add overnight HRV and sleep to the next multistressor study.",
+      "why_parked": "2025 evidence; needs DevKits."
+    },
+    {
+      "name": "Shift-worker HRV research, MESA (Barbara N. Harding, PhD)",
+      "type": "research-lab",
+      "geo": "Albuquerque, NM",
+      "ask": "Ask whether a consumer-grade overnight HRV device could support a prospective shift-worker study.",
+      "why_parked": "Epidemiology cohort; no near-term payoff."
+    },
+    {
+      "name": "Blue Cross Well-Being (BCBSM / Blue Care Network, Personify-powered)",
+      "type": "channel-partner",
+      "geo": "Michigan (Detroit HQ)",
+      "ask": "Treat BCBSM as a demand signal: get Vybe onto the Personify Health device/app list (existing Personify row), then ask BCBSM's Well-Being team whether a Michigan employer-group pilot could feature a new overnight device.",
+      "why_parked": "Insurer program; premature."
+    },
+    {
+      "name": "Priority Health Wellbeing Hub and Exercise Rewards",
+      "type": "channel-partner",
+      "geo": "Grand Rapids, MI",
+      "ask": "Ask whether Personify-supported devices automatically count in Priority Health's Wellbeing Hub, and whether PriorityWell Choice's 'fitness accessories' redemption catalog takes new brands.",
+      "why_parked": "Insurer program, 2023 evidence. Stale."
+    },
+    {
+      "name": "My Highmark app - Connect Devices",
+      "type": "channel-partner",
+      "geo": "Pittsburgh, PA",
+      "ask": "Confirm which data types My Highmark reads from Apple Health / which wearable brands it connects directly, before planning any Highmark conversation.",
+      "why_parked": "Insurer app; no path, generic."
+    },
+    {
+      "name": "Active&Fit Connected! device marketplace (Active&Fit Direct)",
+      "type": "channel-partner",
+      "geo": "San Diego, CA (ASH HQ); plans in PA, MI",
+      "ask": "Ask ASH how a device gets added to the Active&Fit Connected! marketplace (direct API vs. aggregator).",
+      "why_parked": "Insurer marketplace; post-launch, large org, no near-term path."
+    },
+    {
       "name": "ChooseHealthy discount program (wearables vendor)",
       "type": "channel-partner",
       "geo": "US (health-plan members)",
       "ask": "Ask ASH's ChooseHealthy team what it takes to list a discounted wearable (Garmin precedent) once Vybe ships in 2027.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "HAP iStrive / Wellness at Your Side (WebMD-powered)",
+      "type": "channel-partner",
+      "geo": "Detroit, MI",
+      "ask": "Confirm HAP still uses WebMD ONE for device sync; if so, route through the existing WebMD ONE Integrations row and ask Henry Ford Innovations (existing row) for an HAP intro.",
+      "why_parked": "Insurer tool with 2016-2018 evidence. Stale."
     },
     {
       "name": "Quantum Health Preferred Partners / Comprehensive Care Solutions",
@@ -695,11 +1052,74 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Transcarent Experience Store (Transcarent + Accolade)",
+      "type": "channel-partner",
+      "geo": "US",
+      "ask": "Ask whether the Experience Store lists general-wellness devices and what the partner criteria are.",
+      "why_parked": "Huge benefits marketplace; no path."
+    },
+    {
+      "name": "Included Health connected partner ecosystem",
+      "type": "channel-partner",
+      "geo": "San Francisco, CA",
+      "ask": "Ask the partnerships team whether wellness devices fit the ecosystem's quality bar, or if it is clinical-only.",
+      "why_parked": "Clinical partner ecosystem."
+    },
+    {
       "name": "HealthJoy preferred-vendor steerage",
       "type": "channel-partner",
       "geo": "Chicago, IL",
       "ask": "Ask which non-clinical vendors employers can surface through HealthJoy and whether a benefits consultant can add a device vendor for a group.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Kroger Supplier Hub (new item submission) and Kroger Health",
+      "type": "channel-partner",
+      "geo": "Cincinnati, OH",
+      "ask": "Register on the Supplier Hub and ask which category (general merchandise/electronics vs. Kroger Health) would own a wellness wearable.",
+      "why_parked": "Retail shelf; pre-launch, wrong fit."
+    },
+    {
+      "name": "WellRight wellness platform (Validic-connected devices)",
+      "type": "channel-partner",
+      "geo": null,
+      "ask": "Ask WellRight whether a new device can be enabled via Validic (existing Validic row) or Apple Health/Health Connect, and whether sleep is credited.",
+      "why_parked": "Employer platform via Validic; 2025 evidence. Generic."
+    },
+    {
+      "name": "ChallengeRunner employee fitness challenges",
+      "type": "channel-partner",
+      "geo": "US",
+      "ask": "Ask ChallengeRunner what it takes to add a new tracker data feed (they already added Oura and COROS).",
+      "why_parked": "Step-challenge platform; weak fit."
+    },
+    {
+      "name": "MoveSpring step and activity challenges",
+      "type": "channel-partner",
+      "geo": "US",
+      "ask": "Ask MoveSpring whether a device that writes steps to Apple Health / Health Connect is credited, and what a direct cloud integration would require.",
+      "why_parked": "Step challenges; weak fit."
+    },
+    {
+      "name": "Stridekick Activity Challenges",
+      "type": "channel-partner",
+      "geo": "US",
+      "ask": "Ask whether Stridekick credits Apple Health-sourced data from any device and whether new device brands are added on request.",
+      "why_parked": "Step challenge app; 2025 evidence, generic."
+    },
+    {
+      "name": "DistantRace challenge and race platform (with API)",
+      "type": "channel-partner",
+      "geo": "Europe (US customers served)",
+      "ask": "Ask whether DistantRace's 'Supported apps' list accepts new device partners and whether their API can ingest a partner's data.",
+      "why_parked": "Step challenges; weak fit."
+    },
+    {
+      "name": "Vantage Fit corporate wellness",
+      "type": "channel-partner",
+      "geo": "Global (190+ countries per vendor)",
+      "ask": "Confirm Vantage Fit reads sleep and heart rate from Health Connect / Apple Health, so a Vybe user is credited without a custom integration.",
+      "why_parked": "Global corporate wellness; weak fit."
     },
     {
       "name": "Wellness360 (Gen2 platform) device integrations",
@@ -709,11 +1129,25 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Pacer for Teams",
+      "type": "channel-partner",
+      "geo": "US",
+      "ask": "Ask whether Pacer credits Apple Health / Health Connect data from any device and whether new device integrations are on its roadmap.",
+      "why_parked": "Step-challenge platform; weak fit."
+    },
+    {
       "name": "Count.It workplace fitness challenges",
       "type": "channel-partner",
       "geo": "US",
       "ask": "Ask whether Count.It ingests Apple Health / Health Connect data from any device and its process for new device integrations.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Walker Tracker (Terryberry) step and wellness challenges",
+      "type": "channel-partner",
+      "geo": "US",
+      "ask": "Ask Terryberry whether Walker Tracker credits sleep logged from a connected device and how new device brands are added.",
+      "why_parked": "2024 evidence; step challenges."
     },
     {
       "name": "Strava developer program (activity upload) and Strava for Business",
@@ -742,6 +1176,34 @@
       "geo": "Athens, OH",
       "ask": "Ask WellWorks whether it would host a volunteer DevKit feedback session for staff interested in sleep tracking.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Your Plan for Health (Ohio State University, Personify Health)",
+      "type": "channel-partner",
+      "geo": "Columbus, OH",
+      "ask": "Confirm via YP4H whether connected-device sleep earns points, then seek a warm intro through existing Ohio State rows (Human Performance Collaborative / athletics).",
+      "why_parked": "University employee wellness; no path."
+    },
+    {
+      "name": "CycleLytic",
+      "type": "builder",
+      "geo": null,
+      "ask": "15-min call on whether a direct Vybe HR/HRV feed would unblock part of their roadmap while Garmin is paused",
+      "why_parked": "Needs ride HR/power data; overnight band doesn't supply it."
+    },
+    {
+      "name": "Funraisin",
+      "type": "builder",
+      "geo": null,
+      "ask": "Intro call: would a no-subscription band with an open API be a useful tracker option for charity challenges after Fitbit",
+      "why_parked": "Charity step challenges; audience irrelevant."
+    },
+    {
+      "name": "Aduro",
+      "type": "builder",
+      "geo": null,
+      "ask": "Intro call on adding Vybe as a direct device for employer programs in 2027",
+      "why_parked": "Employer wellness platform; weak fit."
     },
     {
       "name": "HRV Flow",
@@ -779,11 +1241,130 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Northwest Tri & Bike (Kent)",
+      "type": "channel-partner",
+      "geo": "Kent, OH",
+      "ask": "Guest session at one training program night",
+      "why_parked": "Generic shop; Ohio."
+    },
+    {
+      "name": "Century Cycles (Medina, Peninsula, Rocky River)",
+      "type": "channel-partner",
+      "geo": "Medina / Peninsula / Rocky River, OH",
+      "ask": "Permission to talk to riders at one group-ride start",
+      "why_parked": "Generic bike shop."
+    },
+    {
+      "name": "Cleveland Clinic Global Peak Performance Center",
+      "type": "channel-partner",
+      "geo": "Cleveland, OH",
+      "ask": "Intro to whoever is designing the public recovery programming",
+      "why_parked": "Huge institution, 2027 facility; no path now."
+    },
+    {
+      "name": "Akron Children's Sports Rehab - Sports Performance and Injury Prevention Clinic",
+      "type": "channel-partner",
+      "geo": "Akron / Fairlawn / Medina, OH",
+      "ask": "20-minute feedback session with a sports rehab specialist on how they'd use overnight recovery data",
+      "why_parked": "Akron pediatric clinic; wrong geo, minors."
+    },
+    {
+      "name": "Ohio Sports Chiropractic and Rehab (Northfield; Canton)",
+      "type": "channel-partner",
+      "geo": "Northfield and Canton, OH",
+      "ask": "15-min call with a clinician about a small runner-client pilot",
+      "why_parked": "Single chiropractic clinic; weak fit."
+    },
+    {
+      "name": "Cleveland Performance Chiropractic",
+      "type": "channel-partner",
+      "geo": "Cleveland, OH",
+      "ask": "Practitioner feedback call",
+      "why_parked": "Cleveland chiropractor; generic, wrong geo."
+    },
+    {
+      "name": "Code Chiro (Dr. Chad Teague and Dr. Mary Teague)",
+      "type": "channel-partner",
+      "geo": "Cleveland, OH",
+      "ask": "20-minute feedback call on what recovery data they look at with athletes",
+      "why_parked": "Celebrity chiropractors; no path."
+    },
+    {
+      "name": "Cleveland Clinic Akron General LifeStyles Health & Wellness Centers",
+      "type": "channel-partner",
+      "geo": "Bath (Akron), Green, Stow, OH",
+      "ask": "Intro to the LifeStyles fitness director for a trainer feedback session",
+      "why_parked": "Akron hospital fitness; wrong geo, medical setting."
+    },
+    {
+      "name": "Cleveland Cryo (Beachwood)",
+      "type": "channel-partner",
+      "geo": "Beachwood, OH",
+      "ask": "Lend 3 bands to regular members for a month and hear what they think",
+      "why_parked": "Cryo studio; needs bands."
+    },
+    {
+      "name": "Restore Hyper Wellness - Westlake and Strongsville",
+      "type": "channel-partner",
+      "geo": "Westlake and Strongsville, OH",
+      "ask": "15-min conversation with the local franchise owner",
+      "why_parked": "Generic studio; Ohio."
+    },
+    {
+      "name": "ABC Trainerize integrations + TZ Storefront (WRKOUT)",
+      "type": "channel-partner",
+      "geo": null,
+      "ask": "Intro to the Trainerize integrations/partnerships lead",
+      "why_parked": "2024 evidence; large company with unclear integration route."
+    },
+    {
+      "name": "TrueCoach Wearables + Partner Perks",
+      "type": "channel-partner",
+      "geo": null,
+      "ask": "15-min call with Xplor channel partnerships about wearable support and Partner Perks",
+      "why_parked": "Large coaching platform; perks program generic, undated."
+    },
+    {
       "name": "Everfit integrations + affiliate program",
       "type": "channel-partner",
       "geo": null,
       "ask": "Integration request + 15-min call with their product team",
       "why_parked": "costs money"
+    },
+    {
+      "name": "TrainHeroic integration requests",
+      "type": "channel-partner",
+      "geo": null,
+      "ask": "15-min call with product about a recovery-data integration",
+      "why_parked": "No HRV, public feedback board; low odds."
+    },
+    {
+      "name": "NASM Pro Discounts partners",
+      "type": "channel-partner",
+      "geo": null,
+      "ask": "How to become a Pro Discounts partner at launch (May 2027)",
+      "why_parked": "Stale; post-launch."
+    },
+    {
+      "name": "Exos performance technology partnerships",
+      "type": "channel-partner",
+      "geo": null,
+      "ask": "Feedback call with the methodology team",
+      "why_parked": "Large company; no realistic path for pre-launch."
+    },
+    {
+      "name": "Precision Nutrition partner network",
+      "type": "channel-partner",
+      "geo": null,
+      "ask": "15-min call on whether sleep/recovery data fits ProCoach check-ins",
+      "why_parked": "Coach certification network; weak fit."
+    },
+    {
+      "name": "ACE Certified Professional partner perks",
+      "type": "channel-partner",
+      "geo": null,
+      "ask": "How to become an ACE professional-perks partner at launch",
+      "why_parked": "Perks partnership implies discounts at launch; generic."
     },
     {
       "name": "Vidya Sagar (GitHub: ViSaReVe)",
@@ -793,11 +1374,25 @@
       "why_parked": "costs money"
     },
     {
+      "name": "XONE",
+      "type": "builder",
+      "geo": "Calgary, Alberta, Canada",
+      "ask": "15-min call to see whether an owned, no-subscription overnight HRV band fits their patient program as a DevKit partner (general wellness data only)",
+      "why_parked": "Clinical patient program; medical angle."
+    },
+    {
       "name": "Vitals (self-hosted recovery dashboard)",
       "type": "builder",
       "geo": null,
       "ask": "Ask if they'd add Vybe as a source when DevKit v0.1 ships; offer a DevKit",
       "why_parked": "costs money"
+    },
+    {
+      "name": "bleakheart",
+      "type": "builder",
+      "geo": null,
+      "ask": "Ask if he'd review or accept Vybe support in bleakheart once our BLE profile is documented",
+      "why_parked": "Stale 2025; low payoff."
     },
     {
       "name": "Hackster.io sponsored contests",
@@ -912,6 +1507,20 @@
       "why_parked": "costs money"
     },
     {
+      "name": "DHIT Digital Health Happy Hours",
+      "type": "community",
+      "geo": "Durham, NC",
+      "ask": "Attend the next happy hour and offer a 5-minute builder talk on wearable data access",
+      "why_parked": "Stale 2024 event listing."
+    },
+    {
+      "name": "Charlotte Hack (UNC Charlotte hackathon club)",
+      "type": "community",
+      "geo": "Charlotte, NC",
+      "ask": "Offer 3 loaner DevKits for club members to take to their next hackathon",
+      "why_parked": "Needs loaner DevKits."
+    },
+    {
       "name": "GDG Chapel Hill (North Carolina DevFest)",
       "type": "community",
       "geo": "Chapel Hill, NC",
@@ -938,6 +1547,27 @@
       "geo": "Charlotte, NC",
       "ask": "Ask for a live-demo showcase table",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Health2Tech NYC (Nov 5, 2026 MedTech edition)",
+      "type": "event",
+      "geo": "New York, NY",
+      "ask": "Apply for a live demo spot at the Nov 5 event",
+      "why_parked": "In-person NYC demo event; travel and attendance only."
+    },
+    {
+      "name": "NY Quantified Self Show&Tell + Book Launch (2026)",
+      "type": "event",
+      "geo": "New York, NY",
+      "ask": "Register, and ask the host about a tool-demo slot",
+      "why_parked": "NYC event; travel and attendance only."
+    },
+    {
+      "name": "Boston Hardware Meetup",
+      "type": "community",
+      "geo": "Boston, MA",
+      "ask": "Ask to demo the DevKit at an upcoming meetup",
+      "why_parked": "Boston meetup needs travel."
     },
     {
       "name": "Health Tech PHL Monthly Meet Up",
@@ -994,6 +1624,20 @@
       "geo": "Orlando, FL",
       "ask": "Ask FPCA for the 2027 Mid-Winter exhibitor dates and whether business membership plus a single booth is the cheapest route",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Tampa General Hospital Innovation Center (Ybor City)",
+      "type": "channel-partner",
+      "geo": "Tampa, FL",
+      "ask": "15-minute call with the TGH innovation team about a staff-wellness DevKit pilot",
+      "why_parked": "Hospital pilot needs bands; clinical setting."
+    },
+    {
+      "name": "UF AI-Powered Athletics (engineering x University Athletic Association)",
+      "type": "research-lab",
+      "geo": "Gainesville, FL",
+      "ask": "Offer DevKit bands plus SDK access for an overnight-HRV pilot with one team",
+      "why_parked": "2024 evidence; needs bands."
     },
     {
       "name": "AUSA 2026 Annual Meeting - Human Performance Pavilion",
@@ -1087,6 +1731,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "W. Hong Yeo lab, Georgia Tech (soft wearables for at-home sleep monitoring)",
+      "type": "research-lab",
+      "geo": "Atlanta, GA",
+      "ask": "Offer DevKit units as a synchronized overnight ECG-HRV reference in the lab's next home-sleep study",
+      "why_parked": "Brain/breathing sleep sensors; needs hardware, weak payoff."
+    },
+    {
       "name": "Emory Crew (club rowing)",
       "type": "team",
       "geo": "Atlanta, GA",
@@ -1113,6 +1764,13 @@
       "geo": "Pittsburgh, PA",
       "ask": "Ask P3R for the 2027 Live Well Expo exhibitor application",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Sleep, Health & Society Collaboratory (Orfeu M. Buxton, PhD)",
+      "type": "research-lab",
+      "geo": "University Park, PA",
+      "ask": "Offer 5-10 DevKit units and SDK access for a validation or field-study add-on",
+      "why_parked": "No signal and asks for all 5-10 DevKit units. Needs hardware."
     },
     {
       "name": "Baltimore Running Festival 2026 Health & Fitness Expo",
@@ -1150,6 +1808,20 @@
       "why_parked": "costs money"
     },
     {
+      "name": "NY Hardware Meetup (HW Demo Day)",
+      "type": "community",
+      "geo": "Brooklyn, NY",
+      "ask": "Apply to demo the DevKit band at the next NY Hardware Meetup",
+      "why_parked": "NYC demo requires travel."
+    },
+    {
+      "name": "Mass General Brigham Digital Health Startup Database",
+      "type": "channel-partner",
+      "geo": "Boston, MA",
+      "ask": "Submit a company profile to the MGB Digital Health Startup Database",
+      "why_parked": "Hospital-system startup database; clinical buyer, no fit."
+    },
+    {
       "name": "Boston Marathon Expo 2027 (B.A.A.)",
       "type": "event",
       "geo": "Boston, MA",
@@ -1176,6 +1848,13 @@
       "geo": "Kingston, RI",
       "ask": "Seed 5 DevKit bands (and a small travel contribution if budget allows) for honest athlete feedback",
       "why_parked": "costs money"
+    },
+    {
+      "name": "LEMURS study (Lived Experiences Measured Using Rings Study)",
+      "type": "research-lab",
+      "geo": "Burlington, VT",
+      "ask": "Offer DevKit units for an ECG-vs-ring comparison sub-study in the next cohort",
+      "why_parked": "Stale 2024 evidence; needs units Vybe lacks."
     },
     {
       "name": "Bull City Race Fest 2026",
@@ -1472,6 +2151,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "2nd MLG Human Performance Center (Camp Lejeune)",
+      "type": "channel-partner",
+      "geo": "Camp Lejeune, NC",
+      "ask": "Ask HPC staff (via 2nd MLG public affairs) for a 15-minute call on how they track recovery today",
+      "why_parked": "Evidence from 2024; military base access with no clear path. Stale."
+    },
+    {
       "name": "Fort Bragg Research Institute (Geneva Foundation)",
       "type": "research-lab",
       "geo": "Fayetteville, NC",
@@ -1563,6 +2249,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "First Flight Venture Center (Hangar6 prototyping)",
+      "type": "community",
+      "geo": "Research Triangle Park, NC",
+      "ask": "Ask for an intro to hardware/medical-device tenants who might be design partners, and Hangar6 terms for a non-NC company",
+      "why_parked": "Incubator lab by subscription; generic, costs money."
+    },
+    {
       "name": "Novant Health Innovation Lab (Charlotte)",
       "type": "channel-partner",
       "geo": "Charlotte, NC",
@@ -1610,6 +2303,34 @@
       "geo": "Charlotte, NC",
       "ask": "Seed bands to the club triathlon team for a season of coach feedback (NCAA rules checked first for the varsity squad)",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Jason Fanning, PhD (Wake Forest Health and Exercise Science)",
+      "type": "research-lab",
+      "geo": "Winston-Salem, NC",
+      "ask": "15-minute call about whether a DevKit with raw ECG-derived HRV access fits a future study",
+      "why_parked": "Evidence from 2025; generic future-study call with no clear near-term payoff."
+    },
+    {
+      "name": "Institute for Human Health and Sports Science Research (High Point University)",
+      "type": "research-lab",
+      "geo": "High Point, NC",
+      "ask": "Ask whether a faculty member or student project would test a DevKit band against the lab's own equipment",
+      "why_parked": "No current signal or known need."
+    },
+    {
+      "name": "Elon University Exercise Science (Exercise Science Lab and Biomechanics Lab)",
+      "type": "research-lab",
+      "geo": "Elon, NC",
+      "ask": "Offer DevKit bands for a mentored undergraduate research project",
+      "why_parked": "Undergraduate project needing bands; weak payoff."
+    },
+    {
+      "name": "UNC Charlotte Exercise Physiology Laboratory (David E. Verrill)",
+      "type": "research-lab",
+      "geo": "Charlotte, NC",
+      "ask": "Ask whether a DevKit band could be used in a teaching-lab module for kinesiology students",
+      "why_parked": "Teaching lab, no signal, needs bands."
     },
     {
       "name": "CrossFit Versatile",
@@ -1801,6 +2522,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Exos at Novant Health (Huntersville)",
+      "type": "channel-partner",
+      "geo": "Huntersville, NC",
+      "ask": "Confirm the facility is still open, then ask its coaches for a 15-minute feedback call",
+      "why_parked": "2016 evidence; facility status unconfirmed."
+    },
+    {
       "name": "PowerPhysio (Charlotte)",
       "type": "team",
       "geo": "Charlotte, NC",
@@ -1827,6 +2555,13 @@
       "geo": "Cornelius, NC",
       "ask": "Offer bands to a few Race Day Ready runners ahead of the Nov 14 Charlotte Marathon",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Wake Forest Baptist Health Sports Medicine at Proehlific Park",
+      "type": "channel-partner",
+      "geo": "Greensboro, NC",
+      "ask": "Confirm the clinic is active, then ask its exercise specialist for a feedback call",
+      "why_parked": "2018 evidence, clinic status unconfirmed. Stale."
     },
     {
       "name": "SportsLink Charlotte (adult social leagues)",
@@ -1857,6 +2592,55 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Volvo Group North America employee wellness program",
+      "type": "channel-partner",
+      "geo": "Greensboro, NC",
+      "ask": "Ask who runs wellness today and whether an opt-in pilot is possible",
+      "why_parked": "Stale 2009 signal."
+    },
+    {
+      "name": "Flywheel Coworking",
+      "type": "community",
+      "geo": "Winston-Salem, NC",
+      "ask": "Ask to demo the DevKit at a Startup Grind or community event",
+      "why_parked": "Event demo; travel, unverified."
+    },
+    {
+      "name": "Winston Starts",
+      "type": "accelerator",
+      "geo": "Winston-Salem, NC",
+      "ask": "Ask for a mentor intro to Triad health-tech developers and a slot at a founder meetup",
+      "why_parked": "Unverified, generic."
+    },
+    {
+      "name": "CO-LAB Charlotte",
+      "type": "community",
+      "geo": "Charlotte, NC",
+      "ask": "Ask about hosting a DevKit demo or developer meetup",
+      "why_parked": "Single low-authority source; generic coworking."
+    },
+    {
+      "name": "Winston-Salem Police Department wellness program (wellness advocate)",
+      "type": "channel-partner",
+      "geo": "Winston-Salem, NC",
+      "ask": "Ask the wellness advocate for a 15-minute call about an opt-in shift-worker feedback pilot",
+      "why_parked": "Unverified evidence; generic police contact."
+    },
+    {
+      "name": "UNC Greensboro Police Department wellness and fitness program",
+      "type": "channel-partner",
+      "geo": "Greensboro, NC",
+      "ask": "Ask the program coordinator about a small opt-in officer feedback pilot",
+      "why_parked": "Unverified, generic."
+    },
+    {
+      "name": "Charlotte Fire / IAFF Local 660 (Wellness-Fitness Initiative task force)",
+      "type": "channel-partner",
+      "geo": "Charlotte, NC",
+      "ask": "Ask the Local 660 wellness lead for a 15-minute call about the sleep initiative",
+      "why_parked": "Unverified, undated evidence; needs re-check first."
+    },
+    {
       "name": "Augment Concord (biohacking wellness studio)",
       "type": "community",
       "geo": "Concord, NC",
@@ -1871,11 +2655,193 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Tarheel CrossFit South",
+      "type": "community",
+      "geo": "Fayetteville, NC",
+      "ask": "15-minute call; seed 3-5 DevKit bands with coaches",
+      "why_parked": "Generic gym; needs bands."
+    },
+    {
+      "name": "Labyrinth Jiu Jitsu",
+      "type": "community",
+      "geo": "Jacksonville, NC",
+      "ask": "15-minute call; 3-5 adult students wear a band for 4 weeks",
+      "why_parked": "Generic gym; needs bands."
+    },
+    {
+      "name": "Combat Club Martial Arts and Fitness",
+      "type": "community",
+      "geo": "Jacksonville, NC",
+      "ask": "Intro to head coach; seed bands with fight-camp athletes",
+      "why_parked": "Generic gym; needs bands."
+    },
+    {
+      "name": "Missing Link CrossFit",
+      "type": "community",
+      "geo": "Jacksonville, NC",
+      "ask": "15-minute call; 3-5 member DevKit trial",
+      "why_parked": "Generic gym; unverified, needs bands."
+    },
+    {
+      "name": "Martial Arts of NC",
+      "type": "community",
+      "geo": "Fayetteville, NC",
+      "ask": "15-minute call with head instructor",
+      "why_parked": "Martial arts gym; generic, no signal."
+    },
+    {
+      "name": "Garami Jiu Jitsu",
+      "type": "community",
+      "geo": "Fayetteville, NC",
+      "ask": "Short call; offer bands to 3-5 competitors",
+      "why_parked": "Generic gym."
+    },
+    {
+      "name": "Southern Pines CrossFit",
+      "type": "community",
+      "geo": "Southern Pines, NC",
+      "ask": "15-minute call; 3-5 member DevKit trial",
+      "why_parked": "Generic gym; needs bands."
+    },
+    {
+      "name": "CrossFit Goldsboro",
+      "type": "community",
+      "geo": "Goldsboro, NC",
+      "ask": "15-minute call; 3-5 member DevKit trial",
+      "why_parked": "Generic gym; needs bands."
+    },
+    {
+      "name": "CrossFit Wilmington",
+      "type": "community",
+      "geo": "Wilmington, NC",
+      "ask": "15-minute call with owners; 3-5 member trial",
+      "why_parked": "Generic gym; needs bands Vybe doesn't have."
+    },
+    {
+      "name": "CrossFit Inside Out",
+      "type": "community",
+      "geo": "Wilmington, NC",
+      "ask": "Short call; member trial",
+      "why_parked": "Gym trial needs bands; generic."
+    },
+    {
+      "name": "Cape Fear CrossFit",
+      "type": "community",
+      "geo": "Wilmington, NC",
+      "ask": "15-minute call with owner",
+      "why_parked": "Generic gym."
+    },
+    {
+      "name": "Ethos Jiu Jitsu and Fitness",
+      "type": "community",
+      "geo": "Wilmington, NC",
+      "ask": "Short call; competitor trial",
+      "why_parked": "BJJ gym; generic."
+    },
+    {
+      "name": "SaltyDog Jiu Jitsu (Port City MMA & Fitness)",
+      "type": "community",
+      "geo": "Wilmington, NC",
+      "ask": "Short call; fight-camp athlete trial",
+      "why_parked": "Generic gym; needs bands."
+    },
+    {
+      "name": "Ravensguard BJJ Academy",
+      "type": "community",
+      "geo": "Wilmington, NC",
+      "ask": "Short call; adult student trial",
+      "why_parked": "Generic gym."
+    },
+    {
+      "name": "CrossFit Asheville",
+      "type": "community",
+      "geo": "Asheville, NC",
+      "ask": "15-minute call with owner",
+      "why_parked": "Gym with no signal; generic."
+    },
+    {
+      "name": "Beer City CrossFit",
+      "type": "community",
+      "geo": "Asheville, NC",
+      "ask": "15-minute call; trial across locations",
+      "why_parked": "Gym trial needs bands; generic fit."
+    },
+    {
+      "name": "Smoky Mountain Adventure Center",
+      "type": "community",
+      "geo": "Asheville, NC",
+      "ask": "Short call; member trial or demo night",
+      "why_parked": "Generic climbing gym; needs bands."
+    },
+    {
+      "name": "ClimbMax Climbing",
+      "type": "community",
+      "geo": "Asheville, NC",
+      "ask": "Short call; demo night",
+      "why_parked": "Generic gym."
+    },
+    {
+      "name": "Cultivate Climbing",
+      "type": "community",
+      "geo": "Asheville, NC",
+      "ask": "Short call; demo night",
+      "why_parked": "Generic gym."
+    },
+    {
+      "name": "Footsloggers (Rock Dimensions Tower)",
+      "type": "community",
+      "geo": "Boone, NC",
+      "ask": "Short call; staff trial or store demo",
+      "why_parked": "Outdoor retailer; weak fit."
+    },
+    {
+      "name": "Jus' Running",
+      "type": "community",
+      "geo": "Asheville, NC",
+      "ask": "Seed 5 bands with the half-marathon training group",
+      "why_parked": "Asks to seed 5 bands Vybe does not have."
+    },
+    {
+      "name": "Asheville Women Run Club",
+      "type": "community",
+      "geo": "Asheville, NC",
+      "ask": "Ask organizers to share a 5-runner DevKit trial",
+      "why_parked": "Run club trial needs bands; no signal."
+    },
+    {
+      "name": "Asheville Running Collective",
+      "type": "community",
+      "geo": "Asheville, NC",
+      "ask": "Ask organizers to share a 5-runner DevKit trial",
+      "why_parked": "Generic run club; needs bands."
+    },
+    {
+      "name": "Highland Brewing Run Club",
+      "type": "community",
+      "geo": "Asheville, NC",
+      "ask": "Ask organizers to share a 5-runner DevKit trial",
+      "why_parked": "Generic run club; needs bands."
+    },
+    {
+      "name": "Lookout Brewing Running Club",
+      "type": "community",
+      "geo": "Black Mountain, NC",
+      "ask": "Ask organizers to share a 5-runner DevKit trial",
+      "why_parked": "Generic run club; needs bands."
+    },
+    {
       "name": "Asheville Run Crew",
       "type": "community",
       "geo": "Asheville, NC",
       "ask": "Ask to offer 5 free DevKit bands to crew runners",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Run the City | Rocky Mount Run Club",
+      "type": "community",
+      "geo": "Rocky Mount, NC",
+      "ask": "Ask organizers to share a 5-runner trial",
+      "why_parked": "Generic run club; needs bands."
     },
     {
       "name": "Ville to Ville Relay 2027",
@@ -1983,6 +2949,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Blue Star Families Fayetteville Greater Region Chapter",
+      "type": "community",
+      "geo": "Fayetteville, NC",
+      "ask": "Ask about a spouse wellness meetup or survey partnership",
+      "why_parked": "Irrelevant ask; no fit."
+    },
+    {
       "name": "Fort Liberty Spouses Club",
       "type": "community",
       "geo": "Fayetteville, NC",
@@ -2004,11 +2977,116 @@
       "why_parked": "costs money"
     },
     {
+      "name": "ECU Club Sports (Campus Recreation & Wellness)",
+      "type": "community",
+      "geo": "Greenville, NC",
+      "ask": "Ask club sports coordinator to share a design-partner call with club presidents",
+      "why_parked": "Generic campus club sports."
+    },
+    {
+      "name": "Methodist University Kinesiology",
+      "type": "research-lab",
+      "geo": "Fayetteville, NC",
+      "ask": "15-minute call about a student capstone using DevKit data",
+      "why_parked": "No current signal; generic student capstone idea. Weak fit."
+    },
+    {
+      "name": "Campbell University Exercise Science",
+      "type": "research-lab",
+      "geo": "Buies Creek, NC",
+      "ask": "15-minute call about a class or capstone project",
+      "why_parked": "Generic department, no signal."
+    },
+    {
+      "name": "Youngs Physical Therapy & Sports Performance",
+      "type": "community",
+      "geo": "Greenville, NC",
+      "ask": "15-minute call with performance staff",
+      "why_parked": "Generic PT clinic; no signal, needs bands."
+    },
+    {
+      "name": "Cavalier Surf Shop",
+      "type": "community",
+      "geo": "Nags Head, NC",
+      "ask": "Ask staff/instructors to test bands",
+      "why_parked": "Surf shop; audience irrelevant."
+    },
+    {
+      "name": "Kitty Hawk Kites",
+      "type": "community",
+      "geo": "Nags Head, NC",
+      "ask": "Ask for a guide-staff trial; explore retail fit for 2027",
+      "why_parked": "Irrelevant audience."
+    },
+    {
+      "name": "Black Balsam Outdoors",
+      "type": "community",
+      "geo": "Sylva, NC",
+      "ask": "Ask staff to test bands; later retail",
+      "why_parked": "Outfitter; audience irrelevant."
+    },
+    {
+      "name": "Motion Makers Bicycle Shop",
+      "type": "community",
+      "geo": "Sylva, NC",
+      "ask": "Ask to share a 5-rider trial with shop ride regulars",
+      "why_parked": "Generic bike shop."
+    },
+    {
+      "name": "Falcon Holistic Health and Fitness Center (2nd BCT, 82nd Airborne Division)",
+      "type": "channel-partner",
+      "geo": "Fort Bragg, NC",
+      "ask": "Ask a brigade H2F coach for a 15-minute call on how they use sleep data today",
+      "why_parked": "Duplicate of the Fort Bragg H2F brigade row."
+    },
+    {
+      "name": "THOR3 Human Performance Program (3rd Special Forces Group (A))",
+      "type": "channel-partner",
+      "geo": "Fort Bragg, NC",
+      "ask": "Ask for one 15-minute feedback call with a THOR3 performance staffer via a veteran intro",
+      "why_parked": "Old evidence; overlaps with Fort Bragg H2F outreach."
+    },
+    {
       "name": "MCCS Cherry Point Semper Fit Health Promotion",
       "type": "channel-partner",
       "geo": "Havelock, NC",
       "ask": "Ask Semper Fit how a small wellness vendor gets a table at the next health fair",
       "why_parked": "costs money"
+    },
+    {
+      "name": "4th Force Support Squadron Fitness and Sports Center (Seymour Johnson AFB)",
+      "type": "channel-partner",
+      "geo": "Goldsboro, NC",
+      "ask": "Ask the 4th FSS fitness staff for a 15-minute feedback call",
+      "why_parked": "Generic base fitness staff; no clear payoff."
+    },
+    {
+      "name": "Warrior Wellness Solutions",
+      "type": "community",
+      "geo": "Durham, NC",
+      "ask": "Ask the coaching team for feedback on whether overnight HRV/resting-HR data would help or burden participants",
+      "why_parked": "Health-coaching nonprofit; weak fit."
+    },
+    {
+      "name": "Veterans Bridge Home Wednesday Workout and Veterans Mat Collective",
+      "type": "community",
+      "geo": "Charlotte, NC",
+      "ask": "Join a Wednesday PT session and ask organizers if 5-10 regulars would give feedback on DevKit bands",
+      "why_parked": "Needs bands Vybe doesn't have; attendance-based."
+    },
+    {
+      "name": "Between Service & Science (veterans' health podcast)",
+      "type": "amplifier",
+      "geo": "Chapel Hill, NC",
+      "ask": "Pitch a guest segment on what consumer overnight data can and cannot tell veterans",
+      "why_parked": "Undated; Gulf War illness focus is clinical."
+    },
+    {
+      "name": "NC Office of State Fire Marshal (Fire Marshal Journal)",
+      "type": "channel-partner",
+      "geo": "Raleigh, NC",
+      "ask": "Ask OSFM's firefighter-health contact for 15 minutes of feedback",
+      "why_parked": "Generic state agency contact; vague feedback ask."
     },
     {
       "name": "NC EMS Expo (NC Office of EMS)",
@@ -2023,6 +3101,111 @@
       "geo": "Asheville, NC",
       "ask": "Ask to be added to the 2027 summer conference vendor list",
       "why_parked": "costs money"
+    },
+    {
+      "name": "CMPD Officer Wellness Unit",
+      "type": "channel-partner",
+      "geo": "Charlotte, NC",
+      "ask": "Ask for a 15-minute feedback call with the wellness unit",
+      "why_parked": "Mental-health-focused police unit, 2022 evidence."
+    },
+    {
+      "name": "Chapel Hill Police Department Wellness Coordinator",
+      "type": "channel-partner",
+      "geo": "Chapel Hill, NC",
+      "ask": "Ask the wellness coordinator for 15 minutes of feedback",
+      "why_parked": "No dated evidence; vague feedback ask."
+    },
+    {
+      "name": "Asheville Police Department Wellness Program",
+      "type": "channel-partner",
+      "geo": "Asheville, NC",
+      "ask": "Ask the coordinator for 15 minutes of feedback",
+      "why_parked": "Undated, generic officer wellness."
+    },
+    {
+      "name": "NC Officer Health, Fitness and Wellness study (Appalachian State and NC Justice Academy)",
+      "type": "research-lab",
+      "geo": "Boone, NC",
+      "ask": "Ask the report authors for 15 minutes on whether overnight recovery measures fit follow-on work",
+      "why_parked": "Undated report; no current signal."
+    },
+    {
+      "name": "Blue Cross NC member wellness programs and Blue365 discounts",
+      "type": "channel-partner",
+      "geo": "Durham, NC",
+      "ask": "Ask how a new fitness-device brand is added to the Blue Cross NC discount list",
+      "why_parked": "Insurer discount list; premature, big company, no product to list."
+    },
+    {
+      "name": "Duke Institute for Health Innovation (DIHI)",
+      "type": "channel-partner",
+      "geo": "Durham, NC",
+      "ask": "Ask DIHI staff whether any current projects need an overnight wellness data source",
+      "why_parked": "Clinical care innovation focus; medical angle."
+    },
+    {
+      "name": "Well (health engagement platform)",
+      "type": "app-partner",
+      "geo": "Chapel Hill, NC",
+      "ask": "Ask Well's product team whether they integrate wearable data today",
+      "why_parked": "Rewards engagement platform; ask is vague and audience is not Vybe's buyer."
+    },
+    {
+      "name": "YMCA of Southeastern NC and Novant Health community wellness partnership",
+      "type": "community",
+      "geo": "Wilmington, NC",
+      "ask": "Ask the Y's wellness director for feedback on a member sleep-habits program pilot",
+      "why_parked": "2024 evidence; generic."
+    },
+    {
+      "name": "Lindsey Rosman, PhD (UNC cardiology wearable trials)",
+      "type": "research-lab",
+      "geo": "Chapel Hill, NC",
+      "ask": "Ask for 15 minutes on how a screenless, notification-free band might change user behavior",
+      "why_parked": "Cardiology AFib patient trials; clinical angle."
+    },
+    {
+      "name": "Appalachian State Human Performance Laboratory (David Nieman, DrPH)",
+      "type": "research-lab",
+      "geo": "Kannapolis, NC",
+      "ask": "Ask the research manager whether overnight HRV/resting HR would add value to exercise-recovery studies",
+      "why_parked": "No current signal; generic lab."
+    },
+    {
+      "name": "Nano-EXtended Textiles (NEXT) research group (Jesse Jur)",
+      "type": "research-lab",
+      "geo": "Raleigh, NC",
+      "ask": "Ask for a feedback call on band textile and electrode comfort for overnight wear",
+      "why_parked": "2021 evidence; no current signal. Stale."
+    },
+    {
+      "name": "UNCW at-home fabric-based sleep monitoring team",
+      "type": "research-lab",
+      "geo": "Wilmington, NC",
+      "ask": "Ask the team whether overnight HRV/resting HR from a band would be a useful comparison signal",
+      "why_parked": "Undated, single-source; vague comparison ask."
+    },
+    {
+      "name": "CED GRO Incubator",
+      "type": "accelerator",
+      "geo": "Durham, NC",
+      "ask": "Ask CED when the next GRO cohort opens and whether out-of-state founders qualify",
+      "why_parked": "No open cohort or date; likely fees."
+    },
+    {
+      "name": "NC Biotechnology Center medical device and digital health programs",
+      "type": "community",
+      "geo": "Research Triangle Park, NC",
+      "ask": "Ask NCBiotech's medtech/device staff which events or introductions suit a wellness-hardware startup (no funding ask)",
+      "why_parked": "Medtech-device focus clashes with wellness positioning; vague ask."
+    },
+    {
+      "name": "Celebrate Research! (Wake Forest University School of Medicine CTSI)",
+      "type": "event",
+      "geo": "Winston-Salem, NC",
+      "ask": "Ask CTSI whether 2027 sessions are open to industry attendees and how to meet cardiovascular investigators",
+      "why_parked": "Event offering attendance only."
     },
     {
       "name": "The Pearl innovation district (Atrium Health / Wake Forest University School of Medicine)",
@@ -2368,6 +3551,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Fleet Feet Raleigh training programs and Village District run club",
+      "type": "channel-partner",
+      "geo": "Raleigh, NC",
+      "ask": "Show up at the Tuesday run and ask for 15 minutes with the training lead",
+      "why_parked": "Generic run club meetup; attendance only, weak payoff before any product."
+    },
+    {
       "name": "Tap Yard Run Club",
       "type": "community",
       "geo": "Raleigh, NC",
@@ -2387,6 +3577,13 @@
       "geo": "Raleigh, NC",
       "ask": "Join a Monday run and recruit 5 testers",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Raleigh Running Outfitters",
+      "type": "channel-partner",
+      "geo": "Raleigh, NC",
+      "ask": "Ask the store manager for a 15-minute chat about a 2027 demo night",
+      "why_parked": "Retail demo night for 2027; no current payoff."
     },
     {
       "name": "Elite Triangle Triathlon Team",
@@ -2529,6 +3726,34 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Raleigh Orthopaedic Performance Centers",
+      "type": "channel-partner",
+      "geo": "Raleigh, NC",
+      "ask": "15-minute call with the performance center lead about Bridge Program athletes",
+      "why_parked": "Orthopaedic clinic performance centre; generic fit, no current signal."
+    },
+    {
+      "name": "The Running PTs",
+      "type": "channel-partner",
+      "geo": "Cary, NC",
+      "ask": "15-minute feedback call with a runner-focused PT",
+      "why_parked": "Clinic with no current signal; generic feedback call."
+    },
+    {
+      "name": "Staker Chiropractic Center",
+      "type": "channel-partner",
+      "geo": "Cary, NC",
+      "ask": "15-minute call about athlete-patient testers",
+      "why_parked": "Generic chiropractic clinic; no signal."
+    },
+    {
+      "name": "Carolina Pain and Performance Chiropractic",
+      "type": "channel-partner",
+      "geo": "Durham, NC",
+      "ask": "15-minute call about runner-patient testers",
+      "why_parked": "Single chiropractic practice; weak fit."
+    },
+    {
       "name": "G13 Brazilian Jiu-Jitsu HQ",
       "type": "team",
       "geo": "Cary, NC",
@@ -2620,6 +3845,34 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Durham Police Department Wellness Program",
+      "type": "channel-partner",
+      "geo": "Durham, NC",
+      "ask": "15 minutes with the Training Division wellness lead",
+      "why_parked": "Policy document from 2024; no current signal."
+    },
+    {
+      "name": "SAS Recreation and Fitness Center",
+      "type": "channel-partner",
+      "geo": "Cary, NC",
+      "ask": "Ask the fitness center team about an opt-in wellness-challenge pilot in 2027",
+      "why_parked": "Corporate fitness center; generic, 2027 pilot needs bands."
+    },
+    {
+      "name": "Red Hat Raleigh HQ associate wellness",
+      "type": "channel-partner",
+      "geo": "Raleigh, NC",
+      "ask": "Ask for an intro to the HQ wellness/facilities team or an internal open-source health hobbyist group",
+      "why_parked": "Generic employer gym; no signal."
+    },
+    {
+      "name": "American Underground",
+      "type": "community",
+      "geo": "Durham, NC",
+      "ask": "Ask to demo the DevKit at a member event and recruit founder testers",
+      "why_parked": "Generic startup hub; not Vybe's buyers."
+    },
+    {
       "name": "Frontier RTP",
       "type": "community",
       "geo": "Research Triangle Park, NC",
@@ -2674,6 +3927,13 @@
       "geo": "Philadelphia, PA",
       "ask": "Ask for the entry-level sponsor or vendor tier for 2026 (late) or 2027",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Hive76",
+      "type": "community",
+      "geo": "Philadelphia, PA",
+      "ask": "Show the DevKit at a Wednesday open house and collect SDK feedback",
+      "why_parked": "Philadelphia travel; generic."
     },
     {
       "name": "Veterans & Military Council 5K (Ruck & Run/Walk) 2026",
@@ -2788,6 +4048,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "NYC Resistor",
+      "type": "community",
+      "geo": "Brooklyn, NY",
+      "ask": "Demo the DevKit at an open night",
+      "why_parked": "NYC hackerspace needs travel."
+    },
+    {
       "name": "Marist University Club Sports",
       "type": "team",
       "geo": "Poughkeepsie, NY",
@@ -2856,6 +4123,13 @@
       "geo": "Princeton, MA",
       "ask": "Offer in-kind bands for event raffles and a feedback group of regular ruckers",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Point32Health innovation challenge",
+      "type": "channel-partner",
+      "geo": "Canton, MA",
+      "ask": "Ask the innovation team whether a future member-pilot challenge is planned and how wellness-device startups apply",
+      "why_parked": "Insurer challenge, no dates; weak fit."
     },
     {
       "name": "Coast Guard Academy Athletics (CGAAC) partnerships",
@@ -2942,11 +4216,25 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Korey Stringer Institute (KSI)",
+      "type": "research-lab",
+      "geo": "Storrs, CT",
+      "ask": "Ask KSI's industry-partnership team how they evaluate wearables and whether overnight recovery data fits their testing",
+      "why_parked": "Heat/hydration focus; industry testing likely paid; weak fit."
+    },
+    {
       "name": "Naval Submarine Base New London fitness program (new fitness center request)",
       "type": "channel-partner",
       "geo": "Groton, CT",
       "ask": "Ask MWR fitness staff whether a voluntary overnight-recovery feedback group of submariners on shore duty is possible",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Connecticut Army National Guard (2026 Best Warrior Competition)",
+      "type": "channel-partner",
+      "geo": "Hartford, CT",
+      "ask": "15-minute call with the CT Guard fitness or resilience staff about a voluntary DevKit feedback group for 2027 Best Warrior candidates",
+      "why_parked": "Past event; needs bands, slow military path."
     },
     {
       "name": "Electric Boat Wellness (Groton fitness centers and health coaching)",
@@ -2963,6 +4251,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Connecticut Innovations Talent Fair (CI startup programming)",
+      "type": "event",
+      "geo": "New Haven, CT",
+      "ask": "Ask CI's events team whether out-of-state hardware startups can join 2027 programs or events",
+      "why_parked": "Out-of-state event; generic."
+    },
+    {
       "name": "Hanscom AFB Half Marathon and 66th FSS fitness events",
       "type": "event",
       "geo": "Hanscom AFB, MA",
@@ -2975,6 +4270,13 @@
       "geo": "Worcester, MA",
       "ask": "Ask whether a smaller expo booth or in-kind tier exists below the published packages",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Massachusetts National Guard (2026 Best Warrior Competition)",
+      "type": "channel-partner",
+      "geo": "Camp Edwards, MA",
+      "ask": "15-minute call with Guard fitness/resilience staff about a voluntary DevKit feedback group for 2027 competitors",
+      "why_parked": "One-off competition that has passed."
     },
     {
       "name": "Commonwealth CrossFit (HYROX)",
@@ -3005,6 +4307,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Global Healthcare Cloud & AI Community - Boston chapter meetup",
+      "type": "event",
+      "geo": "Boston, MA",
+      "ask": "Submit a talk on handling raw overnight ECG/HRV data through an SDK",
+      "why_parked": "In-person Boston talk; travel, weak audience."
+    },
+    {
       "name": "HWPO HYROX Boston 2026",
       "type": "event",
       "geo": "Boston, MA",
@@ -3017,6 +4326,13 @@
       "geo": "Concord, NH",
       "ask": "Ask NH Guard public affairs whether outside in-kind support is allowed at the 2027 march and whether ruckers would test DevKits",
       "why_parked": "costs money"
+    },
+    {
+      "name": "West Virginia Army National Guard (Region II Best Warrior host, Camp Dawson)",
+      "type": "channel-partner",
+      "geo": "Camp Dawson, WV",
+      "ask": "15-minute call with WVNG fitness staff about a voluntary DevKit feedback group at Camp Dawson",
+      "why_parked": "Past event; needs bands."
     },
     {
       "name": "Wheeling Turkey Trot 2026",
@@ -3061,11 +4377,32 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Wearable validation of child sleep and activity (Glenn Weaver lab, Arnold School)",
+      "type": "research-lab",
+      "geo": "Columbia, SC",
+      "ask": "15-minute call on whether an open ECG/HRV DevKit is useful in their validation protocols",
+      "why_parked": "Child sleep validation; audience irrelevant."
+    },
+    {
+      "name": "Human Metabolism Laboratory (Xuewen Wang)",
+      "type": "research-lab",
+      "geo": "Columbia, SC",
+      "ask": "Offer a DevKit loan and ask what overnight measures their sleep studies use",
+      "why_parked": "Unverified evidence; asks for DevKit loan."
+    },
+    {
       "name": "Greenville Track Club",
       "type": "team",
       "geo": "Greenville, SC",
       "ask": "Ask about a small series sponsorship or product seeding for 2027",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Greenville Triathlon Club (GVL Tri)",
+      "type": "community",
+      "geo": "Greenville, SC",
+      "ask": "Offer to host a club social on overnight HRV and loan DevKit bands to 5 members",
+      "why_parked": "Asks to loan bands; out of state."
     },
     {
       "name": "Warrior Axe CrossFit",
@@ -3285,6 +4622,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Hack Fiesta Miami (GDG on Campus FIU)",
+      "type": "community",
+      "geo": "Miami, FL",
+      "ask": "Offer DevKit bands and a sample HRV dataset as a track for the next Hack Fiesta",
+      "why_parked": "Past event; Miami travel."
+    },
+    {
       "name": "Ballston CrossFit (HYROX affiliate)",
       "type": "team",
       "geo": "Arlington, VA",
@@ -3320,6 +4664,27 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Sports Backers (Richmond run clubs)",
+      "type": "community",
+      "geo": "Richmond, VA",
+      "ask": "Ask for an intro to 2-3 of their supported run clubs for a product-feedback session",
+      "why_parked": "No signal; run-club feedback needs bands. Generic."
+    },
+    {
+      "name": "Nova Labs makerspace",
+      "type": "community",
+      "geo": "Reston, VA",
+      "ask": "Offer a member class or demo night on building with the Vybe SDK and DevKit",
+      "why_parked": "Reston makerspace needs travel."
+    },
+    {
+      "name": "HackRVA makerspace",
+      "type": "community",
+      "geo": "Richmond, VA",
+      "ask": "Offer a demo night on building with the Vybe SDK",
+      "why_parked": "Richmond makerspace needs travel."
+    },
+    {
       "name": "Virginia Tech Triathlon Club",
       "type": "team",
       "geo": "Blacksburg, VA",
@@ -3332,6 +4697,20 @@
       "geo": "Charlottesville, VA",
       "ask": "Seed 5 bands for a season of feedback",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Link Lab Smart and Connected Health (UVA)",
+      "type": "research-lab",
+      "geo": "Charlottesville, VA",
+      "ask": "Offer a DevKit for a research collaboration or student project",
+      "why_parked": "Generic lab area, no signal; overlaps UVA row."
+    },
+    {
+      "name": "Sensing Systems for Health Lab (Laura Barnes)",
+      "type": "research-lab",
+      "geo": "Charlottesville, VA",
+      "ask": "15-minute call on whether overnight ECG-HRV data fits a current study",
+      "why_parked": "Generic lab profile, no 2026 signal or specific fit."
     },
     {
       "name": "Foot Levelers Blue Ridge Marathon 2027 expo",
@@ -3367,6 +4746,34 @@
       "geo": "Chantilly, VA",
       "ask": "Seed 3 bands with competitors for feedback",
       "why_parked": "costs money"
+    },
+    {
+      "name": "USMC Human Performance Branch (TECOM)",
+      "type": "channel-partner",
+      "geo": "Quantico, VA",
+      "ask": "Ask the branch for the right route to brief a pre-launch overnight band (and its procurement path)",
+      "why_parked": "Procurement briefing at service-level HQ; no near-term path."
+    },
+    {
+      "name": "WRAIR Sleep Research Center (Behavioral Biology Branch)",
+      "type": "research-lab",
+      "geo": "Silver Spring, MD",
+      "ask": "Ask whether the center evaluates commercial overnight devices and how to offer DevKits",
+      "why_parked": "Evidence from 2023; DoD lab with no path. Stale."
+    },
+    {
+      "name": "Prince George's County Professional Fire Fighters and Paramedics Association (IAFF Local 1619)",
+      "type": "channel-partner",
+      "geo": "Prince George's County, MD",
+      "ask": "Offer loaner bands to the peer fitness trainers for a 30-day feedback round",
+      "why_parked": "Asks for loaner bands Vybe does not have."
+    },
+    {
+      "name": "Montgomery County Fire & Rescue Service peer support team",
+      "type": "channel-partner",
+      "geo": "Rockville, MD",
+      "ask": "Ask the program for 15 minutes to hear what crews would want from overnight trend data",
+      "why_parked": "Generic peer-support team; undated."
     },
     {
       "name": "University of Maryland Triathlon Club",
@@ -3411,6 +4818,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Howard County Striders",
+      "type": "community",
+      "geo": "Columbia, MD",
+      "ask": "Offer loaner bands to a competitive training group for feedback",
+      "why_parked": "2025 evidence; asks for loaner bands."
+    },
+    {
       "name": "IRONMAN 70.3 Eagleman 2027",
       "type": "event",
       "geo": "Cambridge, MD",
@@ -3423,6 +4837,13 @@
       "geo": "Rockville, MD",
       "ask": "Seed 3-5 bands with competitors across locations",
       "why_parked": "costs money"
+    },
+    {
+      "name": "CareFirst WellBeing",
+      "type": "channel-partner",
+      "geo": "Baltimore, MD",
+      "ask": "Find the WellBeing platform's partner route; ask whether device integrations are accepted",
+      "why_parked": "Large insurer; no realistic path."
     },
     {
       "name": "Old Glory DC sponsorships",
@@ -3446,6 +4867,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "DC Triathlon Club",
+      "type": "community",
+      "geo": "Washington, DC",
+      "ask": "Ask about a member-discount or club-partner slot and loaner bands for one training group",
+      "why_parked": "2021 evidence; asks for loaner bands and discounts."
+    },
+    {
       "name": "Potomac Boat Club",
       "type": "team",
       "geo": "Washington, DC",
@@ -3465,6 +4893,20 @@
       "geo": "Washington, DC",
       "ask": "Loan bands to a competitive or masters squad for feedback",
       "why_parked": "costs money"
+    },
+    {
+      "name": "DC Front Runners",
+      "type": "community",
+      "geo": "Washington, DC",
+      "ask": "Offer a short talk and loaner bands after a group run",
+      "why_parked": "Generic club; needs bands."
+    },
+    {
+      "name": "Washington Running Club",
+      "type": "community",
+      "geo": "Washington, DC",
+      "ask": "Offer loaner bands to a training group",
+      "why_parked": "Generic club."
     },
     {
       "name": "Pacers Running run clubs (DC stores)",
@@ -3488,11 +4930,53 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Health2Tech DC",
+      "type": "community",
+      "geo": "Washington, DC",
+      "ask": "Attend the next Health2Tech DC and ask to give a 5-minute DevKit demo",
+      "why_parked": "Event attendance; DC travel."
+    },
+    {
       "name": "NCVC (bike racing club)",
       "type": "team",
       "geo": "Washington, DC",
       "ask": "Ask about an in-kind sponsor slot: bands for women's team riders",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Bethany Barone Gibbs (WVU School of Public Health)",
+      "type": "research-lab",
+      "geo": "Morgantown, WV",
+      "ask": "Feedback call: would an overnight ECG/HRV band with raw data export be useful in her next sedentary-behaviour or workplace study?",
+      "why_parked": "Sedentary/BP trial; weak fit for overnight recovery buyers."
+    },
+    {
+      "name": "Randy J. Nelson lab (WVU Rockefeller Neuroscience Institute, Dept. of Neuroscience)",
+      "type": "research-lab",
+      "geo": "Morgantown, WV",
+      "ask": "Ask whether the lab plans human light-at-night work and would want overnight HRV/heart-rate data from a research DevKit",
+      "why_parked": "Mouse study; no human overnight need."
+    },
+    {
+      "name": "167th Airlift Wing (West Virginia Air National Guard)",
+      "type": "channel-partner",
+      "geo": "Martinsburg, WV",
+      "ask": "Ask the wing public affairs office who owns Airman wellness/resilience and whether a no-cost feedback session on an overnight band is possible",
+      "why_parked": "Command-change photo; no path or payoff."
+    },
+    {
+      "name": "157th Air Refueling Wing (Pease Air National Guard Base)",
+      "type": "channel-partner",
+      "geo": "Portsmouth, NH",
+      "ask": "Ask public affairs to connect us with the wing's resilience or Airman wellness lead for a 15-minute feedback call",
+      "why_parked": "Military unit photo; no path or payoff."
+    },
+    {
+      "name": "Diliang Chen wearable sensing group (UNH Electrical and Computer Engineering) with Sanghee Moon (UNH Kinesiology)",
+      "type": "research-lab",
+      "geo": "Durham, NH",
+      "ask": "Offer DevKit v0.1 to the group as a sensor platform for a student or lab project; ask for a 15-minute call",
+      "why_parked": "Fall-risk and gait research; irrelevant to overnight HRV."
     },
     {
       "name": "Nicholas C. Jacobson lab (Dartmouth Geisel School of Medicine, Center for Technology and Behavioral Health)",
@@ -3502,11 +4986,32 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Madelyn R. Frumkin (Dartmouth Biomedical Data Science and Psychiatry)",
+      "type": "research-lab",
+      "geo": "Lebanon, NH",
+      "ask": "Ask what data access (raw intervals, export format) her group needs from consumer wearables in clinical prediction studies",
+      "why_parked": "Spine-surgery outcome prediction; clinical."
+    },
+    {
+      "name": "VA Maine Healthcare System (Togus VA Medical Center)",
+      "type": "channel-partner",
+      "geo": "Augusta, ME",
+      "ask": "Ask the Whole Health or research office whether staff would give feedback on an overnight band for general wellness",
+      "why_parked": "VA residential treatment; clinical."
+    },
+    {
       "name": "MFCA Professional Development Conference (Maine Fire Chiefs' Association)",
       "type": "event",
       "geo": "Newry, ME",
       "ask": "Ask for 2027 dates and the vendor/exhibitor package (price only if published)",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Jordan D. Alexander (University of Maine, Psychology Department)",
+      "type": "research-lab",
+      "geo": "Orono, ME",
+      "ask": "15-minute feedback call on what makes wearable sleep data usable for research",
+      "why_parked": "Adolescent Fitbit data review; audience irrelevant."
     },
     {
       "name": "101st Air Refueling Wing (Maine Air National Guard)",
@@ -3523,6 +5028,34 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Kunal Mankodiya (URI Electrical, Computer and Biomedical Engineering) with Nicole R. Nugent (Brown)",
+      "type": "research-lab",
+      "geo": "Kingston, RI",
+      "ask": "Offer DevKit v0.1 as a candidate sensor for a follow-on study; 15-minute call",
+      "why_parked": "Trauma-exposed adolescent psychiatric study; clinical."
+    },
+    {
+      "name": "Nicole E. Logan (URI Department of Kinesiology)",
+      "type": "research-lab",
+      "geo": "Kingston, RI",
+      "ask": "Feedback call; ask whether URI Kinesiology students could test DevKit units in a class or lab project",
+      "why_parked": "Adolescent step data; weak fit."
+    },
+    {
+      "name": "Margaret H. Bublitz and Adam K. Lewkowitz (Brown OB/GYN, Women and Infants)",
+      "type": "research-lab",
+      "geo": "Providence, RI",
+      "ask": "15-minute call on how they measured HRV and what an overnight band would need to fit a follow-up study",
+      "why_parked": "Postpartum clinical device study; medical angle."
+    },
+    {
+      "name": "VA Providence Center for Neurorestoration and Neurotechnology (W. Curt LaFrance, Ryan Van Patten)",
+      "type": "research-lab",
+      "geo": "Providence, RI",
+      "ask": "Ask whether objective overnight sleep/HRV data would help their future veteran studies; 15-minute call",
+      "why_parked": "Veteran neuropsychiatry/memory research; clinical."
+    },
+    {
       "name": "No Wrong Door initiative for Newport County first responders (Strategic Prevention Partnerships)",
       "type": "community",
       "geo": "Portsmouth, RI",
@@ -3537,11 +5070,81 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Christi S. Ulmer (Durham VA ADAPT Center of Innovation)",
+      "type": "research-lab",
+      "geo": "Durham, NC",
+      "ask": "Coffee or 15-minute call in Durham on what overnight data VA sleep researchers would want from a consumer band",
+      "why_parked": "VA PTSD/depression sleep research is a clinical angle; no near-term payoff."
+    },
+    {
       "name": "Leanna M. Ross (Duke Molecular Physiology Institute)",
       "type": "research-lab",
       "geo": "Durham, NC",
       "ask": "15-minute call: what would make a wearable's raw data export easy to drop into their pipeline?",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Sinan Sousan (ECU Brody School of Medicine, Public Health; NC Agromedicine Institute)",
+      "type": "research-lab",
+      "geo": "Greenville, NC",
+      "ask": "Feedback call on field-wearable durability and data needs; offer DevKit units for evaluation",
+      "why_parked": "Agricultural heat-stress work; weak fit."
+    },
+    {
+      "name": "Stacey A. Meardon (ECU Department of Physical Therapy)",
+      "type": "research-lab",
+      "geo": "Greenville, NC",
+      "ask": "15-minute call on pairing running-load data with overnight HRV in a future study",
+      "why_parked": "Biomechanics lab; weak fit to overnight HRV."
+    },
+    {
+      "name": "E. Whitney G. Moore (ECU Department of Kinesiology)",
+      "type": "research-lab",
+      "geo": "Greenville, NC",
+      "ask": "Ask whether cadets in their studies could join a short Vybe feedback panel",
+      "why_parked": "Cadet marksmanship psychology study; no overnight physiology angle. Weak fit."
+    },
+    {
+      "name": "Kelly R. Evenson (UNC Gillings School of Global Public Health, Epidemiology)",
+      "type": "research-lab",
+      "geo": "Chapel Hill, NC",
+      "ask": "Feedback call on how a new wearable should publish validation results so researchers trust it",
+      "why_parked": "Step-count methods review; weak fit for overnight ECG/HRV."
+    },
+    {
+      "name": "Wei Gao lab (NC State Wilson College of Textiles, Textile Engineering, Chemistry and Science)",
+      "type": "oem-partner",
+      "geo": "Raleigh, NC",
+      "ask": "Campus coffee in Raleigh to learn whether fiber/flexible battery work could suit a future band revision",
+      "why_parked": "Battery materials research; no near-term payoff."
+    },
+    {
+      "name": "Salisbury VA Health Care System sleep and pulmonary program (W.G. (Bill) Hefner VA Medical Center)",
+      "type": "channel-partner",
+      "geo": "Salisbury, NC",
+      "ask": "Ask the facility's research or Whole Health office whether sleep staff would give feedback on an overnight general-wellness band",
+      "why_parked": "VA CPAP sleep clinic; clinical."
+    },
+    {
+      "name": "Emerson M. Wickwire (University of Maryland School of Medicine, Pulmonary, Critical Care and Sleep Medicine)",
+      "type": "research-lab",
+      "geo": "Baltimore, MD",
+      "ask": "15-minute call on whether a general-wellness overnight band could serve as a secondary data source in military-family sleep research",
+      "why_parked": "Clinical sleep-apnea trial; medical angle."
+    },
+    {
+      "name": "Elizabeth A. Klingaman (VA Capitol Health Care Network MIRECC, VISN 5)",
+      "type": "research-lab",
+      "geo": "Baltimore, MD",
+      "ask": "Feedback call on what actigraphy limits a band with overnight ECG/HRV might help with in veteran sleep studies",
+      "why_parked": "VA clinical CBT-I trial for serious mental illness. Clinical angle."
+    },
+    {
+      "name": "Garrett Ash (VA Connecticut Healthcare System / Yale School of Medicine)",
+      "type": "research-lab",
+      "geo": "West Haven, CT",
+      "ask": "15-minute call on what made the smartwatch report usable for veterans and what data a band should expose",
+      "why_parked": "Clinical sleep-apnea therapy research."
     },
     {
       "name": "13th Annual Wells Veterans Day 5K 2026",
@@ -3768,11 +5371,32 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Duke LIVE FOR LIFE employee wellness program",
+      "type": "channel-partner",
+      "geo": "Durham, NC",
+      "ask": "15-minute call with the LIVE FOR LIFE team on how they evaluate new well-being tools",
+      "why_parked": "Employer wellness program; nothing to offer before launch."
+    },
+    {
+      "name": "WakeMed WakeWell Rewards and Healthworks employee wellness",
+      "type": "channel-partner",
+      "geo": "Raleigh, NC",
+      "ask": "Intro to the WakeWell Rewards program owner for a 15-minute feedback call",
+      "why_parked": "Hospital employee benefits program; generic, no clear path."
+    },
+    {
       "name": "North Carolina State Health Plan wellness and digital health benefits",
       "type": "channel-partner",
       "geo": "Raleigh, NC",
       "ask": "Ask the Plan's worksite wellness team what a digital wellness vendor must show to be considered",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Premier Inc. employee well-being (2026 Healthiest 100 Workplaces)",
+      "type": "channel-partner",
+      "geo": "Charlotte, NC",
+      "ask": "15-minute call with Premier's well-being team about how they pick new tools",
+      "why_parked": "Corporate well-being team; generic fit."
     },
     {
       "name": "Henderson County Sheriff's Office (NCACP Performance and Wellness Grant award)",
@@ -3782,11 +5406,32 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Womack Army Medical Center Sleep Disorders Clinic",
+      "type": "research-lab",
+      "geo": "Fort Bragg, NC",
+      "ask": "Ask for feedback on what overnight wellness data (if any) is useful context for sleep-readiness education, not clinical use",
+      "why_parked": "Clinical sleep-disorders clinic; medical angle Vybe must avoid."
+    },
+    {
+      "name": "Marine Corps Total Fitness (MCTFIT) implementation training at Camp Lejeune",
+      "type": "channel-partner",
+      "geo": "Camp Lejeune, NC",
+      "ask": "Ask an MCTFIT trainer for 15 minutes on how sleep fits into unit total-fitness plans",
+      "why_parked": "Military unit training photo; no reachable owner or payoff."
+    },
+    {
       "name": "Venture Connect 2027",
       "type": "event",
       "geo": "Durham, NC",
       "ask": "Apply to present when the 2027 application opens; meanwhile ask CED which track hardware-health companies go in",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Raleigh Founded",
+      "type": "community",
+      "geo": "Raleigh, NC",
+      "ask": "Attend a First Friday and ask to demo the DevKit to member founders",
+      "why_parked": "Generic founder networking event; not Vybe's buyers."
     },
     {
       "name": "NC Institute of Medicine 2026 Annual Meeting",
@@ -3887,6 +5532,27 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Wilmington Police Department Wellness Program",
+      "type": "channel-partner",
+      "geo": "Wilmington, DE",
+      "ask": "Ask a Wellness Officer for a 15-minute feedback call",
+      "why_parked": "Out-of-state police program focused on mental health; weak fit."
+    },
+    {
+      "name": "NJ AI Hub Accelerator (with Plug and Play)",
+      "type": "accelerator",
+      "geo": "Princeton, NJ",
+      "ask": "Ask when the second cohort opens and whether a hardware-plus-SDK health startup outside New Jersey is eligible",
+      "why_parked": "NJ accelerator; eligibility unclear, generic."
+    },
+    {
+      "name": "NJ FAST accelerator (Plug and Play / NJEDA)",
+      "type": "accelerator",
+      "geo": "Trenton, NJ",
+      "ask": "Ask NJEDA whether a future NJ FAST batch has a health-hardware track and what the New Jersey nexus requirement is",
+      "why_parked": "NJ accelerator requires NJ nexus."
+    },
+    {
       "name": "Montclair State University Police Department officer wellness programming",
       "type": "channel-partner",
       "geo": "Montclair, NJ",
@@ -3915,6 +5581,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "New Jersey State Police officer wellness (2026 AG grant recipient)",
+      "type": "channel-partner",
+      "geo": "West Trenton, NJ",
+      "ask": "Ask for an intro to the NJSP wellness unit for a 15-minute feedback call",
+      "why_parked": "Generic state police grant mention."
+    },
+    {
       "name": "Hartford Yard Goats",
       "type": "team",
       "geo": "Hartford, CT",
@@ -3927,6 +5600,20 @@
       "geo": "New Haven, CT",
       "ask": "Ask the club's performance staff for a 15-minute call about a small overnight HRV/resting HR test with a few players during preseason",
       "why_parked": "costs money"
+    },
+    {
+      "name": "CABLE peer support training (Connecticut Alliance to Benefit Law Enforcement)",
+      "type": "channel-partner",
+      "geo": "East Hartford, CT",
+      "ask": "15-minute feedback call with a CABLE peer support trainer",
+      "why_parked": "Connecticut peer support; far, generic."
+    },
+    {
+      "name": "NEMIC programs (Health Innovator Pathways Program and RI DLT life sciences accelerator)",
+      "type": "accelerator",
+      "geo": "Providence, RI",
+      "ask": "Ask NEMIC whether out-of-state hardware founders can join as speakers or mentors, or whether any track is open to them",
+      "why_parked": "Rhode Island medtech accelerator; medical framing, out of state."
     },
     {
       "name": "Providence Bruins",
@@ -3955,6 +5642,20 @@
       "geo": "Berlin, VT",
       "ask": "15-minute call with a BeWell@Work wellness consultant",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Burlington Fire Department Peer Support Team",
+      "type": "channel-partner",
+      "geo": "Burlington, VT",
+      "ask": "15-minute feedback call with the peer support team lead",
+      "why_parked": "Peer-support mental-health focus; weak fit."
+    },
+    {
+      "name": "Professional Firefighters of Vermont (peer support advocacy)",
+      "type": "channel-partner",
+      "geo": "Montpelier, VT",
+      "ask": "15-minute call with union leadership for feedback",
+      "why_parked": "Legislative peer-support advocacy; weak fit."
     },
     {
       "name": "Vermont Emergency Service Provider (ESP) Wellness Commission",
@@ -3990,6 +5691,20 @@
       "geo": "Portland, ME",
       "ask": "Ask whether Top Gun welcomes out-of-state founders as guest speakers on hardware, or whether any 2027 track is open to them",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Infinity Medical Concierge",
+      "type": "builder",
+      "geo": "Johannesburg, South Africa",
+      "ask": "20-min call on a small DevKit pilot for IMC Guardian members (wellness data only)",
+      "why_parked": "Clinician-led medical concierge in South Africa; medical angle, off-market."
+    },
+    {
+      "name": "Whoop-Apex",
+      "type": "builder",
+      "geo": null,
+      "ask": "Ask if they'd add a Vybe provider using DevKit v0.1",
+      "why_parked": "Undated small project; low payoff."
     },
     {
       "name": "Google Health API: all scopes restricted; unverified apps capped at 100 users, annual CASA review",
@@ -4083,6 +5798,20 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Validic Inform (supported-device network for payers and health systems)",
+      "type": "channel-partner",
+      "geo": "Durham, NC (US)",
+      "ask": "15-minute call on what Validic needs from a device maker (API, data model, commercial terms) to list a new wearable.",
+      "why_parked": "Payer and health-system device network; clinical channel, premature pre-launch."
+    },
+    {
+      "name": "UnitedHealthcare Rewards (compatible trackers incl. Oura and WHOOP)",
+      "type": "channel-partner",
+      "geo": "US (UnitedHealth Group, Minnetonka, MN)",
+      "ask": "Find the UHC Rewards product/partnerships owner and ask what the bar is for adding a new compatible tracker.",
+      "why_parked": "Huge insurer; no path."
+    },
+    {
       "name": "Blue365 member discount program (Partner with Blue365)",
       "type": "channel-partner",
       "geo": "US (national BCBS program; Anthem is the Blue plan in Ohio)",
@@ -4097,11 +5826,53 @@
       "why_parked": "costs money"
     },
     {
+      "name": "WebMD Health Services ONE Integrations (formerly Limeade)",
+      "type": "channel-partner",
+      "geo": "US (Portland, OR / Seattle)",
+      "ask": "Ask WebMD Health Services how a new device joins ONE Integrations (direct vs via Apple Health).",
+      "why_parked": "Large employer wellness company."
+    },
+    {
+      "name": "Sharecare (tracker sync via Apple Health / Health Connect)",
+      "type": "channel-partner",
+      "geo": "US (Atlanta, GA)",
+      "ask": "Confirm Vybe sleep/steps written to Apple Health and Health Connect flow into Sharecare; then ask Sharecare about a named listing.",
+      "why_parked": "Large payer-employer platform; premature."
+    },
+    {
+      "name": "Anthem Sydney Health app rewards (Ohio public employers, e.g. Union County / CEBCO)",
+      "type": "channel-partner",
+      "geo": "Ohio (Union County; CEBCO county consortium)",
+      "ask": "Confirm Vybe data reaches Sydney via HealthKit/Google Health Connect; then ask an Ohio county benefits/wellness coordinator about piloting the band in a CEBCO wellness challenge.",
+      "why_parked": "Insurer; premature."
+    },
+    {
+      "name": "AultCare Health + Wellness app (Canton, OH)",
+      "type": "channel-partner",
+      "geo": "Canton, Ohio",
+      "ask": "Ask AultCare's wellness team which wearables the app reads and whether a local band could join an employer fitness initiative.",
+      "why_parked": "Ohio health plan; premature."
+    },
+    {
       "name": "HealthCheck360 supported devices (Dubuque, IA)",
       "type": "channel-partner",
       "geo": "Dubuque, Iowa (Midwest)",
       "ask": "Ask HealthCheck360 how a new device joins its supported list and whether Apple Health/Health Connect sync is enough.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Sonic Boom Wellness supported devices",
+      "type": "channel-partner",
+      "geo": "US (Carlsbad, CA)",
+      "ask": "Confirm Health Connect / Apple Health route works for Vybe data; ask about a named listing.",
+      "why_parked": "Employer wellness platform; weak fit."
+    },
+    {
+      "name": "YuMuuv wellness challenge platform",
+      "type": "channel-partner",
+      "geo": "Estonia / Europe (serves global employers)",
+      "ask": "Ask YuMuuv whether it adds direct device integrations on request and test the Health Connect route.",
+      "why_parked": "European step-challenge platform; generic."
     },
     {
       "name": "Henry Ford Innovations - Early-Stage Company Engagement / Pitch @ Henry Ford",
@@ -4111,6 +5882,62 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Cincinnati Children's Innovation Ventures - external collaboration",
+      "type": "channel-partner",
+      "geo": "Cincinnati, Ohio",
+      "ask": "Use the Collaborate page to ask whether a staff or adolescent sleep-tracking pilot fits their external-pilot track.",
+      "why_parked": "Paediatric hospital; clinical."
+    },
+    {
+      "name": "Akron Children's Hospital - Center for Patient Experience Innovation",
+      "type": "channel-partner",
+      "geo": "Akron, Ohio",
+      "ask": "Ask for a 20-minute intro to the innovation center about a staff-wellness sleep pilot (caregivers, not patients).",
+      "why_parked": "Akron hospital; wrong geo, clinical setting."
+    },
+    {
+      "name": "Alight Partner Network (Alight Worklife)",
+      "type": "channel-partner",
+      "geo": "US (Lincolnshire, IL - Midwest)",
+      "ask": "Ask Alight's partner team what wellbeing categories they are recruiting for and whether a device-led sleep program qualifies.",
+      "why_parked": "Enterprise benefits marketplace; premature."
+    },
+    {
+      "name": "Burnalong employer and health-plan fitness platform",
+      "type": "channel-partner",
+      "geo": "US (Bethesda, MD)",
+      "ask": "Ask Burnalong whether a sleep/recovery band integration or co-marketing to its employer members is on their roadmap.",
+      "why_parked": "Employer fitness platform; weak fit."
+    },
+    {
+      "name": "Rally / Optum Engage device connections",
+      "type": "channel-partner",
+      "geo": "US (Minnesota)",
+      "ask": "Confirm Apple Health route works; find the Optum Engage device-partnership owner.",
+      "why_parked": "Huge insurer platform."
+    },
+    {
+      "name": "SilverSneakers GO app (Medicare Advantage fitness benefit)",
+      "type": "channel-partner",
+      "geo": "US; offered by Ohio MA plans (SummaCare, Paramount)",
+      "ask": "Ask SilverSneakers whether it is adding wearables beyond Fitbit to GO, and how a device maker would propose one.",
+      "why_parked": "Medicare seniors; irrelevant audience."
+    },
+    {
+      "name": "SummaCare member wellness benefits (Akron)",
+      "type": "channel-partner",
+      "geo": "Akron, Ohio",
+      "ask": "Ask SummaCare's wellness team about a member discount or a small Chamber-plan employer pilot at launch.",
+      "why_parked": "Akron insurer; wrong geo, post-launch."
+    },
+    {
+      "name": "Cleveland Clinic Healthy Choice employee program",
+      "type": "channel-partner",
+      "geo": "Cleveland, Ohio",
+      "ask": "Through Cleveland Clinic Innovations (already on the board), ask who runs Healthy Choice device crediting and whether a sleep metric pilot is possible.",
+      "why_parked": "Huge institution; premature."
+    },
+    {
       "name": "PlayersLab",
       "type": "builder",
       "geo": null,
@@ -4118,11 +5945,32 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Soluno",
+      "type": "builder",
+      "geo": null,
+      "ask": "Feedback call on what a localization-friendly wearable SDK should expose.",
+      "why_parked": "Russian-language localisation niche; off-market."
+    },
+    {
+      "name": "Timeless",
+      "type": "builder",
+      "geo": "Mexico",
+      "ask": "Add Vybe as a second device option once the SDK ships; 15-min discovery call.",
+      "why_parked": "Patient longevity reports (clinical) and WHOOP approval already resolved."
+    },
+    {
       "name": "TechDoctor (SelfBase / Health Portal)",
       "type": "builder",
       "geo": "Tokyo, Japan",
       "ask": "Explore adding Vybe as a SelfBase-supported device for research studies (DevKit eval unit).",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Big Team Challenge",
+      "type": "builder",
+      "geo": null,
+      "ask": "15-min call on adding an open-SDK band as a sync source for workplace challenges.",
+      "why_parked": "Workplace step challenges; weak fit for overnight HRV."
     },
     {
       "name": "ai-brain-starter health-mcp (Google Health connector)",
@@ -4139,11 +5987,67 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Cleveland Hardware Meetup",
+      "type": "community",
+      "geo": "Cleveland, OH",
+      "ask": "Take a 2-minute open-mic slot at the next meetup to show the DevKit band; meet Landi Industries about production.",
+      "why_parked": "Ohio meetup requires travel; Vybe is in Raleigh."
+    },
+    {
+      "name": "Columbus Hardware Meetup",
+      "type": "community",
+      "geo": "Columbus, OH",
+      "ask": "Demo slot at the next meetup and a feature in Midwest Hard Tech Substack.",
+      "why_parked": "Columbus meetup requires travel."
+    },
+    {
+      "name": "Cintrifuse Demo Night",
+      "type": "community",
+      "geo": "Cincinnati, OH",
+      "ask": "Submit the Request to Demo form for the next health or prototype demo night.",
+      "why_parked": "Cincinnati travel; demo event."
+    },
+    {
+      "name": "Lightship BootCamp Akron",
+      "type": "event",
+      "geo": "Akron, OH",
+      "ask": "Apply for a seat; use the non-dilutive funding session for SBIR/grant planning.",
+      "why_parked": "Akron bootcamp needs travel; not a partnership."
+    },
+    {
+      "name": "BTW Meetup Akron",
+      "type": "event",
+      "geo": "Akron, OH",
+      "ask": "Attend; recruit local firmware/app developers for DevKit testing.",
+      "why_parked": "Akron meetup, attendance only."
+    },
+    {
       "name": "IEEE Young Professionals Amplified Cleveland 2026",
       "type": "listing",
       "geo": "Cleveland, OH",
       "ask": "$500 hallway table to show the DevKit and collect developer sign-ups.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "TechLife Columbus 2.0 Launch",
+      "type": "community",
+      "geo": "Columbus, OH",
+      "ask": "Attend and ask to be listed in the TechLife 2.0 company directory.",
+      "why_parked": "Event attendance; Ohio."
+    },
+    {
+      "name": "UH Haslam Sports Innovation Center",
+      "type": "community",
+      "geo": "Cleveland, OH",
+      "ask": "Intro call about the next HSIC Challenge cycle and a living-lab DevKit pilot (wellness use only).",
+      "why_parked": "Cleveland living lab and challenge; travel and pitch event."
+    },
+    {
+      "name": "AHA Scientific Sessions 2026 - Health Innovation Pavilion",
+      "type": "event",
+      "geo": "Chicago, IL",
+      "ask": "Attend HIP and book 5-10 meetings with research teams about DevKit study use (no clinical claims).",
+      "why_parked": "Paid/travel conference; clinical."
     },
     {
       "name": "The New Era Fund",
@@ -4258,6 +6162,97 @@
       "why_parked": "costs money"
     },
     {
+      "name": "ANZER USA",
+      "type": "oem-partner",
+      "geo": "Akron, OH",
+      "ask": "Request a quote and a DFM review for a 5-10 unit DevKit v0.1 board build.",
+      "why_parked": "Paid manufacturing quote, not a partnership; wrongly claims same city."
+    },
+    {
+      "name": "TT Electronics NPI Center of Excellence (Cleveland)",
+      "type": "oem-partner",
+      "geo": "Perry (Cleveland), OH",
+      "ask": "Ask the NPI team whether a 10-unit prototype run and a later low-volume program are in scope.",
+      "why_parked": "Paid manufacturing vendor."
+    },
+    {
+      "name": "Libra Industries",
+      "type": "oem-partner",
+      "geo": "Dayton and Willoughby Hills, OH",
+      "ask": "Ask whether Libra takes early-stage hardware programs and at what volume it becomes interesting.",
+      "why_parked": "Paid manufacturing vendor."
+    },
+    {
+      "name": "SMC Ltd (Medical Design Center, Ohio)",
+      "type": "oem-partner",
+      "geo": "Ohio (city not stated)",
+      "ask": "Ask whether the Ohio design center takes consumer-adjacent wearable programs and early-stage budgets.",
+      "why_parked": "Medical contract manufacturer; paid."
+    },
+    {
+      "name": "Spartronics (Strongsville, OH)",
+      "type": "oem-partner",
+      "geo": "Strongsville, OH",
+      "ask": "Ask whether a wearable electronics sub-assembly at low volume is in scope for the Strongsville site.",
+      "why_parked": "Paid vendor."
+    },
+    {
+      "name": "Pliant Medical",
+      "type": "oem-partner",
+      "geo": "Michigan",
+      "ask": "Ask about enclosure tooling and assembly for a sealed skin-contact wearable at 1,000-5,000 units.",
+      "why_parked": "Paid vendor."
+    },
+    {
+      "name": "Illuminious",
+      "type": "oem-partner",
+      "geo": "Palo Alto, CA (production Indonesia/China)",
+      "ask": "Ask for Startup Bridge Program terms and a DFM review of a flex-based band.",
+      "why_parked": "Paid manufacturing vendor; not growth."
+    },
+    {
+      "name": "SugaMed (ECG Patch PCBA)",
+      "type": "oem-partner",
+      "geo": "Dongguan/Shenzhen, China",
+      "ask": "Request a first-article quote for a small rigid-flex ECG board.",
+      "why_parked": "Paid PCBA quote; not growth."
+    },
+    {
+      "name": "Kyros Engineering",
+      "type": "oem-partner",
+      "geo": "Cleveland, OH",
+      "ask": "Book the free consultation to review our AFE/BLE architecture and a DevKit-to-production plan.",
+      "why_parked": "Vendor sales consult, medical-device framing; not a partnership."
+    },
+    {
+      "name": "Priority Designs",
+      "type": "oem-partner",
+      "geo": "Columbus, OH",
+      "ask": "Ask for an intro call on industrial design, strap/enclosure prototyping and soft tooling.",
+      "why_parked": "Paid vendor."
+    },
+    {
+      "name": "Rapid Circuitry",
+      "type": "oem-partner",
+      "geo": null,
+      "ask": "Send a short NDA brief and request a fixed-scope proposal for a firmware/AFE review.",
+      "why_parked": "Paid vendor."
+    },
+    {
+      "name": "Punch Through",
+      "type": "oem-partner",
+      "geo": null,
+      "ask": "Request a BLE architecture review covering bonding, GATT design and OTA for a streaming ECG band.",
+      "why_parked": "Paid vendor."
+    },
+    {
+      "name": "Cloud2GND",
+      "type": "oem-partner",
+      "geo": "Kentucky",
+      "ask": "Ask for scoping help on Bluetooth qualification and a Nordic-based firmware review.",
+      "why_parked": "Paid engineering services."
+    },
+    {
       "name": "Novel Bits",
       "type": "oem-partner",
       "geo": "Indiana",
@@ -4265,11 +6260,53 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Nocturnal Product Development",
+      "type": "oem-partner",
+      "geo": "Durham, NC",
+      "ask": "Ask about a fixed-price milestone for design-for-manufacture review.",
+      "why_parked": "Paid design firm."
+    },
+    {
       "name": "Analog Devices (MAX86178 / MAXREFDES104 health sensor platform)",
       "type": "oem-partner",
       "geo": null,
       "ask": "Submit the MAXREFDES104 NDA request and ask ADI sales for a field applications engineer.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Texas Instruments (TIDA-010270 / 010280 / 010288 ECG reference designs)",
+      "type": "oem-partner",
+      "geo": null,
+      "ask": "Download the design files and open a TI E2E/support request for the AFE4960 on a single-lead band.",
+      "why_parked": "Reference design, not a partnership."
+    },
+    {
+      "name": "Nordic Semiconductor Partner Program (Design Partners)",
+      "type": "oem-partner",
+      "geo": null,
+      "ask": "Contact Nordic sales via the partner contact form to be matched with a design partner for wearable BLE firmware and certification.",
+      "why_parked": "Paid design services."
+    },
+    {
+      "name": "Ambiq (heartKIT / sleepKIT AI Developer Kits)",
+      "type": "oem-partner",
+      "geo": null,
+      "ask": "Evaluate heartKIT/sleepKIT on a dev board and ask Ambiq about a design-partner path for a ring.",
+      "why_parked": "Chip vendor ADK for rings; not a growth partner."
+    },
+    {
+      "name": "F2 Labs (Middlefield, OH)",
+      "type": "oem-partner",
+      "geo": "Middlefield, OH",
+      "ask": "Book a pre-compliance session on DevKit boards and request a quote for FCC Part 15C BLE certification.",
+      "why_parked": "Paid certification lab."
+    },
+    {
+      "name": "NAMSA (Northwood, OH)",
+      "type": "oem-partner",
+      "geo": "Northwood, OH",
+      "ask": "Request a biological evaluation plan for skin-contact materials (housing, strap, electrodes).",
+      "why_parked": "Paid biocompatibility testing; not growth."
     },
     {
       "name": "MAGNET (Manufacturing Advocacy & Growth Network)",
@@ -4293,11 +6330,67 @@
       "why_parked": "costs money"
     },
     {
+      "name": "STRIDE Accelerator (University of Akron Research Foundation)",
+      "type": "oem-partner",
+      "geo": "Akron, OH",
+      "ask": "Ask for the next cohort window.",
+      "why_parked": "Akron accelerator; Vybe is in Raleigh."
+    },
+    {
+      "name": "Ohio State OSSIP / Nanotech West Lab",
+      "type": "oem-partner",
+      "geo": "Columbus, OH",
+      "ask": "Ask whether sensor/electrode or flex-interconnect characterization fits OSSIP.",
+      "why_parked": "Ohio fab lab; not growth."
+    },
+    {
+      "name": "Nissha Medical Technologies Wearables Lab Accelerator",
+      "type": "oem-partner",
+      "geo": null,
+      "ask": "Ask whether the Wearables Lab accepts early-stage OEM teams and what a session costs.",
+      "why_parked": "Paid vendor."
+    },
+    {
+      "name": "LiPol Battery North America",
+      "type": "oem-partner",
+      "geo": "North America (remote), manufacturing in China",
+      "ask": "Request prototype cells for a curved band cell and a round ring cell.",
+      "why_parked": "Battery vendor; not growth."
+    },
+    {
+      "name": "Zufek",
+      "type": "oem-partner",
+      "geo": "Shenzhen/Dongguan, China",
+      "ask": "Send a STEP model for a 5-day feasibility note and 50-200 NPI samples.",
+      "why_parked": "Battery supplier; not growth."
+    },
+    {
+      "name": "flexpcb.com (Flex PCB, USA prototype)",
+      "type": "oem-partner",
+      "geo": null,
+      "ask": "Upload Gerbers for a quick-turn rigid-flex prototype quote.",
+      "why_parked": "Paid PCB quote."
+    },
+    {
       "name": "FlexiPCB",
       "type": "oem-partner",
       "geo": "Shijiazhuang, China",
       "ask": "Request a DFM-checked quote for a 1-8 layer flex ECG tail.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Konark Silicone Technologies",
+      "type": "oem-partner",
+      "geo": "California",
+      "ask": "Ask about overmolding or encapsulation for a skin-contact housing and strap in short runs.",
+      "why_parked": "Paid vendor."
+    },
+    {
+      "name": "SIMTEC Silicone Parts",
+      "type": "oem-partner",
+      "geo": "Miramar, FL",
+      "ask": "Request design review for an LSR strap and sensor-window overmold.",
+      "why_parked": "Paid vendor, stale."
     },
     {
       "name": "Cleveland Triathlon Club",
@@ -4531,11 +6624,95 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Terra API",
+      "type": "app-partner",
+      "geo": null,
+      "ask": "Request a custom integration scoping call for Vybe via the enterprise route.",
+      "why_parked": "Duplicate of the Terra row; enterprise custom-integration route is a paid sales path."
+    },
+    {
       "name": "Bevel",
       "type": "app-partner",
       "geo": null,
       "ask": "Ask Bevel whether it will add a third overnight-HRV source and send a DevKit unit.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Wild.AI",
+      "type": "app-partner",
+      "geo": null,
+      "ask": "Ask about adding Vybe overnight HRV/sleep into Wild.AI's morning check-in and recovery recommendations.",
+      "why_parked": "Second-hand, undated evidence; no current signal."
+    },
+    {
+      "name": "Clue",
+      "type": "app-partner",
+      "geo": null,
+      "ask": "Ask who owns Clue's wearable integrations and whether they'd consider a second overnight HRV source.",
+      "why_parked": "Huge app; no realistic path."
+    },
+    {
+      "name": "Zero (fasting app)",
+      "type": "app-partner",
+      "geo": null,
+      "ask": "Ask who handles Zero's device integrations about a second overnight-HRV source.",
+      "why_parked": "Fasting app; weak fit."
+    },
+    {
+      "name": "Migraine Buddy",
+      "type": "app-partner",
+      "geo": null,
+      "ask": "Ask about adding overnight sleep/HRV from a second wearable, framed as symptom-context only.",
+      "why_parked": "Migraine symptom tracking; medical-adjacent angle."
+    },
+    {
+      "name": "Strove",
+      "type": "app-partner",
+      "geo": null,
+      "ask": "Pilot Vybe as an overnight recovery device for one employer cohort, or request a Strove integration.",
+      "why_parked": "UK-style employer platform; generic fit, no 2026 signal."
+    },
+    {
+      "name": "Built With Science",
+      "type": "app-partner",
+      "geo": null,
+      "ask": "Ask about being the first overnight HRV source when they add sleep tracking.",
+      "why_parked": "Evidence from 2025; sleep is only a future feature. Stale."
+    },
+    {
+      "name": "V.O2",
+      "type": "app-partner",
+      "geo": null,
+      "ask": "Offer Vybe as the first recovery/sleep source for V.O2 athletes and coaches.",
+      "why_parked": "Stale 2024 evidence."
+    },
+    {
+      "name": "Moody Month",
+      "type": "app-partner",
+      "geo": null,
+      "ask": "Offer overnight ECG-HRV data as an additional source to cycle-pattern insights.",
+      "why_parked": "Stale 2024 evidence; weak fit."
+    },
+    {
+      "name": "Longevo",
+      "type": "app-partner",
+      "geo": null,
+      "ask": "Explore a Spanish-language pilot of Vybe through Longevo's existing Spike integration.",
+      "why_parked": "LatAm Spanish pilot, 2025 evidence. Irrelevant audience now."
+    },
+    {
+      "name": "PEAR Health Labs (Aaptiv)",
+      "type": "app-partner",
+      "geo": null,
+      "ask": "Ask whether PEAR would test overnight ECG-HRV as an input to adaptive workouts.",
+      "why_parked": "Reaches devices through ROOK; covered by the ROOK row. Duplicate path."
+    },
+    {
+      "name": "Rekova",
+      "type": "app-partner",
+      "geo": null,
+      "ask": "Offer a DevKit and ask to add Vybe as a launch-adjacent integration.",
+      "why_parked": "Early app, no dated evidence. Weak."
     },
     {
       "name": "Flow State Endurance",
@@ -4552,6 +6729,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Peloton",
+      "type": "app-partner",
+      "geo": "New York, NY",
+      "ask": "Find the Peloton IQ / wearables-partnerships owner via LinkedIn or a warm intro and ask for a 20-minute intro once DevKit data is shareable; realistic near-term goal is being on the list for a later integration wave.",
+      "why_parked": "Huge company; no realistic path for a pre-launch startup."
+    },
+    {
       "name": "Caliber",
       "type": "app-partner",
       "geo": "New York, NY",
@@ -4559,11 +6743,81 @@
       "why_parked": "costs money"
     },
     {
+      "name": "MyFitnessPal",
+      "type": "app-partner",
+      "geo": null,
+      "ask": "Request API documentation and partner terms via the developer portal contact (API@myfitnesspal.com, as published) to scope a device integration.",
+      "why_parked": "Huge nutrition platform; private API with no realistic near-term path. Weak fit."
+    },
+    {
+      "name": "PlateLens",
+      "type": "app-partner",
+      "geo": "The Woodlands, TX",
+      "ask": "15-minute call on adding overnight recovery/sleep context to the coach, starting with Vybe writing to Apple Health / Health Connect.",
+      "why_parked": "Calorie tracker; weak fit."
+    },
+    {
+      "name": "Alma: Nutrition Coach",
+      "type": "app-partner",
+      "geo": "San Francisco, CA",
+      "ask": "Ask whether the Coach reads Apple Health sleep/HRV today and whether they'd test a Vybe DevKit as a design partner.",
+      "why_parked": "Nutrition app; HRV is peripheral and evidence is 2025. Weak fit."
+    },
+    {
+      "name": "WeightWatchers",
+      "type": "app-partner",
+      "geo": "New York, NY",
+      "ask": "Intro to WW's partnerships/product team to ask whether sleep data from Health Connect/Apple Health is on their roadmap and whether a small pilot is possible.",
+      "why_parked": "Huge company, stale evidence, no path in."
+    },
+    {
+      "name": "Breethe",
+      "type": "app-partner",
+      "geo": "Toronto, Canada",
+      "ask": "15-minute call with Kodeon on piloting overnight sleep timing as a signal that personalizes Breethe's wind-down recommendations.",
+      "why_parked": "Meditation app audience, not HRV/recovery users; acquisition churn. Weak fit."
+    },
+    {
+      "name": "Bathhouse",
+      "type": "app-partner",
+      "geo": "New York, NY",
+      "ask": "Submit a partnership request proposing a small member pilot: guests wear a Vybe band for two weeks and see their own overnight data after sauna days, as content, not claims.",
+      "why_parked": "NYC sauna brand deals; needs bands Vybe doesn't have, off-core audience."
+    },
+    {
+      "name": "Kent State Sports Performance (Bob Lemieux / Trent Stratton)",
+      "type": "team",
+      "geo": "Kent, OH",
+      "ask": "Seed 5-10 DevKit bands with one team (volleyball or women's basketball) for an overnight recovery pilot alongside their current monitors.",
+      "why_parked": "Asks for 5-10 bands, the entire DevKit."
+    },
+    {
+      "name": "Notre Dame Sports Performance (John Wagle)",
+      "type": "team",
+      "geo": "South Bend, IN",
+      "ask": "Ask whether a research-grant-style side study with a non-WHOOP overnight ECG band is possible for one team.",
+      "why_parked": "WHOOP partner; no fit."
+    },
+    {
       "name": "University of Cincinnati Football Sport Science (Jason Stone)",
       "type": "team",
       "geo": "Cincinnati, OH",
       "ask": "15-minute call on gaps in their overnight recovery data and whether a small DevKit pilot fits the football staff.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Michigan State Athletics Sport Science (Bill Burghardt)",
+      "type": "team",
+      "geo": "East Lansing, MI",
+      "ask": "15-minute call on how they collect overnight data today and whether an Olympic-sport team could try DevKit bands.",
+      "why_parked": "Stale 2023; big athletics."
+    },
+    {
+      "name": "Cleveland Browns Health and Performance Innovation (Ryan Curtis, PhD)",
+      "type": "team",
+      "geo": "Berea, OH",
+      "ask": "15-minute call on what an innovation role needs to see to trial a new overnight HRV band with a few players.",
+      "why_parked": "NFL team; no path, needs bands."
     },
     {
       "name": "Cleveland Cavaliers Applied Sports Science (Juan Aquino)",
@@ -4580,11 +6834,53 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Cincinnati Reds Applied Sports Science (Aaron Cunanan, PhD)",
+      "type": "team",
+      "geo": "Cincinnati, OH",
+      "ask": "15-minute call on whether overnight ECG data could feed their decision-support work.",
+      "why_parked": "Pro team; weak evidence, no path."
+    },
+    {
+      "name": "FC Cincinnati Sport Science (Phil Keehne)",
+      "type": "team",
+      "geo": "Cincinnati, OH",
+      "ask": "15-minute call on overnight recovery data for first-team players.",
+      "why_parked": "Pro club; no realistic path."
+    },
+    {
+      "name": "Milwaukee Bucks Performance and Innovation (Dr. Troy Flanagan)",
+      "type": "team",
+      "geo": "Milwaukee, WI",
+      "ask": "15-minute call on piloting a new overnight ECG band within the Bucks innovation program.",
+      "why_parked": "NBA team; no realistic path, 2025 signal."
+    },
+    {
+      "name": "Michigan Performance Research Laboratory (Adam Lepley, MiPR director)",
+      "type": "research-lab",
+      "geo": "Ann Arbor, MI",
+      "ask": "Ask what a small DevKit validation (overnight HRV vs reference ECG) would require.",
+      "why_parked": "2024 evidence; validation is likely a paid engagement."
+    },
+    {
       "name": "Bearcat Performance Lab (Matt Chatlaong, PhD)",
       "type": "research-lab",
       "geo": "Cincinnati, OH",
       "ask": "Ask about a student-led DevKit comparison against their cardiovascular reference measures.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Smartwatch Accuracy Study (Paul Hibbing, PhD)",
+      "type": "research-lab",
+      "geo": "Chicago, IL",
+      "ask": "Ask about adding a screenless ECG band to the next protocol.",
+      "why_parked": "Study ended; speculative follow-on."
+    },
+    {
+      "name": "IU Luddy Wearables Study (Katie Siek, PhD)",
+      "type": "research-lab",
+      "geo": "Bloomington, IN",
+      "ask": "Ask whether her group takes on a second startup device for athlete usability work.",
+      "why_parked": "Stale 2025."
     },
     {
       "name": "AFRL 711th Human Performance Wing, Space Force Continuous Fitness Assessment (Dr. James Christensen, Dr. Adam Strang)",
@@ -4606,6 +6902,41 @@
       "geo": "Fort Eisenhower, GA",
       "ask": "Ask how new sensors are considered for the pilot data platform; SAM registration required for acquisition.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "DEVCOM Soldier Center OHWS (Joseph Patterson)",
+      "type": "research-lab",
+      "geo": "Natick, MA",
+      "ask": "Ask if new BYOD-compatible sensors can be assessed; SAM needed for contracts.",
+      "why_parked": "Stale 2022."
+    },
+    {
+      "name": "USAFA Dean of Faculty Biology wearable smart ring sources sought",
+      "type": "research-lab",
+      "geo": "Colorado Springs, CO",
+      "ask": "Register in SAM and watch for the follow-on solicitation; no outreach until a product exists.",
+      "why_parked": "Sources-sought closed in April; needs a product."
+    },
+    {
+      "name": "Notre Dame Wearable and Stress Sensing Project (Zhi Zheng, PhD)",
+      "type": "research-lab",
+      "geo": "South Bend, IN",
+      "ask": "Ask if her team wants a reference overnight HRV band for ground truth.",
+      "why_parked": "2025 evidence; textile stress sensing."
+    },
+    {
+      "name": "Notre Dame Sleep and Health Research Lab (Ivan Vargas, PhD)",
+      "type": "research-lab",
+      "geo": "South Bend, IN",
+      "ask": "Ask whether overnight ECG HRV could add measurement to the travel study.",
+      "why_parked": "Evidence from 2025. Stale."
+    },
+    {
+      "name": "OHIO Football Performance (Noah Spielman)",
+      "type": "team",
+      "geo": "Athens, OH",
+      "ask": "15-minute call on whether overnight data could complement their GPS load data.",
+      "why_parked": "Ohio college football; wrong geo, no path."
     },
     {
       "name": "Nexus Venture Partners",
@@ -4846,6 +7177,111 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Sleep Disorders and Research Center wearable sleep-staging work (Philip Cheng, PhD; Christopher Drake, PhD)",
+      "type": "research-lab",
+      "geo": "Detroit, MI",
+      "ask": "DevKit v0.1 plus raw-signal export for a PSG-comparison sleep-staging dataset.",
+      "why_parked": "Sleep-disorders clinical center; needs PSG dataset and hardware."
+    },
+    {
+      "name": "Rest-activity rhythm wearable comparison (Stephen F. Smagula, PhD)",
+      "type": "research-lab",
+      "geo": "Pittsburgh, PA",
+      "ask": "DevKit v0.1 to add a third device to a consumer-vs-research-grade comparison.",
+      "why_parked": "Psychiatry rest-activity study needing hardware; weak fit."
+    },
+    {
+      "name": "Sleep technology research (Ambrose A. Chiang, MD)",
+      "type": "research-lab",
+      "geo": "Cleveland, OH",
+      "ask": "15-minute feedback call on DevKit v0.1 sleep-signal quality; explore a small comparison study.",
+      "why_parked": "Sleep-disordered breathing focus; clinical angle."
+    },
+    {
+      "name": "Intern Health Study / wearable sleep monitoring in health workers (Srijan Sen, MD, PhD)",
+      "type": "research-lab",
+      "geo": "Ann Arbor, MI",
+      "ask": "Intro call on whether a DevKit v0.1 sub-study (overnight ECG/HRV) fits their cohort work.",
+      "why_parked": "Large-cohort program; 5-10 DevKits add little. No near-term payoff."
+    },
+    {
+      "name": "Circadian/sleep wearable modelling (Daniel B. Forger, PhD)",
+      "type": "research-lab",
+      "geo": "Ann Arbor, MI",
+      "ask": "Raw overnight HR/RR export from a DevKit for their circadian models.",
+      "why_parked": "Duplicate of Srijan Sen/Michigan row (same preprint)."
+    },
+    {
+      "name": "MAICE Lab, STRATUS Center for Medical Simulation (Roger D. Dias, MD, PhD)",
+      "type": "research-lab",
+      "geo": "Boston, MA",
+      "ask": "DevKit v0.1 to compare against their chest-strap HRV in a simulation block.",
+      "why_parked": "Clinician simulation research in Boston; clinical angle, far from Vybe buyers."
+    },
+    {
+      "name": "Measuring ANSWERS study, Matthew Gfeller Center (Jason P. Mihalik, PhD)",
+      "type": "research-lab",
+      "geo": "Chapel Hill, NC",
+      "ask": "Ask whether an overnight HRV DevKit add-on is feasible for a sub-sample (likely after current protocol).",
+      "why_parked": "Concussion research; clinical angle."
+    },
+    {
+      "name": "Military suicide prevention research with wearable sleep (Justin C. Baker, PhD; Lauren Khazem, PhD)",
+      "type": "research-lab",
+      "geo": "Columbus, OH",
+      "ask": "15-minute call on whether an alternative wearable with raw data access would help future protocols.",
+      "why_parked": "Suicide prevention; clinical/mental-health angle."
+    },
+    {
+      "name": "Wearable-derived sleep and musculoskeletal pain cohort (Brian Grawe, MD)",
+      "type": "research-lab",
+      "geo": "Cincinnati, OH",
+      "ask": "Feedback call; explore a small prospective sleep study using DevKits.",
+      "why_parked": "Musculoskeletal pain prediction; clinical."
+    },
+    {
+      "name": "Wearable recovery/readiness score research (Cory T. Beaumont, PhD)",
+      "type": "research-lab",
+      "geo": "Berea, OH",
+      "ask": "DevKit v0.1 for a student-led readiness-score or overnight HRV project.",
+      "why_parked": "Ohio student project; wrong geo premise, needs DevKit."
+    },
+    {
+      "name": "Wearables and biological timekeeping (Sofia O. Sanchez, PhD)",
+      "type": "research-lab",
+      "geo": "Bloomington, IN",
+      "ask": "Feedback on overnight HR/HRV timing data from a DevKit v0.1.",
+      "why_parked": "Generic feedback ask; needs DevKit."
+    },
+    {
+      "name": "Smartwatch measurement research (Rafael Miranda Tassitano, PhD)",
+      "type": "research-lab",
+      "geo": "Urbana-Champaign, IL",
+      "ask": "Methods feedback call; DevKit v0.1 for a sleep measurement study.",
+      "why_parked": "Generic methods review; weak payoff."
+    },
+    {
+      "name": "Running wearable validation (Richard W. Willy, PhD)",
+      "type": "research-lab",
+      "geo": "Columbus, OH",
+      "ask": "Ask whether overnight HRV/recovery from a DevKit v0.1 is useful alongside their running-load work.",
+      "why_parked": "Running-load biomechanics; weak fit."
+    },
+    {
+      "name": "Consumer wearables in congenital heart disease (Animesh Tandon, MD)",
+      "type": "research-lab",
+      "geo": "Cleveland, OH",
+      "ask": "Feedback call on ECG signal quality from the DevKit (research use only, no clinical claims).",
+      "why_parked": "Congenital heart disease; clinical."
+    },
+    {
+      "name": "Consumer wearable validation in cancer survivors (Roberto M. Benzo, PhD)",
+      "type": "research-lab",
+      "geo": "Columbus, OH",
+      "ask": "Ask whether an overnight HRV/sleep device would fit a future exercise-oncology validation.",
+      "why_parked": "Cancer-survivor clinical validation."
+    },
+    {
       "name": "Delve Health (Clinical StudyPal) wearable device library",
       "type": "channel-partner",
       "geo": "US",
@@ -4935,6 +7371,83 @@
       "geo": "US/Canada",
       "ask": "Ask the F2T team whether peer fitness trainers ever review or pilot wearables, and how a vendor should approach them.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "IAFF Local 330 (Akron Firefighters Association)",
+      "type": "community",
+      "geo": "Akron, OH",
+      "ask": "Ask the Local for a 15-minute conversation with its wellness or peer-fitness lead about a small volunteer DevKit feedback group.",
+      "why_parked": "Akron union; wrong home-city premise."
+    },
+    {
+      "name": "Red Line Safety (IMSAFE)",
+      "type": "app-partner",
+      "geo": "California",
+      "ask": "15-minute call on whether off-shift recovery data would add value to IMSAFE's responder-health view.",
+      "why_parked": "Undated; fireground incident tool, weak fit."
+    },
+    {
+      "name": "PowerLine (PowerDMS)",
+      "type": "app-partner",
+      "geo": "US (Orlando, FL)",
+      "ask": "Ask PowerDMS whether any agency customers have asked for sleep/recovery data in PowerLine.",
+      "why_parked": "No wearable integration; generic fit."
+    },
+    {
+      "name": "Mountain Tactical Institute firefighter wearable mini-study",
+      "type": "builder",
+      "geo": "Jackson, WY",
+      "ask": "Offer DevKit units for a repeat firehouse snapshot, with ECG/HRV overnight data.",
+      "why_parked": "Undated mini-study; needs units."
+    },
+    {
+      "name": "SAFFIRE: Sleep Assistance for Firefighters Study",
+      "type": "builder",
+      "geo": "Tucson, AZ",
+      "ask": "Contact the study team listed on the registry about DevKit use in a follow-on or substudy.",
+      "why_parked": "Registered clinical trial running to 2028."
+    },
+    {
+      "name": "Sleep Well Firefighters (Cal Poly)",
+      "type": "builder",
+      "geo": "San Luis Obispo, CA",
+      "ask": "Ask the investigators whether a wearable arm is planned for a follow-up.",
+      "why_parked": "Behavioral-health clinical trial."
+    },
+    {
+      "name": "FIREZzz national firefighter sleep study (NDRI + Embry-Riddle)",
+      "type": "builder",
+      "geo": "US",
+      "ask": "Ask the FIREZzz team whether a wearable substudy is planned.",
+      "why_parked": "Undated, no contact path."
+    },
+    {
+      "name": "Shields & Stripes integrated care + wearable outcomes study",
+      "type": "program",
+      "geo": "US (Florida)",
+      "ask": "Ask which wearable the study uses and whether a no-subscription option helps future cohorts.",
+      "why_parked": "Clinical trial."
+    },
+    {
+      "name": "Army National Guard H2F performance team pilots (FY2026)",
+      "type": "program",
+      "geo": "US (Ohio timing unknown)",
+      "ask": "Find out (via Ohio veteran network) whether Ohio is in an early H2F Guard tranche and who leads it.",
+      "why_parked": "Ohio Guard; wrong geo, big military, no path."
+    },
+    {
+      "name": "Indianapolis Fire Department (FRST wearable challenge participant)",
+      "type": "program",
+      "geo": "Indianapolis, IN",
+      "ask": "Ask IFD's health and safety staff what they learned from the FRST wrist-wearable trial.",
+      "why_parked": "Undated; generic."
+    },
+    {
+      "name": "Duke firefighter wearable + environmental sensor study (Sensors 2026)",
+      "type": "builder",
+      "geo": "Durham, NC",
+      "ask": "Email the corresponding author (listed on the paper) offering DevKits for overnight recovery measures.",
+      "why_parked": "Duplicate of the Duke firefighter Jerome Lynch row."
     },
     {
       "name": "Oura raises $900M+ Series E at $11B (Fidelity lead)",
@@ -5070,6 +7583,20 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Bill Gordon",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Engineer-to-engineer feedback on the DevKit hardware; optional inclusion in his tracker series later.",
+      "why_parked": "Tiny Substack; needs hardware for payoff."
+    },
+    {
+      "name": "Greg Morris",
+      "type": "amplifier",
+      "geo": "UK",
+      "ask": "Long-term wear test of Vybe after launch.",
+      "why_parked": "Small UK blog; post-launch only."
+    },
+    {
       "name": "Conor Allison",
       "type": "amplifier",
       "geo": "UK",
@@ -5077,11 +7604,95 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Heather Landi",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Background source on why developers need open wearable data access (e.g., after the Fitbit Web API shutdown).",
+      "why_parked": "Clinical-payer beat; no news pre-launch."
+    },
+    {
       "name": "Jessica Hagen",
       "type": "amplifier",
       "geo": null,
       "ask": "Brief Vybe for future roundups when DevKit/design-partner news exists.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Open Wearables",
+      "type": "community",
+      "geo": null,
+      "ask": "Open a GitHub issue / Discord thread proposing a Vybe provider integration once the SDK spec is public.",
+      "why_parked": "Duplicate of the Open Wearables row."
+    },
+    {
+      "name": "Bounce Innovation Hub",
+      "type": "community",
+      "geo": "Akron, OH",
+      "ask": "Attend Oct 28 free coworking day; ask staff about demoing the DevKit at a future Bounce event.",
+      "why_parked": "Akron hub; row wrongly assumes Akron home. Vybe is in Raleigh."
+    },
+    {
+      "name": "Health2Tech Cleveland",
+      "type": "community",
+      "geo": "Cleveland, OH",
+      "ask": "Register for Oct 22 and ask organizers about a future 5-minute demo slot.",
+      "why_parked": "Meetup attendance only; Ohio travel."
+    },
+    {
+      "name": "Cleveland Entrepreneurs (by Ohio Startup Network)",
+      "type": "community",
+      "geo": "Cleveland, OH",
+      "ask": "Join; volunteer as a future Founder Hot Seat guest.",
+      "why_parked": "Ohio meetup; irrelevant geography."
+    },
+    {
+      "name": "T3 Performance",
+      "type": "community",
+      "geo": "Avon / Beachwood, OH",
+      "ask": "Recruit 3-5 HYROX athletes for a feedback session / future DevKit wear trial at their next event.",
+      "why_parked": "Out-of-state gym recruiting needs bands."
+    },
+    {
+      "name": "Elevate Human Performance",
+      "type": "community",
+      "geo": "Columbus, OH",
+      "ask": "Coach feedback session on HYROX training data needs.",
+      "why_parked": "Columbus gym; wrong geo."
+    },
+    {
+      "name": "REACH Fitness Ohio",
+      "type": "community",
+      "geo": "Powell, OH",
+      "ask": "Feedback from HYROX members; potential local wear-test group post-DevKit.",
+      "why_parked": "Ohio gym; wrong geo, after DevKit."
+    },
+    {
+      "name": "SBA Veteran Small Business Certification (VetCert)",
+      "type": "listing",
+      "geo": null,
+      "ask": "Apply for VOSB certification (requires 51% veteran ownership and a SAM.gov profile).",
+      "why_parked": "Certification, not a partnership; veteran-ownership eligibility unverified."
+    },
+    {
+      "name": "Veteran Owned Business Directory (VeteranOwnedBusiness.com)",
+      "type": "listing",
+      "geo": null,
+      "ask": "Create the free basic listing with wearables/health-tech keywords and Akron OH.",
+      "why_parked": "Low-value directory; veteran status and Akron details unverified."
+    },
+    {
+      "name": "Ohio Office of Business Certifications (MBE / EDGE / WBE / VFBE)",
+      "type": "listing",
+      "geo": "Ohio",
+      "ask": "Check eligibility (EDGE requires 1 year in business); apply for VFBE/WBE/MBE through the Unified Application.",
+      "why_parked": "Ohio certifications; wrong state."
+    },
+    {
+      "name": "Digital.Health",
+      "type": "listing",
+      "geo": null,
+      "ask": "Create a free company profile and a DevKit product profile (wellness, no medical claims).",
+      "why_parked": "Clinician-curated listing; medical framing."
     },
     {
       "name": "Wearables.com - Submit a Product or Company",
@@ -5847,6 +8458,20 @@
       "why_parked": "costs money"
     },
     {
+      "name": "College club wrestling (NCWA, Ohio teams)",
+      "type": "sport",
+      "geo": "Columbus / Toledo / Dayton, OH",
+      "ask": "15-minute call with the Ohio State NCWA head coach about a 6-week overnight-wear design-partner pilot with 8-10 adult wrestlers.",
+      "why_parked": "Ohio pilot needs 8-10 bands; more than DevKit allows."
+    },
+    {
+      "name": "Brazilian jiu-jitsu (Northeast Ohio academies)",
+      "type": "sport",
+      "geo": "Tallmadge / Akron, OH",
+      "ask": "Coffee or 15-minute call with GT BJJ head instructors about an overnight-wear trial with 5-8 competition-team adults.",
+      "why_parked": "Ohio BJJ gyms; weak fit, needs bands."
+    },
+    {
       "name": "Judo (Ohio clubs)",
       "type": "sport",
       "geo": "Northeast and Northwest Ohio",
@@ -5854,11 +8479,39 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Amateur (Olympic-style) boxing - Ohio LBC",
+      "type": "sport",
+      "geo": "Ohio",
+      "ask": "15-minute call with the Ohio LBC president about introducing a 5-gym adult boxer overnight-wear pilot.",
+      "why_parked": "Ohio boxing; weak fit."
+    },
+    {
+      "name": "Youth and high-school rugby (Ohio)",
+      "type": "sport",
+      "geo": "Ohio (statewide)",
+      "ask": "Email Rugby Ohio's administrator to ask whether one adult/college-age club or coaching staff would trial overnight bands.",
+      "why_parked": "Stale; irrelevant."
+    },
+    {
       "name": "Powerlifting (USA Powerlifting Ohio)",
       "type": "sport",
       "geo": "Columbus / Bowling Green, OH",
       "ask": "Ask the Ohio co-state chair whether Vybe can recruit 10 adult lifters at the Nov 14 state meet for a peaking-block overnight-wear trial (vendor table if allowed).",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Youth and adult bouldering (Akron)",
+      "type": "sport",
+      "geo": "Akron, OH",
+      "ask": "Meet Rock Mill's owners about an adult-member overnight-wear trial and a co-hosted community night.",
+      "why_parked": "Stale 2023; irrelevant."
+    },
+    {
+      "name": "Adaptive and wheelchair sports (Ohio)",
+      "type": "sport",
+      "geo": "Wooster / Cleveland / Youngstown area, OH",
+      "ask": "Call with Adaptive Sports Ohio's director about co-designing an adult athlete feedback group for the band and app.",
+      "why_parked": "Stale 2023; irrelevant."
     },
     {
       "name": "Firefighter Challenge competitors (Akron regional)",
@@ -5873,6 +8526,20 @@
       "geo": "Ohio (statewide)",
       "ask": "20-minute call with Esports Ohio's board about a coach/adult-staff pilot first, then an opt-in student wellness unit with district approval.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Ohio high-school contact sports (OHSAA GSR 20.3)",
+      "type": "sport",
+      "geo": "Columbus, OH (statewide)",
+      "ask": "Ask OHSAA's sports medicine staff for a 15-minute read on how an overnight, non-medical band would be viewed for athletes, before any school pilot.",
+      "why_parked": "High school sports regulation; audience irrelevant."
+    },
+    {
+      "name": "Competitive cheerleading",
+      "type": "sport",
+      "geo": null,
+      "ask": "Find one Northeast Ohio all-star gym or college cheer program and ask for a 15-minute coach conversation about an adult-athlete overnight-wear trial.",
+      "why_parked": "Stale evidence; no contact identified."
     },
     {
       "name": "SOF Week 2027 - Accelerator Alley",
@@ -5936,6 +8603,13 @@
       "geo": "Las Vegas, NV",
       "ask": "Ask for Innovation Alley eligibility, price and 2027 Pitch Fest entry rules.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "HIMSS27 Global Health Conference - Emerge Experience",
+      "type": "event",
+      "geo": "Chicago, IL",
+      "ask": "Ask whether a pre-launch developer platform fits Emerge and request startup pricing.",
+      "why_parked": "Paid conference; clinical buyer audience."
     },
     {
       "name": "PEAK 2027 SportsTech - Tech Expo and Startup World Cup",
@@ -6022,6 +8696,20 @@
       "why_parked": "costs money"
     },
     {
+      "name": "The Heart of Healthcare Podcast",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Submit a pitch tied to the DevKit design-partner announcement.",
+      "why_parked": "Long-odds exec podcast; no hook yet."
+    },
+    {
+      "name": "Wearable Takeover Podcast",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Confirm the show is still recording and request the guest survey.",
+      "why_parked": "Show possibly dormant; stale."
+    },
+    {
       "name": "Zelos Podcast",
       "type": "amplifier",
       "geo": null,
@@ -6029,11 +8717,67 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Product Startup Podcast",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Find the host contact on the site and offer an episode on a pre-launch hardware plus SDK model.",
+      "why_parked": "Hardware-founder podcast; audience not buyers."
+    },
+    {
+      "name": "Manufacturing Runs The World",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Submit the guest application.",
+      "why_parked": "Manufacturing podcast; audience not Vybe buyers."
+    },
+    {
+      "name": "Tactical Wealth: From Military to Money",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Find the show's booking route and pitch a human-performance hardware story.",
+      "why_parked": "Finance-focused podcast; audience irrelevant, no booking route."
+    },
+    {
+      "name": "TheMilVet Podcast",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Find the booking route and offer a dual-use hardware story.",
+      "why_parked": "Defense-tech founder podcast; no booking route."
+    },
+    {
+      "name": "Security Halt! Podcast",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Find the booking route and offer a product-launch story.",
+      "why_parked": "Security-industry podcast; audience irrelevant."
+    },
+    {
+      "name": "VET S.O.S. Presents: Operation Startup",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Message the network to ask how guests are booked.",
+      "why_parked": "Generic startup podcast; no booking route."
+    },
+    {
+      "name": "Zeroed In: Tactical Business Growth",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Email the address in the show notes with a short guest pitch.",
+      "why_parked": "Undated podcast; weak evidence."
+    },
+    {
       "name": "Healthomics",
       "type": "amplifier",
       "geo": null,
       "ask": "Ask for the next open date and the audience size for one GBP 750 slot.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Vetted Sports Weekly",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Check the price on the booking page and book one issue if within a small budget.",
+      "why_parked": "Paid ad placement."
     },
     {
       "name": "Fitt Insider",
@@ -6048,6 +8792,13 @@
       "geo": null,
       "ask": "Offer an embargoed briefing on the DevKit to the editor.",
       "why_parked": "costs money"
+    },
+    {
+      "name": "The Science Behind Wearables",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Offer a data-source or measurement-accuracy collaboration through Open Wearables.",
+      "why_parked": "Activity unknown; stale."
     },
     {
       "name": "Navy Region Mid-Atlantic MWR Sponsorship & Advertising",
@@ -6069,6 +8820,13 @@
       "geo": "Arlington, VA",
       "ask": "Ask to be on the 2027 exhibitor list and for 2027 booth terms",
       "why_parked": "costs money"
+    },
+    {
+      "name": "National Guard Holistic Wellness Challenge (NGB J1 Warrior Resilience & Fitness)",
+      "type": "channel-partner",
+      "geo": "Arlington, VA",
+      "ask": "Ask whether a future sleep-themed challenge month could include a short informational brief or resource from industry, and who handles that",
+      "why_parked": "Government challenge with endorsement limits; vague ask."
     },
     {
       "name": "Fitness Technology Summit US 2026",
@@ -6141,6 +8899,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "New York Sports Club HYROX affiliation",
+      "type": "channel-partner",
+      "geo": "New York, NY",
+      "ask": "Ask the partnerships team for a 15-minute call about a member-feedback pilot at one HYROX-affiliated club",
+      "why_parked": "NYC chain; needs bands."
+    },
+    {
       "name": "Chelsea Piers Fitness (HYROX affiliate)",
       "type": "team",
       "geo": "New York, NY",
@@ -6160,6 +8925,13 @@
       "geo": "New York, NY",
       "ask": "Ask for a 15-minute intro to the sports medicine or performance team behind the HYROX sponsorship",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Vermont National Guard Wellness, Readiness and Prevention (WRAP) directorate",
+      "type": "channel-partner",
+      "geo": "Colchester, VT",
+      "ask": "15-minute call with the WRAP or resiliency team on whether a small, voluntary overnight-band feedback group fits next to their TrainHeroic programming",
+      "why_parked": "Out-of-region Guard wellness; weak path."
     },
     {
       "name": "CrossFit Burlington",
@@ -6197,6 +8969,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "University of Vermont Athletic Medicine",
+      "type": "research-lab",
+      "geo": "Burlington, VT",
+      "ask": "15-minute feedback call with an athletic trainer on what overnight data would help with student-athlete workload conversations",
+      "why_parked": "Distant athletic medicine group; generic feedback ask."
+    },
+    {
       "name": "New England Half Marathon 2026 (presented by Millennium Running)",
       "type": "event",
       "geo": "Concord, NH",
@@ -6223,6 +9002,13 @@
       "geo": "Franklin, NH",
       "ask": "15-minute call on whether veterans in the campus recreation programs would give product feedback, and on 2027 5K sponsorship",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Dartmouth Health Sports Medicine",
+      "type": "channel-partner",
+      "geo": "Lebanon, NH",
+      "ask": "20-minute feedback call with a sports medicine clinician on how athletes bring wearable data to visits",
+      "why_parked": "Clinical sports medicine hiring post; generic fit."
     },
     {
       "name": "Firefighters First Cancer Screening Initiative (NH) / Professional Fire Fighters of New Hampshire",
@@ -6260,11 +9046,25 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Maine Adaptive Veterans No Boundaries camps",
+      "type": "community",
+      "geo": "Newry, ME",
+      "ask": "15-minute call on whether volunteer veterans at the 2027 winter camp would wear DevKit bands and give feedback",
+      "why_parked": "Travel; disabled-veteran camp, low payoff."
+    },
+    {
       "name": "Patrick's Recruitment For Peace Stronger Together 5K",
       "type": "event",
       "geo": "Pittsfield, ME",
       "ask": "Ask about a 2027 sponsor tier or donating bands for the raffle after launch",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Maine Medical Center Sports Medicine Fellowship",
+      "type": "research-lab",
+      "geo": "Portland, ME",
+      "ask": "Ask whether a fellow would take a 20-minute feedback call, or make DevKit data a small fellow project with a college team",
+      "why_parked": "Distant clinical fellowship; weak fit."
     },
     {
       "name": "State of Maine Office of Employee Health and Wellness (Wellness Wallet pilot)",
@@ -6300,6 +9100,20 @@
       "geo": "Providence, RI",
       "ask": "Ask the BCBSRI worksite health team whether vendors can present at a 2027 awards or wellness-coordinator session",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Beacon Mutual Insurance employee wellness",
+      "type": "channel-partner",
+      "geo": "Warwick, RI",
+      "ask": "20-minute call with the wellness lead about a small 2027 employee feedback pilot",
+      "why_parked": "Rhode Island insurer staff wellness; generic, irrelevant geography."
+    },
+    {
+      "name": "Bradley Hospital Sleep Research Lab / COBRE Center for Sleep and Circadian Rhythms",
+      "type": "research-lab",
+      "geo": "Providence, RI",
+      "ask": "Ask whether a COBRE investigator would review the DevKit's raw-data access and SDK for possible adult or young-adult validation work",
+      "why_parked": "Child and adolescent mental-health sleep lab; audience irrelevant."
     },
     {
       "name": "Boston Bruins Foundation B-Fit Challenge (first-responder divisions)",
@@ -6407,6 +9221,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "NJ Governor's Council on Mental Health Stigma - First Responder Outreach",
+      "type": "community",
+      "geo": "Trenton, NJ",
+      "ask": "Ask the Council which NJ first-responder wellness coordinators attend its sessions, and get on its event list",
+      "why_parked": "Mental-health stigma outreach; weak fit."
+    },
+    {
       "name": "Army H2F System support services market research (Contracting Command New Jersey)",
       "type": "channel-partner",
       "geo": "Picatinny Arsenal, NJ",
@@ -6414,11 +9235,32 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Peixuan Zheng Lab - Rutgers Department of Kinesiology and Health",
+      "type": "research-lab",
+      "geo": "New Brunswick, NJ",
+      "ask": "15-minute call about whether the lab would test DevKit v0.1 raw data access",
+      "why_parked": "Stale 2025 recruiting post; unconfirmed lab status."
+    },
+    {
       "name": "Industrial Athletics",
       "type": "team",
       "geo": "Pittsburgh, PA",
       "ask": "Seed 5 DevKit bands with HYROX class members for a 4-week recovery-data feedback loop",
       "why_parked": "costs money"
+    },
+    {
+      "name": "UPMC Sports Medicine - Run With Us 2026 (Pittsburgh Marathon)",
+      "type": "channel-partner",
+      "geo": "Pittsburgh, PA",
+      "ask": "Ask the sports performance team whether runners in its 2027 marathon programs could trial DevKit units",
+      "why_parked": "Huge health system; needs units."
+    },
+    {
+      "name": "Pittsburgh Technology Council Breakfast Briefing (Nov 12, 2026)",
+      "type": "event",
+      "geo": "Pittsburgh, PA",
+      "ask": "Register and ask the Council for the topic and attendee profile",
+      "why_parked": "Event attendance; travel."
     },
     {
       "name": "Team RWB Philadelphia",
@@ -6449,6 +9291,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Dhruv Seshadri Lab - Lehigh Bioengineering (athlete wearables)",
+      "type": "research-lab",
+      "geo": "Bethlehem, PA",
+      "ask": "15-minute call on whether DevKit v0.1 raw ECG/HRV export would help his validation work",
+      "why_parked": "No 2026 activity and partnered with competitor Ultrahuman. Stale."
+    },
+    {
       "name": "Delaware Distance Classic 15K & 5K 2026",
       "type": "event",
       "geo": "Wilmington, DE",
@@ -6470,11 +9319,25 @@
       "why_parked": "costs money"
     },
     {
+      "name": "DelaWELL Rewards Program 2026-2027 (State of Delaware DHR)",
+      "type": "channel-partner",
+      "geo": "Dover, DE",
+      "ask": "Ask DHR Benefits whether DelaWELL rewards activities can include connected-device sleep or activity tracking",
+      "why_parked": "State benefits program; premature."
+    },
+    {
       "name": "Stars and Strides 5K Delaware 2026",
       "type": "event",
       "geo": "Newark, DE",
       "ask": "Confirm the date and ask about a table or raffle donation",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Delaware State Fire Commission - Mental Health & Resiliency Program",
+      "type": "community",
+      "geo": "Dover, DE",
+      "ask": "Ask the wellness administrator whether a sleep and recovery tool would be useful to share with departments, no claims, feedback only",
+      "why_parked": "Mental-health program out of state."
     },
     {
       "name": "Healing the Helpers Conference (Delaware Behavioral Health Consortium)",
@@ -6554,6 +9417,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Metro Nashville Police Department Professional Wellness Section",
+      "type": "channel-partner",
+      "geo": "Nashville, TN",
+      "ask": "15-minute call with the Wellness Section on whether shift workers ask about sleep tools and what a pilot would need to clear",
+      "why_parked": "Out-of-state police wellness; generic."
+    },
+    {
       "name": "Nashville Performance Club",
       "type": "team",
       "geo": "Nashville, TN",
@@ -6566,6 +9436,13 @@
       "geo": "Chattanooga, TN",
       "ask": "Ask the organizer whether there is a sponsor table or packet-insert option",
       "why_parked": "costs money"
+    },
+    {
+      "name": "MUSC Health Sports Medicine",
+      "type": "channel-partner",
+      "geo": "Charleston, SC",
+      "ask": "15-minute call with MUSC Sports Medicine on whether adult staff or collegiate partners would give feedback on an overnight recovery band (not minors)",
+      "why_parked": "School athletic training network; minors, clinical, after DevKit."
     },
     {
       "name": "South Carolina Stingrays",
@@ -6624,6 +9501,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Emory Healthcare Sports Medicine",
+      "type": "channel-partner",
+      "geo": "Atlanta, GA",
+      "ask": "15-minute call with Emory Sports Medicine research staff on what an overnight ECG/HRV dataset would need to be useful",
+      "why_parked": "Large health system; no path."
+    },
+    {
       "name": "Alpha Fitness (Atlanta)",
       "type": "team",
       "geo": "Atlanta, GA",
@@ -6643,6 +9527,20 @@
       "geo": "Suwanee, GA",
       "ask": "Ask Bodies Race Company about a vendor table at Time Travel Half and any multi-race sponsor package",
       "why_parked": "costs money"
+    },
+    {
+      "name": "Georgia Office of Public Safety Support (Peer Counselor Certification)",
+      "type": "channel-partner",
+      "geo": "Atlanta, GA",
+      "ask": "15-minute call with OPSS staff on whether sleep comes up for shift workers and if peer counselors want neutral tools to point to",
+      "why_parked": "Peer-counselor mental-health course; weak fit."
+    },
+    {
+      "name": "Georgia Army National Guard",
+      "type": "channel-partner",
+      "geo": "Marietta, GA",
+      "ask": "Ask Georgia Guard medical readiness staff who will own H2F in the state and whether they want industry input",
+      "why_parked": "Medical readiness story; no reachable owner."
     },
     {
       "name": "IRONMAN Florida 2026",

@@ -1,0 +1,2896 @@
+{
+ "reviewed": "2026-10-11",
+ "rule": "Kept only if it grows Vybe, costs $0, is realistic for a pre-launch startup, and has current evidence. A = do this month, B = worth doing, later.",
+ "rows": {
+  "athletic-lab-athletic-lab": {
+   "verdict": "A",
+   "reason": "Local Cary sport-science lab; ideal DevKit design partner feeding athlete-monitoring feedback and credibility.",
+   "move": "Email Dr. Mike Young this week asking for a 20-minute design-partner call about pulling overnight HRV into athlete monitoring."
+  },
+  "victoria-song-the-verge": {
+   "verdict": "B",
+   "reason": "Top wearables writer covering data ownership in 2026; credibility payoff, but no product to show yet.",
+   "move": "Send a short background note on the open-SDK, no-subscription angle; offer a DevKit look when units exist."
+  },
+  "kygo-health-kygo-health": {
+   "verdict": "A",
+   "reason": "Built app blocked by WHOOP API approval with 100+ waitlisted users; wants a second data source now.",
+   "move": "Email Kygo founders offering a 15-minute call on Vybe SDK access as an alternative source for waitlisted users."
+  },
+  "biodynamics-and-human-performance-center-hrv-research-andrew-a-flatt-phd-georgia": {
+   "verdict": "B",
+   "reason": "HRV-vs-criterion-ECG validation lab, 2026 paper; strong credibility but needs DevKit units.",
+   "move": "Email Dr. Flatt now to scope an agreement study using his Polar H10 protocol, starting when DevKit ships."
+  },
+  "fleet-feet-raleigh-training-programs-and-village-district-run-club-fleet-feet-ra": {
+   "verdict": "cut",
+   "reason": "Generic run club meetup; attendance only, weak payoff before any product.",
+   "move": null
+  },
+  "tredict-tredict": {
+   "verdict": "A",
+   "reason": "Device-agnostic HRV platform with public health-data API; direct distribution to recovery-minded endurance athletes.",
+   "move": "Register for Tredict API credentials and email asking for a 15-minute call on pushing overnight HRV/RHR."
+  },
+  "well-health-engagement-platform-well": {
+   "verdict": "cut",
+   "reason": "Rewards engagement platform; ask is vague and audience is not Vybe's buyer.",
+   "move": null
+  },
+  "jason-fanning-phd-wake-forest-health-and-exercise-science-wake-forest-university": {
+   "verdict": "cut",
+   "reason": "Evidence from 2025; generic future-study call with no clear near-term payoff.",
+   "move": null
+  },
+  "hunter-treuchet-h2f-director-1st-bct-82nd-airborne-division-1st-brigade-combat-t": {
+   "verdict": "B",
+   "reason": "Local Fort Bragg H2F director; tactical sleep use case, but evidence undated and single-source.",
+   "move": "Message Hunter Treuchet via LinkedIn or the podcast for a 15-minute call on how his brigade reviews sleep data."
+  },
+  "bathhouse-bathhouse": {
+   "verdict": "cut",
+   "reason": "NYC sauna brand deals; needs bands Vybe doesn't have, off-core audience.",
+   "move": null
+  },
+  "peloton-peloton-interactive-inc": {
+   "verdict": "cut",
+   "reason": "Huge company; no realistic path for a pre-launch startup.",
+   "move": null
+  },
+  "womack-army-medical-center-sleep-disorders-clinic-womack-army-medical-center-def": {
+   "verdict": "cut",
+   "reason": "Clinical sleep-disorders clinic; medical angle Vybe must avoid.",
+   "move": null
+  },
+  "korey-stringer-institute-ksi-university-of-connecticut": {
+   "verdict": "cut",
+   "reason": "Heat/hydration focus; industry testing likely paid; weak fit.",
+   "move": null
+  },
+  "all-clear-a-firefighter-wellness-podcast-travis-mcgaha-all-clear-podcast": {
+   "verdict": "B",
+   "reason": "Free guest spot reaching NC firefighter wellness audience; activity not dated, confirm show is live.",
+   "move": "Confirm recent episodes, then email Travis McGaha offering a no-pitch guest conversation on shift-work sleep and recovery."
+  },
+  "emerson-m-wickwire-university-of-maryland-school-of-medicine-pulmonary-critical-": {
+   "verdict": "cut",
+   "reason": "Clinical sleep-apnea trial; medical angle.",
+   "move": null
+  },
+  "junction-formerly-vital-junction-formerly-vital": {
+   "verdict": "A",
+   "reason": "Developer API for 300+ wearables with readiness scores; Vybe as provider reaches many app builders.",
+   "move": "Email Junction asking how a new provider is added and whether Vybe can feed recovery_readiness_score."
+  },
+  "raleigh-fire-department-mandatory-fitness-program-raleigh-fire-department": {
+   "verdict": "B",
+   "reason": "Local fire department with mandatory fitness program; good feedback, but evidence undated.",
+   "move": "Email Raleigh FD's fitness coordinator for a 15-minute feedback call on what crews want from overnight data."
+  },
+  "wilmington-police-department-wellness-program-wilmington-police-department-delaw": {
+   "verdict": "cut",
+   "reason": "Out-of-state police program focused on mental health; weak fit.",
+   "move": null
+  },
+  "wearable-biometric-research-for-correctional-officers-and-responders-ryan-m-labr": {
+   "verdict": "B",
+   "reason": "RTP-based responder wearable research; strong fit but 2025 evidence and needs DevKits.",
+   "move": "Email Labrecque and Hegarty-Craver for a 15-minute call on a future responder study once DevKit ships."
+  },
+  "stacey-a-meardon-ecu-department-of-physical-therapy-east-carolina-university": {
+   "verdict": "cut",
+   "reason": "Biomechanics lab; weak fit to overnight HRV.",
+   "move": null
+  },
+  "o2x-human-performance-o2x-human-performance": {
+   "verdict": "B",
+   "reason": "Embedded tactical performance specialists give a channel to departments; 2025 evidence, partnership slower.",
+   "move": "Email O2X partnerships asking whether embedded coaches want overnight HRV from the people they coach."
+  },
+  "usmc-human-performance-branch-tecom-u-s-marine-corps-training-and-education-comm": {
+   "verdict": "cut",
+   "reason": "Procurement briefing at service-level HQ; no near-term path.",
+   "move": null
+  },
+  "rest-activity-rhythm-wearable-comparison-stephen-f-smagula-phd-university-of-pit": {
+   "verdict": "cut",
+   "reason": "Psychiatry rest-activity study needing hardware; weak fit.",
+   "move": null
+  },
+  "anzer-usa-anzer-usa": {
+   "verdict": "cut",
+   "reason": "Paid manufacturing quote, not a partnership; wrongly claims same city.",
+   "move": null
+  },
+  "athlytic-athlytic": {
+   "verdict": "B",
+   "reason": "Indie HRV recovery app needing a source that writes HRV to Apple Health; after DevKit.",
+   "move": "Email Athlytic's developers asking how they want overnight HRV tagged in Apple Health; offer DevKit access later."
+  },
+  "crowd-supply-hardware-launch-platform-mouser-backed-crowd-supply": {
+   "verdict": "B",
+   "reason": "Developer-hardware launch platform with prior ECG/HRV kits; application free, payoff after DevKit.",
+   "move": "Submit Crowd Supply's free pre-campaign application and ask for readiness and timing feedback."
+  },
+  "duke-institute-for-health-innovation-dihi-duke-health": {
+   "verdict": "cut",
+   "reason": "Clinical care innovation focus; medical angle.",
+   "move": null
+  },
+  "endorphins-running-endorphins-running": {
+   "verdict": "B",
+   "reason": "Running app with integrations and Developers page; integration good, DevKit seeding needs bands.",
+   "move": "Email Endorphins via their Developers page about adding Vybe to integrations once the SDK is ready."
+  },
+  "garrett-ash-va-connecticut-healthcare-system-yale-school-of-medicine-va-connecti": {
+   "verdict": "cut",
+   "reason": "Clinical sleep-apnea therapy research.",
+   "move": null
+  },
+  "jordan-d-alexander-university-of-maine-psychology-department-university-of-maine": {
+   "verdict": "cut",
+   "reason": "Adolescent Fitbit data review; audience irrelevant.",
+   "move": null
+  },
+  "meredith-dietz-lifehacker": {
+   "verdict": "B",
+   "reason": "Reviewed subscription-free screenless bands and races HYROX; coverage needs a product to test.",
+   "move": "Send a short intro note so Vybe is on her list for a future screenless-band comparison."
+  },
+  "nc-office-of-state-fire-marshal-fire-marshal-journal-north-carolina-office-of-st": {
+   "verdict": "cut",
+   "reason": "Generic state agency contact; vague feedback ask.",
+   "move": null
+  },
+  "radar-base-passive-app-plugins-radar-base": {
+   "verdict": "B",
+   "reason": "Open-source research platform with device plugins; reaches researchers, after SDK.",
+   "move": "Ask RADAR-base maintainers on GitHub what a passive plugin requires and who would review a Vybe plugin."
+  },
+  "radianthealth-radianthealth": {
+   "verdict": "A",
+   "reason": "Readiness app gating on overnight HRV, already accepts Health Connect; clear integration path.",
+   "move": "Email RadiantHealth offering Vybe data via Health Connect now and a native integration call."
+  },
+  "spike-api-spike-api": {
+   "verdict": "A",
+   "reason": "Wearables API offering instant intro slots; direct-provider listing reaches fitness and longevity app builders.",
+   "move": "Book Spike's offered intro slot and ask how Vybe onboards as a direct provider."
+  },
+  "terra-api-terra-api": {
+   "verdict": "cut",
+   "reason": "Duplicate of the Terra row; enterprise custom-integration route is a paid sales path.",
+   "move": null
+  },
+  "ultrax-ultrax-ultrax-ai": {
+   "verdict": "A",
+   "reason": "Sports-performance platform blocked on WHOOP approval with clubs waiting; adds Vybe as data source.",
+   "move": "Email Ultrax offering a 15-minute call on a Vybe adapter for DevKit v0.1 data."
+  },
+  "wearables-hf-registry-nct07650669-cleveland-clinic-with-case-western-reserve-uni": {
+   "verdict": "cut",
+   "reason": "Heart-failure clinical registry; medical angle.",
+   "move": null
+  },
+  "freddy-freddy-freddy-coach": {
+   "verdict": "A",
+   "reason": "MCP connector for 29 wearables with a request-a-connector queue; reaches AI and quantified-self users.",
+   "move": "Request a Vybe connector in freddy's queue and email the founder for a 15-minute call."
+  },
+  "synheart-synheart-mila-ventures": {
+   "verdict": "B",
+   "reason": "Open HSI standard seeking device inputs; small, single-source signal.",
+   "move": "Email Synheart proposing Vybe as a reference ECG/HRV input for the HSI standard."
+  },
+  "unc-nc-state-joint-bme-senior-design-program-joint-department-of-biomedical-engi": {
+   "verdict": "B",
+   "reason": "Local BME senior design teams build on hardware platforms; developer pipeline, after DevKit.",
+   "move": "Email Andrew DiMeo offering Vybe as a 2026-27 senior design platform once DevKits exist."
+  },
+  "uncw-at-home-fabric-based-sleep-monitoring-team-university-of-north-carolina-wil": {
+   "verdict": "cut",
+   "reason": "Undated, single-source; vague comparison ask.",
+   "move": null
+  },
+  "bradley-hospital-sleep-research-lab-cobre-center-for-sleep-and-circadian-rhythms": {
+   "verdict": "cut",
+   "reason": "Child and adolescent mental-health sleep lab; audience irrelevant.",
+   "move": null
+  },
+  "maine-medical-center-sports-medicine-fellowship-mainehealth": {
+   "verdict": "cut",
+   "reason": "Distant clinical fellowship; weak fit.",
+   "move": null
+  },
+  "university-of-vermont-athletic-medicine-university-of-vermont": {
+   "verdict": "cut",
+   "reason": "Distant athletic medicine group; generic feedback ask.",
+   "move": null
+  },
+  "human-performance-collaborative-ohio-state-the-ohio-state-university-office-of-r": {
+   "verdict": "B",
+   "reason": "Published nocturnal HRV validation across major wearables; big credibility, needs DevKit units.",
+   "move": "Email the HPC team to ask what running DevKit units through their protocol would require once units exist."
+  },
+  "4th-force-support-squadron-fitness-and-sports-center-seymour-johnson-afb-4th-fig": {
+   "verdict": "cut",
+   "reason": "Generic base fitness staff; no clear payoff.",
+   "move": null
+  },
+  "cmpd-officer-wellness-unit-charlotte-mecklenburg-police-department": {
+   "verdict": "cut",
+   "reason": "Mental-health-focused police unit, 2022 evidence.",
+   "move": null
+  },
+  "clue-clue": {
+   "verdict": "cut",
+   "reason": "Huge app; no realistic path.",
+   "move": null
+  },
+  "exos-at-novant-health-huntersville-exos-novant-health": {
+   "verdict": "cut",
+   "reason": "2016 evidence; facility status unconfirmed.",
+   "move": null
+  },
+  "holistic-officer-wellness-how-program-garmin-smartwatch-rollout-new-castle-count": {
+   "verdict": "cut",
+   "reason": "Out-of-state, 2021-2023 evidence; stale.",
+   "move": null
+  },
+  "margaret-h-bublitz-and-adam-k-lewkowitz-brown-ob-gyn-women-and-infants-warren-al": {
+   "verdict": "cut",
+   "reason": "Postpartum clinical device study; medical angle.",
+   "move": null
+  },
+  "mycoach-pro-mycoach-pro": {
+   "verdict": "A",
+   "reason": "Athlete-monitoring app stuck at WHOOP's 10-user cap; wants objective recovery data now.",
+   "move": "Email MyCoach Pro offering a 15-minute call on Vybe as an overnight recovery source beside RPE."
+  },
+  "pace-pace-pacetraining-co": {
+   "verdict": "A",
+   "reason": "Claude MCP wearable connector whose founder wants direct-SDK devices; reachable on HN.",
+   "move": "Reply to the founder's Show HN asking whether a native Vybe connector is worth a feedback call."
+  },
+  "raleigh-running-outfitters-raleigh-running-outfitters-running-specialty-group": {
+   "verdict": "cut",
+   "reason": "Retail demo night for 2027; no current payoff.",
+   "move": null
+  },
+  "strong-lab-711th-human-performance-wing-air-force-research-laboratory-afrl-rh": {
+   "verdict": "B",
+   "reason": "AFRL lab collaborates with industry on wearables; strong validation, but slow government path.",
+   "move": "After OSU HPC contact, ask for an intro to STRONG Lab about evaluating DevKit units."
+  },
+  "thor3-human-performance-program-3rd-special-forces-group-a-us-army-special-opera": {
+   "verdict": "cut",
+   "reason": "Old evidence; overlaps with Fort Bragg H2F outreach.",
+   "move": null
+  },
+  "wei-gao-lab-nc-state-wilson-college-of-textiles-textile-engineering-chemistry-an": {
+   "verdict": "cut",
+   "reason": "Battery materials research; no near-term payoff.",
+   "move": null
+  },
+  "kai-rubengarciam-github": {
+   "verdict": "B",
+   "reason": "Small open-source project wanting HRV/sleep after Fitbit turnoff; low reach.",
+   "move": "Comment on kai issue #54 offering Vybe as an HRV/sleep data source when DevKit v0.1 ships."
+  },
+  "crossfit-goldsboro-crossfit-goldsboro": {
+   "verdict": "cut",
+   "reason": "Generic gym; needs bands.",
+   "move": null
+  },
+  "elon-university-exercise-science-exercise-science-lab-and-biomechanics-lab-elon-": {
+   "verdict": "cut",
+   "reason": "Undergraduate project needing bands; weak payoff.",
+   "move": null
+  },
+  "gdg-on-campus-nc-a-t-google-developer-groups-on-campus-north-carolina-a-t-state-": {
+   "verdict": "B",
+   "reason": "Student developer group; free SDK workshop builds developers, but needs SDK ready.",
+   "move": "Email the chapter offering a free hands-on wearable SDK workshop for the next semester."
+  },
+  "justin-github-rlarson7-ilfirin-longevity-coaching-project": {
+   "verdict": "A",
+   "reason": "Developer whose pipeline dies with Fitbit; already volunteered to beta-test a provider.",
+   "move": "Comment on Open Wearables issue #1000 inviting Justin to beta-test Vybe's API as a design partner."
+  },
+  "michigan-performance-research-laboratory-adam-lepley-mipr-director-university-of": {
+   "verdict": "cut",
+   "reason": "2024 evidence; validation is likely a paid engagement.",
+   "move": null
+  },
+  "riot-raleigh-internet-of-things-and-riot-accelerator-program-riot": {
+   "verdict": "A",
+   "reason": "Raleigh's connected-hardware network with a current accelerator cohort; free route to design partners.",
+   "move": "Email RIoT asking to share the DevKit design-partner call with the cohort and for a free demo slot."
+  },
+  "tactical-athlete-rehabilitation-and-performance-program-chris-kolba-pt-phd-the-o": {
+   "verdict": "cut",
+   "reason": "Clinical return-to-duty rehab; medical angle.",
+   "move": null
+  },
+  "big-team-challenge-big-team-challenge": {
+   "verdict": "cut",
+   "reason": "Workplace step challenges; weak fit for overnight HRV.",
+   "move": null
+  },
+  "measuring-answers-study-matthew-gfeller-center-jason-p-mihalik-phd-university-of": {
+   "verdict": "cut",
+   "reason": "Concussion research; clinical angle.",
+   "move": null
+  },
+  "terra-terra-tryterra-co": {
+   "verdict": "A",
+   "reason": "Wearable API aggregator handling the Fitbit migration; provider listing reaches many developers.",
+   "move": "Email Terra's partnerships team asking how Vybe joins the provider list ahead of the 2027 launch."
+  },
+  "burnalong-employer-and-health-plan-fitness-platform-burnalong": {
+   "verdict": "cut",
+   "reason": "Employer fitness platform; weak fit.",
+   "move": null
+  },
+  "fort-jackson-h2f-academy-and-soldier-performance-readiness-center-u-s-army-fort-": {
+   "verdict": "B",
+   "reason": "H2F Academy trains staff for 110 brigades; high leverage but slow military path.",
+   "move": "Email Fort Jackson public affairs asking which office handles informational briefings to H2F Academy staff."
+  },
+  "national-guard-holistic-wellness-challenge-ngb-j1-warrior-resilience-fitness-nat": {
+   "verdict": "cut",
+   "reason": "Government challenge with endorsement limits; vague ask.",
+   "move": null
+  },
+  "tampa-general-hospital-innovation-center-ybor-city-tampa-general-hospital-tgh-in": {
+   "verdict": "cut",
+   "reason": "Hospital pilot needs bands; clinical setting.",
+   "move": null
+  },
+  "w-hong-yeo-lab-georgia-tech-soft-wearables-for-at-home-sleep-monitoring-georgia-": {
+   "verdict": "cut",
+   "reason": "Brain/breathing sleep sensors; needs hardware, weak payoff.",
+   "move": null
+  },
+  "wearable-validation-of-child-sleep-and-activity-glenn-weaver-lab-arnold-school-u": {
+   "verdict": "cut",
+   "reason": "Child sleep validation; audience irrelevant.",
+   "move": null
+  },
+  "abc-trainerize-integrations-tz-storefront-wrkout-abc-fitness-abc-trainerize": {
+   "verdict": "cut",
+   "reason": "2024 evidence; large company with unclear integration route.",
+   "move": null
+  },
+  "carolina-pain-and-performance-chiropractic-carolina-pain-and-performance-chiropr": {
+   "verdict": "cut",
+   "reason": "Single chiropractic practice; weak fit.",
+   "move": null
+  },
+  "chris-gammell-the-amp-hour-podcast": {
+   "verdict": "A",
+   "reason": "Free guest spot reaching embedded engineers who would build on the SDK; topic just covered.",
+   "move": "Email Chris Gammell pitching a guest episode on building a screenless ECG/HRV band with an open SDK."
+  },
+  "cordico-wellness-app-lexipol-lexipol": {
+   "verdict": "B",
+   "reason": "First-responder wellness app with no wearable integration; possible channel, undated evidence.",
+   "move": "Email Cordico asking whether agencies have asked to connect wearables and request a short call."
+  },
+  "falcon-holistic-health-and-fitness-center-2nd-bct-82nd-airborne-division-2nd-bri": {
+   "verdict": "cut",
+   "reason": "Duplicate of the Fort Bragg H2F brigade row.",
+   "move": null
+  },
+  "kyros-engineering-kyros-engineering": {
+   "verdict": "cut",
+   "reason": "Vendor sales consult, medical-device framing; not a partnership.",
+   "move": null
+  },
+  "noop-ryanbr-noop-open-source": {
+   "verdict": "B",
+   "reason": "Popular subscription-free raw-data wearable project; strong developer signal, needs DevKit.",
+   "move": "Open a NOOP GitHub issue offering a documented Vybe BLE spec once DevKit v0.1 is ready."
+  },
+  "open-wearables-momentum-open-wearables-project": {
+   "verdict": "cut",
+   "reason": "Duplicate of the Open Wearables row.",
+   "move": null
+  },
+  "raleigh-founded-raleigh-founded": {
+   "verdict": "cut",
+   "reason": "Generic founder networking event; not Vybe's buyers.",
+   "move": null
+  },
+  "robb-sutton-robbsutton-com": {
+   "verdict": "B",
+   "reason": "Reviewer who tests screenless bands against Oura and chest strap; needs a band.",
+   "move": "Email Robb Sutton to get on his list for a DevKit comparison when units are available."
+  },
+  "swift-shiftwork-in-firefighters-study-nicole-p-bowles-phd-oregon-health-science-": {
+   "verdict": "B",
+   "reason": "Firefighter shiftwork study using chest straps; strong tactical fit, after DevKit.",
+   "move": "Email Dr. Bowles about adding overnight HRV to a SWIFT follow-up once DevKit ships."
+  },
+  "sleep-technology-research-ambrose-a-chiang-md-case-western-reserve-university-de": {
+   "verdict": "cut",
+   "reason": "Sleep-disordered breathing focus; clinical angle.",
+   "move": null
+  },
+  "truecoach-wearables-partner-perks-truecoach-xplor-technologies": {
+   "verdict": "cut",
+   "reason": "Large coaching platform; perks program generic, undated.",
+   "move": null
+  },
+  "veterans-bridge-home-wednesday-workout-and-veterans-mat-collective-veterans-brid": {
+   "verdict": "cut",
+   "reason": "Needs bands Vybe doesn't have; attendance-based.",
+   "move": null
+  },
+  "winston-salem-police-department-wellness-program-wellness-advocate-winston-salem": {
+   "verdict": "cut",
+   "reason": "Unverified evidence; generic police contact.",
+   "move": null
+  },
+  "american-underground-american-underground": {
+   "verdict": "cut",
+   "reason": "Generic startup hub; not Vybe's buyers.",
+   "move": null
+  },
+  "dhit-digital-health-happy-hours-digital-health-institute-for-transformation-dhit": {
+   "verdict": "cut",
+   "reason": "Stale 2024 event listing.",
+   "move": null
+  },
+  "jagim-lab-mayo-clinic-health-system-andrew-jagim-phd-mayo-clinic-health-system": {
+   "verdict": "B",
+   "reason": "Firefighter ring-based sleep/HRV field research; good comparison partner, needs devices.",
+   "move": "Email Dr. Jagim for a 15-minute call on a future firefighter overnight-ECG comparison."
+  },
+  "leonid-liadveikin-github-flatout73-third-party-app-on-polar-360-name-not-public": {
+   "verdict": "A",
+   "reason": "Developer building on a screenless band, hitting SDK pain now; free SDK requirements input.",
+   "move": "Comment on his Polar SDK issues or GitHub asking for a 15-minute call on screenless-band SDK must-haves."
+  },
+  "pulsetto-pulsetto": {
+   "verdict": "B",
+   "reason": "Consumer device dependent on third-party HRV; possible SDK integration, single-source.",
+   "move": "Email Pulsetto partnerships about integrating Vybe overnight HRV for session-level context."
+  },
+  "warrior-wellness-solutions-warrior-wellness-solutions": {
+   "verdict": "cut",
+   "reason": "Health-coaching nonprofit; weak fit.",
+   "move": null
+  },
+  "oura-ring-mcp-server-jordanburke-oura-ring-mcp-server-open-source": {
+   "verdict": "B",
+   "reason": "Small OSS MCP server; adapter possible after DevKit, low reach.",
+   "move": "Comment on the repo proposing a Vybe MCP adapter collaboration for when DevKit v0.1 ships."
+  },
+  "ecu-club-sports-campus-recreation-wellness-east-carolina-university": {
+   "verdict": "cut",
+   "reason": "Generic campus club sports.",
+   "move": null
+  },
+  "smoky-mountain-adventure-center-smoky-mountain-adventure-center": {
+   "verdict": "cut",
+   "reason": "Generic climbing gym; needs bands.",
+   "move": null
+  },
+  "trooper-recruit-mental-performance-program-sgt-ashley-kierpaul-michigan-state-po": {
+   "verdict": "cut",
+   "reason": "Out-of-state academy cohort needs bands.",
+   "move": null
+  },
+  "carefirst-wellbeing-carefirst-bluecross-blueshield": {
+   "verdict": "cut",
+   "reason": "Large insurer; no realistic path.",
+   "move": null
+  },
+  "georgia-office-of-public-safety-support-peer-counselor-certification-georgia-dep": {
+   "verdict": "cut",
+   "reason": "Peer-counselor mental-health course; weak fit.",
+   "move": null
+  },
+  "montgomery-county-fire-rescue-service-peer-support-team-montgomery-county-govern": {
+   "verdict": "cut",
+   "reason": "Generic peer-support team; undated.",
+   "move": null
+  },
+  "professional-firefighters-of-vermont-peer-support-advocacy-professional-firefigh": {
+   "verdict": "cut",
+   "reason": "Legislative peer-support advocacy; weak fit.",
+   "move": null
+  },
+  "uf-ai-powered-athletics-engineering-x-university-athletic-association-university": {
+   "verdict": "cut",
+   "reason": "2024 evidence; needs bands.",
+   "move": null
+  },
+  "tactical-athlete-hrv-breathwork-research-mark-e-jones-bridget-melton-edd-concord": {
+   "verdict": "B",
+   "reason": "Cadet HRV research with tactical program; good fit, needs DevKits.",
+   "move": "Email Jones and Melton about extending cadet HRV work to overnight recovery once DevKit ships."
+  },
+  "bill-gordon-beyond-the-stack-substack": {
+   "verdict": "cut",
+   "reason": "Tiny Substack; needs hardware for payoff.",
+   "move": null
+  },
+  "elite-hrv-elite-hrv": {
+   "verdict": "A",
+   "reason": "HRV app with tactical and athlete users; adding Vybe as a sensor is direct mutual value.",
+   "move": "Email Elite HRV asking whether they accept new HRV sensor integrations and their data format."
+  },
+  "independence-oh-police-department-wellness-program-independence-police-departmen": {
+   "verdict": "cut",
+   "reason": "Needs 5 bands; out-of-state department.",
+   "move": null
+  },
+  "nicole-e-logan-uri-department-of-kinesiology-university-of-rhode-island": {
+   "verdict": "cut",
+   "reason": "Adolescent step data; weak fit.",
+   "move": null
+  },
+  "peixuan-zheng-lab-rutgers-department-of-kinesiology-and-health-rutgers-universit": {
+   "verdict": "cut",
+   "reason": "Stale 2025 recruiting post; unconfirmed lab status.",
+   "move": null
+  },
+  "t3-performance-t3-performance": {
+   "verdict": "cut",
+   "reason": "Out-of-state gym recruiting needs bands.",
+   "move": null
+  },
+  "clawwatch-thinkoff-petrus-pennanen-github-thinkoffapp": {
+   "verdict": "B",
+   "reason": "OSS on-watch agent builder seeking sensor sources; small reach.",
+   "move": "Reply on Open Wearables discussion #572 asking whether ClawWatch would use Vybe HRV via SDK."
+  },
+  "in-extremis-performance-jake-labhart-in-extremis-performance": {
+   "verdict": "cut",
+   "reason": "Course passed; needs DevKits for SWAT.",
+   "move": null
+  },
+  "open-wearables-the-momentum-open-wearables-momentum": {
+   "verdict": "A",
+   "reason": "Open-source wearable API used by builders hit by Fitbit turnoff; provider adapter reaches them.",
+   "move": "Open a GitHub discussion proposing a Vybe provider adapter and share draft SDK spec."
+  },
+  "tarheel-crossfit-south-tarheel-crossfit-south": {
+   "verdict": "cut",
+   "reason": "Generic gym; needs bands.",
+   "move": null
+  },
+  "xone-xone-precision-medicine-program-calgary": {
+   "verdict": "cut",
+   "reason": "Clinical patient program; medical angle.",
+   "move": null
+  },
+  "fitbit-grafana-arpanghosh8453-fitbit-grafana-open-source": {
+   "verdict": "B",
+   "reason": "Popular self-hosted dashboard migrating off Fitbit; QS users, after DevKit.",
+   "move": "Open an issue proposing a Vybe provider and ask for API-shape feedback."
+  },
+  "aduro-aduro": {
+   "verdict": "cut",
+   "reason": "Employer wellness platform; weak fit.",
+   "move": null
+  },
+  "black-balsam-outdoors-black-balsam-outdoors": {
+   "verdict": "cut",
+   "reason": "Outfitter; audience irrelevant.",
+   "move": null
+  },
+  "cavalier-surf-shop-cavalier-surf-shop": {
+   "verdict": "cut",
+   "reason": "Surf shop; audience irrelevant.",
+   "move": null
+  },
+  "footsloggers-rock-dimensions-tower-footsloggers": {
+   "verdict": "cut",
+   "reason": "Outdoor retailer; weak fit.",
+   "move": null
+  },
+  "lookout-brewing-running-club-lookout-brewing-company": {
+   "verdict": "cut",
+   "reason": "Generic run club; needs bands.",
+   "move": null
+  },
+  "ohio-state-highway-patrol-health-and-physical-fitness-program-ohio-state-highway": {
+   "verdict": "cut",
+   "reason": "Old article; status unverified.",
+   "move": null
+  },
+  "saltydog-jiu-jitsu-port-city-mma-fitness-port-city-mma-fitness": {
+   "verdict": "cut",
+   "reason": "Generic gym; needs bands.",
+   "move": null
+  },
+  "ymca-of-southeastern-nc-and-novant-health-community-wellness-partnership-ymca-of": {
+   "verdict": "cut",
+   "reason": "2024 evidence; generic.",
+   "move": null
+  },
+  "emory-healthcare-sports-medicine-emory-healthcare": {
+   "verdict": "cut",
+   "reason": "Large health system; no path.",
+   "move": null
+  },
+  "new-jersey-state-police-officer-wellness-2026-ag-grant-recipient-new-jersey-stat": {
+   "verdict": "cut",
+   "reason": "Generic state police grant mention.",
+   "move": null
+  },
+  "point32health-innovation-challenge-point32health-harvard-pilgrim-tufts-health-pl": {
+   "verdict": "cut",
+   "reason": "Insurer challenge, no dates; weak fit.",
+   "move": null
+  },
+  "vha-innovators-network-greenhouse-initiative-u-s-department-of-veterans-affairs-": {
+   "verdict": "cut",
+   "reason": "2023 evidence; status unverified.",
+   "move": null
+  },
+  "cleveland-hardware-meetup-cleveland-hardware-meetup-hardware-meetup-network": {
+   "verdict": "cut",
+   "reason": "Ohio meetup requires travel; Vybe is in Raleigh.",
+   "move": null
+  },
+  "ace-certified-professional-partner-perks-american-council-on-exercise-ace": {
+   "verdict": "cut",
+   "reason": "Perks partnership implies discounts at launch; generic.",
+   "move": null
+  },
+  "amazon-launchpad-us-amazon": {
+   "verdict": "cut",
+   "reason": "Huge company; invite-only path.",
+   "move": null
+  },
+  "brazilian-jiu-jitsu-northeast-ohio-academies-ibjjf-ruled-competition-gt-brazilia": {
+   "verdict": "cut",
+   "reason": "Ohio BJJ gyms; weak fit, needs bands.",
+   "move": null
+  },
+  "cleveland-clinic-innovations-industry-partnerships-cleveland-clinic": {
+   "verdict": "cut",
+   "reason": "Huge clinical health system.",
+   "move": null
+  },
+  "delaware-state-fire-commission-mental-health-resiliency-program-delaware-state-f": {
+   "verdict": "cut",
+   "reason": "Mental-health program out of state.",
+   "move": null
+  },
+  "fop-division-of-wellness-services-provider-network-state-wellness-liaison-cadre-": {
+   "verdict": "cut",
+   "reason": "Provider listing for practitioners; weak fit.",
+   "move": null
+  },
+  "kroger-supplier-hub-new-item-submission-and-kroger-health-the-kroger-co-kroger-h": {
+   "verdict": "cut",
+   "reason": "Retail shelf; pre-launch, wrong fit.",
+   "move": null
+  },
+  "michael-l-hicks-android-central": {
+   "verdict": "B",
+   "reason": "Tests fitness wearables against references; coverage after DevKit.",
+   "move": "Send Michael Hicks a short intro so Vybe is on his Health Connect band list."
+  },
+  "ohio-sports-chiropractic-and-rehab-northfield-canton-ohio-sports-chiropractic-an": {
+   "verdict": "cut",
+   "reason": "Single chiropractic clinic; weak fit.",
+   "move": null
+  },
+  "precision-nutrition-partner-network-precision-nutrition": {
+   "verdict": "cut",
+   "reason": "Coach certification network; weak fit.",
+   "move": null
+  },
+  "promedica-innovations-startup-partner-promedica": {
+   "verdict": "cut",
+   "reason": "Health-system innovation; clinical angle.",
+   "move": null
+  },
+  "rachael-schultz-business-insider": {
+   "verdict": "B",
+   "reason": "Mainstream reviewer of screenless trackers; launch-time wear test.",
+   "move": "Send Rachael Schultz an intro note for a four-week wear test at launch."
+  },
+  "sonic-boom-wellness-supported-devices-sonic-boom-wellness": {
+   "verdict": "cut",
+   "reason": "Employer wellness platform; weak fit.",
+   "move": null
+  },
+  "tactical-wealth-from-military-to-money-tactical-wealth": {
+   "verdict": "cut",
+   "reason": "Finance-focused podcast; audience irrelevant, no booking route.",
+   "move": null
+  },
+  "the-science-behind-wearables-open-wearables-by-momentum": {
+   "verdict": "cut",
+   "reason": "Activity unknown; stale.",
+   "move": null
+  },
+  "vet-s-o-s-presents-operation-startup-vet-s-o-s-501-c-3": {
+   "verdict": "cut",
+   "reason": "Generic startup podcast; no booking route.",
+   "move": null
+  },
+  "walker-tracker-terryberry-step-and-wellness-challenges-terryberry": {
+   "verdict": "cut",
+   "reason": "2024 evidence; step challenges.",
+   "move": null
+  },
+  "webmd-health-services-one-integrations-formerly-limeade-webmd-health-services": {
+   "verdict": "cut",
+   "reason": "Large employer wellness company.",
+   "move": null
+  },
+  "charlotte-hack-unc-charlotte-hackathon-club-unc-charlotte": {
+   "verdict": "cut",
+   "reason": "Needs loaner DevKits.",
+   "move": null
+  },
+  "notre-dame-wearable-and-stress-sensing-project-zhi-zheng-phd-university-of-notre": {
+   "verdict": "cut",
+   "reason": "2025 evidence; textile stress sensing.",
+   "move": null
+  },
+  "smartwatch-accuracy-study-paul-hibbing-phd-university-of-illinois-chicago-applie": {
+   "verdict": "cut",
+   "reason": "Study ended; speculative follow-on.",
+   "move": null
+  },
+  "combat-club-martial-arts-and-fitness-combat-club-martial-arts-and-fitness": {
+   "verdict": "cut",
+   "reason": "Generic gym; needs bands.",
+   "move": null
+  },
+  "military-suicide-prevention-research-with-wearable-sleep-justin-c-baker-phd-laur": {
+   "verdict": "cut",
+   "reason": "Suicide prevention; clinical/mental-health angle.",
+   "move": null
+  },
+  "shift-worker-hrv-research-mesa-barbara-n-harding-phd-university-of-new-mexico-co": {
+   "verdict": "cut",
+   "reason": "Epidemiology cohort; no near-term payoff.",
+   "move": null
+  },
+  "wildfire-smoke-and-firefighter-heart-study-so-min-cheong-phd-texas-a-m-universit": {
+   "verdict": "cut",
+   "reason": "No current evidence.",
+   "move": null
+  },
+  "va-maine-healthcare-system-togus-va-medical-center-u-s-department-of-veterans-af": {
+   "verdict": "cut",
+   "reason": "VA residential treatment; clinical.",
+   "move": null
+  },
+  "kent-state-sports-performance-bob-lemieux-trent-stratton-kent-state-university-a": {
+   "verdict": "cut",
+   "reason": "Asks for 5-10 bands, the entire DevKit.",
+   "move": null
+  },
+  "clawhub-openclaw-skill-registry-openclaw": {
+   "verdict": "B",
+   "reason": "Self-serve skill registry where builders pull recovery data; after data access is live.",
+   "move": "Publish a Vybe skill with synthetic demo data once DevKit v0.1 data access is live."
+  },
+  "discovery-vitality-vitality-group-device-ecosystem-vitality-discovery": {
+   "verdict": "cut",
+   "reason": "Huge insurer ecosystem; no realistic path.",
+   "move": null
+  },
+  "health-sync-appyhapps-appyhapps": {
+   "verdict": "B",
+   "reason": "Bridge app widely used when APIs close; listing after DevKit API.",
+   "move": "Email appyhapps asking whether they'd add Vybe as a source once the API is live."
+  },
+  "included-health-connected-partner-ecosystem-included-health": {
+   "verdict": "cut",
+   "reason": "Clinical partner ecosystem.",
+   "move": null
+  },
+  "libra-industries-libra-industries": {
+   "verdict": "cut",
+   "reason": "Paid manufacturing vendor.",
+   "move": null
+  },
+  "metro-nashville-police-department-professional-wellness-section-metro-nashville-": {
+   "verdict": "cut",
+   "reason": "Out-of-state police wellness; generic.",
+   "move": null
+  },
+  "nj-governor-s-council-on-mental-health-stigma-first-responder-outreach-new-jerse": {
+   "verdict": "cut",
+   "reason": "Mental-health stigma outreach; weak fit.",
+   "move": null
+  },
+  "pacer-for-teams-pacer-health": {
+   "verdict": "cut",
+   "reason": "Step-challenge platform; weak fit.",
+   "move": null
+  },
+  "rally-optum-engage-device-connections-optum-unitedhealth-group": {
+   "verdict": "cut",
+   "reason": "Huge insurer platform.",
+   "move": null
+  },
+  "themilvet-podcast-themilvet": {
+   "verdict": "cut",
+   "reason": "Defense-tech founder podcast; no booking route.",
+   "move": null
+  },
+  "walkingspree-channel-partner-program-walkingspree": {
+   "verdict": "cut",
+   "reason": "Corporate step wellness; weak fit.",
+   "move": null
+  },
+  "alphahrv-alphahrv-luisma-gallego-inigo-tolosa": {
+   "verdict": "B",
+   "reason": "DFA alpha1 tool bottlenecked on beat-to-beat hardware; HRV-athlete niche, after DevKit.",
+   "move": "Post on the Intervals.icu thread asking AlphaHRV devs whether raw ECG RR from Vybe would help."
+  },
+  "clean-dopamine-clean-dopamine": {
+   "verdict": "B",
+   "reason": "App stuck at WHOOP's cap; fit unclear, after DevKit.",
+   "move": "Reply on the WHOOP Community thread offering Vybe SDK access as an alternative source."
+  },
+  "nj-fast-accelerator-plug-and-play-njeda-new-jersey-economic-development-authorit": {
+   "verdict": "cut",
+   "reason": "NJ accelerator requires NJ nexus.",
+   "move": null
+  },
+  "washington-township-fire-department-fitness-wellness-program-rfp-washington-town": {
+   "verdict": "cut",
+   "reason": "Stale 2025 RFP.",
+   "move": null
+  },
+  "consumer-wearable-validation-in-cancer-survivors-roberto-m-benzo-phd-the-ohio-st": {
+   "verdict": "cut",
+   "reason": "Cancer-survivor clinical validation.",
+   "move": null
+  },
+  "ny-hardware-meetup-hw-demo-day-hardware-meetup-network": {
+   "verdict": "cut",
+   "reason": "NYC demo requires travel.",
+   "move": null
+  },
+  "hack-fiesta-miami-gdg-on-campus-fiu-google-developer-group-on-campus-florida-int": {
+   "verdict": "cut",
+   "reason": "Past event; Miami travel.",
+   "move": null
+  },
+  "amateur-olympic-style-boxing-ohio-lbc-usa-boxing-ohio-local-boxing-committee": {
+   "verdict": "cut",
+   "reason": "Ohio boxing; weak fit.",
+   "move": null
+  },
+  "caresource-dayton-oh-innovation-pilots-caresource": {
+   "verdict": "cut",
+   "reason": "Stale 2023 Medicaid precedent.",
+   "move": null
+  },
+  "code-chiro-dr-chad-teague-and-dr-mary-teague-code-chiro": {
+   "verdict": "cut",
+   "reason": "Celebrity chiropractors; no path.",
+   "move": null
+  },
+  "greg-morris-gregmorris-co-uk": {
+   "verdict": "cut",
+   "reason": "Small UK blog; post-launch only.",
+   "move": null
+  },
+  "medical-mutual-of-ohio-medmutual-well-vitality-powered-medical-mutual": {
+   "verdict": "cut",
+   "reason": "Large insurer; no path.",
+   "move": null
+  },
+  "ohio-high-school-contact-sports-ohsaa-gsr-20-3-ohio-high-school-athletic-associa": {
+   "verdict": "cut",
+   "reason": "High school sports regulation; audience irrelevant.",
+   "move": null
+  },
+  "stride-accelerator-university-of-akron-research-foundation-stride-accelerator-un": {
+   "verdict": "cut",
+   "reason": "Akron accelerator; Vybe is in Raleigh.",
+   "move": null
+  },
+  "tt-electronics-npi-center-of-excellence-cleveland-tt-electronics-npi-center-of-e": {
+   "verdict": "cut",
+   "reason": "Paid manufacturing vendor.",
+   "move": null
+  },
+  "your-plan-for-health-ohio-state-university-personify-health-the-ohio-state-unive": {
+   "verdict": "cut",
+   "reason": "University employee wellness; no path.",
+   "move": null
+  },
+  "flexpcb-com-flex-pcb-usa-prototype-flexpcb-com-flex-pcb-usa-prototype": {
+   "verdict": "cut",
+   "reason": "Paid PCB quote.",
+   "move": null
+  },
+  "fc-cincinnati-sport-science-phil-keehne-fc-cincinnati": {
+   "verdict": "cut",
+   "reason": "Pro club; no realistic path.",
+   "move": null
+  },
+  "simulated-military-operations-hrv-research-jennifer-c-rood-phd-adam-c-lowe-penni": {
+   "verdict": "cut",
+   "reason": "2025 evidence; needs DevKits.",
+   "move": null
+  },
+  "cleveland-cryo-beachwood-cleveland-cryo": {
+   "verdict": "cut",
+   "reason": "Cryo studio; needs bands.",
+   "move": null
+  },
+  "gadgetbridge-freeyourgadget-gadgetbridge": {
+   "verdict": "B",
+   "reason": "Open-source companion app welcoming new devices; QS reach after DevKit.",
+   "move": "Open a Gadgetbridge issue offering BLE protocol docs and a test unit once DevKit ships."
+  },
+  "himss27-global-health-conference-emerge-experience-himss": {
+   "verdict": "cut",
+   "reason": "Paid conference; clinical buyer audience.",
+   "move": null
+  },
+  "cincinnati-reds-applied-sports-science-aaron-cunanan-phd-cincinnati-reds": {
+   "verdict": "cut",
+   "reason": "Pro team; weak evidence, no path.",
+   "move": null
+  },
+  "indianapolis-fire-department-frst-wearable-challenge-participant-indianapolis-fi": {
+   "verdict": "cut",
+   "reason": "Undated; generic.",
+   "move": null
+  },
+  "christi-s-ulmer-durham-va-adapt-center-of-innovation-durham-va-health-care-syste": {
+   "verdict": "cut",
+   "reason": "VA PTSD/depression sleep research is a clinical angle; no near-term payoff.",
+   "move": null
+  },
+  "fleet-feet-carrboro-and-durham-training-programs-fleet-feet-carrboro-durham-sout": {
+   "verdict": "B",
+   "reason": "Local coached runner groups; good 2027 feedback cohort, but needs bands first.",
+   "move": "Email the Carrboro/Durham training lead proposing a free HRV-recovery talk for the 2027 marathon group."
+  },
+  "life-time-innovation-hub-life-time": {
+   "verdict": "B",
+   "reason": "Free form, real member pilots, but needs DevKit units placed in clubs.",
+   "move": "Submit the Life Time Innovation Hub interest form once DevKit v0.1 ship dates are firm."
+  },
+  "open-wearables-momentum-the-momentum": {
+   "verdict": "A",
+   "reason": "Open-source aggregator; Fitbit shutdown drives devs to new sources; BLE provider on roadmap.",
+   "move": "Open a provider-integration issue on the-momentum/open-wearables proposing a Vybe BLE provider; request a 15-min maintainer call."
+  },
+  "raleigh-orthopaedic-performance-centers-raleigh-orthopaedic": {
+   "verdict": "cut",
+   "reason": "Orthopaedic clinic performance centre; generic fit, no current signal.",
+   "move": null
+  },
+  "validic-inform-supported-device-network-for-payers-and-health-systems-validic": {
+   "verdict": "cut",
+   "reason": "Payer and health-system device network; clinical channel, premature pre-launch.",
+   "move": null
+  },
+  "abbie-e-smith-ryan-unc-department-of-exercise-and-sport-science-university-of-no": {
+   "verdict": "B",
+   "reason": "Local UNC athlete-recovery lab, current paper; research credibility pays off after DevKit.",
+   "move": "Email Dr. Smith-Ryan citing the JSCR paper; ask 15 minutes on overnight HRV as a follow-on predictor."
+  },
+  "lindsey-rosman-phd-unc-cardiology-wearable-trials-university-of-north-carolina-a": {
+   "verdict": "cut",
+   "reason": "Cardiology AFib patient trials; clinical angle.",
+   "move": null
+  },
+  "kelly-r-evenson-unc-gillings-school-of-global-public-health-epidemiology-univers": {
+   "verdict": "cut",
+   "reason": "Step-count methods review; weak fit for overnight ECG/HRV.",
+   "move": null
+  },
+  "mass-general-brigham-digital-health-startup-database-mass-general-brigham": {
+   "verdict": "cut",
+   "reason": "Hospital-system startup database; clinical buyer, no fit.",
+   "move": null
+  },
+  "ray-maker-dc-rainmaker": {
+   "verdict": "B",
+   "reason": "Most-cited screenless-band tester; huge credibility, but only once a unit exists.",
+   "move": "Send DC Rainmaker a short heads-up email now; offer a DevKit for reference testing when ready."
+  },
+  "delx-wellness-delx-david-batista-github-davidmosiah": {
+   "verdict": "A",
+   "reason": "MCP connector registry accepts peer PRs; puts Vybe in front of AI-agent builders for free.",
+   "move": "Email/issue to David Batista asking the connector-quality bar; draft a Vybe MCP connector spec for peer listing."
+  },
+  "onetwenty-onetwenty": {
+   "verdict": "A",
+   "reason": "Live product capped by WHOOP API; wants second HRV source. Ideal design partner.",
+   "move": "Reply to their WHOOP Community thread or email founders offering a DevKit design-partner slot and a 15-min call."
+  },
+  "axlcoach-axlcoach-axl-coach": {
+   "verdict": "A",
+   "reason": "CTO actively building providers on Open Wearables now; recovery coaching fits overnight HRV.",
+   "move": "Message slavarosin on GitHub referencing his Open Wearables PRs; propose a call on a Vybe source for AxlCoach."
+  },
+  "infinity-medical-concierge-infinity-medical-concierge-imc": {
+   "verdict": "cut",
+   "reason": "Clinician-led medical concierge in South Africa; medical angle, off-market.",
+   "move": null
+  },
+  "marco-altini-hrv4training": {
+   "verdict": "A",
+   "reason": "Most credible HRV voice; feedback on RR export makes the SDK trustworthy to developers.",
+   "move": "Email Marco Altini asking 15 minutes of feedback on Vybe's RR-interval/ECG export spec and measurement protocol."
+  },
+  "sleep-cycle-sleep-cycle": {
+   "verdict": "B",
+   "reason": "Real SDK partner program and Ultrahuman precedent; big company, payoff after DevKit.",
+   "move": "Submit Sleep Cycle partnerships 'Get in Touch' form proposing an audio-plus-overnight-HRV pilot."
+  },
+  "the5krunner-the5krunner": {
+   "verdict": "B",
+   "reason": "Independent multi-device tester; needs a DevKit unit before any payoff.",
+   "move": "Email the5krunner introducing Vybe; ask to be considered for a future multi-device recovery test."
+  },
+  "youngs-physical-therapy-sports-performance-youngs-physical-therapy-sports-perfor": {
+   "verdict": "cut",
+   "reason": "Generic PT clinic; no signal, needs bands.",
+   "move": null
+  },
+  "firebeats-mybeats-nyu-tandon-fire-research-nyu-tandon-school-of-engineering-fire": {
+   "verdict": "cut",
+   "reason": "Firefighter cardiac-risk flagging is a medical-claim angle.",
+   "move": null
+  },
+  "powerline-powerdms-powerdms": {
+   "verdict": "cut",
+   "reason": "No wearable integration; generic fit.",
+   "move": null
+  },
+  "kunal-mankodiya-uri-electrical-computer-and-biomedical-engineering-with-nicole-r": {
+   "verdict": "cut",
+   "reason": "Trauma-exposed adolescent psychiatric study; clinical.",
+   "move": null
+  },
+  "sleep-consumer-wearables-and-nearables-evaluation-rebecca-m-c-spencer-phd-univer": {
+   "verdict": "B",
+   "reason": "Lab already runs consumer sleep-tracker comparisons; validation subject after DevKit.",
+   "move": "Email Dr. Spencer asking if DevKit v0.1 could join their next consumer sleep-tracker evaluation."
+  },
+  "aere-aere": {
+   "verdict": "B",
+   "reason": "Longevity platform ingesting HRV from many wearables; quantified-self audience fits.",
+   "move": "Email Aere asking how a new device becomes a supported OAuth source for AerePulse."
+  },
+  "blue-cross-nc-member-wellness-programs-and-blue365-discounts-blue-cross-and-blue": {
+   "verdict": "cut",
+   "reason": "Insurer discount list; premature, big company, no product to list.",
+   "move": null
+  },
+  "dale-w-russell-uniformed-services-university-department-of-psychiatry-uniformed-": {
+   "verdict": "B",
+   "reason": "Navy fatigue researcher; tactical validation partner, payoff after DevKit.",
+   "move": "Email Dr. Russell citing the JSR paper; ask 15 minutes on objective overnight data for Navy fatigue studies."
+  },
+  "duke-live-for-life-employee-wellness-program-duke-university-human-resources": {
+   "verdict": "cut",
+   "reason": "Employer wellness program; nothing to offer before launch.",
+   "move": null
+  },
+  "exposure-awareness-system-crg-vigilife-cornerstone-research-group-crg-defense": {
+   "verdict": "cut",
+   "reason": "Stale 2025 signal; real-time fireground monitoring isn't Vybe's overnight use.",
+   "move": null
+  },
+  "humango-humango": {
+   "verdict": "B",
+   "reason": "HRV-driven AI coach; integration fit, but no current dated signal.",
+   "move": "Email Humango asking whether Hugo would test Vybe overnight HRV as an input after DevKit."
+  },
+  "madelyn-r-frumkin-dartmouth-biomedical-data-science-and-psychiatry-dartmouth-col": {
+   "verdict": "cut",
+   "reason": "Spine-surgery outcome prediction; clinical.",
+   "move": null
+  },
+  "moody-month-moody-month": {
+   "verdict": "cut",
+   "reason": "Stale 2024 evidence; weak fit.",
+   "move": null
+  },
+  "nolio-nolio": {
+   "verdict": "B",
+   "reason": "Coach platform importing HRV from many devices with a connector request route.",
+   "move": "Submit a Vybe connector suggestion through Nolio's connector request route."
+  },
+  "rise-science-rise-sleep-rise-science-rise-sleep": {
+   "verdict": "B",
+   "reason": "Sleep app accepts Health Connect/Apple Health data; free once Vybe writes there.",
+   "move": "Confirm Vybe's Health Connect/Apple Health sleep write path, then ask RISE support about a listed device."
+  },
+  "randy-j-nelson-lab-wvu-rockefeller-neuroscience-institute-dept-of-neuroscience-w": {
+   "verdict": "cut",
+   "reason": "Mouse study; no human overnight need.",
+   "move": null
+  },
+  "staker-chiropractic-center-staker-chiropractic-center": {
+   "verdict": "cut",
+   "reason": "Generic chiropractic clinic; no signal.",
+   "move": null
+  },
+  "the-hardtech-podcast-the-hardtech-podcast": {
+   "verdict": "B",
+   "reason": "Free guest spot with wearable-founder streak; credibility more than buyer reach.",
+   "move": "Find the Hardtech Podcast contact route and pitch a hardware-plus-open-SDK founder story."
+  },
+  "v-o2-v-o2": {
+   "verdict": "cut",
+   "reason": "Stale 2024 evidence.",
+   "move": null
+  },
+  "wild-ai-wild-ai": {
+   "verdict": "cut",
+   "reason": "Second-hand, undated evidence; no current signal.",
+   "move": null
+  },
+  "cyclelytic-cyclelytic": {
+   "verdict": "cut",
+   "reason": "Needs ride HR/power data; overnight band doesn't supply it.",
+   "move": null
+  },
+  "thryve-thryve": {
+   "verdict": "A",
+   "reason": "Aggregator scrambling after Fitbit cutoff; listing Vybe reaches many developer customers.",
+   "move": "Email Thryve partnerships citing their Sept 29 Fitbit post; propose listing Vybe as a 2027 SDK data source."
+  },
+  "va-providence-center-for-neurorestoration-and-neurotechnology-w-curt-lafrance-ry": {
+   "verdict": "cut",
+   "reason": "Veteran neuropsychiatry/memory research; clinical.",
+   "move": null
+  },
+  "health2tech-nyc-nov-5-2026-medtech-edition-health2tech": {
+   "verdict": "cut",
+   "reason": "In-person NYC demo event; travel and attendance only.",
+   "move": null
+  },
+  "lemurs-study-lived-experiences-measured-using-rings-study-university-of-vermont": {
+   "verdict": "cut",
+   "reason": "Stale 2024 evidence; needs units Vybe lacks.",
+   "move": null
+  },
+  "maneuver-center-of-excellence-h2f-proponency-fort-benning-u-s-army-maneuver-cent": {
+   "verdict": "B",
+   "reason": "H2F proponent office relocating; right door for tactical, but slow military path.",
+   "move": "Email the MCoE H2F office asking how industry should share device info and about any industry day."
+  },
+  "weightwatchers-ww-international-inc": {
+   "verdict": "cut",
+   "reason": "Huge company, stale evidence, no path in.",
+   "move": null
+  },
+  "tactical-athlete-health-research-jackie-zera-phd-facsm-john-carroll-university-d": {
+   "verdict": "B",
+   "reason": "Firefighter sleep-environment lab with current paper; tactical validation after DevKit.",
+   "move": "Email Dr. Zera citing the IJERPH paper; ask if objective overnight data fits her next phase."
+  },
+  "between-service-science-veterans-health-podcast-unc-chapel-hill-carolina-populat": {
+   "verdict": "cut",
+   "reason": "Undated; Gulf War illness focus is clinical.",
+   "move": null
+  },
+  "charlotte-fire-iaff-local-660-wellness-fitness-initiative-task-force-charlotte-f": {
+   "verdict": "cut",
+   "reason": "Unverified, undated evidence; needs re-check first.",
+   "move": null
+  },
+  "crew-endurance-team-nita-lewis-shattuck-phd-panagiotis-matsangas-phd-naval-postg": {
+   "verdict": "B",
+   "reason": "Navy sea-sleep team already compares wearables; strong validation, needs all DevKits.",
+   "move": "Email the Crew Endurance Team asking what a comparison device would need for a future cohort."
+  },
+  "f2-labs-middlefield-oh-f2-labs-middlefield-oh": {
+   "verdict": "cut",
+   "reason": "Paid certification lab.",
+   "move": null
+  },
+  "joules-joules-joules-cc": {
+   "verdict": "B",
+   "reason": "AI coach with device integrations on roadmap; early-adopter builder.",
+   "move": "Email Joules offering Vybe as a first overnight recovery input on their integration roadmap."
+  },
+  "marine-corps-total-fitness-mctfit-implementation-training-at-camp-lejeune-ii-mar": {
+   "verdict": "cut",
+   "reason": "Military unit training photo; no reachable owner or payoff.",
+   "move": null
+  },
+  "nowfit-nowfit": {
+   "verdict": "B",
+   "reason": "Coach platform via Sahha; Vybe-to-Sahha path reaches coaches, needs DevKits.",
+   "move": "Email NOWFit and Sahha asking what it takes to flow Vybe HRV into coach dashboards."
+  },
+  "platelens-visiontech-solutions-llc": {
+   "verdict": "cut",
+   "reason": "Calorie tracker; weak fit.",
+   "move": null
+  },
+  "red-hat-raleigh-hq-associate-wellness-red-hat": {
+   "verdict": "cut",
+   "reason": "Generic employer gym; no signal.",
+   "move": null
+  },
+  "salisbury-va-health-care-system-sleep-and-pulmonary-program-w-g-bill-hefner-va-m": {
+   "verdict": "cut",
+   "reason": "VA CPAP sleep clinic; clinical.",
+   "move": null
+  },
+  "volvo-group-north-america-employee-wellness-program-volvo-group-north-america": {
+   "verdict": "cut",
+   "reason": "Stale 2009 signal.",
+   "move": null
+  },
+  "zero-fasting-app-zero-fasting-app": {
+   "verdict": "cut",
+   "reason": "Fasting app; weak fit.",
+   "move": null
+  },
+  "appalachian-state-human-performance-laboratory-david-nieman-drph-appalachian-sta": {
+   "verdict": "cut",
+   "reason": "No current signal; generic lab.",
+   "move": null
+  },
+  "crossfit-wilmington-crossfit-wilmington": {
+   "verdict": "cut",
+   "reason": "Generic gym; needs bands Vybe doesn't have.",
+   "move": null
+  },
+  "first-flight-venture-center-hangar6-prototyping-first-flight-venture-center": {
+   "verdict": "cut",
+   "reason": "Incubator lab by subscription; generic, costs money.",
+   "move": null
+  },
+  "institute-for-human-health-and-sports-science-research-high-point-university-hig": {
+   "verdict": "cut",
+   "reason": "No current signal or known need.",
+   "move": null
+  },
+  "lorenzo-susino-github-lorenzosusino99-research-study-app-on-polar-360-polar-loop": {
+   "verdict": "A",
+   "reason": "Researcher needs raw signals plus overnight tracking that Polar can't support. Exact use case.",
+   "move": "Comment on Polar SDK issue or email Lorenzo Susino offering a feedback call on Vybe raw-signal and overnight outputs."
+  },
+  "missing-link-crossfit-missing-link-crossfit": {
+   "verdict": "cut",
+   "reason": "Generic gym; unverified, needs bands.",
+   "move": null
+  },
+  "run-the-city-rocky-mount-run-club-run-the-city-rocky-mount-mills": {
+   "verdict": "cut",
+   "reason": "Generic run club; needs bands.",
+   "move": null
+  },
+  "unc-charlotte-exercise-physiology-laboratory-david-e-verrill-unc-charlotte-depar": {
+   "verdict": "cut",
+   "reason": "Teaching lab, no signal, needs bands.",
+   "move": null
+  },
+  "ced-gro-incubator-council-for-entrepreneurial-development-ced": {
+   "verdict": "cut",
+   "reason": "No open cohort or date; likely fees.",
+   "move": null
+  },
+  "nc-officer-health-fitness-and-wellness-study-appalachian-state-and-nc-justice-ac": {
+   "verdict": "cut",
+   "reason": "Undated report; no current signal.",
+   "move": null
+  },
+  "167th-airlift-wing-west-virginia-air-national-guard-west-virginia-air-national-g": {
+   "verdict": "cut",
+   "reason": "Command-change photo; no path or payoff.",
+   "move": null
+  },
+  "connecticut-army-national-guard-2026-best-warrior-competition-connecticut-nation": {
+   "verdict": "cut",
+   "reason": "Past event; needs bands, slow military path.",
+   "move": null
+  },
+  "georgia-army-national-guard-georgia-army-national-guard": {
+   "verdict": "cut",
+   "reason": "Medical readiness story; no reachable owner.",
+   "move": null
+  },
+  "sharecare-tracker-sync-via-apple-health-health-connect-sharecare": {
+   "verdict": "cut",
+   "reason": "Large payer-employer platform; premature.",
+   "move": null
+  },
+  "upmc-sports-medicine-run-with-us-2026-pittsburgh-marathon-upmc-sports-medicine": {
+   "verdict": "cut",
+   "reason": "Huge health system; needs units.",
+   "move": null
+  },
+  "west-virginia-army-national-guard-region-ii-best-warrior-host-camp-dawson-west-v": {
+   "verdict": "cut",
+   "reason": "Past event; needs bands.",
+   "move": null
+  },
+  "health2tech-cleveland-health2tech": {
+   "verdict": "cut",
+   "reason": "Meetup attendance only; Ohio travel.",
+   "move": null
+  },
+  "asheville-police-department-wellness-program-asheville-police-department": {
+   "verdict": "cut",
+   "reason": "Undated, generic officer wellness.",
+   "move": null
+  },
+  "challengerunner-employee-fitness-challenges-challengerunner": {
+   "verdict": "cut",
+   "reason": "Step-challenge platform; weak fit.",
+   "move": null
+  },
+  "cleveland-clinic-global-peak-performance-center-cleveland-clinic-cleveland-caval": {
+   "verdict": "cut",
+   "reason": "Huge institution, 2027 facility; no path now.",
+   "move": null
+  },
+  "dc-fire-and-ems-health-and-safety-division-district-of-columbia-fire-and-ems-dep": {
+   "verdict": "cut",
+   "reason": "Stale 2025; cardiac-risk device angle.",
+   "move": null
+  },
+  "fueld-fueld": {
+   "verdict": "B",
+   "reason": "Athlete fueling app using HRV and sleep; integration after DevKit.",
+   "move": "Email Fueld asking whether a Health-linked or direct Vybe source fits their roadmap."
+  },
+  "load-metric-pro-load-metric-pro": {
+   "verdict": "B",
+   "reason": "Pre-launch coach HRV dashboard with 240+ waitlist; fellow early-stage builder.",
+   "move": "Email Load Metric Pro offering Vybe as an additional supported device for coach rosters."
+  },
+  "nocturnal-product-development-nocturnal-product-development": {
+   "verdict": "cut",
+   "reason": "Paid design firm.",
+   "move": null
+  },
+  "openstrap-openstrap-open-source": {
+   "verdict": "A",
+   "reason": "Open-band builders blocked by closed protocol; natural first adopters and spec reviewers.",
+   "move": "Open an issue/discussion in the OpenStrap org sharing a draft Vybe BLE data spec and asking for feedback."
+  },
+  "red-line-safety-imsafe-red-line-safety": {
+   "verdict": "cut",
+   "reason": "Undated; fireground incident tool, weak fit.",
+   "move": null
+  },
+  "ryan-merket-runtimewire": {
+   "verdict": "A",
+   "reason": "Writes on Fitbit API dependency for developers; timely story, free coverage to Vybe buyers.",
+   "move": "Pitch Ryan Merket a briefing before Oct 30 on an independent licensable wearable SDK as the alternative."
+  },
+  "sathi-fit-sathi-fit": {
+   "verdict": "B",
+   "reason": "Wellness app with HRV alerts and multi-device ingest; small integration partner.",
+   "move": "Email Sathi.fit asking how a new device is added to Wearable Insights."
+  },
+  "teambuildr-wearables-dashboard-teambuildr": {
+   "verdict": "B",
+   "reason": "S&C platform credits any HealthKit wearable; free listing once Vybe writes HealthKit.",
+   "move": "Confirm HealthKit heart-rate compatibility, then ask TeamBuildr to list Vybe as a compatible device."
+  },
+  "unc-greensboro-police-department-wellness-and-fitness-program-unc-greensboro-pol": {
+   "verdict": "cut",
+   "reason": "Unverified, generic.",
+   "move": null
+  },
+  "wake-county-ems-peer-support-team-john-sammons-wake-county-ems": {
+   "verdict": "B",
+   "reason": "Local Wake EMS shift-worker voice; free discovery for first-responder wedge.",
+   "move": "Email John Sammons for a 15-minute conversation on EMS shift-worker sleep and recovery needs."
+  },
+  "athletedata-health-athletedata": {
+   "verdict": "A",
+   "reason": "Recovery-first coach built on gated WHOOP/Oura/Garmin APIs; needs an open recovery source.",
+   "move": "Reach the developer via Slowtwitch/Intervals.icu forum DM; book a 15-min call on adding Vybe as a recovery source."
+  },
+  "cape-fear-crossfit-cape-fear-crossfit": {
+   "verdict": "cut",
+   "reason": "Generic gym.",
+   "move": null
+  },
+  "flywheel-coworking-flywheel": {
+   "verdict": "cut",
+   "reason": "Event demo; travel, unverified.",
+   "move": null
+  },
+  "labyrinth-jiu-jitsu-labyrinth-jiu-jitsu": {
+   "verdict": "cut",
+   "reason": "Generic gym; needs bands.",
+   "move": null
+  },
+  "mi-fitness-data-bridge-shkyyy18-open-source": {
+   "verdict": "B",
+   "reason": "Builder standardising agent-readable wearable data; interoperability with Delx ecosystem.",
+   "move": "Review agent-safe-series/v1 and open an issue asking if Vybe's HRV export can conform."
+  },
+  "southern-pines-crossfit-southern-pines-crossfit": {
+   "verdict": "cut",
+   "reason": "Generic gym; needs bands.",
+   "move": null
+  },
+  "winston-starts-winston-starts": {
+   "verdict": "cut",
+   "reason": "Unverified, generic.",
+   "move": null
+  },
+  "climbmax-climbing-climbmax": {
+   "verdict": "cut",
+   "reason": "Generic gym.",
+   "move": null
+  },
+  "kitty-hawk-kites-kitty-hawk-kites": {
+   "verdict": "cut",
+   "reason": "Irrelevant audience.",
+   "move": null
+  },
+  "soluno-soluno": {
+   "verdict": "cut",
+   "reason": "Russian-language localisation niche; off-market.",
+   "move": null
+  },
+  "157th-air-refueling-wing-pease-air-national-guard-base-new-hampshire-air-nationa": {
+   "verdict": "cut",
+   "reason": "Military unit photo; no path or payoff.",
+   "move": null
+  },
+  "delawell-rewards-program-2026-2027-state-of-delaware-dhr-state-of-delaware-divis": {
+   "verdict": "cut",
+   "reason": "State benefits program; premature.",
+   "move": null
+  },
+  "health2tech-dc-health2tech-founder-institute-washington-dc": {
+   "verdict": "cut",
+   "reason": "Event attendance; DC travel.",
+   "move": null
+  },
+  "ny-quantified-self-show-tell-book-launch-2026-quantified-self-new-york": {
+   "verdict": "cut",
+   "reason": "NYC event; travel and attendance only.",
+   "move": null
+  },
+  "sika-health-hsa-fsa-checkout-marketplace-sika-health": {
+   "verdict": "cut",
+   "reason": "Stale 2023; retail channel premature.",
+   "move": null
+  },
+  "ems-sleep-health-study-p-daniel-patterson-phd-university-of-pittsburgh-dept-of-e": {
+   "verdict": "cut",
+   "reason": "Stale 2023 report.",
+   "move": null
+  },
+  "alight-partner-network-alight-worklife-alight": {
+   "verdict": "cut",
+   "reason": "Enterprise benefits marketplace; premature.",
+   "move": null
+  },
+  "blue-cross-well-being-bcbsm-blue-care-network-personify-powered-blue-cross-blue-": {
+   "verdict": "cut",
+   "reason": "Insurer program; premature.",
+   "move": null
+  },
+  "first-responder-research-laboratory-mark-g-abel-phd-university-of-kentucky-dept-": {
+   "verdict": "B",
+   "reason": "Firefighter shift-sleep lab using diaries; DevKit adds objective data later.",
+   "move": "Email Dr. Abel citing the JOEM paper; ask whether objective overnight data fits a follow-up."
+  },
+  "keep-it-healthy-podcast-momentum": {
+   "verdict": "A",
+   "reason": "Free guest application with Open Wearables' parent; credibility plus deepens that integration.",
+   "move": "Submit the Keep IT Healthy guest application pitching 'the device layer under open wearable data'."
+  },
+  "nordic-semiconductor-partner-program-design-partners-nordic-semiconductor-partne": {
+   "verdict": "cut",
+   "reason": "Paid design services.",
+   "move": null
+  },
+  "simple-muscle-simple-muscle-vladimir-haltakov": {
+   "verdict": "B",
+   "reason": "Solo founder's MCP strength app lacks recovery context; neat joint demo later.",
+   "move": "Message Vladimir Haltakov on LinkedIn proposing a joint Claude MCP demo once DevKit ships."
+  },
+  "wearable-takeover-podcast-wearable-tech-ventures": {
+   "verdict": "cut",
+   "reason": "Show possibly dormant; stale.",
+   "move": null
+  },
+  "devcom-soldier-center-ohws-joseph-patterson-us-army-devcom-soldier-center": {
+   "verdict": "cut",
+   "reason": "Stale 2022.",
+   "move": null
+  },
+  "intervalswellnesssync-intervalswellnesssync": {
+   "verdict": "B",
+   "reason": "Indie Intervals.icu HRV sync builder; good early SDK tester.",
+   "move": "Post in its Intervals.icu forum thread asking the developer for SDK-vs-HealthKit feedback."
+  },
+  "running-wearable-validation-richard-w-willy-phd-the-ohio-state-university-school": {
+   "verdict": "cut",
+   "reason": "Running-load biomechanics; weak fit.",
+   "move": null
+  },
+  "watchletic-watchletic": {
+   "verdict": "B",
+   "reason": "Indie builder pushing HRV/RHR to Intervals.icu; early SDK tester.",
+   "move": "Post in the Watchletic Intervals.icu thread asking for feedback on Vybe's HRV/RHR API."
+  },
+  "bleakheart-fabrizio-smeraldi-github-fsmeraldi": {
+   "verdict": "cut",
+   "reason": "Stale 2025; low payoff.",
+   "move": null
+  },
+  "fitness-dashboard-jlai-jlai-github": {
+   "verdict": "B",
+   "reason": "Fitbit-only dashboard hit by Oct 30 shutdown; open to a second provider.",
+   "move": "Comment on issue #151 asking if a Vybe data-source PR would be accepted after DevKit."
+  },
+  "asheville-running-collective-asheville-running-collective": {
+   "verdict": "cut",
+   "reason": "Generic run club; needs bands.",
+   "move": null
+  },
+  "blue-star-families-fayetteville-greater-region-chapter-blue-star-families": {
+   "verdict": "cut",
+   "reason": "Irrelevant ask; no fit.",
+   "move": null
+  },
+  "cultivate-climbing-cultivate-climbing": {
+   "verdict": "cut",
+   "reason": "Generic gym.",
+   "move": null
+  },
+  "highland-brewing-run-club-highland-brewing-run-club": {
+   "verdict": "cut",
+   "reason": "Generic run club; needs bands.",
+   "move": null
+  },
+  "motion-makers-bicycle-shop-motion-makers-bicycle-shop": {
+   "verdict": "cut",
+   "reason": "Generic bike shop.",
+   "move": null
+  },
+  "ravensguard-bjj-academy-ravensguard-bjj-academy": {
+   "verdict": "cut",
+   "reason": "Generic gym.",
+   "move": null
+  },
+  "sleep-well-firefighters-cal-poly-california-polytechnic-state-university-san-lui": {
+   "verdict": "cut",
+   "reason": "Behavioral-health clinical trial.",
+   "move": null
+  },
+  "burlington-fire-department-peer-support-team-burlington-fire-department-vermont": {
+   "verdict": "cut",
+   "reason": "Peer-support mental-health focus; weak fit.",
+   "move": null
+  },
+  "firezzz-national-firefighter-sleep-study-ndri-embry-riddle-national-development-": {
+   "verdict": "cut",
+   "reason": "Undated, no contact path.",
+   "move": null
+  },
+  "new-york-sports-club-hyrox-affiliation-new-york-sports-club-nysc": {
+   "verdict": "cut",
+   "reason": "NYC chain; needs bands.",
+   "move": null
+  },
+  "simtec-silicone-parts-simtec-silicone-parts": {
+   "verdict": "cut",
+   "reason": "Paid vendor, stale.",
+   "move": null
+  },
+  "global-healthcare-cloud-ai-community-boston-chapter-meetup-global-healthcare-clo": {
+   "verdict": "cut",
+   "reason": "In-person Boston talk; travel, weak audience.",
+   "move": null
+  },
+  "hive76-hive76-member-run-hackerspace": {
+   "verdict": "cut",
+   "reason": "Philadelphia travel; generic.",
+   "move": null
+  },
+  "adaptive-and-wheelchair-sports-ohio-adaptive-sports-ohio": {
+   "verdict": "cut",
+   "reason": "Stale 2023; irrelevant.",
+   "move": null
+  },
+  "aultcare-health-wellness-app-canton-oh-aultcare": {
+   "verdict": "cut",
+   "reason": "Ohio health plan; premature.",
+   "move": null
+  },
+  "cincinnati-children-s-innovation-ventures-external-collaboration-cincinnati-chil": {
+   "verdict": "cut",
+   "reason": "Paediatric hospital; clinical.",
+   "move": null
+  },
+  "cleveland-entrepreneurs-by-ohio-startup-network-ohio-startup-network": {
+   "verdict": "cut",
+   "reason": "Ohio meetup; irrelevant geography.",
+   "move": null
+  },
+  "distantrace-challenge-and-race-platform-with-api-distantrace": {
+   "verdict": "cut",
+   "reason": "Step challenges; weak fit.",
+   "move": null
+  },
+  "federal-wildland-firefighter-health-and-wellbeing-program-u-s-department-of-the-": {
+   "verdict": "cut",
+   "reason": "Huge federal program; no path.",
+   "move": null
+  },
+  "marine-corps-exchange-mcx-supplier-partnerships-marine-corps-community-services-": {
+   "verdict": "cut",
+   "reason": "Retail channel; premature.",
+   "move": null
+  },
+  "nasm-pro-discounts-partners-national-academy-of-sports-medicine-nasm": {
+   "verdict": "cut",
+   "reason": "Stale; post-launch.",
+   "move": null
+  },
+  "ohiohealth-new-ventures-business-incubation-nvbi-ohiohealth": {
+   "verdict": "cut",
+   "reason": "Health-system intake; clinical.",
+   "move": null
+  },
+  "priority-designs-priority-designs": {
+   "verdict": "cut",
+   "reason": "Paid vendor.",
+   "move": null
+  },
+  "punch-through-punch-through": {
+   "verdict": "cut",
+   "reason": "Paid vendor.",
+   "move": null
+  },
+  "restore-hyper-wellness-westlake-and-strongsville-restore-hyper-wellness-franchis": {
+   "verdict": "cut",
+   "reason": "Generic studio; Ohio.",
+   "move": null
+  },
+  "summa-health-hatco-akron-technology-partnerships-summa-health-general-catalyst-h": {
+   "verdict": "cut",
+   "reason": "Closed health-system stack.",
+   "move": null
+  },
+  "texas-instruments-tida-010270-010280-010288-ecg-reference-designs-texas-instrume": {
+   "verdict": "cut",
+   "reason": "Reference design, not a partnership.",
+   "move": null
+  },
+  "trainheroic-integration-requests-trainheroic": {
+   "verdict": "cut",
+   "reason": "No HRV, public feedback board; low odds.",
+   "move": null
+  },
+  "vantage-fit-corporate-wellness-vantage-fit-vantage-circle": {
+   "verdict": "cut",
+   "reason": "Global corporate wellness; weak fit.",
+   "move": null
+  },
+  "wearable-data-builders-by-rook-rook": {
+   "verdict": "A",
+   "reason": "Free Slack of wearable-data builders; direct pool of SDK design partners.",
+   "move": "Join ROOK's Wearable Data Builders Slack and post a rules-compliant intro recruiting 1-2 DevKit design partners."
+  },
+  "youth-and-adult-bouldering-akron-rock-mill-climbing-yoga-fitness-akron-usa-climb": {
+   "verdict": "cut",
+   "reason": "Stale 2023; irrelevant.",
+   "move": null
+  },
+  "iu-luddy-wearables-study-katie-siek-phd-indiana-university-luddy-school": {
+   "verdict": "cut",
+   "reason": "Stale 2025.",
+   "move": null
+  },
+  "openhrv-jan-c-brammer-github-jancbrammer": {
+   "verdict": "B",
+   "reason": "Open-source ECG HRV biofeedback app; adapter PR fits once BLE docs public.",
+   "move": "Open an issue on OpenHRV asking if a Vybe device adapter PR would be welcome."
+  },
+  "uc-heart-lung-and-vascular-institute-university-of-cincinnati-college-of-medicin": {
+   "verdict": "cut",
+   "reason": "ECG screening; clinical.",
+   "move": null
+  },
+  "consumer-wearables-in-congenital-heart-disease-animesh-tandon-md-cleveland-clini": {
+   "verdict": "cut",
+   "reason": "Congenital heart disease; clinical.",
+   "move": null
+  },
+  "mountain-tactical-institute-firefighter-wearable-mini-study-mountain-tactical-in": {
+   "verdict": "cut",
+   "reason": "Undated mini-study; needs units.",
+   "move": null
+  },
+  "smartwatch-sleep-validation-study-mohit-chauhan-mayo-clinic-center-for-individua": {
+   "verdict": "B",
+   "reason": "Lab compares smartwatch generations for sleep; validation subject after DevKit.",
+   "move": "Email Dr. Chauhan asking if DevKit v0.1 could join their next smartwatch sleep comparison."
+  },
+  "correctional-officer-self-regulation-pilot-whoop-straps-with-iacp-technical-assi": {
+   "verdict": "cut",
+   "reason": "Undated; procurement path.",
+   "move": null
+  },
+  "dc-front-runners-dc-front-runners": {
+   "verdict": "cut",
+   "reason": "Generic club; needs bands.",
+   "move": null
+  },
+  "pittsburgh-technology-council-breakfast-briefing-nov-12-2026-pittsburgh-technolo": {
+   "verdict": "cut",
+   "reason": "Event attendance; travel.",
+   "move": null
+  },
+  "cleveland-clinic-healthy-choice-employee-program-cleveland-clinic": {
+   "verdict": "cut",
+   "reason": "Huge institution; premature.",
+   "move": null
+  },
+  "do-ai-fitness-wellness-do-llc": {
+   "verdict": "B",
+   "reason": "Tiny multi-device recovery app; realistic integration partner after DevKit.",
+   "move": "Email Do LLC offering a DevKit integration slot for Genie's recovery insights."
+  },
+  "heather-landi-fierce-healthcare": {
+   "verdict": "cut",
+   "reason": "Clinical-payer beat; no news pre-launch.",
+   "move": null
+  },
+  "jim-mcdonald-tactical-training-conditioning": {
+   "verdict": "A",
+   "reason": "Tactical S&C writer on HRV readiness; feedback and possible coverage to tactical buyers.",
+   "move": "Email Jim McDonald via Tactical Training & Conditioning asking for 15 minutes on tactical data-export needs."
+  },
+  "maine-adaptive-veterans-no-boundaries-camps-maine-adaptive": {
+   "verdict": "cut",
+   "reason": "Travel; disabled-veteran camp, low payoff.",
+   "move": null
+  },
+  "movespring-step-and-activity-challenges-movespring": {
+   "verdict": "cut",
+   "reason": "Step challenges; weak fit.",
+   "move": null
+  },
+  "onu-health-wearable-aggregation-api-onu-for-companies-onu-health": {
+   "verdict": "cut",
+   "reason": "Employer/insurer aggregator; undated, premature.",
+   "move": null
+  },
+  "pliant-medical-pliant-medical": {
+   "verdict": "cut",
+   "reason": "Paid vendor.",
+   "move": null
+  },
+  "rapid-circuitry-rapid-circuitry": {
+   "verdict": "cut",
+   "reason": "Paid vendor.",
+   "move": null
+  },
+  "unitedhealthcare-rewards-compatible-trackers-incl-oura-and-whoop-unitedhealthcar": {
+   "verdict": "cut",
+   "reason": "Huge insurer; no path.",
+   "move": null
+  },
+  "wellable-employee-wellness-platform-reseller-program-wellable": {
+   "verdict": "cut",
+   "reason": "Corporate wellness; premature.",
+   "move": null
+  },
+  "cintrifuse-demo-night-cintrifuse": {
+   "verdict": "cut",
+   "reason": "Cincinnati travel; demo event.",
+   "move": null
+  },
+  "cleveland-browns-health-and-performance-innovation-ryan-curtis-phd-cleveland-bro": {
+   "verdict": "cut",
+   "reason": "NFL team; no path, needs bands.",
+   "move": null
+  },
+  "ohio-state-athletic-training-for-rotc-cadets-and-franklin-county-sheriff-s-offic": {
+   "verdict": "cut",
+   "reason": "Stale 2025; needs units.",
+   "move": null
+  },
+  "openfit-flavioadamo-github": {
+   "verdict": "B",
+   "reason": "Fitbit-only dashboard losing its source Oct 30; second-provider adapter fit.",
+   "move": "Open an issue on FlavioAdamo/openfit asking about a Vybe second-provider adapter."
+  },
+  "garami-jiu-jitsu-garami-jiu-jitsu": {
+   "verdict": "cut",
+   "reason": "Generic gym.",
+   "move": null
+  },
+  "shields-stripes-integrated-care-wearable-outcomes-study-shields-stripes": {
+   "verdict": "cut",
+   "reason": "Clinical trial.",
+   "move": null
+  },
+  "washington-running-club-washington-running-club": {
+   "verdict": "cut",
+   "reason": "Generic club.",
+   "move": null
+  },
+  "anthem-sydney-health-app-rewards-ohio-public-employers-e-g-union-county-cebco-an": {
+   "verdict": "cut",
+   "reason": "Insurer; premature.",
+   "move": null
+  },
+  "century-cycles-medina-peninsula-rocky-river-century-cycles": {
+   "verdict": "cut",
+   "reason": "Generic bike shop.",
+   "move": null
+  },
+  "connecticut-innovations-talent-fair-ci-startup-programming-connecticut-innovatio": {
+   "verdict": "cut",
+   "reason": "Out-of-state event; generic.",
+   "move": null
+  },
+  "konark-silicone-technologies-konark-silicone-technologies": {
+   "verdict": "cut",
+   "reason": "Paid vendor.",
+   "move": null
+  },
+  "nissha-medical-technologies-wearables-lab-accelerator-nissha-medical-technologie": {
+   "verdict": "cut",
+   "reason": "Paid vendor.",
+   "move": null
+  },
+  "shipp-lab-science-of-health-interventions-and-peak-performance-kent-state-univer": {
+   "verdict": "B",
+   "reason": "Autonomic-regulation athlete pilot; objective HRV fits the follow-on study.",
+   "move": "Email the SHIPP Lab asking whether objective overnight HRV fits their follow-on study."
+  },
+  "spartronics-strongsville-oh-spartronics-strongsville-oh": {
+   "verdict": "cut",
+   "reason": "Paid vendor.",
+   "move": null
+  },
+  "techlife-columbus-2-0-launch-techlife-columbus": {
+   "verdict": "cut",
+   "reason": "Event attendance; Ohio.",
+   "move": null
+  },
+  "youth-and-high-school-rugby-ohio-rugby-ohio-ohio-youth-rugby-association-sanctio": {
+   "verdict": "cut",
+   "reason": "Stale; irrelevant.",
+   "move": null
+  },
+  "r-hyrox-reddit": {
+   "verdict": "B",
+   "reason": "Free megathread reaches recovery-minded HYROX athletes; reframe ask to overnight recovery.",
+   "move": "Post once in the pinned megathread with disclosure asking HYROX athletes about overnight recovery data needs."
+  },
+  "smartwatch-measurement-research-rafael-miranda-tassitano-phd-university-of-illin": {
+   "verdict": "cut",
+   "reason": "Generic methods review; weak payoff.",
+   "move": null
+  },
+  "wearable-derived-sleep-and-musculoskeletal-pain-cohort-brian-grawe-md-university": {
+   "verdict": "cut",
+   "reason": "Musculoskeletal pain prediction; clinical.",
+   "move": null
+  },
+  "northwest-tri-bike-kent-northwest-tri-bike": {
+   "verdict": "cut",
+   "reason": "Generic shop; Ohio.",
+   "move": null
+  },
+  "notre-dame-sports-performance-john-wagle-university-of-notre-dame-athletics": {
+   "verdict": "cut",
+   "reason": "WHOOP partner; no fit.",
+   "move": null
+  },
+  "r-e-a-c-h-correctional-employee-wellness-study-michigan-department-of-correction": {
+   "verdict": "cut",
+   "reason": "Stale 2025.",
+   "move": null
+  },
+  "aha-scientific-sessions-2026-health-innovation-pavilion-american-heart-associati": {
+   "verdict": "cut",
+   "reason": "Paid/travel conference; clinical.",
+   "move": null
+  },
+  "michigan-state-athletics-sport-science-bill-burghardt-michigan-state-university-": {
+   "verdict": "cut",
+   "reason": "Stale 2023; big athletics.",
+   "move": null
+  },
+  "duke-center-for-computational-and-digital-health-innovation-comphealth-duke-univ": {
+   "verdict": "B",
+   "reason": "Local Duke wearables seminar series; free guest talk reaches researchers. Demo Day passed, so seminar only.",
+   "move": "Email CompHealth seminar organizers proposing a 30-min virtual talk on open overnight ECG/HRV data access for 2027 series."
+  },
+  "hrv4training-hrv4training": {
+   "verdict": "A",
+   "reason": "200k-user HRV app, founder is HRV authority; integration gives distribution and expert validation.",
+   "move": "Email Marco Altini: 15-min call on Vybe as an HRV4Training source, offer sample overnight RR data for validation."
+  },
+  "restortrain-restortrain": {
+   "verdict": "A",
+   "reason": "Built WHOOP integration stuck behind 10-user cap; needs uncapped HRV SDK now.",
+   "move": "Reply on the WHOOP thread or DM the co-founder: 15-min call and DevKit v0.1 design-partner slot."
+  },
+  "baseline-4ps-lighthouse-health-wellness-lighthouse-health-wellness": {
+   "verdict": "A",
+   "reason": "First-responder wellness app built on wearable HRV baselines; owned by agencies, FOP-listed. Core buyer audience.",
+   "move": "Contact Lighthouse product lead: 15-min call on adding Vybe as a Baseline 4PS data source."
+  },
+  "today-ai-today-ai": {
+   "verdict": "A",
+   "reason": "Launch blocked by WHOOP cap; needs HRV/sleep source for its insight agent now.",
+   "move": "Message Today AI founder from the WHOOP thread: 15-min call, DevKit v0.1 design-partner slot."
+  },
+  "vita-ios-longevity-app-vita": {
+   "verdict": "A",
+   "reason": "Longevity app actively funnels Apple Watch users to a premium HRV device and is WHOOP-blocked.",
+   "move": "Message Vita team: 15-min call pitching Vybe as the no-subscription HRV upgrade; offer design-partner slot."
+  },
+  "adam-w-kiefer-unc-star-heel-performance-laboratory-matthew-gfeller-center-univer": {
+   "verdict": "B",
+   "reason": "NC SOF sleep researcher; objective overnight data fits, but payoff waits for DevKit.",
+   "move": "Email Kiefer a 3-line note on DevKit v0.1 raw ECG/HRV; ask for a 15-min call after units ship."
+  },
+  "e-whitney-g-moore-ecu-department-of-kinesiology-east-carolina-university": {
+   "verdict": "cut",
+   "reason": "Cadet marksmanship psychology study; no overnight physiology angle. Weak fit.",
+   "move": null
+  },
+  "methodist-university-kinesiology-methodist-university": {
+   "verdict": "cut",
+   "reason": "No current signal; generic student capstone idea. Weak fit.",
+   "move": null
+  },
+  "neuromuscular-research-laboratory-warrior-human-performance-research-center-brad": {
+   "verdict": "B",
+   "reason": "Top tactical wearable lab with criterion ECG; strong credibility, but needs DevKit and slow.",
+   "move": "Email Nindl's lab after DevKit ships proposing a small agreement check against their ECG."
+  },
+  "sensing-systems-for-health-lab-laura-barnes-university-of-virginia-link-lab": {
+   "verdict": "cut",
+   "reason": "Generic lab profile, no 2026 signal or specific fit.",
+   "move": null
+  },
+  "intern-health-study-wearable-sleep-monitoring-in-health-workers-srijan-sen-md-ph": {
+   "verdict": "cut",
+   "reason": "Large-cohort program; 5-10 DevKits add little. No near-term payoff.",
+   "move": null
+  },
+  "ai-endurance-ai-endurance": {
+   "verdict": "A",
+   "reason": "AI coach whose recovery model runs on overnight HRV and already imports multiple bands.",
+   "move": "Email AI Endurance: 15-min call to scope direct Vybe HRV/RHR import or the Intervals.icu path."
+  },
+  "breethe-kodeon-acquired-breethe-2026-08-19": {
+   "verdict": "cut",
+   "reason": "Meditation app audience, not HRV/recovery users; acquisition churn. Weak fit.",
+   "move": null
+  },
+  "jeani-jeani": {
+   "verdict": "B",
+   "reason": "Durham athlete-data startup, local and reachable; no current signal.",
+   "move": "Email a Jeani founder for 15 minutes on what overnight inputs their injury-risk models use."
+  },
+  "nikita-starov-aifitnessapi-aifitnessapi-com": {
+   "verdict": "A",
+   "reason": "Writes the wearable-API migration guides Vybe's locked-out developers read. Free coverage.",
+   "move": "Email Nikita Starov: ask for SDK-doc feedback now and inclusion in the wearable-API roundup."
+  },
+  "welltory-welltory": {
+   "verdict": "A",
+   "reason": "HRV app reading many devices with a published data-source process. Distribution to HRV users.",
+   "move": "Email Welltory partnerships asking how a new HRV source is validated and direct vs HealthKit path."
+  },
+  "firefighter-multimodal-wearable-sensing-jerome-p-lynch-phd-duke-university-dept-": {
+   "verdict": "B",
+   "reason": "Local Duke firefighter sensing group, Sept 2026 paper; tactical fit but research-paced.",
+   "move": "Email Jerome Lynch: technical call on adding Vybe SDK overnight recovery stream to their system."
+  },
+  "narat-srivali-duke-division-of-pulmonary-allergy-and-critical-care-medicine-duke": {
+   "verdict": "B",
+   "reason": "Local Duke reviewer of wearable sleep accuracy; free advice on avoiding overclaims.",
+   "move": "Email Srivali for a 15-min feedback call on presenting Vybe sleep metrics without medical claims."
+  },
+  "flex-for-wearable-devices-hsa-fsa-payments-flex-withflex-com": {
+   "verdict": "cut",
+   "reason": "HSA/FSA needs Letter of Medical Necessity and fees; medical framing, post-launch.",
+   "move": null
+  },
+  "theoryex-validation-sprint-susie-reiner-phd-theoryex-seton-hall-university-exerc": {
+   "verdict": "B",
+   "reason": "No-cost validation cohort gives credibility, but needs DevKit hardware and Fall 2026 timing is unclear.",
+   "move": "Submit DevKit overview and one validation question via the Validation Sprint form; ask about 2027 cohort."
+  },
+  "maice-lab-stratus-center-for-medical-simulation-roger-d-dias-md-phd-mass-general": {
+   "verdict": "cut",
+   "reason": "Clinician simulation research in Boston; clinical angle, far from Vybe buyers.",
+   "move": null
+  },
+  "2nd-mlg-human-performance-center-camp-lejeune-2nd-marine-logistics-group-usmc": {
+   "verdict": "cut",
+   "reason": "Evidence from 2024; military base access with no clear path. Stale.",
+   "move": null
+  },
+  "alma-nutrition-coach-alma-nutrition-inc": {
+   "verdict": "cut",
+   "reason": "Nutrition app; HRV is peripheral and evidence is 2025. Weak fit.",
+   "move": null
+  },
+  "charlotte-fire-department-behavioral-health-and-wellness-charlotte-fire-departme": {
+   "verdict": "B",
+   "reason": "NC fire department wellness division; first-responder feedback, but evidence thin.",
+   "move": "Email Charlotte Fire wellness division requesting a 15-min feedback call on shift-worker sleep/recovery."
+  },
+  "dhruv-seshadri-lab-lehigh-bioengineering-athlete-wearables-lehigh-university": {
+   "verdict": "cut",
+   "reason": "No 2026 activity and partnered with competitor Ultrahuman. Stale.",
+   "move": null
+  },
+  "emotion-culture-and-psychophysiology-lab-stress-watch-arizona-state-university": {
+   "verdict": "A",
+   "reason": "Police stress project built on Fitbit, which shuts off 10/30. Locked-out developer, tactical use.",
+   "move": "Email the ASU lab now: call on Vybe raw beat-to-beat data replacing their Fitbit layer."
+  },
+  "first-due-health-wellness-module-first-due": {
+   "verdict": "B",
+   "reason": "Fire/EMS platform envisions wearable link; reachable product team, but 2025 signal and slower.",
+   "move": "Email First Due product team asking if a wearable data partner is on the Health & Wellness roadmap."
+  },
+  "intervals-icu-open-api-and-app-ecosystem-intervals-icu": {
+   "verdict": "A",
+   "reason": "Open API hub for HRV-minded athletes with 200+ apps; free listing and forum reach.",
+   "move": "Read the wellness API docs, then ask forum admins permission to post the DevKit design-partner call."
+  },
+  "marko-maslakovic-gadgets-wearables": {
+   "verdict": "A",
+   "reason": "Developer-side wearables journalist covering the Fitbit API shutdown right now.",
+   "move": "Email Marko a briefing on Vybe as an open-SDK band for developers leaving closed APIs."
+  },
+  "myfitnesspal-myfitnesspal": {
+   "verdict": "cut",
+   "reason": "Huge nutrition platform; private API with no realistic near-term path. Weak fit.",
+   "move": null
+  },
+  "pear-health-labs-aaptiv-pear-health-labs-aaptiv": {
+   "verdict": "cut",
+   "reason": "Reaches devices through ROOK; covered by the ROOK row. Duplicate path.",
+   "move": null
+  },
+  "rook-rook": {
+   "verdict": "A",
+   "reason": "Aggregator with 400+ sources; one integration reaches many apps' developers.",
+   "move": "Email ROOK partnerships: 15-min call on adding Vybe to the ROOK device catalog."
+  },
+  "soflete-app-sflt-3e-soflete": {
+   "verdict": "B",
+   "reason": "Tactical training app with readiness score; reachable but routed via Terra.",
+   "move": "Email SOFLETE asking who owns hardware partnerships and whether new Terra devices get enabled."
+  },
+  "strove-strove": {
+   "verdict": "cut",
+   "reason": "UK-style employer platform; generic fit, no 2026 signal.",
+   "move": null
+  },
+  "the-running-pts-the-running-pts": {
+   "verdict": "cut",
+   "reason": "Clinic with no current signal; generic feedback call.",
+   "move": null
+  },
+  "wakemed-wakewell-rewards-and-healthworks-employee-wellness-wakemed-health-hospit": {
+   "verdict": "cut",
+   "reason": "Hospital employee benefits program; generic, no clear path.",
+   "move": null
+  },
+  "abbjetmus-github-unnamed-stress-and-recovery-service-built-on-polar-360": {
+   "verdict": "A",
+   "reason": "Builder on screenless Polar band begging for direct partner-server upload. Exact SDK fit, Oct 2026.",
+   "move": "Comment or email the author: 15-min call on sync needs and Vybe DevKit's partner-backend path."
+  },
+  "diliang-chen-wearable-sensing-group-unh-electrical-and-computer-engineering-with": {
+   "verdict": "cut",
+   "reason": "Fall-risk and gait research; irrelevant to overnight HRV.",
+   "move": null
+  },
+  "triangle-startups-directory-healthtech-sector-triangle-startups": {
+   "verdict": "B",
+   "reason": "Free Triangle startup listing; low payoff but zero effort.",
+   "move": "Email Triangle Startups asking how to list Vybe in the healthtech sector."
+  },
+  "campbell-university-exercise-science-campbell-university": {
+   "verdict": "cut",
+   "reason": "Generic department, no signal.",
+   "move": null
+  },
+  "active-fit-connected-device-marketplace-active-fit-direct-american-specialty-hea": {
+   "verdict": "cut",
+   "reason": "Insurer marketplace; post-launch, large org, no near-term path.",
+   "move": null
+  },
+  "link-lab-smart-and-connected-health-uva-university-of-virginia-school-of-enginee": {
+   "verdict": "cut",
+   "reason": "Generic lab area, no signal; overlaps UVA row.",
+   "move": null
+  },
+  "sleep-health-society-collaboratory-orfeu-m-buxton-phd-penn-state-university": {
+   "verdict": "cut",
+   "reason": "No signal and asks for all 5-10 DevKit units. Needs hardware.",
+   "move": null
+  },
+  "bethany-barone-gibbs-wvu-school-of-public-health-west-virginia-university-school": {
+   "verdict": "cut",
+   "reason": "Sedentary/BP trial; weak fit for overnight recovery buyers.",
+   "move": null
+  },
+  "wrair-sleep-research-center-behavioral-biology-branch-walter-reed-army-institute": {
+   "verdict": "cut",
+   "reason": "Evidence from 2023; DoD lab with no path. Stale.",
+   "move": null
+  },
+  "brendan-keeler-health-api-guy-substack": {
+   "verdict": "A",
+   "reason": "Read by health-interop builders; his wearables-stack piece is exactly Vybe's open-data pitch.",
+   "move": "Email Brendan Keeler asking for feedback on Vybe's data-access policy; offer a briefing for future pieces."
+  },
+  "cheryl-mccolgan-heal-nourish-grow": {
+   "verdict": "B",
+   "reason": "Multi-device HRV reviewer; good audience but needs a unit later.",
+   "move": "Email Cheryl now to introduce Vybe; request a slot in her multi-device test once DevKit ships."
+  },
+  "elizabeth-a-klingaman-va-capitol-health-care-network-mirecc-visn-5-u-s-departmen": {
+   "verdict": "cut",
+   "reason": "VA clinical CBT-I trial for serious mental illness. Clinical angle.",
+   "move": null
+  },
+  "fitbod-fitbod-inc": {
+   "verdict": "B",
+   "reason": "Large strength app with open partnerships lead; recovery input fit, payoff after DevKit.",
+   "move": "Email Jesse Padilla: 15-min call on overnight HRV as an optional recovery input."
+  },
+  "lordofthesmartrings-lordofthesmartrings": {
+   "verdict": "B",
+   "reason": "Screenless-band reviewer; useful later for a review unit.",
+   "move": "Email for form-factor feedback now; reserve a review slot after DevKit."
+  },
+  "migraine-buddy-migraine-buddy": {
+   "verdict": "cut",
+   "reason": "Migraine symptom tracking; medical-adjacent angle.",
+   "move": null
+  },
+  "neurovus-neurovus": {
+   "verdict": "B",
+   "reason": "First-responder recovery platform, general wellness; but wants department bands Vybe lacks.",
+   "move": "Email Neurovus: call on Vybe as an SDK source; defer band supply until after DevKit."
+  },
+  "premier-inc-employee-well-being-2026-healthiest-100-workplaces-premier-inc": {
+   "verdict": "cut",
+   "reason": "Corporate well-being team; generic fit.",
+   "move": null
+  },
+  "sas-recreation-and-fitness-center-sas-institute": {
+   "verdict": "cut",
+   "reason": "Corporate fitness center; generic, 2027 pilot needs bands.",
+   "move": null
+  },
+  "sunil-bhatt-smartwatch-insight": {
+   "verdict": "B",
+   "reason": "Screenless-tracker reviewer; payoff at consumer launch.",
+   "move": "Email Sunil to get on the list for the 2027 screenless comparison."
+  },
+  "wake-forest-baptist-health-sports-medicine-at-proehlific-park-atrium-health-wake": {
+   "verdict": "cut",
+   "reason": "2018 evidence, clinic status unconfirmed. Stale.",
+   "move": null
+  },
+  "ai-running-coach-mmornati-github": {
+   "verdict": "B",
+   "reason": "OSS coach choosing wearable sources; needs an Open Wearables adapter first.",
+   "move": "Comment on issue #217 introducing Vybe and asking what a provider needs for the guide."
+  },
+  "beer-city-crossfit-beer-city-crossfit": {
+   "verdict": "cut",
+   "reason": "Gym trial needs bands; generic fit.",
+   "move": null
+  },
+  "david-gozal-marshall-university-joan-c-edwards-school-of-medicine-marshall-unive": {
+   "verdict": "B",
+   "reason": "Benchmarks consumer sleep trackers vs PSG; credible validation, after DevKit.",
+   "move": "Email Gozal proposing a small DevKit v0.1 vs PSG pilot once units are available."
+  },
+  "gdg-charlotte-devfest-charlotte-google-developer-group-charlotte": {
+   "verdict": "A",
+   "reason": "Free talk to Android developers during DevFest season, days before Fitbit API turns off.",
+   "move": "Email GDG Charlotte organizers pitching 'Life after the Fitbit Web API' for DevFest or a meetup."
+  },
+  "jus-running-jus-running": {
+   "verdict": "cut",
+   "reason": "Asks to seed 5 bands Vybe does not have.",
+   "move": null
+  },
+  "metabolic-applied-physiology-laboratory-matthew-j-mcallister-phd-texas-state-uni": {
+   "verdict": "B",
+   "reason": "Tactical HRV stress research; DevKit follow-up later.",
+   "move": "Email McAllister about overnight HRV in a tactical follow-up study after DevKit ships."
+  },
+  "nc-biotechnology-center-medical-device-and-digital-health-programs-north-carolin": {
+   "verdict": "cut",
+   "reason": "Medtech-device focus clashes with wellness positioning; vague ask.",
+   "move": null
+  },
+  "sinan-sousan-ecu-brody-school-of-medicine-public-health-nc-agromedicine-institut": {
+   "verdict": "cut",
+   "reason": "Agricultural heat-stress work; weak fit.",
+   "move": null
+  },
+  "oura-toolkit-spxrogers-oura-toolkit-open-source": {
+   "verdict": "A",
+   "reason": "OSS dev who documented Oura's auth limits; free expert review before SDK auth is locked.",
+   "move": "Open an issue or email asking for a review of Vybe's OAuth/PKCE model."
+  },
+  "duke-firefighter-wearable-environmental-sensor-study-sensors-2026-duke-universit": {
+   "verdict": "cut",
+   "reason": "Duplicate of the Duke firefighter Jerome Lynch row.",
+   "move": null
+  },
+  "nano-extended-textiles-next-research-group-jesse-jur-nc-state-university-wilson-": {
+   "verdict": "cut",
+   "reason": "2021 evidence; no current signal. Stale.",
+   "move": null
+  },
+  "beacon-mutual-insurance-employee-wellness-beacon-mutual-insurance-company": {
+   "verdict": "cut",
+   "reason": "Rhode Island insurer staff wellness; generic, irrelevant geography.",
+   "move": null
+  },
+  "dartmouth-health-sports-medicine-dartmouth-health": {
+   "verdict": "cut",
+   "reason": "Clinical sports medicine hiring post; generic fit.",
+   "move": null
+  },
+  "massachusetts-national-guard-2026-best-warrior-competition-massachusetts-nationa": {
+   "verdict": "cut",
+   "reason": "One-off competition that has passed.",
+   "move": null
+  },
+  "sports-backers-richmond-run-clubs-sports-backers": {
+   "verdict": "cut",
+   "reason": "No signal; run-club feedback needs bands. Generic.",
+   "move": null
+  },
+  "vermont-national-guard-wellness-readiness-and-prevention-wrap-directorate-vermon": {
+   "verdict": "cut",
+   "reason": "Out-of-region Guard wellness; weak path.",
+   "move": null
+  },
+  "sparkyfitness-codewithcj-sparkyfitness-open-source": {
+   "verdict": "A",
+   "reason": "6k-star OSS fitness app whose users were blocked by Fitbit; accepts provider PRs.",
+   "move": "Comment on issue #1236 proposing a Vybe external-data-provider PR; ask maintainer for spec feedback."
+  },
+  "bounce-innovation-hub-bounce-innovation-hub": {
+   "verdict": "cut",
+   "reason": "Akron hub; row wrongly assumes Akron home. Vybe is in Raleigh.",
+   "move": null
+  },
+  "built-with-science-built-with-science": {
+   "verdict": "cut",
+   "reason": "Evidence from 2025; sleep is only a future feature. Stale.",
+   "move": null
+  },
+  "chapel-hill-police-department-wellness-coordinator-chapel-hill-police-department": {
+   "verdict": "cut",
+   "reason": "No dated evidence; vague feedback ask.",
+   "move": null
+  },
+  "columbus-hardware-meetup-columbus-hardware-meetup-rev1-labs": {
+   "verdict": "cut",
+   "reason": "Columbus meetup requires travel.",
+   "move": null
+  },
+  "durham-police-department-wellness-program-durham-police-department": {
+   "verdict": "cut",
+   "reason": "Policy document from 2024; no current signal.",
+   "move": null
+  },
+  "julien-blin-the-upside-newsletter": {
+   "verdict": "A",
+   "reason": "Tactical human-performance newsletter/podcast; free guest spot to Vybe's tactical buyers.",
+   "move": "Email Julien Blin pitching a guest interview on an open-SDK platform for tactical performance developers."
+  },
+  "longevo-longevo": {
+   "verdict": "cut",
+   "reason": "LatAm Spanish pilot, 2025 evidence. Irrelevant audience now.",
+   "move": null
+  },
+  "omnio-omnio": {
+   "verdict": "B",
+   "reason": "HRV-heavy multi-device beta; integration later after DevKit.",
+   "move": "Email Omnio asking what it takes to add Vybe as the next sensor."
+  },
+  "product-hunt-coming-soon-launch-teaser-product-hunt": {
+   "verdict": "B",
+   "reason": "Free teaser builds notify-me list; best closer to developer launch.",
+   "move": "Create a Product Hunt teaser for the DevKit developer launch."
+  },
+  "rekova-rekova": {
+   "verdict": "cut",
+   "reason": "Early app, no dated evidence. Weak.",
+   "move": null
+  },
+  "sba-veteran-small-business-certification-vetcert-u-s-small-business-administrati": {
+   "verdict": "cut",
+   "reason": "Certification, not a partnership; veteran-ownership eligibility unverified.",
+   "move": null
+  },
+  "sleep-and-suicide-risk-passive-sensing-research-lily-a-brown-phd-university-of-p": {
+   "verdict": "cut",
+   "reason": "Psychiatric suicide-risk research. Clinical angle.",
+   "move": null
+  },
+  "trainingpeaks-partner-api-trainingpeaks": {
+   "verdict": "B",
+   "reason": "Selective partner API but free to apply; reaches endurance coaches. After DevKit.",
+   "move": "Submit a TrainingPeaks Partner API access request for an HRV metrics sync."
+  },
+  "vertical-vertical-getvertical-ai": {
+   "verdict": "B",
+   "reason": "AI running coach prioritizing integrations by request; free request form.",
+   "move": "Submit Vybe via Vertical's 'missing your watch' form and ask for a readiness-input call."
+  },
+  "wellright-wellness-platform-validic-connected-devices-wellright": {
+   "verdict": "cut",
+   "reason": "Employer platform via Validic; 2025 evidence. Generic.",
+   "move": null
+  },
+  "r-quantifiedself-reddit": {
+   "verdict": "A",
+   "reason": "Exactly Vybe's quantified-self buyers; weekly app thread invites builders. Free.",
+   "move": "Post in the weekly app thread asking for feedback on SDK data fields."
+  },
+  "crossfit-asheville-crossfit-asheville": {
+   "verdict": "cut",
+   "reason": "Gym with no signal; generic.",
+   "move": null
+  },
+  "funraisin-funraisin": {
+   "verdict": "cut",
+   "reason": "Charity step challenges; audience irrelevant.",
+   "move": null
+  },
+  "launch-kpmg-accelerator-launch-chapel-hill-launch-chapel-hill": {
+   "verdict": "B",
+   "reason": "Free local accelerator; next cohort spring 2027, date unpublished.",
+   "move": "Email Launch Chapel Hill asking when 2027 applications open; Vybe is Triangle-based."
+  },
+  "oura-home-assistant-integration-louispires-oura-home-assistant-integration-open-": {
+   "verdict": "B",
+   "reason": "OSS dev burned by Oura API changes; useful feedback for a future HA integration.",
+   "move": "Comment on issue #71 asking what a stable local/OAuth API should offer."
+  },
+  "uh-haslam-sports-innovation-center-university-hospitals-cleveland": {
+   "verdict": "cut",
+   "reason": "Cleveland living lab and challenge; travel and pitch event.",
+   "move": null
+  },
+  "octafield-github-octafield-open-wearables-self-hoster": {
+   "verdict": "A",
+   "reason": "Self-hoster lost Garmin access; wants an owned HRV source. Exact locked-out dev.",
+   "move": "Reply on discussion #1387 asking what they're building and offering a DevKit design-partner conversation."
+  },
+  "crossfit-inside-out-crossfit-inside-out": {
+   "verdict": "cut",
+   "reason": "Gym trial needs bands; generic.",
+   "move": null
+  },
+  "martial-arts-of-nc-martial-arts-of-nc": {
+   "verdict": "cut",
+   "reason": "Martial arts gym; generic, no signal.",
+   "move": null
+  },
+  "timeless-timeless": {
+   "verdict": "cut",
+   "reason": "Patient longevity reports (clinical) and WHOOP approval already resolved.",
+   "move": null
+  },
+  "cable-peer-support-training-connecticut-alliance-to-benefit-law-enforcement-cabl": {
+   "verdict": "cut",
+   "reason": "Connecticut peer support; far, generic.",
+   "move": null
+  },
+  "fsa-store-hsa-store-health-e-commerce-brand-partnerships-health-e-commerce": {
+   "verdict": "cut",
+   "reason": "HSA/FSA store needs medical eligibility; post-launch.",
+   "move": null
+  },
+  "musc-health-sports-medicine-musc-health": {
+   "verdict": "cut",
+   "reason": "School athletic training network; minors, clinical, after DevKit.",
+   "move": null
+  },
+  "prince-george-s-county-professional-fire-fighters-and-paramedics-association-iaf": {
+   "verdict": "cut",
+   "reason": "Asks for loaner bands Vybe does not have.",
+   "move": null
+  },
+  "silversneakers-go-app-medicare-advantage-fitness-benefit-tivity-health-silversne": {
+   "verdict": "cut",
+   "reason": "Medicare seniors; irrelevant audience.",
+   "move": null
+  },
+  "nyc-resistor-nyc-resistor-hackerspace": {
+   "verdict": "cut",
+   "reason": "NYC hackerspace needs travel.",
+   "move": null
+  },
+  "ambiq-heartkit-sleepkit-ai-developer-kits-ambiq-heartkit-sleepkit-ai-developer-k": {
+   "verdict": "cut",
+   "reason": "Chip vendor ADK for rings; not a growth partner.",
+   "move": null
+  },
+  "cloud2gnd-cloud2gnd": {
+   "verdict": "cut",
+   "reason": "Paid engineering services.",
+   "move": null
+  },
+  "iaff-local-330-akron-firefighters-association-iaff-local-330": {
+   "verdict": "cut",
+   "reason": "Akron union; wrong home-city premise.",
+   "move": null
+  },
+  "namsa-northwood-oh-namsa-northwood-oh": {
+   "verdict": "cut",
+   "reason": "Paid biocompatibility testing; not growth.",
+   "move": null
+  },
+  "ohio-state-athletics-sport-science-paul-jones-associate-sport-scientist-ohio-sta": {
+   "verdict": "B",
+   "reason": "Big-ten sport science with formal tech evaluation; credible but after DevKit.",
+   "move": "Email Paul Jones asking what overnight HRV must show to enter their evaluation process."
+  },
+  "stress-platform-health-hrv-stress-platform": {
+   "verdict": "B",
+   "reason": "Apple Health HRV reader; easy co-listing once Vybe writes to HealthKit.",
+   "move": "Email the developer to confirm HealthKit HRV display and ask for co-listing as a source."
+  },
+  "trainedby-ai-trainedby": {
+   "verdict": "B",
+   "reason": "MCP bridge with 62 integrations; reaches AI-chat quantified-selfers.",
+   "move": "Email trainedby.ai asking which aggregator they use and how to add Vybe."
+  },
+  "h2f-management-system-u-s-army-h2f-program-gdit-supporting": {
+   "verdict": "cut",
+   "reason": "Army program via GDIT; huge, no realistic path for pre-launch.",
+   "move": null
+  },
+  "notus-labs-notus-labs": {
+   "verdict": "cut",
+   "reason": "Evidence from 2024. Stale.",
+   "move": null
+  },
+  "stanford-spezi-spezibluetooth-spezidevices-stanford-spezi": {
+   "verdict": "B",
+   "reason": "Stanford OSS device framework; contributed module gives developer credibility.",
+   "move": "Open an issue proposing a SpeziDevices module for the Vybe DevKit."
+  },
+  "whoop-apex-hruthik9-github": {
+   "verdict": "cut",
+   "reason": "Undated small project; low payoff.",
+   "move": null
+  },
+  "dailybuild-tsu-nera-github": {
+   "verdict": "B",
+   "reason": "Developer mid-Fitbit migration; free SDK doc feedback.",
+   "move": "Comment on issue #49 offering early Vybe SDK docs for feedback."
+  },
+  "fitnick-kcinnick-github": {
+   "verdict": "B",
+   "reason": "Developer mid-Fitbit migration; free schema feedback.",
+   "move": "Comment on issue #86 asking for feedback on the DevKit v0.1 data schema."
+  },
+  "asheville-women-run-club-asheville-women-run-club": {
+   "verdict": "cut",
+   "reason": "Run club trial needs bands; no signal.",
+   "move": null
+  },
+  "co-lab-charlotte-co-lab": {
+   "verdict": "cut",
+   "reason": "Single low-authority source; generic coworking.",
+   "move": null
+  },
+  "ethos-jiu-jitsu-and-fitness-ethos-jiu-jitsu-and-fitness": {
+   "verdict": "cut",
+   "reason": "BJJ gym; generic.",
+   "move": null
+  },
+  "ketogenic-and-sleep-restriction-tactical-performance-research-jeff-s-volek-phd-t": {
+   "verdict": "B",
+   "reason": "Sleep-restriction tactical trials, Sept 2026; DevKit add-on later.",
+   "move": "Email Volek's lab about logging overnight HR/HRV in future sleep-restriction protocols."
+  },
+  "north-carolina-firefighter-cancer-wellness-alliance-north-carolina-firefighter-c": {
+   "verdict": "B",
+   "reason": "Statewide NC firefighter wellness network with a podcast host; reachable.",
+   "move": "Email the alliance for an intro to its wellness committee and pitch an All Clear podcast guest spot."
+  },
+  "saffire-sleep-assistance-for-firefighters-study-university-of-arizona": {
+   "verdict": "cut",
+   "reason": "Registered clinical trial running to 2028.",
+   "move": null
+  },
+  "wildland-firefighter-wearable-workload-research-uc-berkeley-center-for-occupatio": {
+   "verdict": "cut",
+   "reason": "No dated evidence; federal study, far.",
+   "move": null
+  },
+  "dc-triathlon-club-dc-triathlon-club": {
+   "verdict": "cut",
+   "reason": "2021 evidence; asks for loaner bands and discounts.",
+   "move": null
+  },
+  "my-highmark-app-connect-devices-highmark-inc-highmark-blue-cross-blue-shield": {
+   "verdict": "cut",
+   "reason": "Insurer app; no path, generic.",
+   "move": null
+  },
+  "nova-labs-makerspace-nova-labs": {
+   "verdict": "cut",
+   "reason": "Reston makerspace needs travel.",
+   "move": null
+  },
+  "usafa-dean-of-faculty-biology-wearable-smart-ring-sources-sought-us-air-force-ac": {
+   "verdict": "cut",
+   "reason": "Sources-sought closed in April; needs a product.",
+   "move": null
+  },
+  "boston-hardware-meetup-boston-hardware-meetup-volunteer-run": {
+   "verdict": "cut",
+   "reason": "Boston meetup needs travel.",
+   "move": null
+  },
+  "howard-county-striders-howard-county-striders": {
+   "verdict": "cut",
+   "reason": "2025 evidence; asks for loaner bands.",
+   "move": null
+  },
+  "akron-children-s-sports-rehab-sports-performance-and-injury-prevention-clinic-ak": {
+   "verdict": "cut",
+   "reason": "Akron pediatric clinic; wrong geo, minors.",
+   "move": null
+  },
+  "betterhealthtech-podcast-betterhealthtech": {
+   "verdict": "B",
+   "reason": "Open guest invite to digital-health podcast; modest audience fit.",
+   "move": "Message the host on LinkedIn with a one-line guest pitch."
+  },
+  "cleveland-clinic-akron-general-lifestyles-health-wellness-centers-cleveland-clin": {
+   "verdict": "cut",
+   "reason": "Akron hospital fitness; wrong geo, medical setting.",
+   "move": null
+  },
+  "college-club-wrestling-ncwa-ohio-teams-national-collegiate-wrestling-association": {
+   "verdict": "cut",
+   "reason": "Ohio pilot needs 8-10 bands; more than DevKit allows.",
+   "move": null
+  },
+  "exos-performance-technology-partnerships-exos": {
+   "verdict": "cut",
+   "reason": "Large company; no realistic path for pre-launch.",
+   "move": null
+  },
+  "human-metabolism-laboratory-xuewen-wang-university-of-south-carolina-department-": {
+   "verdict": "cut",
+   "reason": "Unverified evidence; asks for DevKit loan.",
+   "move": null
+  },
+  "matt-evans-techradar": {
+   "verdict": "B",
+   "reason": "Major screenless-band reviewer; payoff at May 2027 launch.",
+   "move": "Email Matt Evans to get on TechRadar's review list for launch."
+  },
+  "nemic-programs-health-innovator-pathways-program-and-ri-dlt-life-sciences-accele": {
+   "verdict": "cut",
+   "reason": "Rhode Island medtech accelerator; medical framing, out of state.",
+   "move": null
+  },
+  "perkspot-merchant-network-perkspot": {
+   "verdict": "cut",
+   "reason": "Discount marketplace for a product that does not exist yet.",
+   "move": null
+  },
+  "priority-health-wellbeing-hub-and-exercise-rewards-priority-health-corewell-heal": {
+   "verdict": "cut",
+   "reason": "Insurer program, 2023 evidence. Stale.",
+   "move": null
+  },
+  "quantified-self-show-tell-meetups-qs-forum-quantified-self-labs": {
+   "verdict": "A",
+   "reason": "Free online show-and-tell to core quantified-self audience; credibility and feedback.",
+   "move": "Apply to present 'what our own overnight ECG/HRV data taught us' at the next Show & Tell."
+  },
+  "security-halt-podcast-security-halt": {
+   "verdict": "cut",
+   "reason": "Security-industry podcast; audience irrelevant.",
+   "move": null
+  },
+  "summacare-member-wellness-benefits-akron-summacare": {
+   "verdict": "cut",
+   "reason": "Akron insurer; wrong geo, post-launch.",
+   "move": null
+  },
+  "the-heart-of-healthcare-podcast-the-heart-of-healthcare": {
+   "verdict": "cut",
+   "reason": "Long-odds exec podcast; no hook yet.",
+   "move": null
+  },
+  "transcarent-experience-store-transcarent-accolade-transcarent": {
+   "verdict": "cut",
+   "reason": "Huge benefits marketplace; no path.",
+   "move": null
+  },
+  "veteran-owned-business-directory-veteranownedbusiness-com-veteran-owned-business": {
+   "verdict": "cut",
+   "reason": "Low-value directory; veteran status and Akron details unverified.",
+   "move": null
+  },
+  "wearable-recovery-readiness-score-research-cory-t-beaumont-phd-baldwin-wallace-u": {
+   "verdict": "cut",
+   "reason": "Ohio student project; wrong geo premise, needs DevKit.",
+   "move": null
+  },
+  "yumuuv-wellness-challenge-platform-yumuuv": {
+   "verdict": "cut",
+   "reason": "European step-challenge platform; generic.",
+   "move": null
+  },
+  "notre-dame-sleep-and-health-research-lab-ivan-vargas-phd-university-of-notre-dam": {
+   "verdict": "cut",
+   "reason": "Evidence from 2025. Stale.",
+   "move": null
+  },
+  "sleep-disorders-and-research-center-wearable-sleep-staging-work-philip-cheng-phd": {
+   "verdict": "cut",
+   "reason": "Sleep-disorders clinical center; needs PSG dataset and hardware.",
+   "move": null
+  },
+  "celebrate-research-wake-forest-university-school-of-medicine-ctsi-wake-forest-un": {
+   "verdict": "cut",
+   "reason": "Event offering attendance only.",
+   "move": null
+  },
+  "home-assistant-fitbit-google-health-integration-home-assistant": {
+   "verdict": "B",
+   "reason": "Home Assistant maintainers shipped Google Health; local-first integration fits privacy-minded QS users.",
+   "move": "Ask on HA community what a local-first Vybe integration needs; build after DevKit."
+  },
+  "ohio-office-of-business-certifications-mbe-edge-wbe-vfbe-ohio-department-of-deve": {
+   "verdict": "cut",
+   "reason": "Ohio certifications; wrong state.",
+   "move": null
+  },
+  "wearables-and-biological-timekeeping-sofia-o-sanchez-phd-indiana-university-scho": {
+   "verdict": "cut",
+   "reason": "Generic feedback ask; needs DevKit.",
+   "move": null
+  },
+  "institute-for-firefighter-survivability-nfff-oklahoma-state-university-national-": {
+   "verdict": "B",
+   "reason": "New national firefighter research institute (Sept 2026); credibility path.",
+   "move": "Email the institute asking if off-duty sleep/recovery monitoring is on the research agenda."
+  },
+  "hackrva-makerspace-hackrva": {
+   "verdict": "cut",
+   "reason": "Richmond makerspace needs travel.",
+   "move": null
+  },
+  "army-air-force-exchange-service-aafes-product-sourcing-via-rangeme-army-air-forc": {
+   "verdict": "cut",
+   "reason": "Retail channel for a product not yet for sale.",
+   "move": null
+  },
+  "cleveland-performance-chiropractic-cleveland-performance-chiropractic": {
+   "verdict": "cut",
+   "reason": "Cleveland chiropractor; generic, wrong geo.",
+   "move": null
+  },
+  "hap-istrive-wellness-at-your-side-webmd-powered-health-alliance-plan-hap-henry-f": {
+   "verdict": "cut",
+   "reason": "Insurer tool with 2016-2018 evidence. Stale.",
+   "move": null
+  },
+  "illuminious-illuminious": {
+   "verdict": "cut",
+   "reason": "Paid manufacturing vendor; not growth.",
+   "move": null
+  },
+  "lipol-battery-north-america-lipol-battery-north-america": {
+   "verdict": "cut",
+   "reason": "Battery vendor; not growth.",
+   "move": null
+  },
+  "manufacturing-runs-the-world-manufacturing-runs-the-world": {
+   "verdict": "cut",
+   "reason": "Manufacturing podcast; audience not Vybe buyers.",
+   "move": null
+  },
+  "nj-ai-hub-accelerator-with-plug-and-play-nj-ai-hub": {
+   "verdict": "cut",
+   "reason": "NJ accelerator; eligibility unclear, generic.",
+   "move": null
+  },
+  "ohio-association-of-professional-fire-fighters-oapff-health-and-wellness-oapff-i": {
+   "verdict": "cut",
+   "reason": "Ohio union; wrong geo, slow health-plan path.",
+   "move": null
+  },
+  "product-startup-podcast-product-startup": {
+   "verdict": "cut",
+   "reason": "Hardware-founder podcast; audience not buyers.",
+   "move": null
+  },
+  "stridekick-activity-challenges-stridekick": {
+   "verdict": "cut",
+   "reason": "Step challenge app; 2025 evidence, generic.",
+   "move": null
+  },
+  "vetted-sports-weekly-vetted": {
+   "verdict": "cut",
+   "reason": "Paid ad placement.",
+   "move": null
+  },
+  "zeroed-in-tactical-business-growth-zeroed-in": {
+   "verdict": "cut",
+   "reason": "Undated podcast; weak evidence.",
+   "move": null
+  },
+  "circadian-sleep-wearable-modelling-daniel-b-forger-phd-university-of-michigan-de": {
+   "verdict": "cut",
+   "reason": "Duplicate of Srijan Sen/Michigan row (same preprint).",
+   "move": null
+  },
+  "digital-health-digital-health": {
+   "verdict": "cut",
+   "reason": "Clinician-curated listing; medical framing.",
+   "move": null
+  },
+  "omi-discord-open-source-ai-wearable-builders-omi-formerly-based-hardware": {
+   "verdict": "A",
+   "reason": "10k-member community of developers building on open wearables. Ideal SDK design partners.",
+   "move": "Read server rules, then post the DevKit v0.1 design-partner call in the showcase channel."
+  },
+  "python-garminconnect-home-assistant-garmin-connect-cyberjunky-open-source": {
+   "verdict": "A",
+   "reason": "Exists because Garmin cut hobby API access; users want self-hosted health data.",
+   "move": "Open an issue asking the maintainer for feedback on a Vybe local API and HA integration."
+  },
+  "nsca-tsac-f-coach-network-tactical-strength-and-conditioning-facilitator-nationa": {
+   "verdict": "B",
+   "reason": "Tactical S&C coaches run unit pilots; free article pitch.",
+   "move": "Pitch a TSAC Report article on overnight HRV in shift workers to NSCA editors."
+  },
+  "greenville-triathlon-club-gvl-tri-greenville-triathlon-multisport-club": {
+   "verdict": "cut",
+   "reason": "Asks to loan bands; out of state.",
+   "move": null
+  },
+  "akron-children-s-hospital-center-for-patient-experience-innovation-akron-childre": {
+   "verdict": "cut",
+   "reason": "Akron hospital; wrong geo, clinical setting.",
+   "move": null
+  },
+  "army-national-guard-h2f-performance-team-pilots-fy2026-army-national-guard": {
+   "verdict": "cut",
+   "reason": "Ohio Guard; wrong geo, big military, no path.",
+   "move": null
+  },
+  "chicago-first-responders-wellness-csfa-515-cfrw-city-of-chicago-office-of-public": {
+   "verdict": "cut",
+   "reason": "Chicago city program; far, no path.",
+   "move": null
+  },
+  "elevate-human-performance-elevate-human-performance": {
+   "verdict": "cut",
+   "reason": "Columbus gym; wrong geo.",
+   "move": null
+  },
+  "kye-shin-lee-lab-ece-the-university-of-akron": {
+   "verdict": "cut",
+   "reason": "Evidence from 2023; Akron premise.",
+   "move": null
+  },
+  "ohio-state-ossip-nanotech-west-lab-ohio-state-ossip-nanotech-west-lab": {
+   "verdict": "cut",
+   "reason": "Ohio fab lab; not growth.",
+   "move": null
+  },
+  "smc-ltd-medical-design-center-ohio-smc-ltd-medical-design-center-ohio": {
+   "verdict": "cut",
+   "reason": "Medical contract manufacturer; paid.",
+   "move": null
+  },
+  "sugamed-ecg-patch-pcba-sugamed-ecg-patch-pcba": {
+   "verdict": "cut",
+   "reason": "Paid PCBA quote; not growth.",
+   "move": null
+  },
+  "tim-perkin-mountain-massif": {
+   "verdict": "B",
+   "reason": "Endurance reviewer focused on no-subscription HRV; payoff at launch.",
+   "move": "Email Tim Perkin to get on the review list for launch."
+  },
+  "zufek-zufek": {
+   "verdict": "cut",
+   "reason": "Battery supplier; not growth.",
+   "move": null
+  },
+  "lightship-bootcamp-akron-black-tech-week": {
+   "verdict": "cut",
+   "reason": "Akron bootcamp needs travel; not a partnership.",
+   "move": null
+  },
+  "wearable-api-field-guide-antsal06-github": {
+   "verdict": "B",
+   "reason": "Neutral guide builders check; free PR once docs are public.",
+   "move": "Open a PR adding providers/vybe.md when DevKit v0.1 docs go public."
+  },
+  "btw-meetup-akron-black-tech-week": {
+   "verdict": "cut",
+   "reason": "Akron meetup, attendance only.",
+   "move": null
+  },
+  "reach-fitness-ohio-reach-fitness-ohio": {
+   "verdict": "cut",
+   "reason": "Ohio gym; wrong geo, after DevKit.",
+   "move": null
+  },
+  "ohio-football-performance-noah-spielman-ohio-university-athletics": {
+   "verdict": "cut",
+   "reason": "Ohio college football; wrong geo, no path.",
+   "move": null
+  },
+  "competitive-cheerleading-competitive-all-star-and-scholastic-cheer-programs-gove": {
+   "verdict": "cut",
+   "reason": "Stale evidence; no contact identified.",
+   "move": null
+  },
+  "milwaukee-bucks-performance-and-innovation-dr-troy-flanagan-milwaukee-bucks": {
+   "verdict": "cut",
+   "reason": "NBA team; no realistic path, 2025 signal.",
+   "move": null
+  }
+ }
+}
