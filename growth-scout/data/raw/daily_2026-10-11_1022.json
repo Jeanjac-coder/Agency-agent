@@ -1,0 +1,1350 @@
+[
+  {
+    "name": "David Gozal (Marshall University Joan C. Edwards School of Medicine)",
+    "org": "Marshall University Joan C. Edwards School of Medicine",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Gozal (Office of the Dean; Pediatrics and Biomedical Sciences) co-authored a 2026 Sleep Medicine study comparing three consumer sleep trackers (Apple Watch Series 7, Fitbit Charge 5, Polar Vantage M2) against home polysomnography and actigraphy, and a 2026 Nature Communications paper on poor sleep and vaccine response. A lab that benchmarks consumer sleep wearables is a natural reviewer for a new overnight ECG/HRV band.",
+    "why_now": "Sleep Medicine paper published 2026-06-04; Nature Communications paper 2026-04-21",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42258963/",
+      "https://doi.org/10.1016/j.sleep.2026.109059",
+      "https://pubmed.ncbi.nlm.nih.gov/42014403/",
+      "https://doi.org/10.1038/s41467-026-72212-2"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42258963/",
+    "warm_path": null,
+    "fit": 8,
+    "ice": {
+      "i": 7,
+      "c": 5,
+      "e": 6
+    },
+    "ask": "15-minute call on whether his group would test DevKit v0.1 raw overnight data against PSG in a small validation pilot",
+    "opener": "Hi David, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your 2026 Sleep Medicine comparison of consumer sleep trackers against PSG. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Would you be open to a 15-minute call about whether a small validation pilot with our DevKit fits your group's work?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Huntington, WV",
+    "deadline": null,
+    "last_signal_date": "2026-06-04",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "sleep",
+      "hrv",
+      "wearables",
+      "west-virginia",
+      "east-coast",
+      "validation"
+    ]
+  },
+  {
+    "name": "Bethany Barone Gibbs (WVU School of Public Health)",
+    "org": "West Virginia University School of Public Health",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Gibbs is senior author on a 2026 Experimental Physiology analysis of the RESET-BP trial, which measured resting heart rate variability in desk workers after a sedentary-behaviour intervention that used wearable activity prompters. Her group already pairs wearables with HRV outcomes.",
+    "why_now": "Experimental Physiology paper published 2026-04-02",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/41925546/",
+      "https://doi.org/10.1113/EP093468"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/41925546/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 6,
+      "c": 5,
+      "e": 6
+    },
+    "ask": "Feedback call: would an overnight ECG/HRV band with raw data export be useful in her next sedentary-behaviour or workplace study?",
+    "opener": "Hi Bethany, I'm the founder of Vybe Health in Raleigh, North Carolina. Your 2026 RESET-BP paper looking at HRV in desk workers caught my eye. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. We're choosing 5-10 design partners for our DevKit. Could we have 15 minutes to hear what your studies would need from a device like this?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Morgantown, WV",
+    "deadline": null,
+    "last_signal_date": "2026-04-02",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "hrv",
+      "wearables",
+      "west-virginia",
+      "east-coast",
+      "workplace"
+    ]
+  },
+  {
+    "name": "Randy J. Nelson lab (WVU Rockefeller Neuroscience Institute, Dept. of Neuroscience)",
+    "org": "West Virginia University Rockefeller Neuroscience Institute",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Nelson, James C. Walton and colleagues (with Paul D. Chantler of WVU Human Performance and Exercise Physiology) published a 2026 Physiology & Behavior study on how chronic light at night dampens rhythms in activity, metabolism and sleep (in mice). A circadian/sleep group that may want human overnight data is a possible research partner.",
+    "why_now": "Physiology & Behavior paper published 2026-06-16",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42302962/",
+      "https://doi.org/10.1016/j.physbeh.2026.115425"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42302962/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 4,
+      "e": 5
+    },
+    "ask": "Ask whether the lab plans human light-at-night work and would want overnight HRV/heart-rate data from a research DevKit",
+    "opener": "Hi Randy, I'm the founder of Vybe Health in Raleigh, North Carolina. I saw your group's 2026 paper on light at night and sleep rhythms. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. If your team is moving toward human studies, would a short call about our DevKit and data access be useful? Happy to just listen to what you'd need.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Morgantown, WV",
+    "deadline": null,
+    "last_signal_date": "2026-06-16",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "sleep",
+      "circadian",
+      "west-virginia",
+      "east-coast"
+    ]
+  },
+  {
+    "name": "167th Airlift Wing (West Virginia Air National Guard)",
+    "org": "West Virginia Air National Guard, 167th Airlift Wing",
+    "role": null,
+    "type": "channel-partner",
+    "hunt": "partnership",
+    "why": "The wing at Shepherd Field changed command (Col. Randall Wright, June 13) and command chief (Chief Master Sgt. Keith Taber, Aug. 1, 2026). DVIDS notes the command chief advises on the health, morale and welfare of enlisted Airmen; new leaders often set fresh readiness and wellness priorities.",
+    "why_now": "Change of responsibility ceremony 2026-08-01",
+    "evidence": [
+      "https://www.dvidshub.net/news/571338/change-responsibility-ceremony-recognizes-taber-new-167th-command-chief"
+    ],
+    "channel": "contact form",
+    "contact_url": "https://www.167aw.ang.af.mil/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 3,
+      "e": 5
+    },
+    "ask": "Ask the wing public affairs office who owns Airman wellness/resilience and whether a no-cost feedback session on an overnight band is possible",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. Congratulations to Chief Master Sgt. Taber on his new role. We're building a screenless overnight band that records ECG-based HRV for general wellness, launching May 2027. Could you point me to whoever handles Airman wellness programs? I'd value 15 minutes of feedback, with no procurement ask.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Martinsburg, WV",
+    "deadline": null,
+    "last_signal_date": "2026-08-01",
+    "confidence": "single-source",
+    "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session, so re-open each URL before sending.",
+    "opportunity": "Feedback group or informal pilot with aircrew/maintainers on overnight recovery tracking; later a channel into other ANG wings",
+    "unknowns": "No named wellness contact found; DoD rules for personal wearables on base and data handling unknown; whether the wing runs a Comprehensive Airman Fitness program in 2026 not confirmed",
+    "entry_route": "Wing public affairs (167aw.ang.af.mil) -> Airman wellness / Community Action Team",
+    "tags": [
+      "military",
+      "air-national-guard",
+      "west-virginia",
+      "east-coast",
+      "tactical",
+      "hrv"
+    ]
+  },
+  {
+    "name": "157th Air Refueling Wing (Pease Air National Guard Base)",
+    "org": "New Hampshire Air National Guard, 157th Air Refueling Wing",
+    "role": null,
+    "type": "channel-partner",
+    "hunt": "partnership",
+    "why": "Pease's 157th ARW was the first Air National Guard unit to fly the KC-46A, has more than 1,300 personnel, and ran a nuclear operations readiness exercise on 2026-02-07 testing rapid generation of aerial refuelling. Tanker crews and maintainers work irregular, overnight-heavy schedules, a clear overnight-recovery use case.",
+    "why_now": "Readiness exercise photographed 2026-02-07",
+    "evidence": [
+      "https://www.war.gov/Multimedia/Photos/igphoto/2003873900",
+      "https://www.157arw.ang.af.mil/About-Us/Fact-Sheets/Display/Article/2752575/157th-air-refueling-wing/"
+    ],
+    "channel": "contact form",
+    "contact_url": "https://www.157arw.ang.af.mil/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 6,
+      "c": 3,
+      "e": 5
+    },
+    "ask": "Ask public affairs to connect us with the wing's resilience or Airman wellness lead for a 15-minute feedback call",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless band worn overnight that records ECG-based HRV for general wellness, launching May 2027. Tanker crews keep demanding schedules, and we'd value their input. Could you point me to whoever runs Airman wellness or resilience at Pease? A 15-minute feedback call would help.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Portsmouth, NH",
+    "deadline": null,
+    "last_signal_date": "2026-02-07",
+    "confidence": "single-source",
+    "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session, so re-open each URL before sending.",
+    "opportunity": "Feedback group with KC-46 aircrew and maintainers on overnight recovery tracking; possible design-partner pilot",
+    "unknowns": "No named wellness/resilience contact found; base rules on personal wearables unknown; no 2026 wellness-program news found",
+    "entry_route": "Wing public affairs via 157arw.ang.af.mil",
+    "tags": [
+      "military",
+      "air-national-guard",
+      "new-hampshire",
+      "east-coast",
+      "tactical",
+      "sleep",
+      "hrv"
+    ]
+  },
+  {
+    "name": "Diliang Chen wearable sensing group (UNH Electrical and Computer Engineering) with Sanghee Moon (UNH Kinesiology)",
+    "org": "University of New Hampshire",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Chen (ECE) led a 2026 JMIR mHealth and uHealth paper on design guidance for wearable fall-risk assessment, co-authored with UNH Kinesiology's Sanghee Moon and Ferdinand Delgado; Moon also co-authored a 2026 Gait & Posture paper on wearable gait biomarkers. An engineering-plus-kinesiology wearables team is a good DevKit design partner.",
+    "why_now": "JMIR mHealth paper 2026-06-09; Gait & Posture paper 2026-08-03",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42263263/",
+      "https://doi.org/10.2196/93877",
+      "https://pubmed.ncbi.nlm.nih.gov/42561739/",
+      "https://doi.org/10.1016/j.gaitpost.2026.110610"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42263263/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 6,
+      "c": 5,
+      "e": 6
+    },
+    "ask": "Offer DevKit v0.1 to the group as a sensor platform for a student or lab project; ask for a 15-minute call",
+    "opener": "Hi Diliang, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your 2026 JMIR mHealth paper on wearable fall-risk assessment. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. We're picking 5-10 DevKit design partners. Would your group, maybe with Sanghee Moon in Kinesiology, be open to a 15-minute call about whether it fits a lab project?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Durham, NH",
+    "deadline": null,
+    "last_signal_date": "2026-08-03",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "wearables",
+      "dev-platform",
+      "new-hampshire",
+      "east-coast",
+      "university"
+    ]
+  },
+  {
+    "name": "Nicholas C. Jacobson lab (Dartmouth Geisel School of Medicine, Center for Technology and Behavioral Health)",
+    "org": "Dartmouth College, Geisel School of Medicine",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Jacobson's lab uses passive sensor data from smartphones and wearable devices to assess anxiety and depression (NIMH R01 on deep learning from that sensor data). Geisel named him on 2026-07-23 as one of two finalists for the Chen Institute and Science Prize for AI Accelerated Research for the Therabot trial.",
+    "why_now": "Prize finalist announcement 2026-07-23",
+    "evidence": [
+      "https://geiselmed.dartmouth.edu/bmds/2026/07/23/dr-nicholas-jacobson-named-as-one-of-two-finalists-for-global-prize/",
+      "https://geiselmed.dartmouth.edu/jacobsonlab/profile/dr-nicholas-c-jacobson-phd/"
+    ],
+    "channel": "contact form",
+    "contact_url": "https://geiselmed.dartmouth.edu/jacobsonlab/profile/dr-nicholas-c-jacobson-phd/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 6,
+      "c": 4,
+      "e": 5
+    },
+    "ask": "15-minute call on whether overnight ECG/HRV streams via SDK would be useful as a passive-sensing input in the lab's studies",
+    "opener": "Hi Nicholas, I'm the founder of Vybe Health in Raleigh, North Carolina. Congratulations on the Chen Institute and Science Prize finalist news. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Your lab works with passive wearable data, so I'd value 15 minutes of feedback on what a research team needs from a device's data access. No pitch, just learning.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Lebanon, NH",
+    "deadline": null,
+    "last_signal_date": "2026-07-23",
+    "confidence": "single-source",
+    "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session, so re-open each URL before sending.",
+    "tags": [
+      "research-lab",
+      "wearables",
+      "passive-sensing",
+      "new-hampshire",
+      "east-coast",
+      "dev-platform"
+    ]
+  },
+  {
+    "name": "Madelyn R. Frumkin (Dartmouth Biomedical Data Science and Psychiatry)",
+    "org": "Dartmouth College, Geisel School of Medicine",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Frumkin is an author on a 2026 Neurosurgery study showing that adding Fitbit biometric data and EMA to preoperative assessment improved prediction of outcomes after lumbar spine surgery; separately, Dartmouth's Center for Technology and Behavioral Health (Elizabeth W. Lampe, Emily K. Presseller) published a 2026 Digital Health study on reactivity to consumer-grade wearables.",
+    "why_now": "Neurosurgery paper 2026-08-18; Digital Health paper 2026-08-05",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42611684/",
+      "https://doi.org/10.1227/neu.0000000000004195",
+      "https://pubmed.ncbi.nlm.nih.gov/42571236/",
+      "https://doi.org/10.1177/20552076261476177"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42611684/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 5,
+      "e": 5
+    },
+    "ask": "Ask what data access (raw intervals, export format) her group needs from consumer wearables in clinical prediction studies",
+    "opener": "Hi Madelyn, I'm the founder of Vybe Health in Raleigh, North Carolina. I read the 2026 Neurosurgery paper using Fitbit data with EMA. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Research teams keep telling us data access is the hard part. Could I get 15 minutes of your view on what a wearable's data export should include?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Lebanon, NH",
+    "deadline": null,
+    "last_signal_date": "2026-08-18",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "wearables",
+      "digital-health",
+      "new-hampshire",
+      "east-coast",
+      "dev-platform"
+    ]
+  },
+  {
+    "name": "VA Maine Healthcare System (Togus VA Medical Center)",
+    "org": "U.S. Department of Veterans Affairs, VA Maine Healthcare System",
+    "role": null,
+    "type": "channel-partner",
+    "hunt": "partnership",
+    "why": "Togus is Maine's only VA medical center; its about-us page lists Whole Health Involvement among its major research areas, and in April 2026 it opened a 12-bed residential rehabilitation treatment program that VA Maine's RRTP manager described as treating the whole person.",
+    "why_now": "New residential treatment program opened 2026-04-25",
+    "evidence": [
+      "https://www.wabi.tv/2026/04/25/new-togus-va-facility-brings-residential-substance-use-treatment-maine/",
+      "https://www.va.gov/maine-health-care/about-us/"
+    ],
+    "channel": "contact form",
+    "contact_url": "https://www.va.gov/maine-health-care/about-us/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 3,
+      "e": 4
+    },
+    "ask": "Ask the Whole Health or research office whether staff would give feedback on an overnight band for general wellness",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless overnight band that records ECG-based HRV for general wellness, launching May 2027. I saw Togus lists Whole Health among its research areas. Could you point me to the right person for a 15-minute feedback conversation? No sales ask.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Augusta, ME",
+    "deadline": null,
+    "last_signal_date": "2026-04-25",
+    "confidence": "single-source",
+    "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session, so re-open each URL before sending.",
+    "opportunity": "Feedback from Whole Health staff; later, a research collaboration through VA channels if appropriate",
+    "unknowns": "No named Whole Health contact found; VA device/data rules and research approval path unknown",
+    "entry_route": "VA Maine contact page / Whole Health office",
+    "tags": [
+      "veterans",
+      "va",
+      "whole-health",
+      "maine",
+      "east-coast",
+      "sleep"
+    ]
+  },
+  {
+    "name": "MFCA Professional Development Conference (Maine Fire Chiefs' Association)",
+    "org": "Maine Fire Chiefs' Association / Maine Fire Service Institute",
+    "role": null,
+    "type": "event",
+    "hunt": "growth",
+    "why": "The Maine Fire Chiefs' Association ran its 2026 Professional Development Conference on 2026-03-25 to 2026-03-27 at Sunday River, with a vendor area for Fire/EMS products and services; past programs have included fire-service mental health sessions.",
+    "why_now": "2026 conference held 2026-03-25 to 03-27; 2027 dates not yet published",
+    "evidence": [
+      "https://mfsi.me.edu/events/mfca-professional-development-conference-2/"
+    ],
+    "channel": "contact form",
+    "contact_url": "https://mfsi.me.edu/events/mfca-professional-development-conference-2/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 4,
+      "e": 6
+    },
+    "ask": "Ask for 2027 dates and the vendor/exhibitor package (price only if published)",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless band worn overnight that records ECG-based HRV for general wellness, launching May 2027. We'd like to meet Maine chiefs at your 2027 conference. Could you share dates and how vendors sign up when they're set?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Newry, ME",
+    "deadline": null,
+    "last_signal_date": "2026-03-27",
+    "confidence": "single-source",
+    "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session, so re-open each URL before sending.",
+    "opportunity": "Small vendor table to meet Maine fire chiefs and collect feedback ahead of the May 2027 launch",
+    "unknowns": "2027 dates, vendor price and attendee count not found; exhibitor list not public",
+    "entry_route": "MFSI events page / MFCA vendor contact",
+    "tags": [
+      "first-responders",
+      "fire",
+      "event",
+      "maine",
+      "east-coast"
+    ]
+  },
+  {
+    "name": "Jordan D. Alexander (University of Maine, Psychology Department)",
+    "org": "University of Maine",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Alexander is first author of a 2026 systematic review of the ABCD Study's Fitbit and smartphone passive-sensing data (45 studies), finding Fitbit broadly reproduced research-grade estimates of sleep and activity. A researcher focused on consumer-wearable data quality in sleep is a good feedback partner.",
+    "why_now": "Developmental Cognitive Neuroscience paper published 2026-09-21",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42843149/",
+      "https://doi.org/10.1016/j.dcn.2026.101826"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42843149/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 5,
+      "e": 6
+    },
+    "ask": "15-minute feedback call on what makes wearable sleep data usable for research",
+    "opener": "Hi Jordan, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your 2026 review of the ABCD Study's Fitbit and smartphone sensor data. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Could I have 15 minutes of your view on what researchers need from a wearable's sleep data and export? Happy to share DevKit details.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Orono, ME",
+    "deadline": null,
+    "last_signal_date": "2026-09-21",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "sleep",
+      "wearables",
+      "maine",
+      "east-coast",
+      "university"
+    ]
+  },
+  {
+    "name": "101st Air Refueling Wing (Maine Air National Guard)",
+    "org": "Maine Air National Guard, 101st Air Refueling Wing",
+    "role": null,
+    "type": "channel-partner",
+    "hunt": "partnership",
+    "why": "The Bangor wing flies KC-135 Stratotankers; an Air University gallery shows its air transportation specialists unloading cargo on 2026-06-03, and Sen. Collins' office reports $50 million for a new hangar that would consolidate maintenance. Tanker crews and maintainers keep overnight-heavy schedules.",
+    "why_now": "Wing activity photographed 2026-06-03",
+    "evidence": [
+      "https://www.airuniversity.af.edu/News/Photos/igphoto/2003944777/",
+      "https://www.collins.senate.gov/newsroom/25-million-for-maine-air-national-guard-advanced-by-senator-collins-in-funding-bill"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 3,
+      "e": 5
+    },
+    "ask": "Ask public affairs who leads Airman wellness/resilience and request a 15-minute feedback call",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless overnight band that records ECG-based HRV for general wellness, launching May 2027. Tanker crews and maintainers work long, irregular hours, and their feedback would help us. Could you connect me with whoever runs Airman wellness at the 101st for a short call?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Bangor, ME",
+    "deadline": null,
+    "last_signal_date": "2026-06-03",
+    "confidence": "single-source",
+    "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session, so re-open each URL before sending.",
+    "opportunity": "Feedback group or informal pilot with KC-135 aircrew and maintainers",
+    "unknowns": "No named wellness contact; no 2026 wellness-program news found; base wearable rules unknown",
+    "entry_route": "Wing public affairs",
+    "tags": [
+      "military",
+      "air-national-guard",
+      "maine",
+      "east-coast",
+      "tactical"
+    ]
+  },
+  {
+    "name": "Portsmouth Naval Shipyard (Fletcher Fitness Center)",
+    "org": "U.S. Navy, Portsmouth Naval Shipyard",
+    "role": null,
+    "type": "channel-partner",
+    "hunt": "partnership",
+    "why": "The shipyard employs about 6,800 civilian workers (Livability, May 2026) plus sailors and Marines; its Fletcher Fitness Center serves service members, families and civilian contractors. A large shift-based workforce is a fit for an overnight recovery band through MWR or workforce wellness.",
+    "why_now": "Workforce figure published May 2026",
+    "evidence": [
+      "https://livability.com/nh/portsmouth/education-careers-opportunity/jobs-portsmouth-nh-innovation-economy/",
+      "https://wuassociates.com/projects/fletcher-fitness-center"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 2,
+      "e": 4
+    },
+    "ask": "Ask the fitness director whether MWR runs wellness challenges or vendor demo days open to small brands",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless band worn overnight that records ECG-based HRV for general wellness, launching May 2027. Does the Fletcher Fitness Center host wellness events or vendor demo days? I'd be glad to bring a few units for feedback.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Kittery, ME",
+    "deadline": null,
+    "last_signal_date": null,
+    "confidence": "single-source",
+    "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session, so re-open each URL before sending.",
+    "opportunity": "MWR wellness event or demo day; shift-worker feedback group",
+    "unknowns": "No named contact; whether MWR allows vendor demos unknown; the workforce article is dated May 2026 only (no day), so last_signal_date is left null",
+    "entry_route": "Navy MWR / shipyard fitness director",
+    "tags": [
+      "military",
+      "navy",
+      "shipyard",
+      "maine",
+      "new-hampshire",
+      "east-coast",
+      "mwr"
+    ]
+  },
+  {
+    "name": "Kunal Mankodiya (URI Electrical, Computer and Biomedical Engineering) with Nicole R. Nugent (Brown)",
+    "org": "University of Rhode Island / Alpert Medical School of Brown University",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Mankodiya is on a 2026 European Journal of Psychotraumatology protocol led by Brown's Nicole R. Nugent in which 191 trauma-exposed adolescents wore wristband health trackers for two weeks, with heart rate and skin conductance modelled over time. A URI wearables engineer working inside a Brown study is a strong DevKit design partner.",
+    "why_now": "Protocol and baseline data published 2026-09-21",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42766723/",
+      "https://doi.org/10.1080/20008066.2026.2649711"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42766723/",
+    "warm_path": null,
+    "fit": 8,
+    "ice": {
+      "i": 6,
+      "c": 5,
+      "e": 6
+    },
+    "ask": "Offer DevKit v0.1 as a candidate sensor for a follow-on study; 15-minute call",
+    "opener": "Hi Kunal, I'm the founder of Vybe Health in Raleigh, North Carolina. I read the 2026 protocol paper with Nicole Nugent using wristband trackers after injury. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. We're choosing 5-10 DevKit design partners. Would a 15-minute call about whether it fits your lab's next study be useful?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Kingston, RI",
+    "deadline": null,
+    "last_signal_date": "2026-09-21",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "wearables",
+      "hrv",
+      "dev-platform",
+      "rhode-island",
+      "east-coast",
+      "university"
+    ]
+  },
+  {
+    "name": "Nicole E. Logan (URI Department of Kinesiology)",
+    "org": "University of Rhode Island",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Logan (Kinesiology, Interdisciplinary Neuroscience Program, Ryan Institute) led a 2026 Pediatric Exercise Science analysis of Fitbit-derived steps and sedentary time in 2,778 adolescent girls from the ABCD Study. She uses consumer-wearable data in kinesiology research.",
+    "why_now": "Pediatric Exercise Science paper published 2026-03-31",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/41887188/",
+      "https://doi.org/10.1123/pes.2025-0075"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/41887188/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 5,
+      "e": 6
+    },
+    "ask": "Feedback call; ask whether URI Kinesiology students could test DevKit units in a class or lab project",
+    "opener": "Hi Nicole, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your 2026 paper using ABCD Fitbit data. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Would URI Kinesiology be open to a 15-minute call about using a few DevKit units in a lab or class project? We'd value the feedback.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Kingston, RI",
+    "deadline": null,
+    "last_signal_date": "2026-03-31",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "wearables",
+      "kinesiology",
+      "rhode-island",
+      "east-coast",
+      "university"
+    ]
+  },
+  {
+    "name": "Margaret H. Bublitz and Adam K. Lewkowitz (Brown OB/GYN, Women and Infants)",
+    "org": "Warren Alpert Medical School of Brown University",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Their 2026 JMIR Formative Research pilot tested Just Breathe, a handheld guided-breathing device for postpartum stress, measuring heart rate variability as an outcome. A team already measuring HRV in a device study could use a validated overnight HRV source.",
+    "why_now": "JMIR Formative Research paper published 2026-02-27",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/41759091/",
+      "https://doi.org/10.2196/85321"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/41759091/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 4,
+      "e": 5
+    },
+    "ask": "15-minute call on how they measured HRV and what an overnight band would need to fit a follow-up study",
+    "opener": "Hi Margaret, I'm the founder of Vybe Health in Raleigh, North Carolina. I read the 2026 Just Breathe pilot that used HRV as an outcome. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Could I have 15 minutes to learn how your team measured HRV and what a follow-up study would need from a device? No pitch.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Providence, RI",
+    "deadline": null,
+    "last_signal_date": "2026-02-27",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "hrv",
+      "women",
+      "rhode-island",
+      "east-coast"
+    ]
+  },
+  {
+    "name": "VA Providence Center for Neurorestoration and Neurotechnology (W. Curt LaFrance, Ryan Van Patten)",
+    "org": "VA Providence Healthcare System / Brown University",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Van Patten and LaFrance (VA Providence Center for Neurorestoration and Neurotechnology, Brown Psychiatry) published a 2026 paper with URI's Nathan E. Cook finding sleep disturbance was associated with self-rated memory. A VA research centre studying sleep alongside cognition fits the VA lane.",
+    "why_now": "Journal of Neuropsychiatry and Clinical Neurosciences paper published 2026-08-27",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42649559/",
+      "https://doi.org/10.1176/appi.neuropsych.20250292"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42649559/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 4,
+      "e": 4
+    },
+    "ask": "Ask whether objective overnight sleep/HRV data would help their future veteran studies; 15-minute call",
+    "opener": "Hi Ryan, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your 2026 paper linking sleep disturbance and metamemory. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Would objective overnight data be useful in your center's veteran studies? I'd value 15 minutes to hear what you'd need.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Providence, RI",
+    "deadline": null,
+    "last_signal_date": "2026-08-27",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "veterans",
+      "va",
+      "sleep",
+      "rhode-island",
+      "east-coast"
+    ]
+  },
+  {
+    "name": "No Wrong Door initiative for Newport County first responders (Strategic Prevention Partnerships)",
+    "org": "Strategic Prevention Partnerships",
+    "role": null,
+    "type": "community",
+    "hunt": "growth",
+    "why": "Strategic Prevention Partnerships received a $125,000 Rhode Island Foundation grant (with the Governor's Overdose Task Force) to expand No Wrong Door mental health support for Newport County first responders; the grant was repeated in a March 2026 roundup of Foundation grants.",
+    "why_now": "Grant listed in Rhode Island Foundation roundup, March 2026",
+    "evidence": [
+      "https://whatsupnewp.com/2025/11/newport-county-first-responders-to-receive-mental-health-support-through-125000-grant/",
+      "https://whatsupnewp.com/2026/03/rhode-island-foundation-awards-5-2-million-in-grants-to-newport-county-nonprofits/"
+    ],
+    "channel": "contact form",
+    "contact_url": null,
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 4,
+      "c": 4,
+      "e": 6
+    },
+    "ask": "Intro call; ask if responders in the program would give feedback on an overnight wellness band",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless overnight band that records ECG-based HRV for general wellness, launching May 2027. I saw your No Wrong Door work with Newport County first responders. Would you be open to a 15-minute call on whether responders in your network would give us feedback?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Portsmouth, RI",
+    "deadline": null,
+    "last_signal_date": null,
+    "confidence": "single-source",
+    "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session, so re-open each URL before sending.",
+    "opportunity": "Responder feedback group via an existing first-responder support network",
+    "unknowns": "Program focuses on mental health support, so fit with a wellness band is indirect; no named contact; the March 2026 roundup has no confirmed day, so last_signal_date is left null",
+    "entry_route": "Organization contact page",
+    "tags": [
+      "first-responders",
+      "peer-support",
+      "rhode-island",
+      "east-coast",
+      "community"
+    ]
+  },
+  {
+    "name": "Rhode Island Fire Chiefs' Physical Performance Assessment (PPA) 2026 sessions",
+    "org": "Rhode Island fire chiefs (PPA administered via CertifyFit)",
+    "role": null,
+    "type": "channel-partner",
+    "hunt": "partnership",
+    "why": "Entry-level firefighter candidates are invited to take the Rhode Island Fire Chiefs' Physical Performance Assessment, with sessions listed from 2026-09-12 to 2026-10-25 and a $180 fee for scored sessions; candidates must finish six timed tasks in eight minutes. Candidates training for the test are a reachable early audience.",
+    "why_now": "PPA sessions run 2026-09-12 to 2026-10-25",
+    "evidence": [
+      "https://www.certifyfit.com/ri-fire/"
+    ],
+    "channel": "contact form",
+    "contact_url": "https://www.certifyfit.com/ri-fire/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 4,
+      "c": 3,
+      "e": 5
+    },
+    "ask": "Ask CertifyFit whether a candidate-prep newsletter or test-day info table could include a short Vybe feedback-panel invite",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless band worn overnight that records ECG-based HRV for general wellness, launching May 2027. Firefighter candidates training for the RI PPA are people we'd love feedback from. Is there a way to invite a few to a short feedback panel?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Statewide, RI",
+    "deadline": null,
+    "last_signal_date": "2026-10-25",
+    "confidence": "single-source",
+    "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session, so re-open each URL before sending.",
+    "opportunity": "Recruit feedback panel; candidate-prep content partnership",
+    "unknowns": "Whether CertifyFit or the chiefs allow third-party outreach unknown; session locations and contact person not captured; next cycle dates unknown",
+    "entry_route": "CertifyFit RI Fire page",
+    "tags": [
+      "first-responders",
+      "fire",
+      "rhode-island",
+      "east-coast",
+      "recruits"
+    ]
+  },
+  {
+    "name": "Christi S. Ulmer (Durham VA ADAPT Center of Innovation)",
+    "org": "Durham VA Health Care System / Duke University School of Medicine",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Ulmer led a 2026 Journal of Clinical Sleep Medicine study on chronotype and sleep disturbance, depression and PTSD symptoms in US military veterans; her email is listed in the PubMed affiliation. A VA sleep researcher in the Triangle is the strongest local VA research lead.",
+    "why_now": "Journal of Clinical Sleep Medicine paper published 2026-10-05",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42834265/",
+      "https://doi.org/10.1007/s44470-026-00165-w"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42834265/",
+    "warm_path": "North Carolina (Triangle)",
+    "fit": 8,
+    "ice": {
+      "i": 7,
+      "c": 5,
+      "e": 7
+    },
+    "ask": "Coffee or 15-minute call in Durham on what overnight data VA sleep researchers would want from a consumer band",
+    "opener": "Hi Christi, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your new JCSM paper on chronotype in veterans. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. We're just down the road and would value 15 minutes, or a coffee in Durham, to hear what a VA sleep researcher would want from overnight data. No pitch.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Durham, NC",
+    "deadline": null,
+    "last_signal_date": "2026-10-05",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "veterans",
+      "va",
+      "sleep",
+      "north-carolina",
+      "durham"
+    ]
+  },
+  {
+    "name": "Leanna M. Ross (Duke Molecular Physiology Institute)",
+    "org": "Duke University School of Medicine",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Ross is senior author of a 2026 Experimental Gerontology paper presenting a reproducible pipeline for processing commercial wearable step-count data in the STRRIDE-PD reunion study. Her team builds tooling for consumer-wearable data, which is exactly what Vybe's SDK serves.",
+    "why_now": "Experimental Gerontology paper published 2026-09-24",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42785603/",
+      "https://doi.org/10.1016/j.exger.2026.113337"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42785603/",
+    "warm_path": "North Carolina (Triangle)",
+    "fit": 8,
+    "ice": {
+      "i": 6,
+      "c": 5,
+      "e": 7
+    },
+    "ask": "15-minute call: what would make a wearable's raw data export easy to drop into their pipeline?",
+    "opener": "Hi Leanna, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your 2026 paper on a pipeline for commercial wearable step data. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Your team clearly knows the pain of messy device data. Could I have 15 minutes of your view on what our export should look like?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Durham, NC",
+    "deadline": null,
+    "last_signal_date": "2026-09-24",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "wearables",
+      "dev-platform",
+      "north-carolina",
+      "durham",
+      "exercise"
+    ]
+  },
+  {
+    "name": "Adam W. Kiefer (UNC STAR Heel Performance Laboratory, Matthew Gfeller Center)",
+    "org": "University of North Carolina at Chapel Hill",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Kiefer co-authored a 2026 Military Medicine study on self-reported sleep quality and cognitive performance in Special Operations Forces personnel (with Jason P. Mihalik, THRIVE Program). An objective overnight measure is a natural next step for this SOF sleep work.",
+    "why_now": "Military Medicine paper published 2026-06-30",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42378457/",
+      "https://doi.org/10.1093/milmed/usag299"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42378457/",
+    "warm_path": "North Carolina (Triangle); UNC Gfeller Center already in pipeline via Mihalik row",
+    "fit": 8,
+    "ice": {
+      "i": 7,
+      "c": 5,
+      "e": 6
+    },
+    "ask": "15-minute call on whether the STAR Heel lab would trial DevKit units for objective sleep/HRV in a future SOF study",
+    "opener": "Hi Adam, I'm the founder of Vybe Health in Raleigh, North Carolina. I read the 2026 Military Medicine paper on sleep and cognition in SOF personnel. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Since that study used self-report, would an objective overnight measure be useful next? I'd value 15 minutes of feedback.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Chapel Hill, NC",
+    "deadline": null,
+    "last_signal_date": "2026-06-30",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "tactical",
+      "military",
+      "sleep",
+      "hrv",
+      "north-carolina"
+    ]
+  },
+  {
+    "name": "Sinan Sousan (ECU Brody School of Medicine, Public Health; NC Agromedicine Institute)",
+    "org": "East Carolina University",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Sousan led a 2026 American Journal of Industrial Medicine study on the feasibility of wearable devices for physiological monitoring and heat-risk prediction in outdoor agricultural workers. His group already runs wearables in hard field settings.",
+    "why_now": "American Journal of Industrial Medicine paper published 2026-06-09",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42265825/",
+      "https://doi.org/10.1002/ajim.70103"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42265825/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 6,
+      "c": 5,
+      "e": 6
+    },
+    "ask": "Feedback call on field-wearable durability and data needs; offer DevKit units for evaluation",
+    "opener": "Hi Sinan, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your 2026 study on wearables for heat-risk monitoring in farm workers. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Your field experience would help us. Could I have 15 minutes to hear what breaks in real-world wearable studies?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Greenville, NC",
+    "deadline": null,
+    "last_signal_date": "2026-06-09",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "wearables",
+      "occupational",
+      "north-carolina",
+      "eastern-nc"
+    ]
+  },
+  {
+    "name": "Stacey A. Meardon (ECU Department of Physical Therapy)",
+    "org": "East Carolina University",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Meardon is an author of a 2026 Journal of Biomechanics paper predicting Achilles tendon and patellofemoral joint forces during running from consumer-grade wearable sensor data. A runner-focused lab using consumer wearables could pair daytime load with overnight recovery data.",
+    "why_now": "Journal of Biomechanics paper published 2026-04-23",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42044610/",
+      "https://doi.org/10.1016/j.jbiomech.2026.113321"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42044610/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 5,
+      "e": 6
+    },
+    "ask": "15-minute call on pairing running-load data with overnight HRV in a future study",
+    "opener": "Hi Stacey, I'm the founder of Vybe Health in Raleigh, North Carolina. I read the 2026 paper estimating running joint loads from consumer wearables. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Would pairing daytime load with overnight data interest your lab? I'd value 15 minutes of feedback.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Greenville, NC",
+    "deadline": null,
+    "last_signal_date": "2026-04-23",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "wearables",
+      "running",
+      "north-carolina",
+      "eastern-nc"
+    ]
+  },
+  {
+    "name": "E. Whitney G. Moore (ECU Department of Kinesiology)",
+    "org": "East Carolina University",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Moore and ECU Kinesiology colleagues (Taylor Kinney, Christine M. Habeeb, Nicholas P. Murray) published a 2026 Frontiers in Psychology study on how a caring, task-involving climate affects army cadets' self-efficacy, arousal, attention and marksmanship. An ECU group already working with cadets is a route to tactical-athlete feedback in eastern NC.",
+    "why_now": "Frontiers in Psychology paper published 2026-07-15",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42528644/",
+      "https://doi.org/10.3389/fpsyg.2026.1819408"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42528644/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 4,
+      "e": 5
+    },
+    "ask": "Ask whether cadets in their studies could join a short Vybe feedback panel",
+    "opener": "Hello, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your 2026 study with army cadets on climate, arousal and marksmanship. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Would cadets in your studies be open to a short feedback panel? A 15-minute call to see if it fits would be great.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Greenville, NC",
+    "deadline": null,
+    "last_signal_date": "2026-07-15",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "tactical",
+      "rotc",
+      "north-carolina",
+      "eastern-nc"
+    ]
+  },
+  {
+    "name": "Abbie E. Smith-Ryan (UNC Department of Exercise and Sport Science)",
+    "org": "University of North Carolina at Chapel Hill",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Smith-Ryan is senior author of a 2026 Journal of Strength and Conditioning Research study using machine learning to identify athlete-availability predictors in a multisport elite female athlete cohort. Her group studies women's performance and recovery questions that overnight HRV can feed.",
+    "why_now": "Journal of Strength and Conditioning Research paper published 2026-07-07",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42413555/",
+      "https://doi.org/10.1519/JSC.0000000000005611"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42413555/",
+    "warm_path": "North Carolina (Triangle)",
+    "fit": 7,
+    "ice": {
+      "i": 6,
+      "c": 5,
+      "e": 6
+    },
+    "ask": "15-minute call on whether overnight HRV could be a candidate predictor in a follow-on female-athlete study",
+    "opener": "Hi Abbie, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your 2026 JSCR paper on athlete-availability predictors in elite female athletes. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Could overnight HRV be a useful input in a follow-on study? I'd value 15 minutes of your feedback.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Chapel Hill, NC",
+    "deadline": null,
+    "last_signal_date": "2026-07-07",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "women",
+      "athletes",
+      "hrv",
+      "north-carolina"
+    ]
+  },
+  {
+    "name": "Kelly R. Evenson (UNC Gillings School of Global Public Health, Epidemiology)",
+    "org": "University of North Carolina at Chapel Hill",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Evenson co-authored a 2026 Journal of Sport and Health Science systematic review and network meta-analysis comparing daily step counts across wearable devices in free-living adults. A device-comparison methodologist could advise on how Vybe should report validation.",
+    "why_now": "Journal of Sport and Health Science paper published 2026-07-23",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42492741/",
+      "https://doi.org/10.1016/j.jshs.2026.101162"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42492741/",
+    "warm_path": "North Carolina (Triangle)",
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 5,
+      "e": 6
+    },
+    "ask": "Feedback call on how a new wearable should publish validation results so researchers trust it",
+    "opener": "Hi Kelly, I'm the founder of Vybe Health in Raleigh, North Carolina. I read the 2026 network meta-analysis comparing step counts across wearables. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Before launch we want to publish validation the right way. Could I have 15 minutes of your advice on what researchers look for?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Chapel Hill, NC",
+    "deadline": null,
+    "last_signal_date": "2026-07-23",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "wearables",
+      "validation",
+      "north-carolina"
+    ]
+  },
+  {
+    "name": "Narat Srivali (Duke Division of Pulmonary, Allergy, and Critical Care Medicine)",
+    "org": "Duke University School of Medicine",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Srivali authored a 2026 Sleep Medicine systematic review on how well wearable-device sleep metrics agree with patient-reported sleep quality. He has a current, evidence-based view of where consumer sleep wearables fall short.",
+    "why_now": "Sleep Medicine review published 2026-04-02",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/41946254/",
+      "https://doi.org/10.1016/j.sleep.2026.108941"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/41946254/",
+    "warm_path": "North Carolina (Triangle)",
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 5,
+      "e": 6
+    },
+    "ask": "15-minute call for feedback on Vybe's sleep metrics and how to present them without overclaiming",
+    "opener": "Hi Narat, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your 2026 review on wearable sleep metrics versus patient-reported sleep. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. We want to present our sleep data honestly. Could I have 15 minutes of your feedback on what to show and what to leave out?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Durham, NC",
+    "deadline": null,
+    "last_signal_date": "2026-04-02",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "sleep",
+      "wearables",
+      "north-carolina",
+      "durham"
+    ]
+  },
+  {
+    "name": "Wei Gao lab (NC State Wilson College of Textiles, Textile Engineering, Chemistry and Science)",
+    "org": "North Carolina State University",
+    "role": null,
+    "type": "oem-partner",
+    "hunt": "partnership",
+    "why": "Wei Gao is senior author of a 2026 Small review, 'Toward Real-Life Applications of Fiber Lithium-Ion Batteries,' from NC State's Wilson College of Textiles. Flexible fiber batteries are relevant to a screenless band's form factor and battery life.",
+    "why_now": "Small paper published 2026-02-12",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/41678583/",
+      "https://doi.org/10.1002/smll.202512673"
+    ],
+    "channel": "contact form",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/41678583/",
+    "warm_path": "Raleigh (NC State)",
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 4,
+      "e": 7
+    },
+    "ask": "Campus coffee in Raleigh to learn whether fiber/flexible battery work could suit a future band revision",
+    "opener": "Hi Wei, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless overnight band that records ECG-based HRV, launching May 2027. I read your 2026 review on fiber lithium-ion batteries. Could I buy you a coffee on campus to learn whether that work could suit a later version of our band?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Raleigh, NC",
+    "deadline": null,
+    "last_signal_date": "2026-02-12",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "opportunity": "Battery/form-factor research collaboration for a later band revision; possible student project",
+    "unknowns": "Technology readiness of fiber batteries for consumer wearables unknown; licensing terms and lab capacity unknown",
+    "entry_route": "NC State Wilson College faculty page / PubMed affiliation",
+    "tags": [
+      "research-lab",
+      "health-hardware",
+      "battery",
+      "textiles",
+      "north-carolina",
+      "raleigh"
+    ]
+  },
+  {
+    "name": "Salisbury VA Health Care System sleep and pulmonary program (W.G. (Bill) Hefner VA Medical Center)",
+    "org": "U.S. Department of Veterans Affairs, Salisbury VA Health Care System",
+    "role": null,
+    "type": "channel-partner",
+    "hunt": "partnership",
+    "why": "Salisbury VA was recruiting a staff physician in its Specialty Care Section on 2026-04-23 (duties include CPAP clinics), and is hiring sleep and pulmonary physicians including a sleep section chief. Its sleep lab expanded to six beds and 42 overnight studies a week in 2022. An active VA sleep service in NC fits the VA lane.",
+    "why_now": "Specialty-care physician posting dated 2026-04-23",
+    "evidence": [
+      "https://www.practicematch.com/physicians/job-details.cfm/1066427",
+      "https://www.va.gov/salisbury-health-care/news-releases/salisbury-va-health-care-system-expands-sleep-study-capacity/"
+    ],
+    "channel": "contact form",
+    "contact_url": "https://www.va.gov/salisbury-health-care/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 4,
+      "c": 3,
+      "e": 4
+    },
+    "ask": "Ask the facility's research or Whole Health office whether sleep staff would give feedback on an overnight general-wellness band",
+    "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless overnight band that records ECG-based HRV for general wellness, launching May 2027. Could you point me to someone in Salisbury VA's sleep or research team for a 15-minute feedback conversation? We're asking for input only.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Salisbury, NC",
+    "deadline": null,
+    "last_signal_date": "2026-04-23",
+    "confidence": "single-source",
+    "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session, so re-open each URL before sending.",
+    "opportunity": "Feedback from VA sleep staff; possible later research collaboration through VA processes",
+    "unknowns": "No named contact; the job posting is a hiring signal only; VA research approval and device rules unknown",
+    "entry_route": "Salisbury VA contact page / research office",
+    "tags": [
+      "veterans",
+      "va",
+      "sleep",
+      "north-carolina"
+    ]
+  },
+  {
+    "name": "Emerson M. Wickwire (University of Maryland School of Medicine, Pulmonary, Critical Care and Sleep Medicine)",
+    "org": "University of Maryland School of Medicine",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Wickwire leads TELE-SLEEP OSA, a 2026 hybrid type I randomized trial protocol of telemedicine for sleep apnea among military dependents and retirees, with Vincent F. Capaldi of the Uniformed Services University. A military-family sleep trial is a close fit for overnight data.",
+    "why_now": "Contemporary Clinical Trials protocol published 2026-02-04",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/41651286/",
+      "https://doi.org/10.1016/j.cct.2026.108252"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/41651286/",
+    "warm_path": null,
+    "fit": 8,
+    "ice": {
+      "i": 6,
+      "c": 5,
+      "e": 5
+    },
+    "ask": "15-minute call on whether a general-wellness overnight band could serve as a secondary data source in military-family sleep research",
+    "opener": "Hi Emerson, I'm the founder of Vybe Health in Raleigh, North Carolina. I read the TELE-SLEEP OSA protocol for military dependents and retirees. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. We make no medical claims, but researchers keep asking about overnight data access. Could I have 15 minutes of your feedback?",
+    "check_size": null,
+    "stage": null,
+    "geo": "Baltimore, MD",
+    "deadline": null,
+    "last_signal_date": "2026-02-04",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "sleep",
+      "military",
+      "east-coast",
+      "maryland"
+    ]
+  },
+  {
+    "name": "Elizabeth A. Klingaman (VA Capitol Health Care Network MIRECC, VISN 5)",
+    "org": "U.S. Department of Veterans Affairs MIRECC VISN 5 / University of Maryland School of Medicine",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Klingaman led a 2026 Journal of Clinical Sleep Medicine pilot randomized trial of CBT-I for veterans with serious mental illness, using two weeks of actigraphy and sleep diaries at each time point; her VA email is listed in the PubMed affiliation.",
+    "why_now": "Journal of Clinical Sleep Medicine trial published 2026-01-29",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/41678078/",
+      "https://doi.org/10.1007/s44470-025-00009-z"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/41678078/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 5,
+      "e": 5
+    },
+    "ask": "Feedback call on what actigraphy limits a band with overnight ECG/HRV might help with in veteran sleep studies",
+    "opener": "Hi Elizabeth, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your 2026 CBT-I trial with veterans that used actigraphy. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. I'd value 15 minutes of your feedback on what you'd want beyond actigraphy in future studies. No pitch.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Baltimore, MD",
+    "deadline": null,
+    "last_signal_date": "2026-01-29",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "veterans",
+      "va",
+      "sleep",
+      "east-coast",
+      "maryland"
+    ]
+  },
+  {
+    "name": "Garrett Ash (VA Connecticut Healthcare System / Yale School of Medicine)",
+    "org": "VA Connecticut Healthcare System",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Ash is an author of a 2026 Human Factors in Healthcare study (led by VA Greater Los Angeles) that built a weekly report pairing consumer smartwatch overnight SpO2 data with sleep questionnaires for veterans using non-PAP sleep apnea therapy; usability scored 75.8 on the System Usability Scale. VA teams already using consumer wearables overnight are ideal feedback partners.",
+    "why_now": "Human Factors in Healthcare paper published 2026-07-18",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42549209/",
+      "https://doi.org/10.1016/j.hfh.2026.100147"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42549209/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 5,
+      "c": 5,
+      "e": 5
+    },
+    "ask": "15-minute call on what made the smartwatch report usable for veterans and what data a band should expose",
+    "opener": "Hi Garrett, I'm the founder of Vybe Health in Raleigh, North Carolina. I read the 2026 VA study pairing smartwatch overnight data with sleep reports for veterans. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Could I have 15 minutes to hear what made that report usable and what data you'd want from a band?",
+    "check_size": null,
+    "stage": null,
+    "geo": "West Haven, CT",
+    "deadline": null,
+    "last_signal_date": "2026-07-18",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "veterans",
+      "va",
+      "sleep",
+      "wearables",
+      "east-coast",
+      "connecticut"
+    ]
+  },
+  {
+    "name": "Dale W. Russell (Uniformed Services University, Department of Psychiatry)",
+    "org": "Uniformed Services University of the Health Sciences",
+    "role": null,
+    "type": "research-lab",
+    "hunt": "growth",
+    "why": "Russell led a 2026 Journal of Sleep Research paper on restorative sleep gaps and occupational fatigue in the US Navy (with Patrick J. Rosopa, Clemson). Navy fatigue research is a direct use case for an overnight recovery band.",
+    "why_now": "Journal of Sleep Research paper published 2026-06-14",
+    "evidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/42290087/",
+      "https://doi.org/10.1111/jsr.70385"
+    ],
+    "channel": "email listed on source",
+    "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42290087/",
+    "warm_path": null,
+    "fit": 7,
+    "ice": {
+      "i": 6,
+      "c": 4,
+      "e": 5
+    },
+    "ask": "15-minute call on whether objective overnight data would help future Navy fatigue studies",
+    "opener": "Hi Dale, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your 2026 paper on restorative sleep gaps and fatigue in the Navy. We're building a screenless band worn overnight that records ECG-based HRV, with raw data access through a licensed SDK. Would objective overnight data help in future fatigue work? I'd value 15 minutes of your feedback.",
+    "check_size": null,
+    "stage": null,
+    "geo": "Bethesda, MD",
+    "deadline": null,
+    "last_signal_date": "2026-06-14",
+    "confidence": "verified",
+    "verification_note": "Paper metadata (title, date, author names and affiliations) was pulled directly from PubMed on 2026-10-11; web pages could not be opened in this session (proxy/DNS block), so confirm the lab's current contact page before sending.",
+    "tags": [
+      "research-lab",
+      "military",
+      "navy",
+      "sleep",
+      "east-coast",
+      "maryland"
+    ]
+  }
+]
