@@ -1,0 +1,95 @@
+<title>Vybe Draft Approvals</title>
+<style>
+:root{--bg:#f7f7f5;--card:#fff;--ink:#1a1a1a;--ink-2:#555;--ink-3:#888;--line:#e4e4e0;--accent:#0b7b5d;--accent-ink:#fff;--warn:#b54708;--bad:#b42318;--pill:#eef0ec}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121413;--card:#1b1e1c;--ink:#ececea;--ink-2:#b4b6b2;--ink-3:#868884;--line:#2c302d;--accent:#3fbf93;--accent-ink:#0b1410;--warn:#f0a35e;--bad:#f47a6e;--pill:#262a27}}
+:root[data-theme="dark"]{--bg:#121413;--card:#1b1e1c;--ink:#ececea;--ink-2:#b4b6b2;--ink-3:#868884;--line:#2c302d;--accent:#3fbf93;--accent-ink:#0b1410;--warn:#f0a35e;--bad:#f47a6e;--pill:#262a27}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+main{max-width:860px;margin:0 auto;padding:24px 16px 64px}
+h1{font-size:22px;margin:0 0 4px}
+.sub{color:var(--ink-2);margin:0 0 18px}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:16px}
+.tab{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:6px 14px;font:inherit;cursor:pointer}
+.tab[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:12px}
+.top{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:baseline}
+.org{font-weight:600;font-size:16px}
+.meta{color:var(--ink-3);font-size:13px}
+.pill{display:inline-block;background:var(--pill);border-radius:999px;padding:2px 10px;font-size:12px;color:var(--ink-2)}
+.pill.approved,.pill.sent{color:var(--accent)}.pill.rejected{color:var(--bad)}.pill.changes{color:var(--warn)}
+.why{color:var(--ink-2);margin:8px 0}
+details{margin:8px 0}
+summary{cursor:pointer;color:var(--ink-2)}
+pre{white-space:pre-wrap;word-wrap:break-word;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:12px;font:14px/1.5 inherit;margin:8px 0 0}
+.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px;align-items:center}
+button.act{border:0;border-radius:8px;padding:8px 16px;font:inherit;cursor:pointer}
+.approve{background:var(--accent);color:var(--accent-ink)}
+.reject{background:var(--pill);color:var(--bad)}
+.change{background:var(--pill);color:var(--ink)}
+textarea{width:100%;min-height:70px;border:1px solid var(--line);border-radius:8px;padding:8px;background:var(--bg);color:var(--ink);font:inherit;margin-top:8px}
+.note{font-size:13px;color:var(--warn);margin-top:6px}
+.empty{color:var(--ink-3);text-align:center;padding:40px 0}
+.banner{background:var(--pill);border-radius:8px;padding:10px 12px;color:var(--ink-2);margin-bottom:16px;font-size:14px}
+</style>
+<main>
+  <h1>Vybe draft approvals</h1>
+  <p class="sub">Nothing goes out until it is approved here. Approved drafts are sent from jeremy@vybe.health with John on CC on the agent's next run.</p>
+  <div id="banner" class="banner" hidden></div>
+  <div class="tabs" role="tablist" id="tabs"></div>
+  <div id="list"><p class="empty">Loading drafts…</p></div>
+</main>
+<script>
+const TABS=[["pending","Waiting"],["changes","Changes asked"],["approved","Approved"],["sent","Sent"],["rejected","Rejected"]];
+let tab="pending", rows=[], db=null, me=null, user=null, canWrite=true;
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function renderTabs(){
+  $("#tabs").innerHTML=TABS.map(([k,l])=>{const n=rows.filter(r=>(r.status||"pending")===k).length;
+    return `<button class="tab" role="tab" aria-pressed="${k===tab}" data-tab="${k}">${l} (${n})</button>`}).join("");
+}
+async function render(){
+  renderTabs();
+  const view=rows.filter(r=>(r.status||"pending")===tab);
+  if(!view.length){$("#list").innerHTML=`<p class="empty">Nothing here.</p>`;return}
+  const ids=[...new Set(view.map(r=>r.decidedBy).filter(Boolean))];
+  let ps={}; try{ if(user&&ids.length) ps=await user.profiles(ids) }catch(e){}
+  $("#list").innerHTML=view.map(r=>{
+    const who=r.decidedBy?((ps[r.decidedBy]&&ps[r.decidedBy].name)||"Someone"):"";
+    const st=r.status||"pending";
+    const open=st==="pending"||st==="changes";
+    return `<article class="card" data-id="${esc(r.id)}">
+      <div class="top"><div><div class="org">${esc(r.org)}</div><div class="meta">${r.to?`To ${esc(r.to)} · sent by the agent once approved`:`Via ${esc(r.channel||"contact form")} · you send it once approved`}${r.contact?` · <a href="${esc(r.contact)}" target="_blank" rel="noopener">open</a>`:""}</div></div>
+      <span class="pill ${esc(st)}">${esc(TABS.find(t=>t[0]===st)?.[1]||st)}${who?" by "+esc(who):""}</span></div>
+      ${r.why?`<p class="why">${esc(r.why)}</p>`:""}
+      <details${open?" open":""}><summary>Subject: ${esc(r.subject)}</summary><pre>${esc(r.body)}</pre></details>
+      ${r.note?`<div class="note">Change asked: ${esc(r.note)}</div>`:""}
+      ${st==="approved"&&!r.to?`<div class="note">Approved. Send it yourself via ${esc(r.channel||"the contact form")}${r.contact?`: <a href="${esc(r.contact)}" target="_blank" rel="noopener">${esc(r.contact)}</a>`:""}</div>`:""}
+      ${st==="sent"&&r.sentAt?`<div class="meta">Sent ${esc(r.sentAt)}</div>`:""}
+      ${open&&canWrite?`<div class="actions">
+        <button class="act approve" data-act="approved">Approve</button>
+        <button class="act change" data-act="changes">Ask for a change</button>
+        <button class="act reject" data-act="rejected">Reject</button></div>
+        <textarea placeholder="What should change? (needed for Ask for a change)" aria-label="Change note"></textarea>`:""}
+    </article>`}).join("");
+}
+document.addEventListener("click",async e=>{
+  const t=e.target.closest("[data-tab]"); if(t){tab=t.dataset.tab;render();return}
+  const b=e.target.closest("[data-act]"); if(!b||!db)return;
+  const card=b.closest(".card"), id=card.dataset.id, act=b.dataset.act;
+  const note=(card.querySelector("textarea")?.value||"").trim();
+  if(act==="changes"&&!note){card.querySelector("textarea").focus();return}
+  b.disabled=true;
+  try{
+    await db.collection("drafts").doc(id).update({status:act,note:act==="changes"?note:"",decidedBy:me,decidedAt:new Date().toISOString()});
+  }catch(err){b.disabled=false;showBanner(err&&err.code==="permission_denied"?"You can view these drafts but not approve them. Ask Jeremy for Contributor access.":"Could not save that. Try again.")}
+});
+function showBanner(t){const el=$("#banner");el.textContent=t;el.hidden=false}
+(async()=>{
+  db=await claude.use("db"); user=await claude.use("user");
+  if(!db){$("#list").innerHTML=`<p class="empty">Sign in to claude.ai to see and approve drafts.</p>`;return}
+  try{ me=user?await user.id():null }catch(e){}
+  try{ if(user&&user.can){const c=await user.can("data.write"); if(c===false){canWrite=false;showBanner("View only: you can read these drafts but not approve them.")}} }catch(e){}
+  db.collection("drafts").onSnapshot(s=>{rows=s.docs.map(d=>({id:d.id,...d.data()})).sort((a,b)=>(a.order||0)-(b.order||0));render()},
+    ()=>{$("#list").innerHTML=`<p class="empty">Could not load drafts. Reload the page.</p>`});
+})();
+</script>
