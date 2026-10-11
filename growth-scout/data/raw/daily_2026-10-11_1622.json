@@ -1,0 +1,260 @@
+[
+ {
+  "name": "IronAI",
+  "org": "IronAI Fitness",
+  "role": "Founder (poster in WHOOP Community; name not shown in snapshot)",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "IronAI's founder posted in the WHOOP Community that their WHOOP integration, which turns daily recovery and readiness into training recommendations, has waited months for app approval with no response, while other wearables already work for their members. They need another overnight recovery data source that does not sit behind a 10-member cap.",
+  "why_now": "WHOOP Community thread 'IronAI app approval pending for months - no response' (thread 15641, posted in 2026 after the 20 July 2026 Vita thread 15626; exact post date not visible in snapshot).",
+  "evidence": [
+   "https://www.community.whoop.com/t/ironai-app-approval-pending-for-months-no-response/15641"
+  ],
+  "channel": "WHOOP Community thread reply / forum DM",
+  "contact_url": "https://www.community.whoop.com/t/ironai-app-approval-pending-for-months-no-response/15641",
+  "warm_path": null,
+  "fit": 8,
+  "ice": {
+   "i": 7,
+   "c": 6,
+   "e": 8
+  },
+  "ask": "15-minute call on whether an open overnight HRV and resting-heart-rate feed via the Vybe SDK would fit their readiness-based training engine, as a design-partner integration",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. I saw your WHOOP Community post about IronAI waiting months on app approval. We're building a screenless overnight band with a licensed SDK that gives apps raw HRV, resting heart rate and sleep data, with no per-app user cap. We're picking a few design partners now. Would a 15-minute call to see if IronAI's readiness recommendations could use our feed be worth it?",
+  "check_size": null,
+  "stage": null,
+  "geo": null,
+  "deadline": null,
+  "last_signal_date": null,
+  "confidence": "single-source",
+  "existing_wearables": null,
+  "exclusive": false,
+  "partner_status": "open",
+  "opportunity": "Add Vybe as a recovery/readiness data source alongside the wearables IronAI already supports; design-partner integration on DevKit v0.1 data.",
+  "unknowns": "Founder name, company location, exact post date, which wearables are already integrated (post says 'other wearables work' without naming them), and whether WHOOP has since approved them.",
+  "verification_note": "Session could not open pages directly (proxy/DNS block on WebFetch and curl); details come from search-engine snapshots of the evidence URLs on 2026-10-11. Open the source and confirm before sending.",
+  "tags": [
+   "builder",
+   "dev-platform",
+   "hrv",
+   "sleep",
+   "whoop-cap",
+   "strength-training"
+  ]
+ },
+ {
+  "name": "Longy",
+  "org": "Appvillis",
+  "role": "Founder (poster in WHOOP Community; name not shown in snapshot)",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "The founder of Longy.ai, an AI longevity coaching app, posted in WHOOP Community Product Feedback that several requests to lift the 10-user cap had gone unanswered for more than three months while they prepared their first public launch. The iOS app ('The Longevity Copilot', developer Appvillis, released April 2026) pulls connected wearable data into a daily plan, so an uncapped overnight data source helps them launch.",
+  "why_now": "App released April 2026 (Appgoblin); WHOOP thread 'API limit increase' (14592) describes the pre-launch block; exact post date not visible in snapshot.",
+  "evidence": [
+   "https://www.community.whoop.com/t/api-limit-increase/14592",
+   "https://apps.apple.com/app/id6758518609",
+   "https://appgoblin.info/apps/6758518609"
+  ],
+  "channel": "WHOOP Community thread reply / forum DM",
+  "contact_url": "https://www.community.whoop.com/t/api-limit-increase/14592",
+  "warm_path": null,
+  "fit": 7,
+  "ice": {
+   "i": 5,
+   "c": 6,
+   "e": 8
+  },
+  "ask": "15-minute call about adding Vybe as a data source and being an early design-partner integration",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your WHOOP Community post about Longy waiting months to lift the 10-user cap before launch. We're building a screenless overnight band plus a licensed SDK that gives apps raw HRV, resting heart rate and sleep data, without a per-app user cap. We're choosing a few design partners. Open to a 15-minute call on whether Longy's daily plan could use our data?",
+  "check_size": null,
+  "stage": null,
+  "geo": null,
+  "deadline": null,
+  "last_signal_date": null,
+  "confidence": "verified",
+  "existing_wearables": null,
+  "exclusive": false,
+  "partner_status": "open",
+  "opportunity": "Be an uncapped overnight data source in Longy's daily plan; co-announce the integration at their public launch.",
+  "unknowns": "Founder name, location, exact thread date, current WHOOP approval status, full list of connected wearables (App Store says 'connected wearable data' without naming them). Small app (Appgoblin estimates about 200 MAU). Keep copy to general wellness only.",
+  "verification_note": "Session could not open pages directly (proxy/DNS block on WebFetch and curl); details come from search-engine snapshots of the evidence URLs on 2026-10-11. Open the source and confirm before sending.",
+  "tags": [
+   "builder",
+   "dev-platform",
+   "hrv",
+   "sleep",
+   "whoop-cap",
+   "longevity"
+  ]
+ },
+ {
+  "name": "Vora",
+  "org": "Vora Health (askvora.com)",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Vora, a free AI app that says it unifies data from 500+ wearables, states in its help docs that direct Fitbit access is capped while Google verifies its Fitbit connection under the new Google Health API, and published a 2026 explainer on which apps still sync after the Fitbit change. As a multi-device aggregator it can list Vybe as a new source.",
+  "why_now": "Fitbit Web API turns off 2026-10-30; Vora's Fitbit connection is capped pending Google verification (askvora.com help and 2026 blog).",
+  "evidence": [
+   "https://askvora.com/blog/fitbit-google-health-which-apps-still-sync",
+   "https://askvora.com/help/does-vora-work-with-fitbit",
+   "https://askvora.com/integrations"
+  ],
+  "channel": "website (contact route not verified)",
+  "contact_url": null,
+  "warm_path": null,
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 5,
+   "e": 6
+  },
+  "ask": "15-minute call with their integrations lead on adding Vybe as a source via the SDK",
+  "opener": "Hi Vora team, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your post on which apps still sync after the Fitbit move to Google Health, and saw your Fitbit connection is capped during Google's verification. We're building a screenless overnight band with a licensed SDK and raw HRV, resting heart rate and sleep data. Would your integrations lead be open to a 15-minute call about adding Vybe as a source?",
+  "check_size": null,
+  "stage": null,
+  "geo": null,
+  "deadline": null,
+  "last_signal_date": null,
+  "confidence": "verified",
+  "existing_wearables": [
+   "Apple Watch",
+   "Oura Ring",
+   "WHOOP",
+   "Garmin",
+   "Fitbit",
+   "Strava",
+   "Apple Health",
+   "Google Fit",
+   "Health Connect"
+  ],
+  "exclusive": false,
+  "partner_status": "open",
+  "opportunity": "List Vybe as a native source in Vora's integrations catalog, with overnight HRV and sleep feeding its dashboard.",
+  "unknowns": "Company location, team names, public partner contact, blog post date, how Vora connects to 500+ devices (direct vs aggregator).",
+  "verification_note": "Session could not open pages directly (proxy/DNS block on WebFetch and curl); details come from search-engine snapshots of the evidence URLs on 2026-10-11. Open the source and confirm before sending.",
+  "tags": [
+   "app-partner",
+   "dev-platform",
+   "hrv",
+   "sleep",
+   "fitbit-sunset",
+   "aggregator"
+  ]
+ },
+ {
+  "name": "Biometrics (tusharcora)",
+  "org": "tusharcora/Biometrics (GitHub)",
+  "role": "Repo owner",
+  "type": "builder",
+  "hunt": "partnership",
+  "why": "Open-source 'Whoop/Bezel-style' recovery app (React Native/Expo) that tracks resting heart rate, sleep and HRV from Fitbit. A PR moved it off the Fitbit Web API to the Google Health API, and the README lists public launch as blocked on Google's CASA security review for restricted scopes. A recovery app built on overnight HRV is exactly what the Vybe SDK feeds.",
+  "why_now": "Fitbit Web API turns off 2026-10-30; repo PR #2 migrates to Google Health API and README names the CASA review as a launch blocker.",
+  "evidence": [
+   "https://github.com/tusharcora/Biometrics",
+   "https://github.com/tusharcora/Biometrics/pull/2"
+  ],
+  "channel": "GitHub issue",
+  "contact_url": "https://github.com/tusharcora/Biometrics",
+  "warm_path": null,
+  "fit": 8,
+  "ice": {
+   "i": 5,
+   "c": 6,
+   "e": 9
+  },
+  "ask": "Open a GitHub issue offering a Vybe SDK adapter as a second data source and a 15-minute call",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. I saw Biometrics moved to the Google Health API and that the CASA review stands between you and a public launch. We're building a screenless overnight band with a licensed SDK that gives raw HRV, resting heart rate and sleep data. Would you be open to a 15-minute call about adding Vybe as a second source in your recovery app?",
+  "check_size": null,
+  "stage": null,
+  "geo": null,
+  "deadline": null,
+  "last_signal_date": null,
+  "confidence": "single-source",
+  "verification_note": "Session could not open pages directly (proxy/DNS block on WebFetch and curl); details come from search-engine snapshots of the evidence URLs on 2026-10-11. Open the source and confirm before sending. Dates of PR #2 and README not visible in snapshot.",
+  "tags": [
+   "builder",
+   "open-source",
+   "dev-platform",
+   "hrv",
+   "sleep",
+   "fitbit-sunset"
+  ]
+ },
+ {
+  "name": "cued-back-end (Edwn1x)",
+  "org": "Cued (Edwn1x/cued-back-end on GitHub)",
+  "role": "Repo owner",
+  "type": "builder",
+  "hunt": "partnership",
+  "why": "PR #111 adds Fitbit/Pixel Watch sleep, steps, heart rate and HRV via the Google Health API (noting the API launched 2026-03-24 as the Fitbit successor), but ships it flag-gated off, citing Google's account restrictions (Workspace accounts blocked). An app that already models overnight HRV and sleep but cannot switch its Fitbit path on is a good fit for an open data source.",
+  "why_now": "PR #111 references the Google Health API launch on 2026-03-24 and the Fitbit Web API shutdown on 2026-10-30.",
+  "evidence": [
+   "https://github.com/Edwn1x/cued-back-end/pull/111"
+  ],
+  "channel": "GitHub (PR comment or issue)",
+  "contact_url": "https://github.com/Edwn1x/cued-back-end/pull/111",
+  "warm_path": null,
+  "fit": 7,
+  "ice": {
+   "i": 4,
+   "c": 5,
+   "e": 8
+  },
+  "ask": "A short GitHub comment offering a Vybe SDK integration path, then a 15-minute call",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. I read your Google Health integration PR and saw it ships flag-gated off because of Google's account limits. We're building a screenless overnight band with a licensed SDK that exposes raw HRV, resting heart rate and sleep data. If an extra overnight source would help Cued, would you be up for a 15-minute call?",
+  "check_size": null,
+  "stage": null,
+  "geo": null,
+  "deadline": null,
+  "last_signal_date": "2026-03-24",
+  "confidence": "single-source",
+  "verification_note": "Session could not open pages directly (proxy/DNS block on WebFetch and curl); details come from search-engine snapshots of the evidence URLs on 2026-10-11. Open the source and confirm before sending. What the Cued product is, and who runs it, is not verified; last_signal_date is the Google Health API launch date cited in the PR, not the PR date.",
+  "tags": [
+   "builder",
+   "dev-platform",
+   "hrv",
+   "sleep",
+   "fitbit-sunset"
+  ]
+ },
+ {
+  "name": "Whooper 2.0 (EazyLee30)",
+  "org": "EazyLee30/whooper-2.0 (GitHub)",
+  "role": "Repo owner",
+  "type": "builder",
+  "hunt": "partnership",
+  "why": "Open-source authenticated ChatGPT and Codex plugin that acts as a WHOOP recovery, sleep and training coach. Its README says the WHOOP app is still in Sandbox, 'up to 10 connected members' (1 connected when checked on 2026-10-10), so it cannot grow past WHOOP's cap. A Vybe adapter would give it a second, uncapped overnight source.",
+  "why_now": "README status line dated 2026-10-10: WHOOP Sandbox, up to 10 connected members.",
+  "evidence": [
+   "https://github.com/EazyLee30/whooper-2.0"
+  ],
+  "channel": "GitHub issue",
+  "contact_url": "https://github.com/EazyLee30/whooper-2.0",
+  "warm_path": null,
+  "fit": 7,
+  "ice": {
+   "i": 4,
+   "c": 6,
+   "e": 9
+  },
+  "ask": "Open a GitHub issue proposing a Vybe SDK data adapter; offer a 15-minute call",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. I saw Whooper's README notes the WHOOP app is still capped at 10 connected members in Sandbox. We're building a screenless overnight band with a licensed SDK that gives raw HRV, resting heart rate and sleep data without a per-app user cap. Would you be open to a 15-minute call about a Vybe adapter for Whooper?",
+  "check_size": null,
+  "stage": null,
+  "geo": null,
+  "deadline": null,
+  "last_signal_date": "2026-10-10",
+  "confidence": "single-source",
+  "verification_note": "Session could not open pages directly (proxy/DNS block on WebFetch and curl); details come from search-engine snapshots of the evidence URLs on 2026-10-11. Open the source and confirm before sending.",
+  "tags": [
+   "builder",
+   "open-source",
+   "dev-platform",
+   "hrv",
+   "sleep",
+   "whoop-cap",
+   "ai-agent"
+  ]
+ }
+]
