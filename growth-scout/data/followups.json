@@ -1,441 +1,449 @@
 {
-  "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
-  "checked": "2026-10-11",
-  "threads": [
-    {
-      "org": "Head of the Schuylkill Regatta",
-      "to": "jenwesson@hosr.org",
-      "first_sent": "2026-10-06",
-      "followed_up": "2026-10-08",
-      "state": "no go",
-      "due": null,
-      "next": "No go (John, 11 Oct): not paying $300 for a PA table."
-    },
-    {
-      "org": "MSBL",
-      "to": "info@msblnational.com",
-      "first_sent": "2026-10-06",
-      "followed_up": "2026-10-08",
-      "state": "replied",
-      "due": "2026-10-13",
-      "next": "John, 11 Oct: send them a one-pager on what Vybe offers for the founding batch. Cancel the World Series table request (no Phoenix trip)."
-    },
-    {
-      "org": "WNBF Naturalmania Pro Am Nationals",
-      "to": "wnbf@worldnaturalbb.com",
-      "first_sent": "2026-10-06",
-      "followed_up": "2026-10-08",
-      "state": "no go",
-      "due": null,
-      "next": "No go (John, 11 Oct): cancel the Naturalmania vendor table and social post."
-    },
-    {
-      "org": "RRCA 2027 Convention",
-      "to": "execdir@rrca.org",
-      "first_sent": "2026-10-06",
-      "followed_up": "2026-10-08",
-      "state": "no go",
-      "due": null,
-      "next": "John, 11 Oct: Austin convention table is $1,200 (April 2027). Doubtful; treat as no go unless Jeremy overrides."
-    },
-    {
-      "org": "Senior Softball-USA Winter Nationals",
-      "to": "info@seniorsoftball.com",
-      "first_sent": "2026-10-06",
-      "followed_up": "2026-10-08",
-      "state": "no reply",
-      "due": "2026-10-13",
-      "next": "The one follow-up is already used. The event is 3-8 Nov: if there's still no reply by Tue 13 Oct, phone them instead of emailing again."
-    },
-    {
-      "org": "Hockey North America",
-      "to": "hockeynorthamerica@gmail.com",
-      "first_sent": "2026-10-08",
-      "state": "no reply",
-      "due": "2026-10-16",
-      "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
-      "followed_up": "2026-10-09"
-    },
-    {
-      "org": "Concept2 Logbook",
-      "to": "ranking@concept2.com",
-      "first_sent": "2026-10-08",
-      "state": "replied",
-      "due": "2026-10-13",
-      "next": "John, 11 Oct: no partnership email needed. Fill out the Concept2 API application. John offered to run it; Jeremy to confirm.",
-      "followed_up": "2026-10-09"
-    },
-    {
-      "org": "NABA (adult baseball)",
-      "to": "nabanational@aol.com",
-      "first_sent": "2026-10-08",
-      "state": "no reply",
-      "due": "2026-10-16",
-      "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
-      "followed_up": "2026-10-09"
-    },
-    {
-      "org": "Black Men Run",
-      "to": "info@blackmenrun.com",
-      "first_sent": "2026-10-08",
-      "state": "no reply",
-      "due": "2026-10-16",
-      "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
-      "followed_up": "2026-10-09"
-    },
-    {
-      "org": "Volo",
-      "to": "info@voloforbusiness.com",
-      "first_sent": "2026-10-08",
-      "state": "no reply",
-      "due": "2026-10-16",
-      "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
-      "followed_up": "2026-10-09"
-    },
-    {
-      "org": "US Police & Fire Championships",
-      "to": "4info@cpaf.org",
-      "first_sent": "2026-10-08",
-      "state": "no reply",
-      "due": "2026-10-16",
-      "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
-      "followed_up": "2026-10-09"
-    },
-    {
-      "org": "International Pride Softball",
-      "to": "hello@ipridesoftball.org",
-      "first_sent": "2026-10-08",
-      "state": "no reply",
-      "due": "2026-10-16",
-      "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
-      "followed_up": "2026-10-09"
-    },
-    {
-      "org": "NYRR Strategic Partnerships",
-      "to": "sponsorship@nyrr.org",
-      "first_sent": "2026-10-08",
-      "state": "auto-reply only",
-      "due": "2026-10-16",
-      "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
-      "followed_up": "2026-10-09"
-    },
-    {
-      "org": "Roy Hobbs World Series",
-      "to": "teammatesupport@royhobbs.com",
-      "first_sent": "2026-10-08",
-      "state": "no go",
-      "due": null,
-      "next": "No go (John, 11 Oct). They declined for now ('Perhaps in the future'). No further outreach.",
-      "followed_up": "2026-10-09"
-    },
-    {
-      "org": "Travis Manion Foundation",
-      "to": "partnerships@travismanion.org",
-      "first_sent": "2026-10-08",
-      "state": "no reply",
-      "due": "2026-10-16",
-      "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
-      "followed_up": "2026-10-09"
-    },
-    {
-      "org": "Black Girls RUN!",
-      "to": "info@blackgirlsrun.com",
-      "first_sent": "2026-10-08",
-      "state": "no reply",
-      "due": "2026-10-16",
-      "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
-      "followed_up": "2026-10-09"
-    },
-    {
-      "org": "National Senior Games Association",
-      "to": "NSGA@nsga.com",
-      "first_sent": "2026-10-09",
-      "state": "auto-reply only",
-      "due": "2026-10-14",
-      "next": "Passed to their Business Development team on 9 Oct. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "WAKA Kickball",
-      "to": "info@clubwaka.com",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "Running 4 Heroes",
-      "to": "info@running4heroes.org",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "ANZER USA",
-      "to": "JayM@anzer-usa.com",
-      "first_sent": "2026-10-09",
-      "state": "no go",
-      "due": null,
-      "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
-    },
-    {
-      "org": "Kyros Engineering",
-      "to": "peter@kyrosengineering.com",
-      "first_sent": "2026-10-09",
-      "state": "no go",
-      "due": null,
-      "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
-    },
-    {
-      "org": "IAFC Technology Council (fire service vendor engagement)",
-      "to": "techcouncil@iafc.org",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "Adaptive and wheelchair sports (Ohio)",
-      "to": "info@adaptivesportsohio.org",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "Akron City FC",
-      "to": "info@akroncityfc.com",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "Arnold Sports Festival & Arnold Expo 2027",
-      "to": "exhibitors@arnoldsports.com",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "GT Brazilian Jiu-Jitsu",
-      "to": "todd@gtbjjohio.com",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "Kent State Esports",
-      "to": "esports@kent.edu",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "MAGNET (Manufacturing Advocacy & Growth Network)",
-      "to": "info@manufacturingsuccess.org",
-      "first_sent": "2026-10-09",
-      "state": "no go",
-      "due": null,
-      "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
-    },
-    {
-      "org": "Ohio State Crew (club rowing)",
-      "to": "osucrewrar@gmail.com",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "OhioHealth Capital City Half & Quarter Marathon 2027",
-      "to": "info@m3ssports.com",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "REACH Fitness",
-      "to": "marianne@reachfitnessohio.com",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "Youth and adult bouldering (Akron)",
-      "to": "info@rockmillclimbing.com",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "Aaron Handy",
-      "to": "office@legacy-ohio.com",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "Chris Kriebel",
-      "to": "chris@tkobjj.com",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "Joules",
-      "to": "hello@joules.cc",
-      "first_sent": "2026-10-09",
-      "state": "no go",
-      "due": null,
-      "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
-    },
-    {
-      "org": "Leyen Zulueta",
-      "to": "travis@matlabbjj.com",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "PlateLens",
-      "to": "support@platelens.app",
-      "first_sent": "2026-10-09",
-      "state": "no go",
-      "due": null,
-      "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
-    },
-    {
-      "org": "Cincinnati Cycle Club",
-      "to": "membership@cincinnaticycleclub.org",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "LiPol Battery North America",
-      "to": "info@lipolbatteries.com",
-      "first_sent": "2026-10-09",
-      "state": "no go",
-      "due": null,
-      "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
-    },
-    {
-      "org": "Ohio State Triathlon Club",
-      "to": "tosutriathlon@gmail.com",
-      "first_sent": "2026-10-09",
-      "state": "replied",
-      "due": "2026-10-14",
-      "next": "11 Oct: resent with the correct Vybe booking link (John's instruction). John will take the call by phone."
-    },
-    {
-      "org": "Chagrin Falls Booster Club 5K Turkey Trot 2026",
-      "to": "info@cfboosterclub.org",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "Columbus Weightlifting Club",
-      "to": "info@columbusweightlifting.org",
-      "first_sent": "2026-10-09",
-      "state": "no reply",
-      "due": "2026-10-14",
-      "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-    },
-    {
-      "org": "Nocturnal Product Development",
-      "to": "eyal@nocturnalpd.com",
-      "first_sent": "2026-10-09",
-      "state": "no go",
-      "due": null,
-      "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
-    },
-    {
-      "org": "Stress Platform - Health & HRV",
-      "to": "help@stress-platform.com",
-      "first_sent": "2026-10-09",
-      "state": "replied",
-      "due": "2026-10-13",
-      "next": "John, 11 Oct: Jeremy needs to send the technical answer (does a prototype write HRV and resting HR to Apple Health?) before any call."
-    },
-    {
-      "org": "SugaMed (ECG Patch PCBA)",
-      "to": "info@sugaintl.com",
-      "first_sent": "2026-10-09",
-      "state": "no go",
-      "due": null,
-      "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
-    },
-    {
-      "org": "Zufek",
-      "to": "info@zufek.com",
-      "first_sent": "2026-10-09",
-      "state": "no go",
-      "due": null,
-      "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
-    },
-    {
-      "org": "Open Wearables (Momentum)",
-      "to": "piotr.ratkowski@themomentum.ai",
-      "first_sent": "2026-10-09",
-      "state": "replied",
-      "due": "2026-10-14",
-      "next": "11 Oct: sent John's reply with the correct Vybe link, asking for a 30-minute call on adding Vybe as an Open Wearables source."
-    },
-    {
-      "org": "Tredict",
-      "to": "info@tredict.com",
-      "first_sent": "2026-10-09",
-      "state": "replied",
-      "due": "2026-10-14",
-      "next": "11 Oct: sent John's technical questions (bodyvaluesWrite coverage, source-labeling). Application package to follow once confirmed."
-    },
-    {
-      "org": "Junction (formerly Vital)",
-      "to": "support@junction.com",
-      "first_sent": "2026-10-09",
-      "state": "replied",
-      "due": "2026-10-14",
-      "next": "Mike Guacci passed it to their product team, who add data providers. Nudge once on Wed 14 Oct if silent."
-    },
-    {
-      "org": "Athlytic",
-      "to": "athlytic@gmail.com",
-      "first_sent": "2026-10-09",
-      "state": "auto-reply only",
-      "due": "2026-10-14",
-      "next": "Auto-reply from a two-person team. If no human reply by Wed 14 Oct, send the one follow-up."
-    }
-  ],
-  "forwarded": [
-    "1a111f48f798e16f",
-    "1a111f4f5a1ff76d",
-    "1a11d5b7794153eb",
-    "1a11d6024d3bf28c",
-    "1a1211c45faf1aab",
-    "1a12128886da3fb2",
-    "1a121a01de6c208f",
-    "1a121ccd62f9630d",
-    "1a121e6dbf12aab0",
-    "1a121ef6e627c389",
-    "1a1221528f3c50d0",
-    "1a12269231776cb8",
-    "1a12621a40697ce8",
-    "1a127dff527ae80c",
-    "1a127159fd6f49dc",
-    "1a12b9751e8baaac"
-  ],
-  "forward_to": "john@vybe.health"
+ "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
+ "checked": "2026-10-11",
+ "threads": [
+  {
+   "org": "Head of the Schuylkill Regatta",
+   "to": "jenwesson@hosr.org",
+   "first_sent": "2026-10-06",
+   "followed_up": "2026-10-08",
+   "state": "no go",
+   "due": null,
+   "next": "No go (John, 11 Oct): not paying $300 for a PA table."
+  },
+  {
+   "org": "MSBL",
+   "to": "info@msblnational.com",
+   "first_sent": "2026-10-06",
+   "followed_up": "2026-10-08",
+   "state": "replied",
+   "due": "2026-10-13",
+   "next": "John, 11 Oct: send them a one-pager on what Vybe offers for the founding batch. Cancel the World Series table request (no Phoenix trip)."
+  },
+  {
+   "org": "WNBF Naturalmania Pro Am Nationals",
+   "to": "wnbf@worldnaturalbb.com",
+   "first_sent": "2026-10-06",
+   "followed_up": "2026-10-08",
+   "state": "no go",
+   "due": null,
+   "next": "No go (John, 11 Oct): cancel the Naturalmania vendor table and social post."
+  },
+  {
+   "org": "RRCA 2027 Convention",
+   "to": "execdir@rrca.org",
+   "first_sent": "2026-10-06",
+   "followed_up": "2026-10-08",
+   "state": "no go",
+   "due": null,
+   "next": "John, 11 Oct: Austin convention table is $1,200 (April 2027). Doubtful; treat as no go unless Jeremy overrides."
+  },
+  {
+   "org": "Senior Softball-USA Winter Nationals",
+   "to": "info@seniorsoftball.com",
+   "first_sent": "2026-10-06",
+   "followed_up": "2026-10-08",
+   "state": "no reply",
+   "due": "2026-10-13",
+   "next": "The one follow-up is already used. The event is 3-8 Nov: if there's still no reply by Tue 13 Oct, phone them instead of emailing again."
+  },
+  {
+   "org": "Hockey North America",
+   "to": "hockeynorthamerica@gmail.com",
+   "first_sent": "2026-10-08",
+   "state": "no reply",
+   "due": "2026-10-16",
+   "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
+   "followed_up": "2026-10-09"
+  },
+  {
+   "org": "Concept2 Logbook",
+   "to": "ranking@concept2.com",
+   "first_sent": "2026-10-08",
+   "state": "replied",
+   "due": "2026-10-13",
+   "next": "John, 11 Oct: no partnership email needed. Fill out the Concept2 API application. John offered to run it; Jeremy to confirm.",
+   "followed_up": "2026-10-09"
+  },
+  {
+   "org": "NABA (adult baseball)",
+   "to": "nabanational@aol.com",
+   "first_sent": "2026-10-08",
+   "state": "no reply",
+   "due": "2026-10-16",
+   "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
+   "followed_up": "2026-10-09"
+  },
+  {
+   "org": "Black Men Run",
+   "to": "info@blackmenrun.com",
+   "first_sent": "2026-10-08",
+   "state": "no reply",
+   "due": "2026-10-16",
+   "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
+   "followed_up": "2026-10-09"
+  },
+  {
+   "org": "Volo",
+   "to": "info@voloforbusiness.com",
+   "first_sent": "2026-10-08",
+   "state": "no reply",
+   "due": "2026-10-16",
+   "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
+   "followed_up": "2026-10-09"
+  },
+  {
+   "org": "US Police & Fire Championships",
+   "to": "4info@cpaf.org",
+   "first_sent": "2026-10-08",
+   "state": "no reply",
+   "due": "2026-10-16",
+   "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
+   "followed_up": "2026-10-09"
+  },
+  {
+   "org": "International Pride Softball",
+   "to": "hello@ipridesoftball.org",
+   "first_sent": "2026-10-08",
+   "state": "no reply",
+   "due": "2026-10-16",
+   "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
+   "followed_up": "2026-10-09"
+  },
+  {
+   "org": "NYRR Strategic Partnerships",
+   "to": "sponsorship@nyrr.org",
+   "first_sent": "2026-10-08",
+   "state": "auto-reply only",
+   "due": "2026-10-16",
+   "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
+   "followed_up": "2026-10-09"
+  },
+  {
+   "org": "Roy Hobbs World Series",
+   "to": "teammatesupport@royhobbs.com",
+   "first_sent": "2026-10-08",
+   "state": "no go",
+   "due": null,
+   "next": "No go (John, 11 Oct). They declined for now ('Perhaps in the future'). No further outreach.",
+   "followed_up": "2026-10-09"
+  },
+  {
+   "org": "Travis Manion Foundation",
+   "to": "partnerships@travismanion.org",
+   "first_sent": "2026-10-08",
+   "state": "no reply",
+   "due": "2026-10-16",
+   "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
+   "followed_up": "2026-10-09"
+  },
+  {
+   "org": "Black Girls RUN!",
+   "to": "info@blackgirlsrun.com",
+   "first_sent": "2026-10-08",
+   "state": "no reply",
+   "due": "2026-10-16",
+   "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
+   "followed_up": "2026-10-09"
+  },
+  {
+   "org": "National Senior Games Association",
+   "to": "NSGA@nsga.com",
+   "first_sent": "2026-10-09",
+   "state": "auto-reply only",
+   "due": "2026-10-14",
+   "next": "Passed to their Business Development team on 9 Oct. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "WAKA Kickball",
+   "to": "info@clubwaka.com",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "Running 4 Heroes",
+   "to": "info@running4heroes.org",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "ANZER USA",
+   "to": "JayM@anzer-usa.com",
+   "first_sent": "2026-10-09",
+   "state": "no go",
+   "due": null,
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+  },
+  {
+   "org": "Kyros Engineering",
+   "to": "peter@kyrosengineering.com",
+   "first_sent": "2026-10-09",
+   "state": "no go",
+   "due": null,
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+  },
+  {
+   "org": "IAFC Technology Council (fire service vendor engagement)",
+   "to": "techcouncil@iafc.org",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "Adaptive and wheelchair sports (Ohio)",
+   "to": "info@adaptivesportsohio.org",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "Akron City FC",
+   "to": "info@akroncityfc.com",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "Arnold Sports Festival & Arnold Expo 2027",
+   "to": "exhibitors@arnoldsports.com",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "GT Brazilian Jiu-Jitsu",
+   "to": "todd@gtbjjohio.com",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "Kent State Esports",
+   "to": "esports@kent.edu",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "MAGNET (Manufacturing Advocacy & Growth Network)",
+   "to": "info@manufacturingsuccess.org",
+   "first_sent": "2026-10-09",
+   "state": "no go",
+   "due": null,
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+  },
+  {
+   "org": "Ohio State Crew (club rowing)",
+   "to": "osucrewrar@gmail.com",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "OhioHealth Capital City Half & Quarter Marathon 2027",
+   "to": "info@m3ssports.com",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "REACH Fitness",
+   "to": "marianne@reachfitnessohio.com",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "Youth and adult bouldering (Akron)",
+   "to": "info@rockmillclimbing.com",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "Aaron Handy",
+   "to": "office@legacy-ohio.com",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "Chris Kriebel",
+   "to": "chris@tkobjj.com",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "Joules",
+   "to": "hello@joules.cc",
+   "first_sent": "2026-10-09",
+   "state": "no go",
+   "due": null,
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+  },
+  {
+   "org": "Leyen Zulueta",
+   "to": "travis@matlabbjj.com",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "PlateLens",
+   "to": "support@platelens.app",
+   "first_sent": "2026-10-09",
+   "state": "no go",
+   "due": null,
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+  },
+  {
+   "org": "Cincinnati Cycle Club",
+   "to": "membership@cincinnaticycleclub.org",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "LiPol Battery North America",
+   "to": "info@lipolbatteries.com",
+   "first_sent": "2026-10-09",
+   "state": "no go",
+   "due": null,
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+  },
+  {
+   "org": "Ohio State Triathlon Club",
+   "to": "tosutriathlon@gmail.com",
+   "first_sent": "2026-10-09",
+   "state": "replied",
+   "due": "2026-10-14",
+   "next": "11 Oct: resent with the correct Vybe booking link (John's instruction). John will take the call by phone."
+  },
+  {
+   "org": "Chagrin Falls Booster Club 5K Turkey Trot 2026",
+   "to": "info@cfboosterclub.org",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "Columbus Weightlifting Club",
+   "to": "info@columbusweightlifting.org",
+   "first_sent": "2026-10-09",
+   "state": "no reply",
+   "due": "2026-10-14",
+   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "Nocturnal Product Development",
+   "to": "eyal@nocturnalpd.com",
+   "first_sent": "2026-10-09",
+   "state": "no go",
+   "due": null,
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+  },
+  {
+   "org": "Stress Platform - Health & HRV",
+   "to": "help@stress-platform.com",
+   "first_sent": "2026-10-09",
+   "state": "replied",
+   "due": "2026-10-13",
+   "next": "John, 11 Oct: Jeremy needs to send the technical answer (does a prototype write HRV and resting HR to Apple Health?) before any call."
+  },
+  {
+   "org": "SugaMed (ECG Patch PCBA)",
+   "to": "info@sugaintl.com",
+   "first_sent": "2026-10-09",
+   "state": "no go",
+   "due": null,
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+  },
+  {
+   "org": "Zufek",
+   "to": "info@zufek.com",
+   "first_sent": "2026-10-09",
+   "state": "no go",
+   "due": null,
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+  },
+  {
+   "org": "Open Wearables (Momentum)",
+   "to": "piotr.ratkowski@themomentum.ai",
+   "first_sent": "2026-10-09",
+   "state": "replied",
+   "due": "2026-10-14",
+   "next": "11 Oct: sent John's reply with the correct Vybe link, asking for a 30-minute call on adding Vybe as an Open Wearables source."
+  },
+  {
+   "org": "Tredict",
+   "to": "info@tredict.com",
+   "first_sent": "2026-10-09",
+   "state": "replied",
+   "due": "2026-10-14",
+   "next": "11 Oct: sent John's technical questions (bodyvaluesWrite coverage, source-labeling). Application package to follow once confirmed."
+  },
+  {
+   "org": "Junction (formerly Vital)",
+   "to": "support@junction.com",
+   "first_sent": "2026-10-09",
+   "state": "replied",
+   "due": "2026-10-14",
+   "next": "Mike Guacci passed it to their product team, who add data providers. Nudge once on Wed 14 Oct if silent."
+  },
+  {
+   "org": "Athlytic",
+   "to": "athlytic@gmail.com",
+   "first_sent": "2026-10-09",
+   "state": "auto-reply only",
+   "due": "2026-10-14",
+   "next": "Auto-reply from a two-person team. If no human reply by Wed 14 Oct, send the one follow-up."
+  },
+  {
+   "org": "AI Endurance",
+   "to": "markus@aiendurance.com",
+   "first_sent": "2026-10-09",
+   "state": "replied: meeting",
+   "due": "2026-10-16",
+   "next": "Markus Rummel replied 11 Oct: 'sounds very interesting, I've booked a meeting for next week.' No booking shows on the Vybe Calendly yet; check his invite landed. Prep: data route and format for overnight HRV, HR and sleep timing. Do not promise a band."
+  }
+ ],
+ "forwarded": [
+  "1a111f48f798e16f",
+  "1a111f4f5a1ff76d",
+  "1a11d5b7794153eb",
+  "1a11d6024d3bf28c",
+  "1a1211c45faf1aab",
+  "1a12128886da3fb2",
+  "1a121a01de6c208f",
+  "1a121ccd62f9630d",
+  "1a121e6dbf12aab0",
+  "1a121ef6e627c389",
+  "1a1221528f3c50d0",
+  "1a12269231776cb8",
+  "1a12621a40697ce8",
+  "1a127dff527ae80c",
+  "1a127159fd6f49dc",
+  "1a12b9751e8baaac"
+ ],
+ "forward_to": "john@vybe.health"
 }

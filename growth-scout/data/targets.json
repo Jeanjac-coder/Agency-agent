@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11 20:21 UTC",
+  "generated": "2026-10-11 20:24 UTC",
   "today": "2026-10-11",
   "scope": {
     "company": "Vybe Health",
@@ -15778,6 +15778,14 @@
         "state": "no reply",
         "due": "2026-10-14",
         "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+      },
+      {
+        "org": "AI Endurance",
+        "to": "markus@aiendurance.com",
+        "first_sent": "2026-10-09",
+        "state": "replied: meeting",
+        "due": "2026-10-16",
+        "next": "Markus Rummel replied 11 Oct: 'sounds very interesting, I've booked a meeting for next week.' No booking shows on the Vybe Calendly yet; check his invite landed. Prep: data route and format for overnight HRV, HR and sleep timing. Do not promise a band."
       },
       {
         "org": "Black Girls RUN!",
