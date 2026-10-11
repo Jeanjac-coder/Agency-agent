@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11 18:22 UTC",
+  "generated": "2026-10-11 18:39 UTC",
   "today": "2026-10-11",
   "scope": {
     "company": "Vybe Health",
@@ -113,25 +113,25 @@
     }
   ],
   "summary": {
-    "total": 235,
+    "total": 234,
     "investor": 49,
     "growth": 86,
     "social": 28,
     "sponsorship": 0,
-    "app_partners": 41,
+    "app_partners": 40,
     "sports": 0,
     "competitor_deals": 0,
     "signals": 17,
-    "high": 161,
+    "high": 160,
     "deadlines_30d": 2,
-    "ready_to_send": 181,
+    "ready_to_send": 180,
     "identity_needs_ok": 21,
-    "outreach_queue": 152
+    "outreach_queue": 151
   },
   "by_state": [
     {
       "state": "National",
-      "count": 155,
+      "count": 154,
       "east": false
     },
     {
@@ -5999,56 +5999,6 @@
       "id": "fitbod-fitbod-inc"
     },
     {
-      "role": null,
-      "type": "app-partner",
-      "hunt": "partnership",
-      "ice": null,
-      "check_size": null,
-      "stage": null,
-      "geo": null,
-      "deadline": null,
-      "warm_path": null,
-      "why_now": "Device integrations described as roadmap; setup guide dated 2026-06-27.",
-      "last_signal_date": "2026-06-27",
-      "name": "Joules",
-      "org": "Joules (joules.cc)",
-      "why": "AI cycling coach inside ChatGPT/Claude that is deliberately device-free at launch and says device and platform integrations are on the roadmap.",
-      "evidence": [
-        "https://joules.cc/",
-        "https://joules.cc/blog/add-joules-to-claude-chatgpt"
-      ],
-      "channel": "email listed on site",
-      "contact_url": "https://joules.cc/blog/add-joules-to-claude-chatgpt",
-      "fit": 7,
-      "ask": "Offer Vybe as a first overnight recovery input for their roadmap and a DevKit for testing.",
-      "opener": "Hi, I'm the founder of Vybe, a screenless overnight band that records HRV and resting heart rate, no subscription. I saw Joules is device-free for now with integrations on the roadmap. Overnight recovery data could help your coach adjust a week after a rough night. Would you want a DevKit to try as an early input?",
-      "confidence": "verified",
-      "tags": [
-        "wearables",
-        "hrv",
-        "cycling",
-        "ai"
-      ],
-      "existing_wearables": [],
-      "exclusive": false,
-      "partner_status": "no-wearable-yet",
-      "opportunity": "Be the first wearable data source in Joules (integrations explicitly on roadmap).",
-      "unknowns": "Roadmap priorities (they name Strava, Garmin, Wahoo, Coros, intervals.icu) may come first; company and team not identified; beta-stage scale unknown.",
-      "lane": "partners_endurance",
-      "link_status": "not checked",
-      "score": 120,
-      "priority": "High",
-      "stale_signal": false,
-      "identity_needs_ok": false,
-      "review": "B",
-      "review_reason": "AI coach with device integrations on roadmap; early-adopter builder.",
-      "move": "Email Joules offering Vybe as a first overnight recovery input on their integration roadmap.",
-      "when": "now",
-      "rank": 112,
-      "sendable": true,
-      "id": "joules-joules-joules-cc"
-    },
-    {
       "name": "Kristina Simmons",
       "org": "Overwater Ventures",
       "role": "Founder & Managing Partner",
@@ -6091,7 +6041,7 @@
       "review_reason": "Pre-seed lead behind the 'always-on health tracking' memo (Adaptyx); site credits backing veteran teams. Contact form, but no confirmed 2026 deal.",
       "move": "Send the overwater.vc contact form referencing the always-on memo and the veteran team.",
       "when": "now",
-      "rank": 113,
+      "rank": 112,
       "sendable": false,
       "id": "kristina-simmons-overwater-ventures"
     },
@@ -6136,7 +6086,7 @@
       "review_reason": "Screenless-band reviewer; useful later for a review unit.",
       "move": "Email for form-factor feedback now; reserve a review slot after DevKit.",
       "when": "after DevKit v0.1",
-      "rank": 114,
+      "rank": 113,
       "sendable": true,
       "id": "lordofthesmartrings-lordofthesmartrings"
     },
@@ -6194,7 +6144,7 @@
       "review_reason": "Coach platform via Sahha; Vybe-to-Sahha path reaches coaches, needs DevKits.",
       "move": "Email NOWFit and Sahha asking what it takes to flow Vybe HRV into coach dashboards.",
       "when": "after DevKit v0.1",
-      "rank": 115,
+      "rank": 114,
       "sendable": true,
       "id": "nowfit-nowfit"
     },
@@ -6243,7 +6193,7 @@
       "review_reason": "First-responder recovery platform, general wellness; but wants department bands Vybe lacks.",
       "move": "Email Neurovus: call on Vybe as an SDK source; defer band supply until after DevKit.",
       "when": "after DevKit v0.1",
-      "rank": 116,
+      "rank": 115,
       "sendable": false,
       "id": "neurovus-neurovus"
     },
@@ -6288,7 +6238,7 @@
       "review_reason": "Midwest connected-health studio and fund; seed in SynchNeuro's HRV/sleep wearable (Nov 2025). Contact form.",
       "move": "Send the boomerang.vc contact form; ask whether a non-Midwest pre-seed device fits.",
       "when": "now",
-      "rank": 117,
+      "rank": 116,
       "sendable": true,
       "id": "oscar-moralez-boomerang-ventures"
     },
@@ -6335,7 +6285,7 @@
       "review_reason": "Oura co-founder and active angel; 2026 follow-on in Audicin, an SDK that syncs to Oura/WHOOP/Garmin. Rare platform credibility.",
       "move": "LinkedIn note asking for 15 minutes of feedback on the open-SDK model, not money.",
       "when": "now",
-      "rank": 118,
+      "rank": 117,
       "sendable": true,
       "id": "petteri-lahtela-oura-co-founder-independent-angel"
     },
@@ -6388,7 +6338,7 @@
       "review_reason": "AFRL lab collaborates with industry on wearables; strong validation, but slow government path.",
       "move": "After OSU HPC contact, ask for an intro to STRONG Lab about evaluating DevKit units.",
       "when": "after DevKit v0.1",
-      "rank": 119,
+      "rank": 118,
       "sendable": false,
       "id": "strong-lab-711th-human-performance-wing-air-force-research-laboratory-afrl-rh"
     },
@@ -6435,7 +6385,7 @@
       "review_reason": "Consumer-health pre-seed/seed fund ($250K checks) in Somnee and Adaptyx wearables. Contact form; latest confirmed deals are from 2025.",
       "move": "Submit the Seaside contact form with a three-line overnight-HRV pitch and the DevKit timeline.",
       "when": "now",
-      "rank": 120,
+      "rank": 119,
       "sendable": true,
       "id": "seaside-ventures-seaside-ventures"
     },
@@ -6480,7 +6430,7 @@
       "review_reason": "Screenless-tracker reviewer; payoff at consumer launch.",
       "move": "Email Sunil to get on the list for the 2027 screenless comparison.",
       "when": "after DevKit v0.1",
-      "rank": 121,
+      "rank": 120,
       "sendable": true,
       "id": "sunil-bhatt-smartwatch-insight"
     },
@@ -6528,7 +6478,7 @@
       "review_reason": "OSS coach choosing wearable sources; needs an Open Wearables adapter first.",
       "move": "Comment on issue #217 introducing Vybe and asking what a provider needs for the guide.",
       "when": "now",
-      "rank": 122,
+      "rank": 121,
       "sendable": true,
       "id": "ai-running-coach-mmornati-github"
     },
@@ -6577,7 +6527,7 @@
       "review_reason": "Small open-source project wanting HRV/sleep after Fitbit turnoff; low reach.",
       "move": "Comment on kai issue #54 offering Vybe as an HRV/sleep data source when DevKit v0.1 ships.",
       "when": "now",
-      "rank": 123,
+      "rank": 122,
       "sendable": true,
       "id": "kai-rubengarciam-github"
     },
@@ -6632,7 +6582,7 @@
       "review_reason": "Benchmarks consumer sleep trackers vs PSG; credible validation, after DevKit.",
       "move": "Email Gozal proposing a small DevKit v0.1 vs PSG pilot once units are available.",
       "when": "now",
-      "rank": 124,
+      "rank": 123,
       "sendable": true,
       "id": "david-gozal-marshall-university-joan-c-edwards-school-of-medicine-marshall-unive"
     },
@@ -6681,7 +6631,7 @@
       "review_reason": "Student developer group; free SDK workshop builds developers, but needs SDK ready.",
       "move": "Email the chapter offering a free hands-on wearable SDK workshop for the next semester.",
       "when": "now",
-      "rank": 125,
+      "rank": 124,
       "sendable": true,
       "id": "gdg-on-campus-nc-a-t-google-developer-groups-on-campus-north-carolina-a-t-state-"
     },
@@ -6729,7 +6679,7 @@
       "review_reason": "Tactical HRV stress research; DevKit follow-up later.",
       "move": "Email McAllister about overnight HRV in a tactical follow-up study after DevKit ships.",
       "when": "now",
-      "rank": 126,
+      "rank": 125,
       "sendable": true,
       "id": "metabolic-applied-physiology-laboratory-matthew-j-mcallister-phd-texas-state-uni"
     },
@@ -6774,7 +6724,7 @@
       "review_reason": "Techstars health accelerator, $220K, Johns Hopkins and MedStar access (Mid-Atlantic). AI-led, so pitch the analytics layer.",
       "move": "Apply only if the HRV/ECG analytics story is strong; confirm the Spring 2027 deadline.",
       "when": "now",
-      "rank": 127,
+      "rank": 126,
       "sendable": true,
       "id": "techstars-ai-health-baltimore-spring-2027-techstars"
     },
@@ -6820,7 +6770,7 @@
       "stale_signal": false,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 128,
+      "rank": 127,
       "sendable": false,
       "id": "fda-2026-general-wellness-guidance-explicitly-covers-wearables-measuring-hrv-bp-"
     },
@@ -6873,7 +6823,7 @@
       "review_reason": "H2F Academy trains staff for 110 brigades; high leverage but slow military path.",
       "move": "Email Fort Jackson public affairs asking which office handles informational briefings to H2F Academy staff.",
       "when": "now",
-      "rank": 129,
+      "rank": 128,
       "sendable": true,
       "id": "fort-jackson-h2f-academy-and-soldier-performance-readiness-center-u-s-army-fort-"
     },
@@ -6918,7 +6868,7 @@
       "review_reason": "Founder of Cade; pre-seed health and wellness checks. A second door to the same wearable thesis.",
       "move": "Only if Isabel doesn't reply in 10 days: LinkedIn note referencing the June 2026 post.",
       "when": "now",
-      "rank": 130,
+      "rank": 129,
       "sendable": true,
       "id": "isabel-glass-cade-ventures"
     },
@@ -6962,7 +6912,7 @@
       "review_reason": "Founder of Cade; pre-seed health and wellness checks. A second door to the same wearable thesis.",
       "move": "Only if Isabel doesn't reply in 10 days: LinkedIn note referencing the June 2026 post.",
       "when": "now",
-      "rank": 131,
+      "rank": 130,
       "sendable": true,
       "id": "ryan-engel-cade-ventures"
     },
@@ -7009,7 +6959,7 @@
       "review_reason": "Sports and health-performance fund; joined Axo's seed (Sep 2026); GP is a former Green Beret. Contact form.",
       "move": "Send the 51ventures.vc contact form leading with veteran ownership and overnight readiness data.",
       "when": "now",
-      "rank": 132,
+      "rank": 131,
       "sendable": true,
       "id": "51ventures-51ventures"
     },
@@ -7055,7 +7005,7 @@
       "review_reason": "Personally in Clair's 2026 wearable seed; Treehub/AI Health Fund writes $50K-$150K first checks into computational health.",
       "move": "Apply at jointreehub.com if Vybe's analytics layer fits 'computational health'.",
       "when": "now",
-      "rank": 133,
+      "rank": 132,
       "sendable": true,
       "id": "anne-wojcicki-treehub-ai-health-fund-operating-partner-23andme-co-founder"
     },
@@ -7099,7 +7049,7 @@
       "review_reason": "200+ women angels in Clair's wearable round; $1K-$50K member checks. Warm intro needed.",
       "move": "Ask Golden Seeds or Pipeline contacts for a member intro.",
       "when": "now",
-      "rank": 134,
+      "rank": 133,
       "sendable": false,
       "id": "brydge-club-brydge-club"
     },
@@ -7151,7 +7101,7 @@
       "review_reason": "First-responder wellness app with no wearable integration; possible channel, undated evidence.",
       "move": "Email Cordico asking whether agencies have asked to connect wearables and request a short call.",
       "when": "now",
-      "rank": 135,
+      "rank": 134,
       "sendable": true,
       "id": "cordico-wellness-app-lexipol-lexipol"
     },
@@ -7206,7 +7156,7 @@
       "review_reason": "Athlete fueling app using HRV and sleep; integration after DevKit.",
       "move": "Email Fueld asking whether a Health-linked or direct Vybe source fits their roadmap.",
       "when": "after DevKit v0.1",
-      "rank": 136,
+      "rank": 135,
       "sendable": true,
       "id": "fueld-fueld"
     },
@@ -7263,7 +7213,7 @@
       "review_reason": "Pre-launch coach HRV dashboard with 240+ waitlist; fellow early-stage builder.",
       "move": "Email Load Metric Pro offering Vybe as an additional supported device for coach rosters.",
       "when": "after DevKit v0.1",
-      "rank": 137,
+      "rank": 136,
       "sendable": true,
       "id": "load-metric-pro-load-metric-pro"
     },
@@ -7321,7 +7271,7 @@
       "review_reason": "Real WHOOP-cap blocker but tiny (~200 monthly users).",
       "move": "Reply in WHOOP Community thread 14592 offering a 15-minute call.",
       "when": "now",
-      "rank": 138,
+      "rank": 137,
       "sendable": true,
       "id": "longy-appvillis"
     },
@@ -7371,7 +7321,7 @@
       "review_reason": "Popular subscription-free raw-data wearable project; strong developer signal, needs DevKit.",
       "move": "Open a NOOP GitHub issue offering a documented Vybe BLE spec once DevKit v0.1 is ready.",
       "when": "after DevKit v0.1",
-      "rank": 139,
+      "rank": 138,
       "sendable": true,
       "id": "noop-ryanbr-noop-open-source"
     },
@@ -7435,7 +7385,7 @@
       "review_reason": "HRV-heavy multi-device beta; integration later after DevKit.",
       "move": "Email Omnio asking what it takes to add Vybe as the next sensor.",
       "when": "after DevKit v0.1",
-      "rank": 140,
+      "rank": 139,
       "sendable": true,
       "id": "omnio-omnio"
     },
@@ -7480,7 +7430,7 @@
       "review_reason": "Built Qualcomm's wearables business; 170+ early-stage investments through 2468 Ventures; angel in FLOWBIO's sweat-sensor wearable.",
       "move": "LinkedIn note asking for his read on the SDK model and the gap left by Fitbit and Garmin.",
       "when": "now",
-      "rank": 141,
+      "rank": 140,
       "sendable": true,
       "id": "pankaj-kedia-2468-ventures"
     },
@@ -7526,7 +7476,7 @@
       "review_reason": "Free teaser builds notify-me list; best closer to developer launch.",
       "move": "Create a Product Hunt teaser for the DevKit developer launch.",
       "when": "now",
-      "rank": 142,
+      "rank": 141,
       "sendable": true,
       "id": "product-hunt-coming-soon-launch-teaser-product-hunt"
     },
@@ -7570,7 +7520,7 @@
       "review_reason": "Reviewer who tests screenless bands against Oura and chest strap; needs a band.",
       "move": "Email Robb Sutton to get on his list for a DevKit comparison when units are available.",
       "when": "now",
-      "rank": 143,
+      "rank": 142,
       "sendable": true,
       "id": "robb-sutton-robbsutton-com"
     },
@@ -7624,7 +7574,7 @@
       "review_reason": "Firefighter shiftwork study using chest straps; strong tactical fit, after DevKit.",
       "move": "Email Dr. Bowles about adding overnight HRV to a SWIFT follow-up once DevKit ships.",
       "when": "after DevKit v0.1",
-      "rank": 144,
+      "rank": 143,
       "sendable": true,
       "id": "swift-shiftwork-in-firefighters-study-nicole-p-bowles-phd-oregon-health-science-"
     },
@@ -7682,7 +7632,7 @@
       "review_reason": "Wellness app with HRV alerts and multi-device ingest; small integration partner.",
       "move": "Email Sathi.fit asking how a new device is added to Wearable Insights.",
       "when": "after DevKit v0.1",
-      "rank": 145,
+      "rank": 144,
       "sendable": true,
       "id": "sathi-fit-sathi-fit"
     },
@@ -7746,7 +7696,7 @@
       "review_reason": "S&C platform credits any HealthKit wearable; free listing once Vybe writes HealthKit.",
       "move": "Confirm HealthKit heart-rate compatibility, then ask TeamBuildr to list Vybe as a compatible device.",
       "when": "now",
-      "rank": 146,
+      "rank": 145,
       "sendable": true,
       "id": "teambuildr-wearables-dashboard-teambuildr"
     },
@@ -7812,7 +7762,7 @@
       "review_reason": "Selective partner API but free to apply; reaches endurance coaches. After DevKit.",
       "move": "Submit a TrainingPeaks Partner API access request for an HRV metrics sync.",
       "when": "now",
-      "rank": 147,
+      "rank": 146,
       "sendable": true,
       "id": "trainingpeaks-partner-api-trainingpeaks"
     },
@@ -7867,7 +7817,7 @@
       "review_reason": "AI running coach prioritizing integrations by request; free request form.",
       "move": "Submit Vybe via Vertical's 'missing your watch' form and ask for a readiness-input call.",
       "when": "now",
-      "rank": 148,
+      "rank": 147,
       "sendable": true,
       "id": "vertical-vertical-getvertical-ai"
     },
@@ -7919,7 +7869,7 @@
       "review_reason": "Local Wake EMS shift-worker voice; free discovery for first-responder wedge.",
       "move": "Email John Sammons for a 15-minute conversation on EMS shift-worker sleep and recovery needs.",
       "when": "now",
-      "rank": 149,
+      "rank": 148,
       "sendable": false,
       "id": "wake-county-ems-peer-support-team-john-sammons-wake-county-ems"
     },
@@ -7971,7 +7921,7 @@
       "review_reason": "ChatGPT/Codex WHOOP plugin stuck at 10 members.",
       "move": "Open a GitHub issue proposing a Vybe data adapter.",
       "when": "now",
-      "rank": 150,
+      "rank": 149,
       "sendable": true,
       "id": "whooper-2-0-eazylee30-eazylee30-whooper-2-0-github"
     },
@@ -8021,7 +7971,7 @@
       "review_reason": "Firefighter ring-based sleep/HRV field research; good comparison partner, needs devices.",
       "move": "Email Dr. Jagim for a 15-minute call on a future firefighter overnight-ECG comparison.",
       "when": "now",
-      "rank": 151,
+      "rank": 150,
       "sendable": false,
       "id": "jagim-lab-mayo-clinic-health-system-andrew-jagim-phd-mayo-clinic-health-system"
     },
@@ -8070,7 +8020,7 @@
       "review_reason": "Free local accelerator; next cohort spring 2027, date unpublished.",
       "move": "Email Launch Chapel Hill asking when 2027 applications open; Vybe is Triangle-based.",
       "when": "now",
-      "rank": 152,
+      "rank": 151,
       "sendable": true,
       "id": "launch-kpmg-accelerator-launch-chapel-hill-launch-chapel-hill"
     },
@@ -8120,7 +8070,7 @@
       "review_reason": "Builder standardising agent-readable wearable data; interoperability with Delx ecosystem.",
       "move": "Review agent-safe-series/v1 and open an issue asking if Vybe's HRV export can conform.",
       "when": "now",
-      "rank": 153,
+      "rank": 152,
       "sendable": true,
       "id": "mi-fitness-data-bridge-shkyyy18-open-source"
     },
@@ -8168,7 +8118,7 @@
       "review_reason": "OSS dev burned by Oura API changes; useful feedback for a future HA integration.",
       "move": "Comment on issue #71 asking what a stable local/OAuth API should offer.",
       "when": "now",
-      "rank": 154,
+      "rank": 153,
       "sendable": true,
       "id": "oura-home-assistant-integration-louispires-oura-home-assistant-integration-open-"
     },
@@ -8215,7 +8165,7 @@
       "review_reason": "Consumer device dependent on third-party HRV; possible SDK integration, single-source.",
       "move": "Email Pulsetto partnerships about integrating Vybe overnight HRV for session-level context.",
       "when": "now",
-      "rank": 155,
+      "rank": 154,
       "sendable": false,
       "id": "pulsetto-pulsetto"
     },
@@ -8264,7 +8214,7 @@
       "review_reason": "Small OSS MCP server; adapter possible after DevKit, low reach.",
       "move": "Comment on the repo proposing a Vybe MCP adapter collaboration for when DevKit v0.1 ships.",
       "when": "now",
-      "rank": 156,
+      "rank": 155,
       "sendable": true,
       "id": "oura-ring-mcp-server-jordanburke-oura-ring-mcp-server-open-source"
     },
@@ -8312,7 +8262,7 @@
       "stale_signal": false,
       "identity_needs_ok": false,
       "when": "after DevKit v0.1",
-      "rank": 157,
+      "rank": 156,
       "sendable": false,
       "id": "fitbit-web-api-shuts-down-30-oct-2026-tokens-do-not-migrate-google"
     },
@@ -8358,7 +8308,7 @@
       "review_reason": "Orlando sports and health-tech fund (Southeast), pre-seed to A, with wearable portfolio. Contact form; last dated Apr 2025.",
       "move": "Send the lakenonafund.com contact form; ask whether a pre-launch dev-platform band fits pre-seed.",
       "when": "now",
-      "rank": 158,
+      "rank": 157,
       "sendable": true,
       "id": "lead-sports-health-tech-partners-lake-nona-fund-lead-lake-nona-fund"
     },
@@ -8404,7 +8354,7 @@
       "review_reason": "Dual-use pre-seed/seed fund (EUR 50K-1M) in the Pulsetto wearable; opened an Alexandria, VA office in May 2026.",
       "move": "Send the scalewolf.vc contact form with the tactical framing; ask whether they back US devices.",
       "when": "now",
-      "rank": 159,
+      "rank": 158,
       "sendable": true,
       "id": "scalewolf-scalewolf"
     },
@@ -8454,7 +8404,7 @@
       "stale_signal": false,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 160,
+      "rank": 159,
       "sendable": false,
       "id": "garmin-pauses-connect-developer-program-no-new-api-access-since-spring-2026-garm"
     },
@@ -8506,7 +8456,7 @@
       "review_reason": "Cadet HRV research with tactical program; good fit, needs DevKits.",
       "move": "Email Jones and Melton about extending cadet HRV work to overnight recovery once DevKit ships.",
       "when": "after DevKit v0.1",
-      "rank": 161,
+      "rank": 160,
       "sendable": true,
       "id": "tactical-athlete-hrv-breathwork-research-mark-e-jones-bridget-melton-edd-concord"
     },
@@ -8555,7 +8505,7 @@
       "stale_signal": false,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 162,
+      "rank": 161,
       "sendable": false,
       "id": "whoop-api-approval-backlog-developers-stuck-at-10-user-cap-for-months-2026-whoop"
     },
@@ -8600,7 +8550,7 @@
       "review_reason": "Seed/A, $1M-$9M initial checks; joined SOND's HRV sleep round (2026). Warm intro only.",
       "move": "Ask Ubiquity for a co-investor intro if Sunil engages.",
       "when": "now",
-      "rank": 163,
+      "rank": 162,
       "sendable": false,
       "id": "crosslink-capital-crosslink-capital"
     },
@@ -8653,7 +8603,7 @@
       "review_reason": "Firefighter shift-sleep lab using diaries; DevKit adds objective data later.",
       "move": "Email Dr. Abel citing the JOEM paper; ask whether objective overnight data fits a follow-up.",
       "when": "after DevKit v0.1",
-      "rank": 164,
+      "rank": 163,
       "sendable": true,
       "id": "first-responder-research-laboratory-mark-g-abel-phd-university-of-kentucky-dept-"
     },
@@ -8697,7 +8647,7 @@
       "review_reason": "US seed fund that co-led Samphire's $5M neurotech-wearable seed (2025). Contact form; no 2026 deal confirmed.",
       "move": "Send the fortifyventures.com contact form; low priority.",
       "when": "now",
-      "rank": 165,
+      "rank": 164,
       "sendable": false,
       "id": "fortify-ventures-fortify-ventures"
     },
@@ -8742,7 +8692,7 @@
       "review_reason": "Angel-style group whose largest investment is LifeLens, a Special Forces physiological wearable (Sep 2025). Contact form.",
       "move": "Send the ncvinvestments.com contact form citing LifeLens; ask for a member screening.",
       "when": "now",
-      "rank": 166,
+      "rank": 165,
       "sendable": true,
       "id": "next-chapter-ventures-ncv-next-chapter-ventures"
     },
@@ -8794,7 +8744,7 @@
       "review_reason": "Big-ten sport science with formal tech evaluation; credible but after DevKit.",
       "move": "Email Paul Jones asking what overnight HRV must show to enter their evaluation process.",
       "when": "now",
-      "rank": 167,
+      "rank": 166,
       "sendable": false,
       "id": "ohio-state-athletics-sport-science-paul-jones-associate-sport-scientist-ohio-sta"
     },
@@ -8846,7 +8796,7 @@
       "review_reason": "Solo founder's MCP strength app lacks recovery context; neat joint demo later.",
       "move": "Message Vladimir Haltakov on LinkedIn proposing a joint Claude MCP demo once DevKit ships.",
       "when": "after DevKit v0.1",
-      "rank": 168,
+      "rank": 167,
       "sendable": true,
       "id": "simple-muscle-simple-muscle-vladimir-haltakov"
     },
@@ -8897,7 +8847,7 @@
       "review_reason": "Apple Health HRV reader; easy co-listing once Vybe writes to HealthKit.",
       "move": "Email the developer to confirm HealthKit HRV display and ask for co-listing as a source.",
       "when": "now",
-      "rank": 169,
+      "rank": 168,
       "sendable": true,
       "id": "stress-platform-health-hrv-stress-platform"
     },
@@ -8948,7 +8898,7 @@
       "review_reason": "CED's Southeast capital summit in Durham, Mar 23-24, 2027; presenters are picked by angels and VCs. The 2027 application isn't posted.",
       "move": "Email CED for the 2027 presenter application date and confirm it has no presenting fee (no-spend rule).",
       "when": "now",
-      "rank": 170,
+      "rank": 169,
       "sendable": true,
       "id": "venture-connect-2027-council-for-entrepreneurial-development-ced"
     },
@@ -9016,7 +8966,7 @@
       "review_reason": "Aggregates 500+ wearables; Fitbit access capped; no verified contact route yet.",
       "move": "Find the integrations contact on askvora.com, then ask for a 15-minute call.",
       "when": "now",
-      "rank": 171,
+      "rank": 170,
       "sendable": false,
       "id": "vora-vora-health-askvora-com"
     },
@@ -9066,7 +9016,7 @@
       "review_reason": "Sleep/HRV feature shipped switched off; product and owner unconfirmed.",
       "move": "Comment on PR #111 asking what Cued is and whether an open source would help.",
       "when": "now",
-      "rank": 172,
+      "rank": 171,
       "sendable": true,
       "id": "cued-back-end-edwn1x-cued-edwn1x-cued-back-end-on-github"
     },
@@ -9129,7 +9079,7 @@
       "review_reason": "MCP bridge with 62 integrations; reaches AI-chat quantified-selfers.",
       "move": "Email trainedby.ai asking which aggregator they use and how to add Vybe.",
       "when": "now",
-      "rank": 173,
+      "rank": 172,
       "sendable": true,
       "id": "trainedby-ai-trainedby"
     },
@@ -9178,7 +9128,7 @@
       "review_reason": "OSS on-watch agent builder seeking sensor sources; small reach.",
       "move": "Reply on Open Wearables discussion #572 asking whether ClawWatch would use Vybe HRV via SDK.",
       "when": "now",
-      "rank": 174,
+      "rank": 173,
       "sendable": true,
       "id": "clawwatch-thinkoff-petrus-pennanen-github-thinkoffapp"
     },
@@ -9226,7 +9176,7 @@
       "review_reason": "Indie Intervals.icu HRV sync builder; good early SDK tester.",
       "move": "Post in its Intervals.icu forum thread asking the developer for SDK-vs-HealthKit feedback.",
       "when": "now",
-      "rank": 175,
+      "rank": 174,
       "sendable": true,
       "id": "intervalswellnesssync-intervalswellnesssync"
     },
@@ -9277,7 +9227,7 @@
       "review_reason": "Stanford OSS device framework; contributed module gives developer credibility.",
       "move": "Open an issue proposing a SpeziDevices module for the Vybe DevKit.",
       "when": "now",
-      "rank": 176,
+      "rank": 175,
       "sendable": true,
       "id": "stanford-spezi-spezibluetooth-spezidevices-stanford-spezi"
     },
@@ -9325,7 +9275,7 @@
       "review_reason": "Indie builder pushing HRV/RHR to Intervals.icu; early SDK tester.",
       "move": "Post in the Watchletic Intervals.icu thread asking for feedback on Vybe's HRV/RHR API.",
       "when": "now",
-      "rank": 177,
+      "rank": 176,
       "sendable": true,
       "id": "watchletic-watchletic"
     },
@@ -9371,7 +9321,7 @@
       "review_reason": "Developer mid-Fitbit migration; free SDK doc feedback.",
       "move": "Comment on issue #49 offering early Vybe SDK docs for feedback.",
       "when": "now",
-      "rank": 178,
+      "rank": 177,
       "sendable": true,
       "id": "dailybuild-tsu-nera-github"
     },
@@ -9420,7 +9370,7 @@
       "review_reason": "Popular self-hosted dashboard migrating off Fitbit; QS users, after DevKit.",
       "move": "Open an issue proposing a Vybe provider and ask for API-shape feedback.",
       "when": "after DevKit v0.1",
-      "rank": 179,
+      "rank": 178,
       "sendable": true,
       "id": "fitbit-grafana-arpanghosh8453-fitbit-grafana-open-source"
     },
@@ -9467,7 +9417,7 @@
       "review_reason": "Fitbit-only dashboard hit by Oct 30 shutdown; open to a second provider.",
       "move": "Comment on issue #151 asking if a Vybe data-source PR would be accepted after DevKit.",
       "when": "now",
-      "rank": 180,
+      "rank": 179,
       "sendable": true,
       "id": "fitness-dashboard-jlai-jlai-github"
     },
@@ -9514,7 +9464,7 @@
       "review_reason": "Developer mid-Fitbit migration; free schema feedback.",
       "move": "Comment on issue #86 asking for feedback on the DevKit v0.1 data schema.",
       "when": "now",
-      "rank": 181,
+      "rank": 180,
       "sendable": true,
       "id": "fitnick-kcinnick-github"
     },
@@ -9563,7 +9513,7 @@
       "review_reason": "Sleep-restriction tactical trials, Sept 2026; DevKit add-on later.",
       "move": "Email Volek's lab about logging overnight HR/HRV in future sleep-restriction protocols.",
       "when": "now",
-      "rank": 182,
+      "rank": 181,
       "sendable": true,
       "id": "ketogenic-and-sleep-restriction-tactical-performance-research-jeff-s-volek-phd-t"
     },
@@ -9613,7 +9563,7 @@
       "review_reason": "Statewide NC firefighter wellness network with a podcast host; reachable.",
       "move": "Email the alliance for an intro to its wellness committee and pitch an All Clear podcast guest spot.",
       "when": "now",
-      "rank": 183,
+      "rank": 182,
       "sendable": false,
       "id": "north-carolina-firefighter-cancer-wellness-alliance-north-carolina-firefighter-c"
     },
@@ -9658,7 +9608,7 @@
       "review_reason": "Dual-use military-medical fund naming wearables for health; raising $20M. Warm intro only.",
       "move": "Ask veteran-network contacts (H&S, AIN) for an intro once DevKit data exists.",
       "when": "now",
-      "rank": 184,
+      "rank": 183,
       "sendable": false,
       "id": "hjf-mdc-venture-fund-hjf-mdc-venture-fund"
     },
@@ -9704,7 +9654,7 @@
       "stale_signal": false,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 185,
+      "rank": 184,
       "sendable": false,
       "id": "apple-prototyping-screenless-fitness-band-gurman-launch-not-before-2028-apple"
     },
@@ -9750,7 +9700,7 @@
       "stale_signal": false,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 186,
+      "rank": 185,
       "sendable": false,
       "id": "google-fit-apis-incl-rest-deprecated-in-2026-no-rest-replacement-google"
     },
@@ -9795,7 +9745,7 @@
       "review_reason": "$500K standard deal; health hardware eligible. The W27 date has passed, but late applications are reviewed.",
       "move": "Optional late W27 application; lower priority than speedrun and HAX.",
       "when": "now",
-      "rank": 187,
+      "rank": 186,
       "sendable": true,
       "id": "y-combinator-winter-2027-batch-y-combinator"
     },
@@ -9839,7 +9789,7 @@
       "review_reason": "Techstars health accelerator, $220K, Johns Hopkins and MedStar access (Mid-Atlantic). AI-led, so pitch the analytics layer.",
       "move": "Apply only if the HRV/ECG analytics story is strong; confirm the Spring 2027 deadline.",
       "when": "now",
-      "rank": 188,
+      "rank": 187,
       "sendable": true,
       "id": "techstars-anywhere-accelerator-spring-2027-techstars"
     },
@@ -9881,7 +9831,7 @@
       "review_reason": "Open guest invite to digital-health podcast; modest audience fit.",
       "move": "Message the host on LinkedIn with a one-line guest pitch.",
       "when": "now",
-      "rank": 189,
+      "rank": 188,
       "sendable": true,
       "id": "betterhealthtech-podcast-betterhealthtech"
     },
@@ -9925,7 +9875,7 @@
       "review_reason": "Major screenless-band reviewer; payoff at May 2027 launch.",
       "move": "Email Matt Evans to get on TechRadar's review list for launch.",
       "when": "after DevKit v0.1",
-      "rank": 190,
+      "rank": 189,
       "sendable": true,
       "id": "matt-evans-techradar"
     },
@@ -9968,7 +9918,7 @@
       "review_reason": "Tests fitness wearables against references; coverage after DevKit.",
       "move": "Send Michael Hicks a short intro so Vybe is on his Health Connect band list.",
       "when": "after DevKit v0.1",
-      "rank": 191,
+      "rank": 190,
       "sendable": true,
       "id": "michael-l-hicks-android-central"
     },
@@ -10011,7 +9961,7 @@
       "review_reason": "Mainstream reviewer of screenless trackers; launch-time wear test.",
       "move": "Send Rachael Schultz an intro note for a four-week wear test at launch.",
       "when": "after DevKit v0.1",
-      "rank": 192,
+      "rank": 191,
       "sendable": true,
       "id": "rachael-schultz-business-insider"
     },
@@ -10061,7 +10011,7 @@
       "review_reason": "Open-source ECG HRV biofeedback app; adapter PR fits once BLE docs public.",
       "move": "Open an issue on OpenHRV asking if a Vybe device adapter PR would be welcome.",
       "when": "after DevKit v0.1",
-      "rank": 193,
+      "rank": 192,
       "sendable": true,
       "id": "openhrv-jan-c-brammer-github-jancbrammer"
     },
@@ -10109,7 +10059,7 @@
       "review_reason": "Home Assistant maintainers shipped Google Health; local-first integration fits privacy-minded QS users.",
       "move": "Ask on HA community what a local-first Vybe integration needs; build after DevKit.",
       "when": "after DevKit v0.1",
-      "rank": 194,
+      "rank": 193,
       "sendable": true,
       "id": "home-assistant-fitbit-google-health-integration-home-assistant"
     },
@@ -10157,7 +10107,7 @@
       "review_reason": "Lab compares smartwatch generations for sleep; validation subject after DevKit.",
       "move": "Email Dr. Chauhan asking if DevKit v0.1 could join their next smartwatch sleep comparison.",
       "when": "now",
-      "rank": 195,
+      "rank": 194,
       "sendable": true,
       "id": "smartwatch-sleep-validation-study-mohit-chauhan-mayo-clinic-center-for-individua"
     },
@@ -10203,7 +10153,7 @@
       "review_reason": "New national firefighter research institute (Sept 2026); credibility path.",
       "move": "Email the institute asking if off-duty sleep/recovery monitoring is on the research agenda.",
       "when": "now",
-      "rank": 196,
+      "rank": 195,
       "sendable": true,
       "id": "institute-for-firefighter-survivability-nfff-oklahoma-state-university-national-"
     },
@@ -10247,7 +10197,7 @@
       "review_reason": "Pre-seed accelerator for US/Israeli combat veterans with Vetted Fund investment; next cohort Feb-Apr 2027.",
       "move": "Check combat-service eligibility, then click 'notify me' on accelerator.thevetted.vc.",
       "when": "now",
-      "rank": 197,
+      "rank": 196,
       "sendable": false,
       "id": "vetted-accelerator-vetted-the-vetted-fund"
     },
@@ -10293,7 +10243,7 @@
       "stale_signal": false,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 198,
+      "rank": 197,
       "sendable": false,
       "id": "fda-closes-whoop-warning-letter-on-blood-pressure-insights-whoop-us-fda"
     },
@@ -10343,7 +10293,7 @@
       "review_reason": "Self-serve skill registry where builders pull recovery data; after data access is live.",
       "move": "Publish a Vybe skill with synthetic demo data once DevKit v0.1 data access is live.",
       "when": "now",
-      "rank": 199,
+      "rank": 198,
       "sendable": true,
       "id": "clawhub-openclaw-skill-registry-openclaw"
     },
@@ -10401,7 +10351,7 @@
       "review_reason": "Tiny multi-device recovery app; realistic integration partner after DevKit.",
       "move": "Email Do LLC offering a DevKit integration slot for Genie's recovery insights.",
       "when": "after DevKit v0.1",
-      "rank": 200,
+      "rank": 199,
       "sendable": true,
       "id": "do-ai-fitness-wellness-do-llc"
     },
@@ -10446,7 +10396,7 @@
       "stale_signal": false,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 201,
+      "rank": 200,
       "sendable": false,
       "id": "google-health-api-adds-ecg-irn-and-hrv-webhooks-google"
     },
@@ -10515,7 +10465,7 @@
       "review_reason": "Bridge app widely used when APIs close; listing after DevKit API.",
       "move": "Email appyhapps asking whether they'd add Vybe as a source once the API is live.",
       "when": "after DevKit v0.1",
-      "rank": 202,
+      "rank": 201,
       "sendable": true,
       "id": "health-sync-appyhapps-appyhapps"
     },
@@ -10559,7 +10509,7 @@
       "review_reason": "National health-tech angel group (since 2010) with free monthly screening through its startup portal. Seed/A; listed as actively seeking deals.",
       "move": "Submit through healthtechcapital.com/startup before the first-Friday cut-off.",
       "when": "now",
-      "rank": 203,
+      "rank": 202,
       "sendable": false,
       "id": "healthtech-capital-healthtech-capital"
     },
@@ -10605,7 +10555,7 @@
       "review_reason": "Ex-Nike sports and wellness hardware fund and early Oura investor. LinkedIn only; last post Sep 2025.",
       "move": "LinkedIn note to Melanie Strong citing Oura; low priority.",
       "when": "now",
-      "rank": 204,
+      "rank": 203,
       "sendable": true,
       "id": "next-ventures-next-ventures"
     },
@@ -10649,7 +10599,7 @@
       "review_reason": "Seed fund in Junction's wearable-data API Series A, so it knows the developer-data platform thesis. Berlin-based, contact form, last dated 2025.",
       "move": "Submit the pointnine.com form positioning Vybe as the device layer under APIs like Junction.",
       "when": "now",
-      "rank": 205,
+      "rank": 204,
       "sendable": true,
       "id": "point-nine-point-nine"
     },
@@ -10699,7 +10649,7 @@
       "review_reason": "DFA alpha1 tool bottlenecked on beat-to-beat hardware; HRV-athlete niche, after DevKit.",
       "move": "Post on the Intervals.icu thread asking AlphaHRV devs whether raw ECG RR from Vybe would help.",
       "when": "after DevKit v0.1",
-      "rank": 206,
+      "rank": 205,
       "sendable": true,
       "id": "alphahrv-alphahrv-luisma-gallego-inigo-tolosa"
     },
@@ -10746,7 +10696,7 @@
       "review_reason": "App stuck at WHOOP's cap; fit unclear, after DevKit.",
       "move": "Reply on the WHOOP Community thread offering Vybe SDK access as an alternative source.",
       "when": "after DevKit v0.1",
-      "rank": 207,
+      "rank": 206,
       "sendable": true,
       "id": "clean-dopamine-clean-dopamine"
     },
@@ -10793,7 +10743,7 @@
       "review_reason": "Fitbit-only dashboard losing its source Oct 30; second-provider adapter fit.",
       "move": "Open an issue on FlavioAdamo/openfit asking about a Vybe second-provider adapter.",
       "when": "after DevKit v0.1",
-      "rank": 208,
+      "rank": 207,
       "sendable": true,
       "id": "openfit-flavioadamo-github"
     },
@@ -10844,7 +10794,7 @@
       "review_reason": "Tactical S&C coaches run unit pilots; free article pitch.",
       "move": "Pitch a TSAC Report article on overnight HRV in shift workers to NSCA editors.",
       "when": "now",
-      "rank": 209,
+      "rank": 208,
       "sendable": true,
       "id": "nsca-tsac-f-coach-network-tactical-strength-and-conditioning-facilitator-nationa"
     },
@@ -10886,7 +10836,7 @@
       "review_reason": "Network of 100+ women angels, $50K-$200K per company, rolling Gust applications and pitch forums every two months.",
       "move": "Apply via 37angels.com/founders at least two weeks before the next pitch forum.",
       "when": "now",
-      "rank": 210,
+      "rank": 209,
       "sendable": false,
       "id": "37-angels-37-angels"
     },
@@ -10929,7 +10879,7 @@
       "review_reason": "Atlanta health-system venture arm (Southeast) in the Armor Medical wrist wearable; women-founder program. Strategic pilot path.",
       "move": "Send the catalyst.wellstar.org contact form framed as wellness-data pilot interest.",
       "when": "now",
-      "rank": 211,
+      "rank": 210,
       "sendable": false,
       "id": "catalyst-by-wellstar-wellstar-health-system"
     },
@@ -10974,7 +10924,7 @@
       "stale_signal": true,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 212,
+      "rank": 211,
       "sendable": false,
       "id": "hhs-secretary-kennedy-every-american-wearing-a-wearable-within-four-years-us-hhs"
     },
@@ -11021,7 +10971,7 @@
       "stale_signal": true,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 213,
+      "rank": 212,
       "sendable": false,
       "id": "itc-bans-ultrahuman-rings-in-us-over-oura-patents-ringconn-takes-license-oura-ul"
     },
@@ -11064,7 +11014,7 @@
       "review_reason": "Virtual pre-seed program for veteran founders with a Funding Lab of military-friendly investors.",
       "move": "Ask FI whether veteran cohorts waive enrollment cost (no-spend rule) before applying for the next cohort.",
       "when": "now",
-      "rank": 214,
+      "rank": 213,
       "sendable": false,
       "id": "founder-institute-veteran-accelerator-founder-institute-powered-by-jpmorganchase"
     },
@@ -11112,7 +11062,7 @@
       "review_reason": "Autonomic-regulation athlete pilot; objective HRV fits the follow-on study.",
       "move": "Email the SHIPP Lab asking whether objective overnight HRV fits their follow-on study.",
       "when": "after DevKit v0.1",
-      "rank": 215,
+      "rank": 214,
       "sendable": true,
       "id": "shipp-lab-science-of-health-interventions-and-peak-performance-kent-state-univer"
     },
@@ -11156,7 +11106,7 @@
       "review_reason": "Human-performance investor (seed/A) naming continuous-biomarker wearables. Contact form; no dated deal.",
       "move": "Send the spartanventures.tech contact form; ask for a feedback call.",
       "when": "now",
-      "rank": 216,
+      "rank": 215,
       "sendable": true,
       "id": "spartan-tech-ventures-spartan-tech-ventures"
     },
@@ -11200,7 +11150,7 @@
       "review_reason": "Seed/A, $100K-$500K checks; tactical markets (DoD, fire/EMS, police) are named in its thesis. Contact form; no dated deal.",
       "move": "Send the newerafund.vc contact form framed around first-responder recovery data.",
       "when": "now",
-      "rank": 217,
+      "rank": 216,
       "sendable": true,
       "id": "the-new-era-fund-the-new-era-fund"
     },
@@ -11244,7 +11194,7 @@
       "review_reason": "Endurance reviewer focused on no-subscription HRV; payoff at launch.",
       "move": "Email Tim Perkin to get on the review list for launch.",
       "when": "after DevKit v0.1",
-      "rank": 218,
+      "rank": 217,
       "sendable": true,
       "id": "tim-perkin-mountain-massif"
     },
@@ -11286,7 +11236,7 @@
       "review_reason": "Veteran Angel Network backs veteran-led startups via SPVs and lists a public email. No dated activity found.",
       "move": "Email VAN at the address on contextvc.com/van with a veteran-founder one-pager.",
       "when": "now",
-      "rank": 219,
+      "rank": 218,
       "sendable": false,
       "id": "veteran-angel-network-van-context-ventures"
     },
@@ -11329,7 +11279,7 @@
       "review_reason": "Free megathread reaches recovery-minded HYROX athletes; reframe ask to overnight recovery.",
       "move": "Post once in the pinned megathread with disclosure asking HYROX athletes about overnight recovery data needs.",
       "when": "after DevKit v0.1",
-      "rank": 220,
+      "rank": 219,
       "sendable": true,
       "id": "r-hyrox-reddit"
     },
@@ -11377,7 +11327,7 @@
       "review_reason": "Neutral guide builders check; free PR once docs are public.",
       "move": "Open a PR adding providers/vybe.md when DevKit v0.1 docs go public.",
       "when": "now",
-      "rank": 221,
+      "rank": 220,
       "sendable": true,
       "id": "wearable-api-field-guide-antsal06-github"
     },
@@ -11421,7 +11371,7 @@
       "review_reason": "Listed as ex-Fitbit software-platform lead at Beeler Street Ventures; web search could not confirm the firm.",
       "move": "Verify identity on LinkedIn before any outreach; if confirmed, ask about the Fitbit API successor.",
       "when": "now",
-      "rank": 222,
+      "rank": 221,
       "sendable": true,
       "id": "ajay-surie-beeler-street-ventures-former-fitbit"
     },
@@ -11467,7 +11417,7 @@
       "stale_signal": false,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 223,
+      "rank": 222,
       "sendable": false,
       "id": "idc-611-5m-wearables-shipped-in-2025-625-2m-forecast-for-2026-wrist-worn-down-4-"
     },
@@ -11513,7 +11463,7 @@
       "stale_signal": false,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 224,
+      "rank": 223,
       "sendable": false,
       "id": "nh-hb-1805-2026-officer-wellness-program-requirement-new-hampshire-legislature"
     },
@@ -11555,7 +11505,7 @@
       "review_reason": "Women and non-binary angel network that funds mission-driven US companies at Pitch Summits; next is Apr 2027, interest form open.",
       "move": "Fill in the founder interest form at pipelineangels.org/forfounders for the April 2027 summit.",
       "when": "now",
-      "rank": 225,
+      "rank": 224,
       "sendable": false,
       "id": "pipeline-angels-pipeline-angels-ifel"
     },
@@ -11601,7 +11551,7 @@
       "review_reason": "Seed fund for veteran-led critical-tech startups; raising Fund II. Thesis leans defense rather than wellness.",
       "move": "Send the veteran.fund contact form with the tactical/readiness framing.",
       "when": "now",
-      "rank": 226,
+      "rank": 225,
       "sendable": true,
       "id": "the-veteran-fund-the-veteran-fund"
     },
@@ -11645,7 +11595,7 @@
       "review_reason": "Former Fitbit CMO and Somnee CEO; his LinkedIn says he's open to advising and investing in human-performance ventures.",
       "move": "LinkedIn note: Fitbit Web API sunset, and Vybe as the open successor. Ask for an advisor-style call.",
       "when": "now",
-      "rank": 227,
+      "rank": 226,
       "sendable": true,
       "id": "tim-rosa-somnee-former-fitbit-cmo"
     },
@@ -11691,7 +11641,7 @@
       "stale_signal": false,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 228,
+      "rank": 227,
       "sendable": false,
       "id": "faac-on-police-sleep-telling-cops-to-get-more-sleep-isn-t-working-faac"
     },
@@ -11741,7 +11691,7 @@
       "review_reason": "Open-source companion app welcoming new devices; QS reach after DevKit.",
       "move": "Open a Gadgetbridge issue offering BLE protocol docs and a test unit once DevKit ships.",
       "when": "after DevKit v0.1",
-      "rank": 229,
+      "rank": 228,
       "sendable": true,
       "id": "gadgetbridge-freeyourgadget-gadgetbridge"
     },
@@ -11783,7 +11733,7 @@
       "review_reason": "AngelList health syndicate with healthcare LPs; founder is a former Army Special Forces medic.",
       "move": "LinkedIn note to Dan Hightower leading with veteran ownership.",
       "when": "now",
-      "rank": 230,
+      "rank": 229,
       "sendable": false,
       "id": "dvc-health-duro-ventures-collective"
     },
@@ -11827,7 +11777,7 @@
       "review_reason": "Co-led Taya's consumer-wearable seed (Mar 2026); a women-founder seed fund. Warm intro needed.",
       "move": "Find a free warm intro through the woman-founder networks above.",
       "when": "now",
-      "rank": 231,
+      "rank": 230,
       "sendable": false,
       "id": "female-founders-fund-female-founders-fund"
     },
@@ -11870,7 +11820,7 @@
       "review_reason": "Co-led Taya's wearable seed (Mar 2026); backs diverse founders at seed. Warm intro needed.",
       "move": "Find a free warm intro via minority-founder networks or Taya's founders.",
       "when": "now",
-      "rank": 232,
+      "rank": 231,
       "sendable": false,
       "id": "mac-venture-capital-mac-venture-capital"
     },
@@ -11915,7 +11865,7 @@
       "stale_signal": true,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 233,
+      "rank": 232,
       "sendable": false,
       "id": "samsung-completes-xealth-acquisition-to-wire-wearable-data-into-clinical-workflo"
     },
@@ -11961,7 +11911,7 @@
       "stale_signal": false,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 234,
+      "rank": 233,
       "sendable": false,
       "id": "yc-w26-fort-building-a-screenless-strength-tracking-band-fort-yc-w26"
     },
@@ -12006,7 +11956,7 @@
       "stale_signal": true,
       "identity_needs_ok": false,
       "when": "now",
-      "rank": 235,
+      "rank": 234,
       "sendable": false,
       "id": "uk-police-whoop-pilot-shows-officer-acceptance-of-wearables-ijerph-mdpi-pilot-st"
     }
@@ -14404,32 +14354,13 @@
       "approval": "not requested"
     },
     {
-      "id": "joules-joules-joules-cc",
-      "name": "Joules",
-      "org": "Joules (joules.cc)",
-      "type": "app-partner",
-      "hunt": "partnership",
-      "priority": "High",
-      "rank": 112,
-      "deadline": null,
-      "channel": "email listed on site",
-      "contact_url": "https://joules.cc/blog/add-joules-to-claude-chatgpt",
-      "evidence": "https://joules.cc/",
-      "ask": "Offer Vybe as a first overnight recovery input for their roadmap and a DevKit for testing.",
-      "subject": "Vybe Health x Joules: overnight data integration",
-      "body": "Hi, I'm the founder of Vybe, a screenless overnight band that records HRV and resting heart rate, no subscription. I saw Joules is device-free for now with integrations on the roadmap. Overnight recovery data could help your coach adjust a week after a rough night. Would you want a DevKit to try as an early input?\n\nJeremy Lahn\nVybe Health\njeremy@vybe.health · vybe.health",
-      "followup_subject": "Re: Vybe Health x Joules: overnight data integration",
-      "followup_body": "Hello Joules team,\n\nFollowing up on my note below. Could you point me to the right person, or let me know if it's a fit?\n\nIf a short call is easier, you can pick a time that suits you here: https://calendly.com/jeremy-vybe/30min\n\nJeremy Lahn\nVybe Health\njeremy@vybe.health · vybe.health",
-      "approval": "not requested"
-    },
-    {
       "id": "lordofthesmartrings-lordofthesmartrings",
       "name": "LORDoftheSMARTRINGS",
       "org": "LordOfTheSmartRings",
       "type": "amplifier",
       "hunt": "social",
       "priority": "High",
-      "rank": 114,
+      "rank": 113,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://www.lordofthesmartrings.com",
@@ -14448,7 +14379,7 @@
       "type": "app-partner",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 115,
+      "rank": 114,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://sahha.ai/case-studies/nowfit/",
@@ -14467,7 +14398,7 @@
       "type": "amplifier",
       "hunt": "social",
       "priority": "High",
-      "rank": 121,
+      "rank": 120,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://smartwatchinsight.com",
@@ -14486,7 +14417,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "High",
-      "rank": 122,
+      "rank": 121,
       "deadline": null,
       "channel": "GitHub issue",
       "contact_url": "https://github.com/mmornati/ai-running-coach/issues/217",
@@ -14505,7 +14436,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "High",
-      "rank": 123,
+      "rank": 122,
       "deadline": null,
       "channel": "GitHub issue",
       "contact_url": "https://github.com/rubengarciam/kai/issues/54",
@@ -14524,7 +14455,7 @@
       "type": "research-lab",
       "hunt": "growth",
       "priority": "High",
-      "rank": 124,
+      "rank": 123,
       "deadline": null,
       "channel": "email listed on source",
       "contact_url": "https://pubmed.ncbi.nlm.nih.gov/42258963/",
@@ -14543,7 +14474,7 @@
       "type": "community",
       "hunt": "growth",
       "priority": "High",
-      "rank": 125,
+      "rank": 124,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://gdg.community.dev/events/details/google-gdg-on-campus-north-carolina-at-state-university-presents-spring-2026-kickoff-meet-the-e-board-amp-hackathon-prep-workshop/",
@@ -14562,7 +14493,7 @@
       "type": "research-lab",
       "hunt": "growth",
       "priority": "High",
-      "rank": 126,
+      "rank": 125,
       "deadline": null,
       "channel": "corresponding author via publisher page (address on paper)",
       "contact_url": "https://doi.org/10.1016/j.cpnec.2026.100360",
@@ -14581,7 +14512,7 @@
       "type": "channel-partner",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 129,
+      "rank": 128,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://home.army.mil/jackson/about/news2/new-center-seismic-shift-army-fitness",
@@ -14600,7 +14531,7 @@
       "type": "app-partner",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 135,
+      "rank": 134,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://cordico.com/wellness-app/",
@@ -14619,7 +14550,7 @@
       "type": "app-partner",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 136,
+      "rank": 135,
       "deadline": null,
       "channel": "website",
       "contact_url": "https://fueld.ai/wearables",
@@ -14638,7 +14569,7 @@
       "type": "app-partner",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 137,
+      "rank": 136,
       "deadline": null,
       "channel": "website",
       "contact_url": "https://loadmetricpro.com/",
@@ -14657,7 +14588,7 @@
       "type": "app-partner",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 138,
+      "rank": 137,
       "deadline": null,
       "channel": "WHOOP Community thread reply / forum DM",
       "contact_url": "https://www.community.whoop.com/t/api-limit-increase/14592",
@@ -14676,7 +14607,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "High",
-      "rank": 139,
+      "rank": 138,
       "deadline": null,
       "channel": "GitHub / Discord",
       "contact_url": "https://github.com/ryanbr/noop",
@@ -14695,7 +14626,7 @@
       "type": "app-partner",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 140,
+      "rank": 139,
       "deadline": null,
       "channel": "website",
       "contact_url": "https://getomn.io/",
@@ -14714,7 +14645,7 @@
       "type": "listing",
       "hunt": "growth",
       "priority": "High",
-      "rank": 142,
+      "rank": 141,
       "deadline": null,
       "channel": "apply",
       "contact_url": "https://www.producthunt.com",
@@ -14733,7 +14664,7 @@
       "type": "amplifier",
       "hunt": "social",
       "priority": "High",
-      "rank": 143,
+      "rank": 142,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://robbsutton.com",
@@ -14752,7 +14683,7 @@
       "type": "research-lab",
       "hunt": "growth",
       "priority": "High",
-      "rank": 144,
+      "rank": 143,
       "deadline": null,
       "channel": "contact via study page",
       "contact_url": "https://www.ohsu.edu/oregon-institute-occupational-health-sciences/swift-shiftwork-firefighters",
@@ -14771,7 +14702,7 @@
       "type": "app-partner",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 145,
+      "rank": 144,
       "deadline": null,
       "channel": "website",
       "contact_url": "https://sathi.fit/wearables",
@@ -14790,7 +14721,7 @@
       "type": "channel-partner",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 146,
+      "rank": 145,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://content.teambuildr.com/wearables-white-paper",
@@ -14809,7 +14740,7 @@
       "type": "channel-partner",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 147,
+      "rank": 146,
       "deadline": null,
       "channel": "apply",
       "contact_url": "https://trainingpeaks.com/blog/an-update-on-trainingpeaks-partner-api",
@@ -14828,7 +14759,7 @@
       "type": "app-partner",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 148,
+      "rank": 147,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://www.getvertical.ai/mcp/",
@@ -14847,7 +14778,7 @@
       "type": "builder",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 150,
+      "rank": 149,
       "deadline": null,
       "channel": "GitHub issue",
       "contact_url": "https://github.com/EazyLee30/whooper-2.0",
@@ -14866,7 +14797,7 @@
       "type": "accelerator",
       "hunt": "growth",
       "priority": "High",
-      "rank": 152,
+      "rank": 151,
       "deadline": null,
       "channel": "apply",
       "contact_url": "https://grepbeat.com/2026/03/10/launch-kpmg-accelerator-kicks-off-third-cohort-in-chapel-hill/",
@@ -14885,7 +14816,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "High",
-      "rank": 153,
+      "rank": 152,
       "deadline": null,
       "channel": "GitHub",
       "contact_url": "https://github.com/shkyyy18/mi-fitness-data-bridge/issues",
@@ -14904,7 +14835,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "High",
-      "rank": 154,
+      "rank": 153,
       "deadline": null,
       "channel": "GitHub",
       "contact_url": "https://github.com/louispires/Oura-Home-Assistant-Integration",
@@ -14923,7 +14854,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "High",
-      "rank": 156,
+      "rank": 155,
       "deadline": null,
       "channel": "GitHub",
       "contact_url": "https://github.com/jordanburke/oura-ring-mcp-server",
@@ -14942,7 +14873,7 @@
       "type": "research-lab",
       "hunt": "growth",
       "priority": "High",
-      "rank": 161,
+      "rank": 160,
       "deadline": null,
       "channel": "contact via faculty page",
       "contact_url": "https://scholars.georgiasouthern.edu/en/publications/effectiveness-of-structured-breathwork-interventions-on-heart-rat/",
@@ -14961,7 +14892,7 @@
       "type": "research-lab",
       "hunt": "growth",
       "priority": "High",
-      "rank": 164,
+      "rank": 163,
       "deadline": null,
       "channel": "contact via lab page",
       "contact_url": "https://education.uky.edu/khp/laboratories/first-responder-lab",
@@ -14980,7 +14911,7 @@
       "type": "app-partner",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 168,
+      "rank": 167,
       "deadline": null,
       "channel": "LinkedIn",
       "contact_url": "https://www.linkedin.com/posts/haltakov_my-first-app-is-live-on-the-ios-app-store-activity-7492580702220378112-bwwL",
@@ -14999,7 +14930,7 @@
       "type": "app-partner",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 169,
+      "rank": 168,
       "deadline": null,
       "channel": "email listed on site",
       "contact_url": "https://apps.apple.com/us/app/stress-platform-health-hrv/id6756083530",
@@ -15018,7 +14949,7 @@
       "type": "builder",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 172,
+      "rank": 171,
       "deadline": null,
       "channel": "GitHub (PR comment or issue)",
       "contact_url": "https://github.com/Edwn1x/cued-back-end/pull/111",
@@ -15037,7 +14968,7 @@
       "type": "app-partner",
       "hunt": "partnership",
       "priority": "High",
-      "rank": 173,
+      "rank": 172,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://trainedby.ai/",
@@ -15056,7 +14987,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "Medium",
-      "rank": 174,
+      "rank": 173,
       "deadline": null,
       "channel": "GitHub / thinkoff.io",
       "contact_url": "https://github.com/ThinkOffApp",
@@ -15075,7 +15006,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "Medium",
-      "rank": 175,
+      "rank": 174,
       "deadline": null,
       "channel": "Intervals.icu forum thread",
       "contact_url": "https://forum.intervals.icu/t/intervalswellnesssync-simple-apple-watch-health-data-sync-to-intervals-icu/125843",
@@ -15094,7 +15025,7 @@
       "type": "community",
       "hunt": "growth",
       "priority": "Medium",
-      "rank": 176,
+      "rank": 175,
       "deadline": null,
       "channel": "GitHub / Spezi discussion forum",
       "contact_url": "https://spezi.stanford.edu/services",
@@ -15113,7 +15044,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "Medium",
-      "rank": 177,
+      "rank": 176,
       "deadline": null,
       "channel": "Intervals.icu forum thread",
       "contact_url": "https://forum.intervals.icu/t/intervals-icu-on-wear-os-with-watchletic/130881",
@@ -15132,7 +15063,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "Medium",
-      "rank": 178,
+      "rank": 177,
       "deadline": null,
       "channel": "GitHub issue",
       "contact_url": "https://github.com/tsu-nera/dailybuild/issues/49",
@@ -15151,7 +15082,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "Medium",
-      "rank": 179,
+      "rank": 178,
       "deadline": null,
       "channel": "GitHub",
       "contact_url": "https://github.com/arpanghosh8453/fitbit-grafana",
@@ -15170,7 +15101,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "Medium",
-      "rank": 180,
+      "rank": 179,
       "deadline": null,
       "channel": "GitHub issue",
       "contact_url": "https://github.com/jlai/fitness-dashboard/issues/151",
@@ -15189,7 +15120,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "Medium",
-      "rank": 181,
+      "rank": 180,
       "deadline": null,
       "channel": "GitHub issue",
       "contact_url": "https://github.com/kcinnick/fitnick/issues/86",
@@ -15208,7 +15139,7 @@
       "type": "research-lab",
       "hunt": "growth",
       "priority": "Medium",
-      "rank": 182,
+      "rank": 181,
       "deadline": null,
       "channel": "corresponding author via publisher page (address on paper)",
       "contact_url": "https://doi.org/10.1093/milmed/usag429",
@@ -15227,7 +15158,7 @@
       "type": "amplifier",
       "hunt": "social",
       "priority": "Medium",
-      "rank": 189,
+      "rank": 188,
       "deadline": null,
       "channel": "LinkedIn",
       "contact_url": "https://www.linkedin.com/feed/update/urn:li:activity:7480998346774593536",
@@ -15246,7 +15177,7 @@
       "type": "amplifier",
       "hunt": "social",
       "priority": "Medium",
-      "rank": 190,
+      "rank": 189,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://www.techradar.com",
@@ -15265,7 +15196,7 @@
       "type": "amplifier",
       "hunt": "social",
       "priority": "Medium",
-      "rank": 191,
+      "rank": 190,
       "deadline": null,
       "channel": "X / author page",
       "contact_url": "https://www.androidcentral.com/author/michael-l-hicks",
@@ -15284,7 +15215,7 @@
       "type": "amplifier",
       "hunt": "social",
       "priority": "Medium",
-      "rank": 192,
+      "rank": 191,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://www.businessinsider.com/guides/tech/garmin-cirqa-fitness-tracker-review",
@@ -15303,7 +15234,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "Medium",
-      "rank": 193,
+      "rank": 192,
       "deadline": null,
       "channel": "GitHub",
       "contact_url": "https://github.com/JanCBrammer/OpenHRV/issues",
@@ -15322,7 +15253,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "Medium",
-      "rank": 194,
+      "rank": 193,
       "deadline": null,
       "channel": "GitHub",
       "contact_url": "https://github.com/home-assistant/home-assistant.io/issues/45291",
@@ -15341,7 +15272,7 @@
       "type": "research-lab",
       "hunt": "growth",
       "priority": "Medium",
-      "rank": 195,
+      "rank": 194,
       "deadline": null,
       "channel": "corresponding author via publisher page (address on paper)",
       "contact_url": "https://doi.org/10.3389/fpsyt.2026.1767216",
@@ -15360,7 +15291,7 @@
       "type": "program",
       "hunt": "partnership",
       "priority": "Medium",
-      "rank": 196,
+      "rank": 195,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://www.firehero.org/2026/09/21/institute-for-firefighter-survivability/",
@@ -15379,7 +15310,7 @@
       "type": "listing",
       "hunt": "growth",
       "priority": "Medium",
-      "rank": 199,
+      "rank": 198,
       "deadline": null,
       "channel": "self-serve publish / Discord linked from the official repo",
       "contact_url": "https://github.com/openclaw/clawhub",
@@ -15398,7 +15329,7 @@
       "type": "app-partner",
       "hunt": "partnership",
       "priority": "Medium",
-      "rank": 200,
+      "rank": 199,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://www.itsdoapp.com/",
@@ -15417,7 +15348,7 @@
       "type": "app-partner",
       "hunt": "partnership",
       "priority": "Medium",
-      "rank": 202,
+      "rank": 201,
       "deadline": null,
       "channel": "Email listed on site / in-app help",
       "contact_url": "https://www.apkmirror.com/apk/appyhapps-nl/health-sync/health-sync-7-9-0-1-release/",
@@ -15436,7 +15367,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "Low",
-      "rank": 206,
+      "rank": 205,
       "deadline": null,
       "channel": "Intervals.icu forum thread",
       "contact_url": "https://forum.intervals.icu/t/new-alphahrv-version/20966?page=24",
@@ -15455,7 +15386,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "Low",
-      "rank": 207,
+      "rank": 206,
       "deadline": null,
       "channel": "WHOOP Community thread reply",
       "contact_url": "https://www.community.whoop.com/t/no-response-from-whoop-development-support/16050",
@@ -15474,7 +15405,7 @@
       "type": "builder",
       "hunt": "growth",
       "priority": "Low",
-      "rank": 208,
+      "rank": 207,
       "deadline": null,
       "channel": "GitHub",
       "contact_url": "https://github.com/FlavioAdamo/openfit",
@@ -15493,7 +15424,7 @@
       "type": "community",
       "hunt": "growth",
       "priority": "Low",
-      "rank": 209,
+      "rank": 208,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://www.nsca.com/media-room/press-releases/nsca-expand-tactical-support/",
@@ -15512,7 +15443,7 @@
       "type": "research-lab",
       "hunt": "growth",
       "priority": "Low",
-      "rank": 215,
+      "rank": 214,
       "deadline": null,
       "channel": "university profile / email",
       "contact_url": "https://www.kent.edu/sh/news/can-smartphone-app-help-student-athletes-perform-better-under-pressure",
@@ -15531,7 +15462,7 @@
       "type": "amplifier",
       "hunt": "social",
       "priority": "Low",
-      "rank": 218,
+      "rank": 217,
       "deadline": null,
       "channel": "contact form",
       "contact_url": "https://mountainmassif.com",
@@ -15550,7 +15481,7 @@
       "type": "community",
       "hunt": "social",
       "priority": "Low",
-      "rank": 220,
+      "rank": 219,
       "deadline": null,
       "channel": "Reddit (megathread only)",
       "contact_url": "https://www.reddit.com/r/hyrox/",
@@ -15569,7 +15500,7 @@
       "type": "community",
       "hunt": "growth",
       "priority": "Low",
-      "rank": 221,
+      "rank": 220,
       "deadline": null,
       "channel": "GitHub pull request",
       "contact_url": "https://github.com/antsal06/wearable-api-field-guide",
@@ -15588,7 +15519,7 @@
       "type": "community",
       "hunt": "growth",
       "priority": "Low",
-      "rank": 229,
+      "rank": 228,
       "deadline": null,
       "channel": "Codeberg issues / Matrix #gadgetbridge:matrix.org",
       "contact_url": "https://gadgetbridge.org/internals/development/new-gadget/",
@@ -15605,14 +15536,6 @@
     "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
     "checked": "2026-10-11",
     "threads": [
-      {
-        "org": "Zufek",
-        "to": "info@zufek.com",
-        "first_sent": "2026-10-09",
-        "state": "replied",
-        "due": "2026-10-12",
-        "next": "10 Oct: David Yang (david@zufek.com) booked the Sat 10am ET call, which was cancelled on our side. He asks to reschedule. Forwarded to John; reply with a new time."
-      },
       {
         "org": "Concept2 Logbook",
         "to": "ranking@concept2.com",
@@ -15737,14 +15660,6 @@
         "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
       },
       {
-        "org": "Joules",
-        "to": "hello@joules.cc",
-        "first_sent": "2026-10-09",
-        "state": "no reply",
-        "due": "2026-10-14",
-        "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-      },
-      {
         "org": "Junction (formerly Vital)",
         "to": "support@junction.com",
         "first_sent": "2026-10-09",
@@ -15761,24 +15676,8 @@
         "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
       },
       {
-        "org": "Kyros Engineering",
-        "to": "peter@kyrosengineering.com",
-        "first_sent": "2026-10-09",
-        "state": "no reply",
-        "due": "2026-10-14",
-        "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-      },
-      {
         "org": "Leyen Zulueta",
         "to": "travis@matlabbjj.com",
-        "first_sent": "2026-10-09",
-        "state": "no reply",
-        "due": "2026-10-14",
-        "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-      },
-      {
-        "org": "MAGNET (Manufacturing Advocacy & Growth Network)",
-        "to": "info@manufacturingsuccess.org",
         "first_sent": "2026-10-09",
         "state": "no reply",
         "due": "2026-10-14",
@@ -15791,14 +15690,6 @@
         "state": "auto-reply only",
         "due": "2026-10-14",
         "next": "Passed to their Business Development team on 9 Oct. If there's no reply by Wed 14 Oct, send the one follow-up."
-      },
-      {
-        "org": "Nocturnal Product Development",
-        "to": "eyal@nocturnalpd.com",
-        "first_sent": "2026-10-09",
-        "state": "replied",
-        "due": "2026-10-14",
-        "next": "Call booked Mon 12 Oct 2:00 PM EDT (kc@nocturnalpd.com), but on the other company's Calendly. John drafted a reply with the Vybe link; held so they don't double-book. Jeremy to decide."
       },
       {
         "org": "Ohio State Crew (club rowing)",
@@ -15833,14 +15724,6 @@
         "next": "11 Oct: sent John's reply with the correct Vybe link, asking for a 30-minute call on adding Vybe as an Open Wearables source."
       },
       {
-        "org": "PlateLens",
-        "to": "support@platelens.app",
-        "first_sent": "2026-10-09",
-        "state": "no reply",
-        "due": "2026-10-14",
-        "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-      },
-      {
         "org": "REACH Fitness",
         "to": "marianne@reachfitnessohio.com",
         "first_sent": "2026-10-09",
@@ -15855,14 +15738,6 @@
         "state": "no reply",
         "due": "2026-10-14",
         "next": "First email sent 9 Oct. If there's no reply by Wed 14 Oct, send the one follow-up."
-      },
-      {
-        "org": "SugaMed (ECG Patch PCBA)",
-        "to": "info@sugaintl.com",
-        "first_sent": "2026-10-09",
-        "state": "no reply",
-        "due": "2026-10-14",
-        "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
       },
       {
         "org": "Tredict",
@@ -15887,14 +15762,6 @@
         "state": "no reply",
         "due": "2026-10-14",
         "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
-      },
-      {
-        "org": "ANZER USA",
-        "to": "JayM@anzer-usa.com",
-        "first_sent": "2026-10-09",
-        "state": "call booked",
-        "due": "2026-10-15",
-        "next": "Call booked Fri Oct 16, 9:30am, on the Vybe Calendly (Jay Mendpara, CEO). He asks for DevKit requirements beforehand and offers to sign our NDA. Jeremy: send a requirements doc (plus NDA if wanted) by Thu Oct 15."
       },
       {
         "org": "Black Girls RUN!",
@@ -15978,6 +15845,14 @@
         "followed_up": "2026-10-09"
       },
       {
+        "org": "ANZER USA",
+        "to": "JayM@anzer-usa.com",
+        "first_sent": "2026-10-09",
+        "state": "no go",
+        "due": null,
+        "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+      },
+      {
         "org": "Head of the Schuylkill Regatta",
         "to": "jenwesson@hosr.org",
         "first_sent": "2026-10-06",
@@ -15987,12 +15862,52 @@
         "next": "No go (John, 11 Oct): not paying $300 for a PA table."
       },
       {
+        "org": "Joules",
+        "to": "hello@joules.cc",
+        "first_sent": "2026-10-09",
+        "state": "no go",
+        "due": null,
+        "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+      },
+      {
+        "org": "Kyros Engineering",
+        "to": "peter@kyrosengineering.com",
+        "first_sent": "2026-10-09",
+        "state": "no go",
+        "due": null,
+        "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+      },
+      {
         "org": "LiPol Battery North America",
         "to": "info@lipolbatteries.com",
         "first_sent": "2026-10-09",
-        "state": "bounced",
+        "state": "no go",
         "due": null,
-        "next": "Address bounced (550, not found). Use the contact form on lipolbatteries.com instead."
+        "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+      },
+      {
+        "org": "MAGNET (Manufacturing Advocacy & Growth Network)",
+        "to": "info@manufacturingsuccess.org",
+        "first_sent": "2026-10-09",
+        "state": "no go",
+        "due": null,
+        "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+      },
+      {
+        "org": "Nocturnal Product Development",
+        "to": "eyal@nocturnalpd.com",
+        "first_sent": "2026-10-09",
+        "state": "no go",
+        "due": null,
+        "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+      },
+      {
+        "org": "PlateLens",
+        "to": "support@platelens.app",
+        "first_sent": "2026-10-09",
+        "state": "no go",
+        "due": null,
+        "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
       },
       {
         "org": "RRCA 2027 Convention",
@@ -16013,6 +15928,14 @@
         "followed_up": "2026-10-09"
       },
       {
+        "org": "SugaMed (ECG Patch PCBA)",
+        "to": "info@sugaintl.com",
+        "first_sent": "2026-10-09",
+        "state": "no go",
+        "due": null,
+        "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+      },
+      {
         "org": "WNBF Naturalmania Pro Am Nationals",
         "to": "wnbf@worldnaturalbb.com",
         "first_sent": "2026-10-06",
@@ -16020,6 +15943,14 @@
         "state": "no go",
         "due": null,
         "next": "No go (John, 11 Oct): cancel the Naturalmania vendor table and social post."
+      },
+      {
+        "org": "Zufek",
+        "to": "info@zufek.com",
+        "first_sent": "2026-10-09",
+        "state": "no go",
+        "due": null,
+        "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
       }
     ],
     "forwarded": [
@@ -16042,6 +15973,6 @@
     ],
     "forward_to": "john@vybe.health"
   },
-  "parked_count": 1409,
+  "parked_count": 1410,
   "parked_rule": "Parked (costs money): sponsorships, tables, booths, vendor slots, expo or event fees, tiers, prizes and athlete deals. Founder, 11 Oct: no spend."
 }

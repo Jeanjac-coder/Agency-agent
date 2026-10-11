@@ -203,3 +203,9 @@ def test_needs_units_marks_device_asks_for_after_devkit():
 
 def test_investor_check_sizes_are_not_parked_as_spend():
     assert not build.costs_money({"hunt": "investor", "type": "vc", "why": "Writes $1M pre-seed checks"})
+
+
+def test_suppliers_are_not_an_outreach_lane():
+    assert build.is_supplier({"name": "ANZER USA", "type": "oem-partner"})
+    assert build.is_supplier({"name": "Acme", "type": "builder", "why": "Contract electronics manufacturer for PCBA"})
+    assert not build.is_supplier({"name": "Tredict", "type": "app-partner", "why": "Endurance platform; battery of tests"})

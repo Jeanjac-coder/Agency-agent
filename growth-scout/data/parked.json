@@ -2295,7 +2295,7 @@
       "type": "oem-partner",
       "geo": "Charlotte, NC",
       "ask": "15-minute call on their launch process and whether they take hardware wearables",
-      "why_parked": "costs money"
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "NASCAR Drive for Diversity Pit Crew Development Program (Rev Racing)",
@@ -5151,7 +5151,7 @@
       "type": "oem-partner",
       "geo": "Raleigh, NC",
       "ask": "Campus coffee in Raleigh to learn whether fiber/flexible battery work could suit a future band revision",
-      "why_parked": "Battery materials research; no near-term payoff."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Salisbury VA Health Care System sleep and pulmonary program (W.G. (Bill) Hefner VA Medical Center)",
@@ -6215,231 +6215,231 @@
       "type": "oem-partner",
       "geo": "Akron, OH",
       "ask": "Request a quote and a DFM review for a 5-10 unit DevKit v0.1 board build.",
-      "why_parked": "Paid manufacturing quote, not a partnership; wrongly claims same city."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "TT Electronics NPI Center of Excellence (Cleveland)",
       "type": "oem-partner",
       "geo": "Perry (Cleveland), OH",
       "ask": "Ask the NPI team whether a 10-unit prototype run and a later low-volume program are in scope.",
-      "why_parked": "Paid manufacturing vendor."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Libra Industries",
       "type": "oem-partner",
       "geo": "Dayton and Willoughby Hills, OH",
       "ask": "Ask whether Libra takes early-stage hardware programs and at what volume it becomes interesting.",
-      "why_parked": "Paid manufacturing vendor."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "SMC Ltd (Medical Design Center, Ohio)",
       "type": "oem-partner",
       "geo": "Ohio (city not stated)",
       "ask": "Ask whether the Ohio design center takes consumer-adjacent wearable programs and early-stage budgets.",
-      "why_parked": "Medical contract manufacturer; paid."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Spartronics (Strongsville, OH)",
       "type": "oem-partner",
       "geo": "Strongsville, OH",
       "ask": "Ask whether a wearable electronics sub-assembly at low volume is in scope for the Strongsville site.",
-      "why_parked": "Paid vendor."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Pliant Medical",
       "type": "oem-partner",
       "geo": "Michigan",
       "ask": "Ask about enclosure tooling and assembly for a sealed skin-contact wearable at 1,000-5,000 units.",
-      "why_parked": "Paid vendor."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Illuminious",
       "type": "oem-partner",
       "geo": "Palo Alto, CA (production Indonesia/China)",
       "ask": "Ask for Startup Bridge Program terms and a DFM review of a flex-based band.",
-      "why_parked": "Paid manufacturing vendor; not growth."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "SugaMed (ECG Patch PCBA)",
       "type": "oem-partner",
       "geo": "Dongguan/Shenzhen, China",
       "ask": "Request a first-article quote for a small rigid-flex ECG board.",
-      "why_parked": "Paid PCBA quote; not growth."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Kyros Engineering",
       "type": "oem-partner",
       "geo": "Cleveland, OH",
       "ask": "Book the free consultation to review our AFE/BLE architecture and a DevKit-to-production plan.",
-      "why_parked": "Vendor sales consult, medical-device framing; not a partnership."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Priority Designs",
       "type": "oem-partner",
       "geo": "Columbus, OH",
       "ask": "Ask for an intro call on industrial design, strap/enclosure prototyping and soft tooling.",
-      "why_parked": "Paid vendor."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Rapid Circuitry",
       "type": "oem-partner",
       "geo": null,
       "ask": "Send a short NDA brief and request a fixed-scope proposal for a firmware/AFE review.",
-      "why_parked": "Paid vendor."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Punch Through",
       "type": "oem-partner",
       "geo": null,
       "ask": "Request a BLE architecture review covering bonding, GATT design and OTA for a streaming ECG band.",
-      "why_parked": "Paid vendor."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Cloud2GND",
       "type": "oem-partner",
       "geo": "Kentucky",
       "ask": "Ask for scoping help on Bluetooth qualification and a Nordic-based firmware review.",
-      "why_parked": "Paid engineering services."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Novel Bits",
       "type": "oem-partner",
       "geo": "Indiana",
       "ask": "Book a scoping call for a BLE power and capture review.",
-      "why_parked": "costs money"
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Nocturnal Product Development",
       "type": "oem-partner",
       "geo": "Durham, NC",
       "ask": "Ask about a fixed-price milestone for design-for-manufacture review.",
-      "why_parked": "Paid design firm."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Analog Devices (MAX86178 / MAXREFDES104 health sensor platform)",
       "type": "oem-partner",
       "geo": null,
       "ask": "Submit the MAXREFDES104 NDA request and ask ADI sales for a field applications engineer.",
-      "why_parked": "costs money"
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Texas Instruments (TIDA-010270 / 010280 / 010288 ECG reference designs)",
       "type": "oem-partner",
       "geo": null,
       "ask": "Download the design files and open a TI E2E/support request for the AFE4960 on a single-lead band.",
-      "why_parked": "Reference design, not a partnership."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Nordic Semiconductor Partner Program (Design Partners)",
       "type": "oem-partner",
       "geo": null,
       "ask": "Contact Nordic sales via the partner contact form to be matched with a design partner for wearable BLE firmware and certification.",
-      "why_parked": "Paid design services."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Ambiq (heartKIT / sleepKIT AI Developer Kits)",
       "type": "oem-partner",
       "geo": null,
       "ask": "Evaluate heartKIT/sleepKIT on a dev board and ask Ambiq about a design-partner path for a ring.",
-      "why_parked": "Chip vendor ADK for rings; not a growth partner."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "F2 Labs (Middlefield, OH)",
       "type": "oem-partner",
       "geo": "Middlefield, OH",
       "ask": "Book a pre-compliance session on DevKit boards and request a quote for FCC Part 15C BLE certification.",
-      "why_parked": "Paid certification lab."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "NAMSA (Northwood, OH)",
       "type": "oem-partner",
       "geo": "Northwood, OH",
       "ask": "Request a biological evaluation plan for skin-contact materials (housing, strap, electrodes).",
-      "why_parked": "Paid biocompatibility testing; not growth."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "MAGNET (Manufacturing Advocacy & Growth Network)",
       "type": "oem-partner",
       "geo": "Cleveland, OH",
       "ask": "Request a New Ventures intake and ask for supplier introductions for flex/PCBA and enclosures.",
-      "why_parked": "costs money"
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Kinetic (NEOMED + Bounce Innovation Hub) / MEDIC lab",
       "type": "oem-partner",
       "geo": "Akron/Rootstown, OH",
       "ask": "Ask for a Kinetic intake and a tour of the MEDIC prototyping lab.",
-      "why_parked": "costs money"
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "mHUB (Chicago)",
       "type": "oem-partner",
       "geo": "Chicago, IL",
       "ask": "Check current cohort application dates and eligibility.",
-      "why_parked": "costs money"
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "STRIDE Accelerator (University of Akron Research Foundation)",
       "type": "oem-partner",
       "geo": "Akron, OH",
       "ask": "Ask for the next cohort window.",
-      "why_parked": "Akron accelerator; Vybe is in Raleigh."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Ohio State OSSIP / Nanotech West Lab",
       "type": "oem-partner",
       "geo": "Columbus, OH",
       "ask": "Ask whether sensor/electrode or flex-interconnect characterization fits OSSIP.",
-      "why_parked": "Ohio fab lab; not growth."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Nissha Medical Technologies Wearables Lab Accelerator",
       "type": "oem-partner",
       "geo": null,
       "ask": "Ask whether the Wearables Lab accepts early-stage OEM teams and what a session costs.",
-      "why_parked": "Paid vendor."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "LiPol Battery North America",
       "type": "oem-partner",
       "geo": "North America (remote), manufacturing in China",
       "ask": "Request prototype cells for a curved band cell and a round ring cell.",
-      "why_parked": "Battery vendor; not growth."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Zufek",
       "type": "oem-partner",
       "geo": "Shenzhen/Dongguan, China",
       "ask": "Send a STEP model for a 5-day feasibility note and 50-200 NPI samples.",
-      "why_parked": "Battery supplier; not growth."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "flexpcb.com (Flex PCB, USA prototype)",
       "type": "oem-partner",
       "geo": null,
       "ask": "Upload Gerbers for a quick-turn rigid-flex prototype quote.",
-      "why_parked": "Paid PCB quote."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "FlexiPCB",
       "type": "oem-partner",
       "geo": "Shijiazhuang, China",
       "ask": "Request a DFM-checked quote for a 1-8 layer flex ECG tail.",
-      "why_parked": "costs money"
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Konark Silicone Technologies",
       "type": "oem-partner",
       "geo": "California",
       "ask": "Ask about overmolding or encapsulation for a skin-contact housing and strap in short runs.",
-      "why_parked": "Paid vendor."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "SIMTEC Silicone Parts",
       "type": "oem-partner",
       "geo": "Miramar, FL",
       "ask": "Request design review for an LSR strap and sensor-window overmold.",
-      "why_parked": "Paid vendor, stale."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Cleveland Triathlon Club",
@@ -6771,6 +6771,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Joules",
+      "type": "app-partner",
+      "geo": null,
+      "ask": "Offer Vybe as a first overnight recovery input for their roadmap and a DevKit for testing.",
+      "why_parked": "supplier, rule 7, not an outreach lane"
+    },
+    {
       "name": "amp",
       "type": "app-partner",
       "geo": "New York, NY",
@@ -6803,7 +6810,7 @@
       "type": "app-partner",
       "geo": "The Woodlands, TX",
       "ask": "15-minute call on adding overnight recovery/sleep context to the coach, starting with Vybe writing to Apple Health / Health Connect.",
-      "why_parked": "Calorie tracker; weak fit."
+      "why_parked": "supplier, rule 7, not an outreach lane"
     },
     {
       "name": "Alma: Nutrition Coach",

@@ -227,6 +227,23 @@ def load_review() -> dict:
     return json.loads(REVIEW.read_text()).get("rows", {}) if REVIEW.exists() else {}
 
 
+SUPPLIER_RE = re.compile(
+    r"\b(contract (?:electronics )?manufactur\w*|electronics manufactur\w*|EMS provider|PCBA?\b|PCB assembly|"
+    r"box build|battery (?:maker|manufacturer|supplier)|sensor vendor|component supplier|"
+    r"product[- ]development firm|engineering firm|design firm|injection mold\w*|silicone mold\w*|"
+    r"certification lab|compliance (?:test )?lab|manufacturing (?:association|network|extension))\b", re.I)
+SUPPLIER_NAMES = ("anzer", "zufek", "nocturnal", "lipol", "sugamed", "suga", "kyros", "magnet", "platelens", "joules")
+
+
+def is_supplier(row: dict) -> bool:
+    """Rule 7 (founder, 11 Oct): suppliers sell TO Vybe; procurement belongs to the founders, not outreach."""
+    name = f"{row.get('name') or ''} {row.get('org') or ''}".lower()
+    if row.get("type") == "oem-partner" or any(n in name for n in SUPPLIER_NAMES):
+        return True
+    text = " ".join(str(row.get(k) or "") for k in ("name", "org", "why", "ask"))
+    return bool(SUPPLIER_RE.search(text)) and row.get("hunt") != "investor"
+
+
 def costs_money(row: dict) -> bool:
     if row.get("hunt") == "investor":
         return False  # a check size is money coming in, not going out
@@ -408,6 +425,9 @@ def build(params: dict, today: dt.date) -> tuple[list[dict], list[dict], dict]:
         if v:
             r["review"], r["review_reason"], r["move"] = v.get("verdict"), v.get("reason"), v.get("move")
             r["score"] += {"A": 40, "B": 10}.get(v.get("verdict"), 0)
+    for r in kept.values():
+        if is_supplier(r):
+            r["review"], r["review_reason"] = "cut", "supplier, rule 7, not an outreach lane"
     parked = [r for r in kept.values() if costs_money(r) or r.get("review") == "cut"]
     PARKED.clear()
     PARKED.extend({"name": r["name"], "type": r["type"], "geo": r.get("geo"), "ask": r.get("ask"),
