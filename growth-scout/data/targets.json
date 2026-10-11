@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11 18:39 UTC",
+  "generated": "2026-10-11 20:21 UTC",
   "today": "2026-10-11",
   "scope": {
     "company": "Vybe Health",
@@ -6772,6 +6772,7 @@
       "when": "now",
       "rank": 127,
       "sendable": false,
+      "move": "Map every Vybe feature and SDK output to the guidance guardrails; publish a short 'wellness-only' developer policy so design partners stay compliant.",
       "id": "fda-2026-general-wellness-guidance-explicitly-covers-wearables-measuring-hrv-bp-"
     },
     {
@@ -8264,6 +8265,7 @@
       "when": "after DevKit v0.1",
       "rank": 156,
       "sendable": false,
+      "move": "Build a 'Fitbit API refugee' list (research apps, coaching apps, Fitabase-type study platforms) and offer DevKit v0.1 design-partner slots before 30 Oct.",
       "id": "fitbit-web-api-shuts-down-30-oct-2026-tokens-do-not-migrate-google"
     },
     {
@@ -8406,6 +8408,7 @@
       "when": "now",
       "rank": 159,
       "sendable": false,
+      "move": "Reply in the Garmin forum startup thread with DevKit design-partner info; add 'Garmin-blocked' to builder outreach copy",
       "id": "garmin-pauses-connect-developer-program-no-new-api-access-since-spring-2026-garm"
     },
     {
@@ -8507,6 +8510,7 @@
       "when": "now",
       "rank": 161,
       "sendable": false,
+      "move": "Work the thread list as a design-partner pipeline; reply only where the poster invites alternatives",
       "id": "whoop-api-approval-backlog-developers-stuck-at-10-user-cap-for-months-2026-whoop"
     },
     {
@@ -9656,6 +9660,7 @@
       "when": "now",
       "rank": 184,
       "sendable": false,
+      "move": "Put 'Apple validates screenless; not shipping before 2028' on the investor 'why now' slide.",
       "id": "apple-prototyping-screenless-fitness-band-gurman-launch-not-before-2028-apple"
     },
     {
@@ -9702,6 +9707,7 @@
       "when": "now",
       "rank": 185,
       "sendable": false,
+      "move": "Ship a Health Connect write path in the Vybe SDK roadmap and say so on the DevKit page; target Google Fit REST users in outreach.",
       "id": "google-fit-apis-incl-rest-deprecated-in-2026-no-rest-replacement-google"
     },
     {
@@ -10245,6 +10251,7 @@
       "when": "now",
       "rank": 197,
       "sendable": false,
+      "move": "Use the WHOOP close-out as a reference when writing Vybe's display and claims rules for SDK partners.",
       "id": "fda-closes-whoop-warning-letter-on-blood-pressure-insights-whoop-us-fda"
     },
     {
@@ -10398,6 +10405,7 @@
       "when": "now",
       "rank": 200,
       "sendable": false,
+      "move": "Investigate whether third-party devices can write ECG/HRV into Google Health / Health Connect, and plan Vybe as a source in that ecosystem.",
       "id": "google-health-api-adds-ecg-irn-and-hrv-webhooks-google"
     },
     {
@@ -10926,6 +10934,7 @@
       "when": "now",
       "rank": 211,
       "sendable": false,
+      "move": "Reference the HHS goal in grant applications and the deck; lead Vybe's privacy messaging with user-owned data.",
       "id": "hhs-secretary-kennedy-every-american-wearing-a-wearable-within-four-years-us-hhs"
     },
     {
@@ -10973,6 +10982,7 @@
       "when": "now",
       "rank": 212,
       "sendable": false,
+      "move": "Commission a freedom-to-operate review of band and sensor-module patents (WHOOP, Oura, Polar) before DevKit v0.1 ships.",
       "id": "itc-bans-ultrahuman-rings-in-us-over-oura-patents-ringconn-takes-license-oura-ul"
     },
     {
@@ -11419,6 +11429,7 @@
       "when": "now",
       "rank": 222,
       "sendable": false,
+      "move": "Use IDC figures (cited via secondary sources) on the market slide; buy or confirm IDC primary data before external use.",
       "id": "idc-611-5m-wearables-shipped-in-2025-625-2m-forecast-for-2026-wrist-worn-down-4-"
     },
     {
@@ -11465,6 +11476,7 @@
       "when": "now",
       "rank": 223,
       "sendable": false,
+      "move": "Confirm final status, then approach NH chiefs about voluntary sleep/recovery offerings within new wellness programs",
       "id": "nh-hb-1805-2026-officer-wellness-program-requirement-new-hampshire-legislature"
     },
     {
@@ -11643,6 +11655,7 @@
       "when": "now",
       "rank": 227,
       "sendable": false,
+      "move": "Use as framing for police outreach; FAAC (Ann Arbor, MI) could be a content partner.",
       "id": "faac-on-police-sleep-telling-cops-to-get-more-sleep-isn-t-working-faac"
     },
     {
@@ -11867,6 +11880,7 @@
       "when": "now",
       "rank": 232,
       "sendable": false,
+      "move": "Note in the deck that wearable-to-clinic integration is drawing strategic M&A; keep Vybe wellness-only but integration-ready.",
       "id": "samsung-completes-xealth-acquisition-to-wire-wearable-data-into-clinical-workflo"
     },
     {
@@ -11913,6 +11927,7 @@
       "when": "now",
       "rank": 233,
       "sendable": false,
+      "move": "Ask Fort (and similar YC wearable teams) whether a licensed ECG/HRV module plus SDK would shorten their roadmap; possible design partner or co-marketing.",
       "id": "yc-w26-fort-building-a-screenless-strength-tracking-band-fort-yc-w26"
     },
     {
@@ -11958,6 +11973,7 @@
       "when": "now",
       "rank": 234,
       "sendable": false,
+      "move": "Use as proof in police pitches; cite subscription cost as the scaling barrier.",
       "id": "uk-police-whoop-pilot-shows-officer-acceptance-of-wearables-ijerph-mdpi-pilot-st"
     }
   ],

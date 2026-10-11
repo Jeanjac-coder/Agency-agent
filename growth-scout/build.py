@@ -439,6 +439,9 @@ def build(params: dict, today: dt.date) -> tuple[list[dict], list[dict], dict]:
     for i, row in enumerate(targets, 1):
         row["rank"] = i
         row["sendable"] = is_sendable(row)
+        row.setdefault("move", row.get("ask"))  # the console reads move on every target
+        if not row.get("move"):
+            row["move"] = row.get("ask")
         row["id"] = re.sub(r"\s+", "-", norm(f"{row['name']} {row.get('org') or ''}"))[:80]
     return targets, rejected, lanes
 
