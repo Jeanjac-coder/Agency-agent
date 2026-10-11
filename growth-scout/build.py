@@ -202,6 +202,34 @@ def region(row: dict) -> str:
     return "other"
 
 
+# Founder, 11 Oct: "we are not spending money, we have no money". Vybe is
+# pre-launch with a 5-10 unit DevKit and no stock of bands. Anything that asks
+# for cash, a table, a booth, a vendor slot, a sponsorship tier or prizes is
+# parked off the board. Rows that need DevKit units are kept but marked for
+# after DevKit v0.1, so the "doable now" list is calls, integrations,
+# applications, guest spots and listings that cost nothing.
+COST_RE = re.compile(
+    r"\b(tables?|booths?|vendors?|expos?|exhibit\w*|sponsor\w*|tiers?|packages?|fees?|paid|pay|"
+    r"giveaways?|swag|prizes?|presenting|activations?|tents?|donat\w*|registration)\b|\$\s?\d", re.I)
+UNITS_RE = re.compile(
+    r"\b(seed|loan|lend|send|ship|give|offer|provide)\b[^.]{0,40}\b(bands?|units?|devkits?|devices?|samples?)\b"
+    r"|\breview[- ]unit|\bdevkit (units?|bands?)\b|\bwear[- ]test", re.I)
+VALUE_BY_TYPE = {"app-partner": 15, "builder": 15, "research-lab": 10, "channel-partner": 5,
+                 "amplifier": 5, "listing": 5, "accelerator": 0, "community": 0, "oem-partner": 0,
+                 "sport": -5, "team": -10, "event": -10, "program": -10, "athlete": -15}
+
+
+def costs_money(row: dict) -> bool:
+    if row.get("hunt") == "sponsorship" or row.get("type") in ("competitor-deal", "athlete"):
+        return True
+    text = " ".join(str(row.get(k) or "") for k in ("name", "ask", "opener", "why", "why_now"))
+    return bool(COST_RE.search(text))
+
+
+def needs_units(row: dict) -> bool:
+    return bool(UNITS_RE.search(" ".join(str(row.get(k) or "") for k in ("ask", "opener"))))
+
+
 def score(row: dict, params: dict, today: dt.date) -> tuple[int, str]:
     p = params["priority"]
     s = int(row["fit"]) * 10
@@ -221,7 +249,10 @@ def score(row: dict, params: dict, today: dt.date) -> tuple[int, str]:
     if row.get("hunt") == "growth" and all(isinstance(ice.get(k), (int, float)) for k in "ice"):
         # Easy, high-confidence wins move up; hard ones move down.
         s += round((ice["i"] + ice["c"] + ice["e"]) / 3) - 7
-    s = max(0, min(100, s))
+    s += VALUE_BY_TYPE.get(row.get("type"), 0)
+    if row.get("hunt") != "investor" and not needs_units(row):
+        s += 10  # doable now, no hardware needed
+    s = max(0, s)
     label = "High" if s >= p["high"] else "Medium" if s >= p["medium"] else "Low"
     return s, label
 
@@ -360,7 +391,13 @@ def build(params: dict, today: dt.date) -> tuple[list[dict], list[dict], dict]:
                 continue
             kept[key] = row
             lanes[lane]["kept"] += 1
-    targets = sorted(kept.values(), key=lambda r: (-r["score"], r.get("deadline") or "9999", r["name"]))
+    parked = [r for r in kept.values() if costs_money(r)]
+    PARKED.clear()
+    PARKED.extend({"name": r["name"], "type": r["type"], "geo": r.get("geo"), "ask": r.get("ask")} for r in parked)
+    for r in kept.values():
+        r["when"] = "after DevKit v0.1" if needs_units(r) else "now"
+    targets = sorted((r for r in kept.values() if not costs_money(r)),
+                     key=lambda r: (-r["score"], r.get("deadline") or "9999", r["name"]))
     for i, row in enumerate(targets, 1):
         row["rank"] = i
         row["sendable"] = is_sendable(row)
@@ -368,7 +405,8 @@ def build(params: dict, today: dt.date) -> tuple[list[dict], list[dict], dict]:
     return targets, rejected, lanes
 
 
-QUEUE_HUNTS = ("sponsorship", "partnership")
+QUEUE_HUNTS = ("partnership", "growth", "social")
+PARKED: list = []
 # The Vybe Health Calendly (jeremy@vybe.health). Never the i-grow account.
 CALENDLY = "https://calendly.com/jeremy-vybe/30min"
 SIGNOFF = "\n\nJeremy Lahn\nVybe Health\njeremy@vybe.health · vybe.health"
@@ -517,7 +555,10 @@ def main() -> int:
         "approvals": approvals,
         "outreach": outreach_queue(targets),
         "followups": load_followups(),
+        "parked_count": len(PARKED),
+        "parked_rule": "Parked (costs money): sponsorships, tables, booths, vendor slots, expo or event fees, tiers, prizes and athlete deals. Founder, 11 Oct: no spend.",
     }
+    (ROOT / "data" / "parked.json").write_text(json.dumps({"rule": data["parked_rule"], "rows": PARKED}, indent=2, ensure_ascii=False) + "\n")
     (ROOT / "data" / "targets.json").write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")
     SITE.mkdir(exist_ok=True)
     (SITE / "data.json").write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")

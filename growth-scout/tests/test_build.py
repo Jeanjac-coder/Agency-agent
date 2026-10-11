@@ -44,9 +44,10 @@ def test_grants_belong_to_funding_sweep():
     assert build.validate(row(why="Backed a wearable with DoD SBIR support"), PARAMS, TODAY) == []
 
 
-def test_score_bonuses_and_cap():
+def test_score_bonuses_no_cap():
+    # No 100 cap any more (11 Oct): a cap made every top row tie at 100.
     s, label = build.score(row(fit=9, deadline="2026-10-20"), PARAMS, TODAY)
-    assert s == 100 and label == "High"
+    assert s > 100 and label == "High"
     s, label = build.score(row(fit=7, confidence="single-source", contact_url=None, last_signal_date=None), PARAMS, TODAY)
     assert s == 70 and label == "Low"
 
@@ -150,15 +151,15 @@ def test_outreach_queue_only_holds_sendable_sponsor_and_partner_emails():
         dict(base, id="h", name="Held", hunt="sponsorship", type="team", sendable=False),
     ]
     q = build.outreach_queue(rows)
-    assert [x["id"] for x in q] == ["s", "p"]
-    assert q[0]["subject"] == "Vybe Health x Run Club: small sponsorship idea"
-    assert "overnight data integration" in q[1]["subject"]
+    # Sponsorships are parked (founder, 11 Oct: no spend), so only the partner email is queued.
+    assert [x["id"] for x in q] == ["p"]
+    assert "overnight data integration" in q[0]["subject"]
     assert q[0]["body"].startswith("Hi there, short note.") and "jeremy@vybe.health" in q[0]["body"]
 
 
 def test_queue_carries_one_follow_up_built_from_the_row():
-    row = {"id": "x", "name": "Akron Rugby", "org": "Akron Rugby", "type": "club", "hunt": "sponsorship",
-           "priority": "high", "rank": 1, "sendable": True, "opener": "Hi there.", "ask": "A jersey patch for spring."}
+    row = {"id": "x", "name": "Akron Rugby", "org": "Akron Rugby", "type": "club", "hunt": "partnership",
+           "priority": "high", "rank": 1, "sendable": True, "opener": "Hi there.", "ask": "A 15-minute call."}
     q = build.outreach_queue([row])[0]
     assert q["followup_subject"] == "Re: " + q["subject"]
     assert "jersey patch" not in q["followup_body"] and q["followup_body"].startswith("Hello Akron Rugby team,")
@@ -185,3 +186,16 @@ def test_region_order_is_nc_then_east_coast_then_ohio():
 def test_openers_say_raleigh_not_akron():
     assert build.home_fix("I'm the founder of Vybe Health in Akron, Ohio.") == "I'm the founder of Vybe Health in Raleigh, North Carolina."
     assert "Akron" not in build.home_fix("We're an Ohio startup in Akron.")
+
+
+def test_costs_money_parks_tables_booths_and_sponsorships():
+    assert build.costs_money({"hunt": "sponsorship", "type": "team"})
+    assert build.costs_money({"hunt": "growth", "type": "event", "ask": "Book a vendor table for $300"})
+    assert build.costs_money({"hunt": "partnership", "type": "channel-partner", "ask": "Exhibit at the expo"})
+    assert not build.costs_money({"hunt": "partnership", "type": "app-partner", "ask": "15-minute call on an HRV import"})
+
+
+def test_needs_units_marks_device_asks_for_after_devkit():
+    assert build.needs_units({"ask": "Seed 5 bands with the training group"})
+    assert build.needs_units({"ask": "Offer a DevKit unit with raw-data SDK access"})
+    assert not build.needs_units({"ask": "15-minute call on how they add new data sources"})

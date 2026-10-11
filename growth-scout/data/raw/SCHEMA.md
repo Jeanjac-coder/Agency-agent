@@ -1,3 +1,5 @@
+NO-SPEND RULE (founder, 11 Oct 2026): Vybe has no budget and no stock of bands. Do NOT add sponsorships, vendor tables, booths, expo or exhibitor slots, sponsor tiers, prizes, paid listings, event fees or athlete deals; build.py parks them off the board. Good targets cost nothing: app and data integrations, developers who would build on the SDK, research labs (validation or design partners), employer, first-responder and military wellness teams (a feedback call), podcasts and writers (a guest spot or briefing), free directories and applications. Asks are a 15-minute call, an integration, an application or a guest spot, never money.
+
 Each research lane writes a JSON array to growth-scout/data/raw/<lane>.json. One object per target:
 
 {
