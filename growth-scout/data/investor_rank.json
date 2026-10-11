@@ -1,0 +1,2068 @@
+[
+  {
+    "name": "Grayson Judge",
+    "org": "Supermoon Capital",
+    "rank": 1,
+    "tier": "A",
+    "why": "Sleep-specialist pre-seed/seed fund; backed Sahha's wearable-data API, then Kimba and Lume seeds in 2026. Closest thesis match to an open overnight-data platform.",
+    "first_move": "LinkedIn note to Grayson: Fitbit Web API sunsets Oct 30; Vybe is the open overnight ECG/HRV layer. Ask for 15 minutes.",
+    "evidence": [
+      "https://sahha.ai/blog/sahha-series-seed-1-2m-funding/",
+      "https://supermooncapital.com/portfolio",
+      "https://www.linkedin.com/in/graysonjudge",
+      "https://www.linkedin.com/posts/kimba-ai_introducing-kimba-a-new-category-in-sleep-activity-7472721842617909248-_dH-",
+      "https://www.caplight.com/investor/supermooncapital",
+      "https://sleepreviewmag.com/sleep-health/prevailing-attitudes/future-of-sleep/supermoon-capital-snoozapalooza-sleep-startup-competition/"
+    ]
+  },
+  {
+    "name": "Sunil Nagaraj",
+    "org": "Ubiquity Ventures",
+    "rank": 2,
+    "tier": "A",
+    "why": "Pre-seed/seed lead, $1-3M, 'software beyond the screen': sensors plus software. Joined SOND's 2026 HRV sleep-earbud round. Public contact form.",
+    "first_move": "Submit ubiquity.vc/contact: SDK-first ECG/HRV band, DevKit design partners, Fitbit/Garmin/WHOOP developer gap. Ask for a first call.",
+    "evidence": [
+      "https://www.prnewswire.com/news-releases/sond-emerges-from-stealth-with-7m-and-unveils-dreambuds-a-closed-loop-in-ear-sleep-platform-302803446.html",
+      "https://www.ubiquity.vc/",
+      "https://www.ubiquity.vc/contact",
+      "https://www.vcsheet.com/fund/ubiquity-ventures",
+      "https://techcrunch.com/2024/01/30/ubiquity-ventures-75m-fund-3-software-beyond-the-screen/"
+    ]
+  },
+  {
+    "name": "Isabel Glass",
+    "org": "Cade Ventures",
+    "rank": 3,
+    "tier": "A",
+    "why": "Cade's June 2026 post lists what would make them back a wearable: integrations and a moat incumbents can't copy. Pre-seed, health/connected hardware.",
+    "first_move": "LinkedIn reply to Isabel answering the post's criteria point by point: open SDK, raw data, Fitbit API shutdown. Ask for 15 minutes.",
+    "evidence": [
+      "https://www.cadeventure.com/news/why-we-havent-invested-in-a-wearable-yet",
+      "https://www.linkedin.com/in/isabelglass",
+      "https://f4.fund/firms/cade-ventures"
+    ]
+  },
+  {
+    "name": "a16z speedrun (SR008)",
+    "org": "Andreessen Horowitz",
+    "rank": 4,
+    "tier": "A",
+    "why": "Up to $1M at pre-seed; backed Clair Health's wrist wearable (June 2026 seed). Open application; SR008 runs early 2027.",
+    "first_move": "Submit the SR008 application this week; raw notes say the priority window is Oct 12-Nov 1 (confirm). Cite Clair.",
+    "evidence": [
+      "https://speedrun.a16z.com/apply",
+      "https://a16z.com/applications-for-a16z-speedrun-sr007-are-now-open/",
+      "https://fortune.com/2026/06/17/clair-khosla-anne-wojcicki-wearble-oura-whoop-hormone-women-health/",
+      "https://speedrun.substack.com/p/questions-re-a16z-speedrun",
+      "https://hub.causo.ai/guides/how-to-apply-to-a16z-speedrun-2026"
+    ]
+  },
+  {
+    "name": "HAX",
+    "org": "SOSV",
+    "rank": 5,
+    "tier": "A",
+    "why": "SOSV's hardware-only pre-seed program (up to $550K plus DFM/sourcing help) for sensor-driven human-health companies. Rolling applications. East Coast (Newark).",
+    "first_move": "Apply at hax.co leading with SDK and raw-data access, not 'fitness tracker'. Name Ben Joffe (SOSV health) in the note.",
+    "evidence": [
+      "https://hax.co/faq/",
+      "https://www.failory.com/startups/hardware-accelerators-incubators",
+      "https://hub.causo.ai/guides/how-to-apply-to-hax-sosv-hardware-2026",
+      "https://elev-x.com/news-insights/article-sosv-accelerator-review/"
+    ]
+  },
+  {
+    "name": "Hivers & Strivers",
+    "org": "Hivers & Strivers Capital",
+    "rank": 6,
+    "tier": "A",
+    "why": "Invests only in US-military-veteran-led companies, pre-seed through A, $100K-$1M. DC/Virginia is the closest fit geographically. Last confirmed deal Dec 2025.",
+    "first_move": "Submit the hiversandstrivers.com contact form with veteran service details and the DevKit plan. Ask for a screening call.",
+    "evidence": [
+      "https://hiversandstrivers.com/",
+      "https://startupintros.com/orgs/hivers-and-strivers",
+      "https://superscout.co/investor/hivers-strivers-vc-fund-2",
+      "https://www.caplight.com/investor/hiversandstrivers"
+    ]
+  },
+  {
+    "name": "Kiva Dickinson",
+    "org": "Selva Ventures",
+    "rank": 7,
+    "tier": "A",
+    "why": "Led Kimba's $6.5M seed (June 2026), an overnight HRV sleep device with a special-forces founder that integrates with WHOOP/Oura/Garmin. Consumer-health seed lead.",
+    "first_move": "LinkedIn note to Kiva: an overnight HRV band with an open SDK for apps like Kimba. Ask for a 15-minute call.",
+    "evidence": [
+      "https://www.businesswire.com/news/home/20260616147156/en/Kimba-Introduces-AI-Powered-Scent-Therapy-for-Better-Sleep",
+      "https://athletechnews.com/kimba-raises-6-5-million-ai-powered-scent-therapy-sleep/",
+      "https://www.selvaventures.com/",
+      "https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-16-2026/",
+      "https://www.caplight.com/investor/selva-ventures",
+      "https://techcrunch.com/?p=2550356"
+    ]
+  },
+  {
+    "name": "Resolute Ventures",
+    "org": "Resolute Ventures",
+    "rank": 8,
+    "tier": "A",
+    "why": "Pre-seed/seed lead; co-invested in Kimba's June 2026 sleep seed. Portfolio pairs Hello Heart (heart health) with Vercel (developer tools), Vybe's two halves.",
+    "first_move": "resolute.vc contact form: dev-platform pitch, compared to Vercel for wearable health data. Ask for an intro call.",
+    "evidence": [
+      "https://startuprise.org/kimba-raises-6-5-mn-in-seed-round-led-by-selva-ventures/",
+      "https://www.resolute.vc/",
+      "https://www.alleywatch.com/2026/06/the-alleywatch-startup-daily-funding-report-6-16-2026/",
+      "https://www.caplight.com/investor/resolute"
+    ]
+  },
+  {
+    "name": "Golden Seeds",
+    "org": "Golden Seeds",
+    "rank": 9,
+    "tier": "A",
+    "why": "Largest US angel network for women-led companies; $250K-$2M rounds, and health devices are exempt from the revenue requirement. Reached $200M in June 2026.",
+    "first_move": "Confirm a woman holds an operating C-suite role, then apply at goldenseeds.com/how-to-apply.",
+    "evidence": [
+      "https://www.goldenseeds.com/how-to-apply",
+      "https://www.goldenseeds.com/funding-criteria-eligibility",
+      "https://www.goldenseeds.com/news/golden-seeds-invests-200-million-in-women-led-companies",
+      "https://www.njeda.gov/nj-golden-seeds-hits-10m-investment-milestone-into-women-owned-companies/"
+    ]
+  },
+  {
+    "name": "AIN Ventures",
+    "org": "AIN Ventures (Academy Investor Network)",
+    "rank": 10,
+    "tier": "A",
+    "why": "Seed fund for veteran-led and dual-use startups, healthcare a focus sector, $250K-$750K checks. Navy-veteran GP active in 2026; public pitch form.",
+    "first_move": "Submit the academyinvestor.com pitch form framing the band's tactical-readiness and dual-use angle. Mention veteran ownership first.",
+    "evidence": [
+      "https://www.academyinvestor.com/",
+      "https://f4.fund/firms/ain-ventures",
+      "https://about.bankofamerica.com/en/making-an-impact/investing-in-minority-and-women-led-funds/ain-ventures"
+    ]
+  },
+  {
+    "name": "Labcorp Venture Fund",
+    "org": "Labcorp",
+    "rank": 11,
+    "tier": "A",
+    "why": "Burlington, NC strategic. Seed to B in digital health and consumer wellness; joined a biowearable seed and Ultrahuman's round (Sep 2026). In-state.",
+    "first_move": "Ask CED or NC Biotech contacts for a free warm intro to the Labcorp Venture Fund team. Cite Emm and Ultrahuman.",
+    "evidence": [
+      "https://techcrunch.com/2025/11/18/emm-raises-9m-seed-to-create-to-launch-one-of-the-worlds-first-smart-menstrual-cups/",
+      "https://www.setsquared.co.uk/emm-raises-over-9-million-6-8m-to-launch-worlds-first-smart-menstrual-solution/",
+      "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "https://labcorp.com/venture-fund",
+      "https://www.cbinsights.com/investor/labcorp-venture-fund"
+    ]
+  },
+  {
+    "name": "Jomayra Herrera",
+    "org": "Reach Capital",
+    "rank": 12,
+    "tier": "A",
+    "why": "Wrote the Reach memo backing Clair's continuous wrist wearable, naming HRV and sensor fusion. Early-stage; publishes her Reach email for founders.",
+    "first_move": "Email Jomayra at the Reach address on her LinkedIn: HRV-first band plus open SDK. Ask for a 20-minute call.",
+    "evidence": [
+      "https://www.reachcapital.com/resources/news/hormone-intelligence-made-visible-why-we-invested-in-clair-health/",
+      "https://www.linkedin.com/in/jomayraherrera",
+      "https://www.reachcapital.com/team/jomayra-herrera/"
+    ]
+  },
+  {
+    "name": "Kristina Simmons",
+    "org": "Overwater Ventures",
+    "rank": 13,
+    "tier": "B",
+    "why": "Pre-seed lead behind the 'always-on health tracking' memo (Adaptyx); site credits backing veteran teams. Contact form, but no confirmed 2026 deal.",
+    "first_move": "Send the overwater.vc contact form referencing the always-on memo and the veteran team.",
+    "evidence": [
+      "https://medium.com/@overwatervc/why-we-invested-in-adaptyx-the-next-wave-of-always-on-health-tracking-7556f15e3bfe",
+      "https://www.globenewswire.com/news-release/2025/10/20/3169287/0/en/Adaptyx-Raises-14M-in-Seed-Financing-to-Launch-Wearable-Platform-for-Continuous-Multi-Analyte-Molecular-Monitoring.html",
+      "https://www.overwater.vc/"
+    ]
+  },
+  {
+    "name": "Seaside Ventures",
+    "org": "Seaside Ventures",
+    "rank": 14,
+    "tier": "B",
+    "why": "Consumer-health pre-seed/seed fund ($250K checks) in Somnee and Adaptyx wearables. Contact form; latest confirmed deals are from 2025.",
+    "first_move": "Submit the Seaside contact form with a three-line overnight-HRV pitch and the DevKit timeline.",
+    "evidence": [
+      "https://www.seasideventures.com/",
+      "https://www.seasideventures.com/about",
+      "https://www.globenewswire.com/news-release/2025/10/20/3169287/0/en/Adaptyx-Raises-14M-in-Seed-Financing-to-Launch-Wearable-Platform-for-Continuous-Multi-Analyte-Molecular-Monitoring.html",
+      "https://www.businesswire.com/news/home/20250610843209/en/Somnee-Secures-$10M-to-Revolutionize-Sleep-with-New-AI-Powered-Neurotech-Sleep-Wearables",
+      "https://www.cbinsights.com/investor/seaside-ventures"
+    ]
+  },
+  {
+    "name": "Venture Connect 2027",
+    "org": "Council for Entrepreneurial Development (CED)",
+    "rank": 15,
+    "tier": "B",
+    "why": "CED's Southeast capital summit in Durham, Mar 23-24, 2027; presenters are picked by angels and VCs. The 2027 application isn't posted.",
+    "first_move": "Email CED for the 2027 presenter application date and confirm it has no presenting fee (no-spend rule).",
+    "evidence": [
+      "https://cednc.org/event/venture-connect-2027/",
+      "https://cednc.org/events/2027-03-23/",
+      "https://cednc.org/ced-announces-103-companies-selected-to-pitch-at-venture-connect-2025/"
+    ]
+  },
+  {
+    "name": "Point Nine",
+    "org": "Point Nine",
+    "rank": 16,
+    "tier": "B",
+    "why": "Seed fund in Junction's wearable-data API Series A, so it knows the developer-data platform thesis. Berlin-based, contact form, last dated 2025.",
+    "first_move": "Submit the pointnine.com form positioning Vybe as the device layer under APIs like Junction.",
+    "evidence": [
+      "https://www.healthcareittoday.com/2025/04/10/meet-junction-18m-to-power-the-future-of-personalized-care/",
+      "https://www.pointnine.com/"
+    ]
+  },
+  {
+    "name": "Ryan Engel",
+    "org": "Cade Ventures",
+    "rank": 17,
+    "tier": "B",
+    "why": "Founder of Cade; pre-seed health and wellness checks. A second door to the same wearable thesis.",
+    "first_move": "Only if Isabel doesn't reply in 10 days: LinkedIn note referencing the June 2026 post.",
+    "evidence": [
+      "https://www.linkedin.com/in/ryan-engel-b1566065",
+      "https://www.cadeventure.com/news/why-we-havent-invested-in-a-wearable-yet"
+    ]
+  },
+  {
+    "name": "Pipeline Angels",
+    "org": "Pipeline Angels (IFEL)",
+    "rank": 18,
+    "tier": "B",
+    "why": "Women and non-binary angel network that funds mission-driven US companies at Pitch Summits; next is Apr 2027, interest form open.",
+    "first_move": "Fill in the founder interest form at pipelineangels.org/forfounders for the April 2027 summit.",
+    "evidence": [
+      "https://www.pipelineangels.org/forfounders",
+      "https://pipelineangels.com/?p=31"
+    ]
+  },
+  {
+    "name": "37 Angels",
+    "org": "37 Angels",
+    "rank": 19,
+    "tier": "B",
+    "why": "Network of 100+ women angels, $50K-$200K per company, rolling Gust applications and pitch forums every two months.",
+    "first_move": "Apply via 37angels.com/founders at least two weeks before the next pitch forum.",
+    "evidence": [
+      "http://www.37angels.com/founders"
+    ]
+  },
+  {
+    "name": "HealthTech Capital",
+    "org": "HealthTech Capital",
+    "rank": 20,
+    "tier": "B",
+    "why": "National health-tech angel group (since 2010) with free monthly screening through its startup portal. Seed/A; listed as actively seeking deals.",
+    "first_move": "Submit through healthtechcapital.com/startup before the first-Friday cut-off.",
+    "evidence": [
+      "https://healthtechcapital.com/about",
+      "https://healthtechcapital.com/startup",
+      "https://pitchbook.com/profiles/investor/52802-38"
+    ]
+  },
+  {
+    "name": "Petteri Lahtela",
+    "org": "Oura (co-founder); independent angel",
+    "rank": 21,
+    "tier": "B",
+    "why": "Oura co-founder and active angel; 2026 follow-on in Audicin, an SDK that syncs to Oura/WHOOP/Garmin. Rare platform credibility.",
+    "first_move": "LinkedIn note asking for 15 minutes of feedback on the open-SDK model, not money.",
+    "evidence": [
+      "https://www.tamradar.com/funding-rounds/audicin-seed-1-9m-neurotech",
+      "https://uk.linkedin.com/in/sapvdf",
+      "https://fi.linkedin.com/in/plahtela"
+    ]
+  },
+  {
+    "name": "Pankaj Kedia",
+    "org": "2468 Ventures",
+    "rank": 22,
+    "tier": "B",
+    "why": "Built Qualcomm's wearables business; 170+ early-stage investments through 2468 Ventures; angel in FLOWBIO's sweat-sensor wearable.",
+    "first_move": "LinkedIn note asking for his read on the SDK model and the gap left by Fitbit and Garmin.",
+    "evidence": [
+      "https://uk.linkedin.com/in/sapvdf",
+      "https://www.linkedin.com/in/pankajkedia"
+    ]
+  },
+  {
+    "name": "Tim Rosa",
+    "org": "Somnee; former Fitbit CMO",
+    "rank": 23,
+    "tier": "B",
+    "why": "Former Fitbit CMO and Somnee CEO; his LinkedIn says he's open to advising and investing in human-performance ventures.",
+    "first_move": "LinkedIn note: Fitbit Web API sunset, and Vybe as the open successor. Ask for an advisor-style call.",
+    "evidence": [
+      "https://www.linkedin.com/in/timrosa"
+    ]
+  },
+  {
+    "name": "51Ventures",
+    "org": "51Ventures",
+    "rank": 24,
+    "tier": "B",
+    "why": "Sports and health-performance fund; joined Axo's seed (Sep 2026); GP is a former Green Beret. Contact form.",
+    "first_move": "Send the 51ventures.vc contact form leading with veteran ownership and overnight readiness data.",
+    "evidence": [
+      "https://51ventures.vc/",
+      "https://chriswilkerson.beehiiv.com/p/51v-backs-avelo-building-the-world-s-smartest-running-shoe",
+      "https://www.startup.eu/investments/axo-longevity-5-m-seed-09-2026"
+    ]
+  },
+  {
+    "name": "LEAD Sports & Health Tech Partners (Lake Nona Fund)",
+    "org": "LEAD / Lake Nona Fund",
+    "rank": 25,
+    "tier": "B",
+    "why": "Orlando sports and health-tech fund (Southeast), pre-seed to A, with wearable portfolio. Contact form; last dated Apr 2025.",
+    "first_move": "Send the lakenonafund.com contact form; ask whether a pre-launch dev-platform band fits pre-seed.",
+    "evidence": [
+      "https://www.lakenonafund.com/",
+      "https://vcmatch.ai/investors/lake-nona-sports-health-tech-fund",
+      "https://www.linkedin.com/in/timrosa"
+    ]
+  },
+  {
+    "name": "The New Era Fund",
+    "org": "The New Era Fund",
+    "rank": 26,
+    "tier": "B",
+    "why": "Seed/A, $100K-$500K checks; tactical markets (DoD, fire/EMS, police) are named in its thesis. Contact form; no dated deal.",
+    "first_move": "Send the newerafund.vc contact form framed around first-responder recovery data.",
+    "evidence": [
+      "https://newerafund.vc/"
+    ]
+  },
+  {
+    "name": "Veteran Angel Network (VAN)",
+    "org": "Context Ventures",
+    "rank": 27,
+    "tier": "B",
+    "why": "Veteran Angel Network backs veteran-led startups via SPVs and lists a public email. No dated activity found.",
+    "first_move": "Email VAN at the address on contextvc.com/van with a veteran-founder one-pager.",
+    "evidence": [
+      "https://www.contextvc.com/van"
+    ]
+  },
+  {
+    "name": "Next Chapter Ventures (NCV)",
+    "org": "Next Chapter Ventures",
+    "rank": 28,
+    "tier": "B",
+    "why": "Angel-style group whose largest investment is LifeLens, a Special Forces physiological wearable (Sep 2025). Contact form.",
+    "first_move": "Send the ncvinvestments.com contact form citing LifeLens; ask for a member screening.",
+    "evidence": [
+      "https://www.ncvinvestments.com/post/ncv-invests-to-make-an-impact-how-lifelens-is-transforming-health-monitoring-for-soldiers-and-patie",
+      "https://www.ncvinvestments.com/"
+    ]
+  },
+  {
+    "name": "J2 Ventures",
+    "org": "J2 Ventures",
+    "rank": 29,
+    "tier": "B",
+    "why": "Veteran-led Boston fund; its $250M fund (Nov 2025) targets remote physiological monitoring; Oura in portfolio. Checks likely larger than pre-seed.",
+    "first_move": "Contact form at j2vp.com; ask whether they do pre-seed or prefer a DevKit-traction check-in.",
+    "evidence": [
+      "https://www.prnewswire.com/news-releases/j2-ventures-raises-250-million-oversubscribed-brookhaven-fund-to-advance-technologies-critical-to-americas-security-and-competitiveness-302611101.html",
+      "https://www.j2vp.com/"
+    ]
+  },
+  {
+    "name": "The Veteran Fund",
+    "org": "The Veteran Fund",
+    "rank": 30,
+    "tier": "B",
+    "why": "Seed fund for veteran-led critical-tech startups; raising Fund II. Thesis leans defense rather than wellness.",
+    "first_move": "Send the veteran.fund contact form with the tactical/readiness framing.",
+    "evidence": [
+      "https://www.veteran.fund/",
+      "https://www.businesswire.com/news/home/20260225979688/en/The-Veteran-Fund-Portfolio-Companies-Sweep-Top-Prizes-at-eMerge-Americas-National-Security-Pitch-Competition",
+      "https://pitchbook.com/news/articles/veteran-fund-targets-50m-second-fund-as-defense-tech-takes-off"
+    ]
+  },
+  {
+    "name": "Vetted Accelerator",
+    "org": "Vetted (The Vetted Fund)",
+    "rank": 31,
+    "tier": "B",
+    "why": "Pre-seed accelerator for US/Israeli combat veterans with Vetted Fund investment; next cohort Feb-Apr 2027.",
+    "first_move": "Check combat-service eligibility, then click 'notify me' on accelerator.thevetted.vc.",
+    "evidence": [
+      "https://accelerator.thevetted.vc/program",
+      "https://accelerator.thevetted.vc/faqs"
+    ]
+  },
+  {
+    "name": "Founder Institute Veteran Accelerator",
+    "org": "Founder Institute (powered by JPMorganChase)",
+    "rank": 32,
+    "tier": "B",
+    "why": "Virtual pre-seed program for veteran founders with a Funding Lab of military-friendly investors.",
+    "first_move": "Ask FI whether veteran cohorts waive enrollment cost (no-spend rule) before applying for the next cohort.",
+    "evidence": [
+      "https://fi.co/veteran-and-military-family",
+      "https://www.veteran.fund/startup"
+    ]
+  },
+  {
+    "name": "Alex Morgan",
+    "org": "Khosla Ventures",
+    "rank": 33,
+    "tier": "B",
+    "why": "Khosla led two wearable seeds in 12 months (Clair 2026, Somnee). Big fund; reachable only by LinkedIn or a warm intro.",
+    "first_move": "Short LinkedIn note citing Clair; better to save this for when DevKit partners are live.",
+    "evidence": [
+      "https://fortune.com/2026/06/17/clair-khosla-anne-wojcicki-wearble-oura-whoop-hormone-women-health/",
+      "https://khoslaventures.com/team/alex-morgan",
+      "https://convention.bio.org/speakers/alex-morgan"
+    ]
+  },
+  {
+    "name": "Toni Schneider",
+    "org": "True Ventures",
+    "rank": 34,
+    "tier": "B",
+    "why": "True led Sandbar's screenless ring seed; first-check fund with Fitbit history. Schneider is busy as Bluesky's interim CEO.",
+    "first_move": "Send a LinkedIn note, or route to another True partner via the Fitbit-alumni angle.",
+    "evidence": [
+      "https://techcrunch.com/2025/11/05/former-meta-employees-launch-stream-a-smart-ring-that-takes-voice-notes-and-controls-music/",
+      "https://www.trueventures.com/blog/celebrating-sandbars-stream-launch",
+      "https://www.linkedin.com/in/tonischneider",
+      "https://kindredventures.com/announcement/building-new-interfaces-for-productivity-sandbar/"
+    ]
+  },
+  {
+    "name": "Krish Ramadurai",
+    "org": "AIX Ventures",
+    "rank": 35,
+    "tier": "B",
+    "why": "Quoted on AIX's lead of Wearlinq's ECG-wearable Series A; covers healthcare at an AI seed fund.",
+    "first_move": "LinkedIn note: ECG signal plus open data for ML developers. Ask for 15 minutes.",
+    "evidence": [
+      "https://startuprise.io/wearlinq-raises-14m-in-series-a-funding/",
+      "https://www.mddionline.com/cardiovascular/wearable-ecg-company-secures-14m-in-funding",
+      "https://www.linkedin.com/in/krishramadurai"
+    ]
+  },
+  {
+    "name": "Anirvan Chowdhury",
+    "org": "Qualcomm Ventures",
+    "rank": 36,
+    "tier": "B",
+    "why": "Wrote Qualcomm's 'Beyond the Ring' memo on wearables as programmable platforms (Sep 2026). Strategic, not a lead.",
+    "first_move": "Share the SDK thesis on LinkedIn as a platform conversation; no funding ask yet.",
+    "evidence": [
+      "https://www.qualcommventures.com/insights/blog/beyond-the-ring-why-we-invested-in-ultrahuman/",
+      "https://www.linkedin.com/in/anirvan-chowdhury-871a9513"
+    ]
+  },
+  {
+    "name": "Timothy Martens",
+    "org": "Vaark Ventures",
+    "rank": 37,
+    "tier": "B",
+    "why": "Vaark's lead on Theta's pre-seed EEG wearable; a congenital heart surgeon who can judge ECG quality.",
+    "first_move": "LinkedIn note asking for a clinician-investor read on overnight ECG/HRV signal quality.",
+    "evidence": [
+      "https://www.linkedin.com/feed/update/urn:li:activity:7440071659216158720",
+      "https://www.neurofounders.co/articles/theta-neuro-raises-2m-pre-seed-for-wearable-seizure-prediction",
+      "https://www.linkedin.com/in/timothy-martens-70311418"
+    ]
+  },
+  {
+    "name": "Oscar Moralez",
+    "org": "Boomerang Ventures",
+    "rank": 38,
+    "tier": "B",
+    "why": "Midwest connected-health studio and fund; seed in SynchNeuro's HRV/sleep wearable (Nov 2025). Contact form.",
+    "first_move": "Send the boomerang.vc contact form; ask whether a non-Midwest pre-seed device fits.",
+    "evidence": [
+      "https://www.boomerang.vc/boomerang-ventures-funds-seed-round-for-synchneuro-wearable/",
+      "https://www.boomerang.vc/"
+    ]
+  },
+  {
+    "name": "Catalyst by Wellstar",
+    "org": "Wellstar Health System",
+    "rank": 39,
+    "tier": "B",
+    "why": "Atlanta health-system venture arm (Southeast) in the Armor Medical wrist wearable; women-founder program. Strategic pilot path.",
+    "first_move": "Send the catalyst.wellstar.org contact form framed as wellness-data pilot interest.",
+    "evidence": [
+      "https://catalyst.wellstar.org/insights/wearable-could-help-end-leading-cause-of-maternal-death/"
+    ]
+  },
+  {
+    "name": "Anne Wojcicki",
+    "org": "Treehub / AI Health Fund (Operating Partner); 23andMe co-founder",
+    "rank": 40,
+    "tier": "B",
+    "why": "Personally in Clair's 2026 wearable seed; Treehub/AI Health Fund writes $50K-$150K first checks into computational health.",
+    "first_move": "Apply at jointreehub.com if Vybe's analytics layer fits 'computational health'.",
+    "evidence": [
+      "https://jointhepurse.substack.com/p/why-investors-are-betting-on-hormone",
+      "https://techcrunch.com/2026/04/22/esther-and-anne-wojcicki-back-new-healthcare-accelerator-fund/",
+      "https://jointreehub.com/"
+    ]
+  },
+  {
+    "name": "Brydge Club",
+    "org": "Brydge Club",
+    "rank": 41,
+    "tier": "B",
+    "why": "200+ women angels in Clair's wearable round; $1K-$50K member checks. Warm intro needed.",
+    "first_move": "Ask Golden Seeds or Pipeline contacts for a member intro.",
+    "evidence": [
+      "https://brydgeclub.com/",
+      "https://jointhepurse.substack.com/p/why-investors-are-betting-on-hormone"
+    ]
+  },
+  {
+    "name": "Female Founders Fund",
+    "org": "Female Founders Fund",
+    "rank": 42,
+    "tier": "B",
+    "why": "Co-led Taya's consumer-wearable seed (Mar 2026); a women-founder seed fund. Warm intro needed.",
+    "first_move": "Find a free warm intro through the woman-founder networks above.",
+    "evidence": [
+      "https://www.finsmes.com/2026/03/taya-raises-5m-in-seed-funding.html",
+      "https://instoremag.com/taya-raises-5m-to-build-an-ai-necklace-that-actually-looks-like-jewelry/amp/"
+    ]
+  },
+  {
+    "name": "MaC Venture Capital",
+    "org": "MaC Venture Capital",
+    "rank": 43,
+    "tier": "B",
+    "why": "Co-led Taya's wearable seed (Mar 2026); backs diverse founders at seed. Warm intro needed.",
+    "first_move": "Find a free warm intro via minority-founder networks or Taya's founders.",
+    "evidence": [
+      "https://www.finsmes.com/2026/03/taya-raises-5m-in-seed-funding.html",
+      "https://instoremag.com/taya-raises-5m-to-build-an-ai-necklace-that-actually-looks-like-jewelry/amp/"
+    ]
+  },
+  {
+    "name": "Alumni Ventures",
+    "org": "Alumni Ventures",
+    "rank": 44,
+    "tier": "B",
+    "why": "Co-investor in three 2025-26 wearable rounds (SOND, Emm, Wearlinq); contact form. Follows a lead, never leads.",
+    "first_move": "Revisit once a lead commits; then use the av.vc contact form.",
+    "evidence": [
+      "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+      "https://techcrunch.com/2025/11/18/emm-raises-9m-seed-to-create-to-launch-one-of-the-worlds-first-smart-menstrual-cups",
+      "https://hlth.com/insights/news/wearlinq-raises-14m-to-scale-its-wireless-clinical-grade-heart-monito-2025-12-18",
+      "https://www.av.vc/"
+    ]
+  },
+  {
+    "name": "Crosslink Capital",
+    "org": "Crosslink Capital",
+    "rank": 45,
+    "tier": "B",
+    "why": "Seed/A, $1M-$9M initial checks; joined SOND's HRV sleep round (2026). Warm intro only.",
+    "first_move": "Ask Ubiquity for a co-investor intro if Sunil engages.",
+    "evidence": [
+      "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+      "https://www.crosslinkcapital.com/"
+    ]
+  },
+  {
+    "name": "Leo Polovets",
+    "org": "Humba Ventures",
+    "rank": 46,
+    "tier": "B",
+    "why": "Hard-tech pre-seed/seed, $750K-$1.5M; in Adaptyx biowearable. Warm intro only; last deal 2025.",
+    "first_move": "Ask Overwater or Seaside for an Adaptyx co-investor intro.",
+    "evidence": [
+      "https://humbaventures.com/",
+      "https://www.globenewswire.com/news-release/2025/10/20/3169287/0/en/Adaptyx-Raises-14M-in-Seed-Financing-to-Launch-Wearable-Platform-for-Continuous-Multi-Analyte-Molecular-Monitoring.html",
+      "https://techcrunch.com/2024/12/12/humba-ventures-raises-a-40-million-fund-to-invest-in-deeptech-defense-tech/"
+    ]
+  },
+  {
+    "name": "Achal Upadhyaya",
+    "org": "Interlagos",
+    "rank": 47,
+    "tier": "B",
+    "why": "Quoted lead on Adaptyx's biowearable seed; former SpaceX sensing engineer.",
+    "first_move": "Short LinkedIn note on novel sensing and the open-data platform.",
+    "evidence": [
+      "https://www.globenewswire.com/news-release/2025/10/20/3169287/0/en/Adaptyx-Raises-14M-in-Seed-Financing-to-Launch-Wearable-Platform-for-Continuous-Multi-Analyte-Molecular-Monitoring.html",
+      "https://www.linkedin.com/in/achalsu"
+    ]
+  },
+  {
+    "name": "DVC: Health",
+    "org": "Duro Ventures Collective",
+    "rank": 48,
+    "tier": "B",
+    "why": "AngelList health syndicate with healthcare LPs; founder is a former Army Special Forces medic.",
+    "first_move": "LinkedIn note to Dan Hightower leading with veteran ownership.",
+    "evidence": [
+      "https://venture.angellist.com/dvc-health/syndicate"
+    ]
+  },
+  {
+    "name": "Spartan Tech Ventures",
+    "org": "Spartan Tech Ventures",
+    "rank": 49,
+    "tier": "B",
+    "why": "Human-performance investor (seed/A) naming continuous-biomarker wearables. Contact form; no dated deal.",
+    "first_move": "Send the spartanventures.tech contact form; ask for a feedback call.",
+    "evidence": [
+      "https://spartanventures.tech/"
+    ]
+  },
+  {
+    "name": "HJF-MDC Venture Fund",
+    "org": "HJF-MDC Venture Fund",
+    "rank": 50,
+    "tier": "B",
+    "why": "Dual-use military-medical fund naming wearables for health; raising $20M. Warm intro only.",
+    "first_move": "Ask veteran-network contacts (H&S, AIN) for an intro once DevKit data exists.",
+    "evidence": [
+      "https://www.prnewswire.com/news-releases/introducing-the-hjf-mdc-venture-fund-fostering-medical-innovations-for-military-and-civilian-applications-302467356.html",
+      "https://biohealthinnovation.org/introducing-the-hjf-mdc-venture-fund-fostering-medical-innovations-for-military-and-civilian-applications/"
+    ]
+  },
+  {
+    "name": "Techstars Anywhere Accelerator (Spring 2027)",
+    "org": "Techstars",
+    "rank": 51,
+    "tier": "B",
+    "why": "Remote Techstars pre-seed program, $220K, emphasis on physical AI. Spring 2027 cycle.",
+    "first_move": "Check the Spring 2027 deadline on techstars.com/accelerators/anywhere and apply if it's still open.",
+    "evidence": [
+      "https://www.techstars.com/accelerators/anywhere",
+      "https://innovation-village.com/techstars-opens-spring-2027-applications-with-220k/"
+    ]
+  },
+  {
+    "name": "Techstars AI Health Baltimore (Spring 2027)",
+    "org": "Techstars",
+    "rank": 52,
+    "tier": "B",
+    "why": "Techstars health accelerator, $220K, Johns Hopkins and MedStar access (Mid-Atlantic). AI-led, so pitch the analytics layer.",
+    "first_move": "Apply only if the HRV/ECG analytics story is strong; confirm the Spring 2027 deadline.",
+    "evidence": [
+      "https://www.techstars.com/accelerators/baltimore-ai-health",
+      "https://technext24.com/news/techstars-spring-2027-accelerator-applications/",
+      "https://innovation-village.com/techstars-opens-spring-2027-applications-with-220k/"
+    ]
+  },
+  {
+    "name": "Y Combinator (Winter 2027 batch)",
+    "org": "Y Combinator",
+    "rank": 53,
+    "tier": "B",
+    "why": "$500K standard deal; health hardware eligible. The W27 date has passed, but late applications are reviewed.",
+    "first_move": "Optional late W27 application; lower priority than speedrun and HAX.",
+    "evidence": [
+      "https://www.ycombinator.com/apply/",
+      "https://www.ycombinator.com/deal",
+      "https://trustlist.uk/news/y-combinator-winter-2027-deadline-2-november-techstars-spring-2027-deadline-18-november"
+    ]
+  },
+  {
+    "name": "Ajay Surie",
+    "org": "Beeler Street Ventures; former Fitbit",
+    "rank": 54,
+    "tier": "B",
+    "why": "Listed as ex-Fitbit software-platform lead at Beeler Street Ventures; web search could not confirm the firm.",
+    "first_move": "Verify identity on LinkedIn before any outreach; if confirmed, ask about the Fitbit API successor.",
+    "evidence": [
+      "https://www.linkedin.com/in/ajay-surie"
+    ]
+  },
+  {
+    "name": "ScaleWolf",
+    "org": "ScaleWolf",
+    "rank": 55,
+    "tier": "B",
+    "why": "Dual-use pre-seed/seed fund (EUR 50K-1M) in the Pulsetto wearable; opened an Alexandria, VA office in May 2026.",
+    "first_move": "Send the scalewolf.vc contact form with the tactical framing; ask whether they back US devices.",
+    "evidence": [
+      "https://tech.eu/2025/02/21/pulsetto-secures-2m-for-defence-applications-for-its-vagus-nerve-stimulation-tech/",
+      "https://www.scalewolf.vc/",
+      "https://www.startuplithuania.com/ecosystem/scalewolf/"
+    ]
+  },
+  {
+    "name": "Fortify Ventures",
+    "org": "Fortify Ventures",
+    "rank": 56,
+    "tier": "B",
+    "why": "US seed fund that co-led Samphire's $5M neurotech-wearable seed (2025). Contact form; no 2026 deal confirmed.",
+    "first_move": "Send the fortifyventures.com contact form; low priority.",
+    "evidence": [
+      "https://www.fortifyventures.com/portfolio/samphire-neuro",
+      "https://hax.co/samphire-neuroscience-raises-5m-seed-round-for-novel-neurotech-wearable-targeting-menstrual-pain/"
+    ]
+  },
+  {
+    "name": "Next Ventures",
+    "org": "Next Ventures",
+    "rank": 57,
+    "tier": "B",
+    "why": "Ex-Nike sports and wellness hardware fund and early Oura investor. LinkedIn only; last post Sep 2025.",
+    "first_move": "LinkedIn note to Melanie Strong citing Oura; low priority.",
+    "evidence": [
+      "https://www.linkedin.com/posts/melanie-strong_oura-ring-maker-to-become-11-billion-company-activity-7375964563101421568-rCui",
+      "https://www.linkedin.com/posts/stephaniebauermarshall_oura-ring-maker-to-become-11-billion-company-activity-7378867435644325888-q5es",
+      "https://skininthegamegroup.substack.com/p/week11"
+    ]
+  },
+  {
+    "name": "a16z speedrun",
+    "org": "Andreessen Horowitz (speedrun)",
+    "rank": 58,
+    "tier": "cut",
+    "why": "Duplicate of the 'a16z speedrun (SR008)' row; ranked there.",
+    "first_move": "None; use the a16z speedrun (SR008) entry.",
+    "evidence": [
+      "https://speedrun.a16z.com/companies/clair-health",
+      "https://www.wsgr.com/en/insights/wilson-sonsini-advises-clair-health-on-dollar116-million-seed-round.html"
+    ]
+  },
+  {
+    "name": "Emily Bennett",
+    "org": "Andreessen Horowitz (a16z speedrun)",
+    "rank": 59,
+    "tier": "cut",
+    "why": "Duplicate of the 'a16z speedrun (SR008)' row; ranked there.",
+    "first_move": "None; use the a16z speedrun (SR008) entry.",
+    "evidence": [
+      "https://www.forbes.com/sites/geristengel/2026/06/17/a-22-year-old-just-raised-116-million-to-read-womens-hidden-hormone-signals/",
+      "https://www.linkedin.com/in/emilybennett1",
+      "https://speedrun.a16z.com/apply",
+      "https://speedrun.a16z.com/companies/clair-health"
+    ]
+  },
+  {
+    "name": "SOSV HAX",
+    "org": "SOSV",
+    "rank": 60,
+    "tier": "cut",
+    "why": "Duplicate of the 'HAX' row; ranked there.",
+    "first_move": "None; use the HAX entry.",
+    "evidence": [
+      "https://hax.co/",
+      "https://hax.co/samphire-neuroscience-raises-5m-seed-round-for-novel-neurotech-wearable-targeting-menstrual-pain/",
+      "https://techcrunch.com/2025/02/18/level-zero-health-banks-6-9m-to-prove-wearable-medtech-can-take-the-strain-out-of-hormone-testing/",
+      "https://wearable-technologies.com/news/august-2026-level-zero-health"
+    ]
+  },
+  {
+    "name": "Ben Joffe",
+    "org": "SOSV (HAX)",
+    "rank": 61,
+    "tier": "cut",
+    "why": "Duplicate of the 'HAX' row; ranked there.",
+    "first_move": "None; use the HAX entry.",
+    "evidence": [
+      "https://sosv.com/continuous-hormone-monitoring-startup-level-zero-health-raises-6-9m-pre-seed-round/",
+      "https://www.linkedin.com/in/benjaminjoffe",
+      "https://hax.co/company/level-zero-health/"
+    ]
+  },
+  {
+    "name": "Khosla Ventures",
+    "org": "Khosla Ventures",
+    "rank": 62,
+    "tier": "cut",
+    "why": "Duplicate of the 'Alex Morgan' row; ranked there.",
+    "first_move": "None; use the Alex Morgan entry.",
+    "evidence": [
+      "https://www.wsgr.com/en/insights/wilson-sonsini-advises-clair-health-on-dollar116-million-seed-round.html",
+      "https://www.mobihealthnews.com/news/clair-health-raises-116m-womens-hormone-monitoring-wearable-and-more-funding-news",
+      "https://www.businesswire.com/news/home/20250610843209/en/Somnee-Secures-$10M-to-Revolutionize-Sleep-with-New-AI-Powered-Neurotech-Sleep-Wearables",
+      "https://www.khoslaventures.com/team/alex-morgan"
+    ]
+  },
+  {
+    "name": "True Ventures",
+    "org": "True Ventures",
+    "rank": 63,
+    "tier": "cut",
+    "why": "Duplicate of the 'Toni Schneider' row; ranked there.",
+    "first_move": "None; use the Toni Schneider entry.",
+    "evidence": [
+      "https://www.mobihealthnews.com/news/clair-health-raises-116m-womens-hormone-monitoring-wearable-and-more-funding-news",
+      "https://techcrunch.com/2025/11/05/former-meta-employees-launch-stream-a-smart-ring-that-takes-voice-notes-and-controls-music/",
+      "https://trueventures.com/"
+    ]
+  },
+  {
+    "name": "AIX Ventures",
+    "org": "AIX Ventures",
+    "rank": 64,
+    "tier": "cut",
+    "why": "Duplicate of the 'Krish Ramadurai' row; ranked there.",
+    "first_move": "None; use the Krish Ramadurai entry.",
+    "evidence": [
+      "https://hlth.com/insights/news/wearlinq-raises-14m-to-scale-its-wireless-clinical-grade-heart-monito-2025-12-18",
+      "https://www.aixventures.com/"
+    ]
+  },
+  {
+    "name": "Interlagos",
+    "org": "Interlagos",
+    "rank": 65,
+    "tier": "cut",
+    "why": "Duplicate of the 'Achal Upadhyaya' row; ranked there.",
+    "first_move": "None; use the Achal Upadhyaya entry.",
+    "evidence": [
+      "https://www.globenewswire.com/news-release/2025/10/20/3169287/0/en/Adaptyx-Raises-14M-in-Seed-Financing-to-Launch-Wearable-Platform-for-Continuous-Multi-Analyte-Molecular-Monitoring.html"
+    ]
+  },
+  {
+    "name": "Humba Ventures",
+    "org": "Humba Ventures",
+    "rank": 66,
+    "tier": "cut",
+    "why": "Duplicate of the 'Leo Polovets' row; ranked there.",
+    "first_move": "None; use the Leo Polovets entry.",
+    "evidence": [
+      "https://www.globenewswire.com/news-release/2025/10/20/3169287/0/en/Adaptyx-Raises-14M-in-Seed-Financing-to-Launch-Wearable-Platform-for-Continuous-Multi-Analyte-Molecular-Monitoring.html"
+    ]
+  },
+  {
+    "name": "Vaark Ventures",
+    "org": "Vaark Ventures",
+    "rank": 67,
+    "tier": "cut",
+    "why": "Duplicate of the 'Timothy Martens' row; ranked there.",
+    "first_move": "None; use the Timothy Martens entry.",
+    "evidence": [
+      "https://www.neurofounders.co/articles/theta-neuro-raises-2m-pre-seed-for-wearable-seizure-prediction"
+    ]
+  },
+  {
+    "name": "Qualcomm Ventures",
+    "org": "Qualcomm",
+    "rank": 68,
+    "tier": "cut",
+    "why": "Duplicate of the 'Anirvan Chowdhury' row; ranked there.",
+    "first_move": "None; use the Anirvan Chowdhury entry.",
+    "evidence": [
+      "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "https://www.qualcommventures.com/insights/blog/qualcomm-ventures-2025-year-in-review/"
+    ]
+  },
+  {
+    "name": "Quinn Li",
+    "org": "Qualcomm Ventures",
+    "rank": 69,
+    "tier": "cut",
+    "why": "Duplicate of the 'Anirvan Chowdhury' row; ranked there.",
+    "first_move": "None; use the Anirvan Chowdhury entry.",
+    "evidence": [
+      "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "https://www.qualcommventures.com/"
+    ]
+  },
+  {
+    "name": "Lunar Ventures",
+    "org": "Lunar Ventures",
+    "rank": 70,
+    "tier": "cut",
+    "why": "Duplicate of the 'Mick Halsband' row; ranked there.",
+    "first_move": "None; use the Mick Halsband entry.",
+    "evidence": [
+      "https://techcrunch.com/2025/11/18/emm-raises-9m-seed-to-create-to-launch-one-of-the-worlds-first-smart-menstrual-cups",
+      "https://www.lunar.vc/"
+    ]
+  },
+  {
+    "name": "Sand Hill Angels",
+    "org": "Sand Hill Angels",
+    "rank": 71,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://www.sandhillangels.com/"
+    ]
+  },
+  {
+    "name": "JumpStart Trailblazer HealthTech Accelerator",
+    "org": "JumpStart Inc.",
+    "rank": 72,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://jumpstartinc.org/startups/healthtech",
+      "https://www.linkedin.com/posts/jumpstartinc_trailblazer-activity-7480606852423102464-V1FW",
+      "https://ohiovcfest.com/"
+    ]
+  },
+  {
+    "name": "Accelerating Angels",
+    "org": "Accelerating Angels",
+    "rank": 73,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://acceleratingangels.com/",
+      "https://raise.fusion-42.com/funds/93d98c97-1bd6-463a-8bab-bf56f93631cc",
+      "https://www.linkedin.com/posts/cindienglefield_investinwomen-angelinvesting-womenentrepreneurs-activity-7321593848206405632-dj6K"
+    ]
+  },
+  {
+    "name": "BlueTree Allied Angels",
+    "org": "BlueTree Allied Angels",
+    "rank": 74,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://www.bluetreealliedangels.com/"
+    ]
+  },
+  {
+    "name": "EC Angels",
+    "org": "The Entrepreneurs' Center (Dayton)",
+    "rank": 75,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://ecinnovates.com/investors/",
+      "https://launchdayton.com/resource/ec-angels/"
+    ]
+  },
+  {
+    "name": "Aptima Ventures",
+    "org": "Aptima Ventures (Aptima, Inc.)",
+    "rank": 76,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://www.morningstar.com/news/globe-newswire/9455006/wearable-heat-safety-shield-launches-for-us-workers",
+      "https://aptima.com/vigilife-shield-launch/",
+      "https://vigilife.com/about/"
+    ]
+  },
+  {
+    "name": "HPA (Hyde Park Angels)",
+    "org": "HPA",
+    "rank": 77,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://www.hpa.vc/"
+    ]
+  },
+  {
+    "name": "Kickstart Midwest 2026 - Startup World Cup Ohio Regional",
+    "org": "Kickstart Midwest",
+    "rank": 78,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://kickstartmidwest.com/"
+    ]
+  },
+  {
+    "name": "North Coast Ventures",
+    "org": "North Coast Ventures (formerly North Coast Angel Fund)",
+    "rank": 79,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://northcoast.vc/",
+      "https://northcoast.vc/contact"
+    ]
+  },
+  {
+    "name": "StartupCincy Week 2026",
+    "org": "Cintrifuse / StartupCincy",
+    "rank": 80,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://startupcincyweek.com/",
+      "https://moversmakers.org/2025/09/08/200k-pitch-competition-to-anchor-startupcincy-week/"
+    ]
+  },
+  {
+    "name": "Rev1 Ventures",
+    "org": "Rev1 Ventures",
+    "rank": 81,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://www.rev1ventures.com/",
+      "https://www.prweb.com/releases/rev1-ventures-connects-investors-and-founders-to-drive-startup-growth-in-ohio-302194307.html"
+    ]
+  },
+  {
+    "name": "Ohio Angel Collective",
+    "org": "Ohio Angel Collective (managed by Vessel)",
+    "rank": 82,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://www.ohioangelcollective.com/",
+      "https://www.ohiotechnews.com/ohio-angel-collective-introduces-unique-subscription-model-for-startup-investments/"
+    ]
+  },
+  {
+    "name": "71/70 Angels",
+    "org": "71/70 Angels (Rev1 Ventures)",
+    "rank": 83,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://www.rev1ventures.com/blog/fueling-founders-how-71-70-angels-is-catalyzing-growth-with-fund-i/",
+      "https://www.ohiotechnews.com/7170-angels-closes-first-fund-backs-two-ohio-startups/",
+      "https://newalbanybusiness.org/news/2025/04/resourcesrev1s-techangels-fund-offers-early-stage-capital/"
+    ]
+  },
+  {
+    "name": "QCA Ventures",
+    "org": "QCA Ventures (formerly Queen City Angels)",
+    "rank": 84,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://www.qca.com/",
+      "https://www.business.uc.edu/about/centers-partnerships/entrepreneurship/venturelab/community-partners/queen-city-angels.html"
+    ]
+  },
+  {
+    "name": "ARCHAngels (Akron Regional Change Angels)",
+    "org": "University of Akron Research Foundation",
+    "rank": 85,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://www.uakronuarf.com/archangels.html",
+      "https://www.sancsoft.com/resources/events/i-corps-pitch-competition-comes-to-bounce/"
+    ]
+  },
+  {
+    "name": "The O.H.I.O. Fund",
+    "org": "The O.H.I.O. Fund",
+    "rank": 86,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://theohiofund.com/press-releases/the-o-h-i-o-fund-reports-strong-q1-momentum-as-committed-capital-climbs-to-647-million-makes-four-new-investments/",
+      "https://theohiofund.com/press-releases/the-o-h-i-o-fund-announces-lead-investment-in-sonic-fire-techs-seed-round-khosla-ventures-reinvests-capping-cleveland-startups-seed-funding-at-15m/",
+      "https://www.theohiofund.com/"
+    ]
+  },
+  {
+    "name": "CincyTech",
+    "org": "CincyTech",
+    "rank": 87,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://www.bizjournals.com/cincinnati/news/2026/07/01/cincytech-fund-life-sciences-invest-startups-ohio.html",
+      "https://fundraisingfox.com/investors/cincytech",
+      "https://www.cincytechusa.com/"
+    ]
+  },
+  {
+    "name": "Heartland Ventures",
+    "org": "Heartland Ventures",
+    "rank": 88,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://www.ohiotechnews.com/heartland-ventures-launches-60-million-fund-iii-to-power-americas-reindustrialization/",
+      "https://www.start-midwest.com/news/ohios-heartland-ventures-launches-60m-fund-iii-for-midwest-reindustrialization"
+    ]
+  },
+  {
+    "name": "Bearcat Ventures",
+    "org": "Bearcat Ventures (University of Cincinnati)",
+    "rank": 89,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://www.linkedin.com/posts/patricklongo_bearcat-ventures-invests-100000-in-local-activity-7295828589915054080-E7Hz",
+      "https://www.uc.edu/news/articles/2025/09/uc-1819-backed-startup-sense-neuro-fueled-by-17-million.html"
+    ]
+  },
+  {
+    "name": "JumpStart Ventures",
+    "org": "JumpStart Inc.",
+    "rank": 90,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://jumpstart.vc/investors/"
+    ]
+  },
+  {
+    "name": "Beacon Angels",
+    "org": "Beacon Angels",
+    "rank": 91,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://gust.com/organizations/beacon-angels",
+      "https://pitchbook.com/profiles/investor/50980-15"
+    ]
+  },
+  {
+    "name": "Northwestern Medicine & Techstars Healthcare Accelerator (Class 3)",
+    "org": "Techstars / Northwestern Medicine",
+    "rank": 92,
+    "tier": "cut",
+    "why": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+    "first_move": "None now. Revisit only if the founder confirms an Ohio or Midwest link.",
+    "evidence": [
+      "https://www.techstars.com/blog/program-news/applications-now-open-for-third-class-of-northwestern-medicine-techstars-healthcare-accelerator"
+    ]
+  },
+  {
+    "name": "Nexus Venture Partners",
+    "org": "Nexus Venture Partners",
+    "rank": 93,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "https://www.inveledger.com/articles/wearables-startup-funding.php"
+    ]
+  },
+  {
+    "name": "Alpha Wave",
+    "org": "Alpha Wave",
+    "rank": 94,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "https://www.inveledger.com/articles/wearables-startup-funding.php"
+    ]
+  },
+  {
+    "name": "Alteria Capital",
+    "org": "Alteria Capital",
+    "rank": 95,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "https://www.inveledger.com/articles/wearables-startup-funding.php"
+    ]
+  },
+  {
+    "name": "Dell Family Office",
+    "org": "Dell Family Office (Michael Dell)",
+    "rank": 96,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.axios.com/pro/health-tech-deals/2026/07/21/hilo-extends-series-b-19m-dell-family-office",
+      "https://raising.fi/news/hilo-series-b-extension-july-2026",
+      "https://www.mobihealthnews.com/news/hilo-launches-blood-pressure-tracker-19m-funding-boost"
+    ]
+  },
+  {
+    "name": "Shangbay Capital",
+    "org": "Shangbay Capital",
+    "rank": 97,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://hitconsultant.net/2026/07/29/soundhealth-raises-series-a-shangbay-capital-sonu-wearable/",
+      "https://www.businesswire.com/news/home/20260730536906/en/SoundHealth-Raises-$12.25M-to-Accelerate-Growth-of-Its-AI-Enabled-Non-Invasive-Devices-for-Breathing-and-Sleep-Disorders"
+    ]
+  },
+  {
+    "name": "J4 Ventures",
+    "org": "J4 Ventures",
+    "rank": 98,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://hitconsultant.net/2026/07/29/soundhealth-raises-series-a-shangbay-capital-sonu-wearable/",
+      "https://www.businesswire.com/news/home/20260730536906/en/SoundHealth-Raises-$12.25M-to-Accelerate-Growth-of-Its-AI-Enabled-Non-Invasive-Devices-for-Breathing-and-Sleep-Disorders"
+    ]
+  },
+  {
+    "name": "Moai Capital",
+    "org": "Moai Capital",
+    "rank": 99,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://hitconsultant.net/2026/07/29/soundhealth-raises-series-a-shangbay-capital-sonu-wearable/",
+      "https://www.businesswire.com/news/home/20260730536906/en/SoundHealth-Raises-$12.25M-to-Accelerate-Growth-of-Its-AI-Enabled-Non-Invasive-Devices-for-Breathing-and-Sleep-Disorders"
+    ]
+  },
+  {
+    "name": "Will Ventures",
+    "org": "Will Ventures",
+    "rank": 100,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.businesswire.com/news/home/20260728282605/en/Throne-Science-Maker-of-Smart-Toilet-Sensor-Announces-$10-Million-Series-A-Fundraise",
+      "https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop/",
+      "https://medcitynews.com/2026/07/toilet-wearable-throne-science-funding/"
+    ]
+  },
+  {
+    "name": "Moxxie Ventures",
+    "org": "Moxxie Ventures",
+    "rank": 101,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.businesswire.com/news/home/20260728282605/en/Throne-Science-Maker-of-Smart-Toilet-Sensor-Announces-$10-Million-Series-A-Fundraise",
+      "https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop/",
+      "https://medcitynews.com/2026/07/toilet-wearable-throne-science-funding/",
+      "https://traded.co/vc/deal/throne-secures-4m-seed-funding-led-by-moxxie-ventures-for-ai-gut-health-device/"
+    ]
+  },
+  {
+    "name": "V1.VC",
+    "org": "V1.VC",
+    "rank": 102,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.businesswire.com/news/home/20260728282605/en/Throne-Science-Maker-of-Smart-Toilet-Sensor-Announces-$10-Million-Series-A-Fundraise",
+      "https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop/",
+      "https://medcitynews.com/2026/07/toilet-wearable-throne-science-funding/"
+    ]
+  },
+  {
+    "name": "Great Oaks Venture Capital",
+    "org": "Great Oaks Venture Capital",
+    "rank": 103,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://insider.fitt.co/press-release/nix-biosensors-closes-series-a-to-bring-hydration-data-to-consumer-health-platforms/",
+      "https://www.finsmes.com/2026/09/nix-biosensors-closes-10m-series-a-funding.html",
+      "https://www.theupside.us/p/upside-sept-2026-report-sports-tech"
+    ]
+  },
+  {
+    "name": "Shorewind Capital",
+    "org": "Shorewind Capital",
+    "rank": 104,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://insider.fitt.co/press-release/nix-biosensors-closes-series-a-to-bring-hydration-data-to-consumer-health-platforms/",
+      "https://www.finsmes.com/2026/09/nix-biosensors-closes-10m-series-a-funding.html",
+      "https://www.theupside.us/p/upside-sept-2026-report-sports-tech"
+    ]
+  },
+  {
+    "name": "Oregon Sports Angels",
+    "org": "Oregon Sports Angels",
+    "rank": 105,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://insider.fitt.co/press-release/nix-biosensors-closes-series-a-to-bring-hydration-data-to-consumer-health-platforms/",
+      "https://www.finsmes.com/2026/09/nix-biosensors-closes-10m-series-a-funding.html",
+      "https://www.theupside.us/p/upside-sept-2026-report-sports-tech"
+    ]
+  },
+  {
+    "name": "ARCH Venture Partners",
+    "org": "ARCH Venture Partners",
+    "rank": 106,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://newmarketpitch.com/blogs/news/wearable-blood-pressure-monitor-startup"
+    ]
+  },
+  {
+    "name": "Peak XV Partners",
+    "org": "Peak XV Partners",
+    "rank": 107,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.finsmes.com/2026/03/temple-raises-54m-in-seed-funding.html",
+      "https://startupstag.com/healthcare/deepinder-goyal-temple-funding-brain-wearable-longevity/"
+    ]
+  },
+  {
+    "name": "All In Capital",
+    "org": "All In Capital",
+    "rank": 108,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.businesswire.com/news/home/20260318987784/en/Mave-Health-Raises-$2.1M-to-Launch-Focus-and-Stress-Regulation-Wearable",
+      "https://www.finsmes.com/2026/03/mave-health-raises-2-1m-in-seed-funding.html"
+    ]
+  },
+  {
+    "name": "Kindred Ventures",
+    "org": "Kindred Ventures",
+    "rank": 109,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring",
+      "https://www.trendingtopics.eu/sandbar-raises-23m-series-a-to-scale-ai-powered-smart-ring/"
+    ]
+  },
+  {
+    "name": "Blume Ventures",
+    "org": "Blume Ventures",
+    "rank": 110,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://techcrunch.com/2026/03/18/mave-health-aims-to-improve-attention-and-mood-with-its-brain-stimulating-headset/",
+      "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "https://blume.vc/"
+    ]
+  },
+  {
+    "name": "Juhi Bhatnagar",
+    "org": "Forj Capital",
+    "rank": 111,
+    "tier": "cut",
+    "why": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.businesswire.com/news/home/20260318987784/en/Mave-Health-Raises-$2.1M-to-Launch-Focus-and-Stress-Regulation-Wearable",
+      "https://www.finsmes.com/2026/03/mave-health-raises-2-1m-in-seed-funding.html"
+    ]
+  },
+  {
+    "name": "Cartan Capital",
+    "org": "Cartan Capital",
+    "rank": 112,
+    "tier": "cut",
+    "why": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.mobihealthnews.com/news/clair-health-raises-116m-womens-hormone-monitoring-wearable-and-more-funding-news",
+      "https://www.axios.com/pro/health-tech-deals/2026/06/17/clair-health-11m-hormone-wearable-womens-health",
+      "https://fortune.com/2026/06/17/clair-khosla-anne-wojcicki-wearble-oura-whoop-hormone-women-health/"
+    ]
+  },
+  {
+    "name": "Able Partners",
+    "org": "Able Partners",
+    "rank": 113,
+    "tier": "cut",
+    "why": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.businesswire.com/news/home/20260616147156/en/Kimba-Introduces-AI-Powered-Scent-Therapy-for-Better-Sleep",
+      "https://www.calcalistech.com/ctechnews/article/hk10j11yggl",
+      "https://femtechinsider.com/kimba-launches-with-6-5m-to-improve-sleep-through-ai-powered-scent-therapy/"
+    ]
+  },
+  {
+    "name": "Palette Ventures",
+    "org": "Palette Ventures",
+    "rank": 114,
+    "tier": "cut",
+    "why": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.businesswire.com/news/home/20260616147156/en/Kimba-Introduces-AI-Powered-Scent-Therapy-for-Better-Sleep",
+      "https://www.calcalistech.com/ctechnews/article/hk10j11yggl",
+      "https://femtechinsider.com/kimba-launches-with-6-5m-to-improve-sleep-through-ai-powered-scent-therapy/"
+    ]
+  },
+  {
+    "name": "E14 Fund",
+    "org": "E14 Fund (MIT-affiliated)",
+    "rank": 115,
+    "tier": "cut",
+    "why": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/"
+    ]
+  },
+  {
+    "name": "Meach Cove Capital",
+    "org": "Meach Cove Capital",
+    "rank": 116,
+    "tier": "cut",
+    "why": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/"
+    ]
+  },
+  {
+    "name": "MS&AD Ventures",
+    "org": "MS&AD Ventures",
+    "rank": 117,
+    "tier": "cut",
+    "why": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.finsmes.com/2026/09/axo-longevity-raises-5m-in-seed-funding.html",
+      "https://finance.yahoo.com/healthcare/articles/axo-longevity-raises-oversubscribed-5m-091600150.html",
+      "https://www.startupmag.co.uk/funding/axo-longevity-2026-seed-funding/"
+    ]
+  },
+  {
+    "name": "Everywhere Ventures",
+    "org": "Everywhere Ventures",
+    "rank": 118,
+    "tier": "cut",
+    "why": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.finsmes.com/2026/09/axo-longevity-raises-5m-in-seed-funding.html",
+      "https://finance.yahoo.com/healthcare/articles/axo-longevity-raises-oversubscribed-5m-091600150.html",
+      "https://www.startupmag.co.uk/funding/axo-longevity-2026-seed-funding/"
+    ]
+  },
+  {
+    "name": "LifeX Ventures",
+    "org": "LifeX Ventures",
+    "rank": 119,
+    "tier": "cut",
+    "why": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.finsmes.com/2026/09/axo-longevity-raises-5m-in-seed-funding.html",
+      "https://finance.yahoo.com/healthcare/articles/axo-longevity-raises-oversubscribed-5m-091600150.html",
+      "https://www.startupmag.co.uk/funding/axo-longevity-2026-seed-funding/"
+    ]
+  },
+  {
+    "name": "Cantos Ventures",
+    "org": "Cantos Ventures",
+    "rank": 120,
+    "tier": "cut",
+    "why": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.globenewswire.com/news-release/2025/10/20/3169287/0/en/adaptyx-raises-14m-in-seed-financing-to-launch-wearable-platform-for-continuous-multi-analyte-molecular-monitoring.html",
+      "https://longevity.technology/news/adaptyx-lands-14m-for-continuous-monitoring-of-multiple-health-markers/"
+    ]
+  },
+  {
+    "name": "Hyperlink Ventures",
+    "org": "Hyperlink Ventures",
+    "rank": 121,
+    "tier": "cut",
+    "why": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.globenewswire.com/news-release/2025/10/20/3169287/0/en/adaptyx-raises-14m-in-seed-financing-to-launch-wearable-platform-for-continuous-multi-analyte-molecular-monitoring.html",
+      "https://longevity.technology/news/adaptyx-lands-14m-for-continuous-monitoring-of-multiple-health-markers/"
+    ]
+  },
+  {
+    "name": "Starbloom Capital",
+    "org": "Starbloom Capital",
+    "rank": 122,
+    "tier": "cut",
+    "why": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.globenewswire.com/news-release/2025/10/20/3169287/0/en/adaptyx-raises-14m-in-seed-financing-to-launch-wearable-platform-for-continuous-multi-analyte-molecular-monitoring.html",
+      "https://longevity.technology/news/adaptyx-lands-14m-for-continuous-monitoring-of-multiple-health-markers/"
+    ]
+  },
+  {
+    "name": "Skin In The Game",
+    "org": "Skin In The Game",
+    "rank": 123,
+    "tier": "cut",
+    "why": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.skininthegamegroup.com/about",
+      "https://www.skininthegamegroup.com/",
+      "https://www.endurancesportswire.com/hytro-secures-backing-from-leading-sports-investment-groups-joined-capital-and-skin-in-the-game/",
+      "https://linkedin.com/company/skininthegamegroup"
+    ]
+  },
+  {
+    "name": "Fredrik Debong",
+    "org": "1921 Ventures",
+    "rank": 124,
+    "tier": "cut",
+    "why": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://onalabs.com/en/2026/07/27/onalabs-closes-e9-3m-investment-round/",
+      "https://insider.fitt.co/press-release/onalabs-raises-over-e9-3-million-to-scale-its-continuous-health-monitoring-solutions/",
+      "https://app.dealroom.co/news/note/onalabs-raises-9-3m-seed-to-scale-sweat-based-health-monitoring"
+    ]
+  },
+  {
+    "name": "Petteri Koponen",
+    "org": "Lifeline Ventures",
+    "rank": 125,
+    "tier": "cut",
+    "why": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.lifelineventures.com/companies/",
+      "https://www.lifelineventures.com/",
+      "https://www.linkedin.com/posts/petterikoponen_%C5%8Dura-has-progressed-exceptionally-well-and-activity-7375922680291643392-on4s",
+      "https://www.linkedin.com/in/petterikoponen"
+    ]
+  },
+  {
+    "name": "Smarter Ventures",
+    "org": "Smarter Ventures",
+    "rank": 126,
+    "tier": "cut",
+    "why": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://tech.eu/2026/02/04/leuven-based-ai-running-analysis-platform-runeasi-raises-eur1m-for-global-growth/",
+      "https://www.finsmes.com/2026/02/runeasi-raises-e1m-in-funding.html"
+    ]
+  },
+  {
+    "name": "Roger Parellada",
+    "org": "nPrime",
+    "rank": 127,
+    "tier": "cut",
+    "why": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://onalabs.com/en/2026/07/27/onalabs-closes-e9-3m-investment-round/",
+      "https://insider.fitt.co/press-release/onalabs-raises-over-e9-3-million-to-scale-its-continuous-health-monitoring-solutions/",
+      "https://app.dealroom.co/news/note/onalabs-raises-9-3m-seed-to-scale-sweat-based-health-monitoring"
+    ]
+  },
+  {
+    "name": "Gemma Frisius Fund",
+    "org": "Gemma Frisius Fund (KU Leuven)",
+    "rank": 128,
+    "tier": "cut",
+    "why": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://tech.eu/2026/02/04/leuven-based-ai-running-analysis-platform-runeasi-raises-eur1m-for-global-growth/",
+      "https://www.finsmes.com/2026/02/runeasi-raises-e1m-in-funding.html"
+    ]
+  },
+  {
+    "name": "Seveno Capital",
+    "org": "Seveno Capital",
+    "rank": 129,
+    "tier": "cut",
+    "why": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://pointfittech.com/news/seveno-capital-investment/",
+      "https://www.seveno.capital/"
+    ]
+  },
+  {
+    "name": "Redalpine",
+    "org": "Redalpine",
+    "rank": 130,
+    "tier": "cut",
+    "why": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://techcrunch.com/2025/02/18/level-zero-health-banks-6-9m-to-prove-wearable-medtech-can-take-the-strain-out-of-hormone-testing/",
+      "https://wearable-technologies.com/news/august-2026-level-zero-health",
+      "https://www.redalpine.com/"
+    ]
+  },
+  {
+    "name": "Inventure",
+    "org": "Inventure VC",
+    "rank": 131,
+    "tier": "cut",
+    "why": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://hax.co/samphire-neuroscience-raises-5m-seed-round-for-novel-neurotech-wearable-targeting-menstrual-pain/",
+      "https://inventure.vc/"
+    ]
+  },
+  {
+    "name": "Mick Halsband",
+    "org": "Lunar Ventures",
+    "rank": 132,
+    "tier": "cut",
+    "why": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.setsquared.co.uk/emm-raises-over-9-million-6-8m-to-launch-worlds-first-smart-menstrual-solution/",
+      "https://www.linkedin.com/posts/lunar-ventures_techbio-womenshealth-femtech-activity-7396900702352084992-v_DD",
+      "https://www.linkedin.com/in/mickhalsband"
+    ]
+  },
+  {
+    "name": "HealthTech Week & Summit 2027 (JPM week) - Startup Pitch Competition",
+    "org": "HealthTech Week / MedStartr",
+    "rank": 133,
+    "tier": "cut",
+    "why": "Event or pitch competition, not an investor; likely fees under the no-spend rule.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://healthtechweek.org/",
+      "https://luma.com/HT26Pitch"
+    ]
+  },
+  {
+    "name": "CES 2027 - Eureka Park",
+    "org": "Consumer Technology Association",
+    "rank": 134,
+    "tier": "cut",
+    "why": "Event or pitch competition, not an investor; likely fees under the no-spend rule.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.ces.tech/explore-ces/eureka-park/",
+      "https://www.cta.tech/cta-foundation/eureka-park-accessibility-contest/",
+      "https://www.sesamers.com/program/ces-eureka-park-2027/"
+    ]
+  },
+  {
+    "name": "SXSW Pitch 2027",
+    "org": "SXSW",
+    "rank": 135,
+    "tier": "cut",
+    "why": "Event or pitch competition, not an investor; likely fees under the no-spend rule.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://sxsw.com/pitch/",
+      "https://sxsw.com/news/2026/2027-pitch-applications/",
+      "https://support.sxsw.com/hc/en-us/articles/206423785-What-are-the-entry-categories-for-SXSW-Pitch-2027"
+    ]
+  },
+  {
+    "name": "HLTH USA 2026 - Investor Connect",
+    "org": "HLTH",
+    "rank": 136,
+    "tier": "cut",
+    "why": "Event or pitch competition, not an investor; likely fees under the no-spend rule.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://hlth.com/events/usa/who-attends/startups/",
+      "https://hlth.com/events/usa/startup-pitch-application/"
+    ]
+  },
+  {
+    "name": "ViVE 2027 - Startup Pitch & Investor Connect",
+    "org": "HLTH / CHIME (ViVE)",
+    "rank": 137,
+    "tier": "cut",
+    "why": "Event or pitch competition, not an investor; likely fees under the no-spend rule.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://hlth.com/events/vive/agenda/programs/startup-pitch-competition/",
+      "https://registervive.hlth.com/2027/ic-connect",
+      "https://hlth.com/events/vive/"
+    ]
+  },
+  {
+    "name": "Mid Atlantic Bio Angels (MABA)",
+    "org": "Mid Atlantic Bio Angels",
+    "rank": 138,
+    "tier": "cut",
+    "why": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://bioangels.net/news/"
+    ]
+  },
+  {
+    "name": "Life Science Angels",
+    "org": "Life Science Angels",
+    "rank": 139,
+    "tier": "cut",
+    "why": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.lifescienceangels.com/apply-for-investment-opportunity"
+    ]
+  },
+  {
+    "name": "Cedars-Sinai Accelerator+",
+    "org": "Cedars-Sinai",
+    "rank": 140,
+    "tier": "cut",
+    "why": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.csaccelerator.com/",
+      "https://www.cedars-sinai.org/newsroom/cedars-sinai-accelerator-welcomes-10th-class-of-health-tech-startups/",
+      "https://linkedin.com/company/csaccelerator"
+    ]
+  },
+  {
+    "name": "Mayo Clinic Platform_Accelerate",
+    "org": "Mayo Clinic Platform",
+    "rank": 141,
+    "tier": "cut",
+    "why": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.mayoclinicplatform.org/focus-areas/digital-health/accelerate/",
+      "https://www.newswise.com/articles/mayo-clinic-platform-accelerate-announces-inaugural-participants-of-its-new-multiyear-pathway-program"
+    ]
+  },
+  {
+    "name": "MedTech Innovator 2027 Accelerator",
+    "org": "MedTech Innovator",
+    "rank": 142,
+    "tier": "cut",
+    "why": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://medtechinnovator.org/apply/",
+      "https://hub.causo.ai/guides/how-to-apply-to-medtech-innovator-2026"
+    ]
+  },
+  {
+    "name": "StartUp Health Syndicate",
+    "org": "StartUp Health",
+    "rank": 143,
+    "tier": "cut",
+    "why": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://venture.angellist.com/startup-health/syndicate",
+      "https://www.startuphealth.com/startup-health-blog/cala-health-raises-another-50m-for-wearable-tremor-treatment-startup-health-insights-week-of-oct-28-2025"
+    ]
+  },
+  {
+    "name": "Icon Sports Ventures",
+    "org": "Icon Sports Ventures",
+    "rank": 144,
+    "tier": "cut",
+    "why": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://iconsportsventures.com/"
+    ]
+  },
+  {
+    "name": "359 Capital (formerly Sapphire Sport)",
+    "org": "359 Capital",
+    "rank": 145,
+    "tier": "cut",
+    "why": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.359capital.com/",
+      "https://sapphireventures.com/sapphire-sport/",
+      "https://www.linkedin.com/company/sapphire-sport"
+    ]
+  },
+  {
+    "name": "Sequence",
+    "org": "Sequence",
+    "rank": 146,
+    "tier": "cut",
+    "why": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://fortune.com/2025/03/26/this-vc-firm-is-playing-the-long-game-with-sports-and-fitness-and-just-added-a-new-teammate/"
+    ]
+  },
+  {
+    "name": "Thirty-5 Capital",
+    "org": "Thirty-5 Capital",
+    "rank": 147,
+    "tier": "cut",
+    "why": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.thirtyfivecapital.com/",
+      "https://www.thirtyfivecapital.com/article-14"
+    ]
+  },
+  {
+    "name": "AthleteIQ Ventures",
+    "org": "AthleteIQ Ventures",
+    "rank": 148,
+    "tier": "cut",
+    "why": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://aiqvc.com/"
+    ]
+  },
+  {
+    "name": "Match Ventures",
+    "org": "Match Ventures",
+    "rank": 149,
+    "tier": "cut",
+    "why": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.matchventures.com/"
+    ]
+  },
+  {
+    "name": "Ndamukong Suh",
+    "org": "House of Spears Management",
+    "rank": 150,
+    "tier": "cut",
+    "why": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.sportsbusinessjournal.com/Articles/2025/03/13/engineer-entrepreneur-and-enemy-of-quarterbacks-ndamukong-suh-talks-tech-investments-more/"
+    ]
+  },
+  {
+    "name": "Elysian Park Ventures",
+    "org": "Elysian Park Ventures",
+    "rank": 151,
+    "tier": "cut",
+    "why": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://elysianpark.ventures/",
+      "https://elysianpark.ventures/platform/",
+      "https://www.sportsbusinessjournal.com/Articles/2024/05/27/power-players-elysian-park-ventures/"
+    ]
+  },
+  {
+    "name": "InStudio Ventures",
+    "org": "InStudio Ventures",
+    "rank": 152,
+    "tier": "cut",
+    "why": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.forbes.com/sites/hanktucker/2026/04/28/instudio-ventures-launches-50-million-sports-investing-fund-anchored-by-nfl-team-stakes/"
+    ]
+  },
+  {
+    "name": "Wildwood Ventures",
+    "org": "Wildwood Ventures (backed by VF Corporation)",
+    "rank": 153,
+    "tier": "cut",
+    "why": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://f4.fund/firms/wildwood-ventures"
+    ]
+  },
+  {
+    "name": "Forma Capital / The Cashmere Fund",
+    "org": "Forma Capital",
+    "rank": 154,
+    "tier": "cut",
+    "why": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.sportsbusinessjournal.com/Articles/2025/06/02/bills-damar-hamlin-becomes-partner-and-investor-in-the-cashmere-fund/"
+    ]
+  },
+  {
+    "name": "Samsung Ventures (Samsung Venture Investment Corp.)",
+    "org": "Samsung Electronics",
+    "rank": 155,
+    "tier": "cut",
+    "why": "Corporate strategic at later stages with warm intro only; too early for Vybe.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.businesswire.com/news/home/20250107628048/en/Pison-Announces-Investment-from-Samsung-Ventures-Strengthening-Strategic-Presence-in-Consumer-Wearables-for-Neurocognitive-Performance"
+    ]
+  },
+  {
+    "name": "Samsung NEXT",
+    "org": "Samsung Electronics",
+    "rank": 156,
+    "tier": "cut",
+    "why": "Corporate strategic at later stages with warm intro only; too early for Vybe.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.prnewswire.com/news-releases/sibel-health-secures-additional-series-c-extension-funding-to-39-million-from-key-strategic-investors-and-announces-new-board-of-director-appointments-302582505.html",
+      "https://www.finsmes.com/2025/10/sibel-health-extends-its-series-c-funding-to-39m.html"
+    ]
+  },
+  {
+    "name": "KIRIN HEALTH INNOVATION FUND",
+    "org": "Kirin Holdings / Global Brain",
+    "rank": 157,
+    "tier": "cut",
+    "why": "Corporate strategic at later stages with warm intro only; too early for Vybe.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.kirinholdings.com/en/newsroom/release/2025/0410_02.html",
+      "https://www.kirinholdings.com/en/newsroom/release/2025/0303_03.html"
+    ]
+  },
+  {
+    "name": "Dexcom (Dexcom Ventures)",
+    "org": "Dexcom",
+    "rank": 158,
+    "tier": "cut",
+    "why": "Corporate strategic at later stages with warm intro only; too early for Vybe.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.morningstar.com/news/business-wire/20260527908522/signos-inc-maker-of-the-first-fda-cleared-cgm-system-for-weight-management-raises-20-million-to-accelerate-growth",
+      "https://dexcomventures.com/"
+    ]
+  },
+  {
+    "name": "ResMed (strategic investments / ResMed Ventures)",
+    "org": "ResMed",
+    "rank": 159,
+    "tier": "cut",
+    "why": "Corporate strategic at later stages with warm intro only; too early for Vybe.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.prnewswire.com/news-releases/noctrix-health-secures-40-million-series-c-financing-to-commercialize-novel-device-treatment-for-restless-legs-syndrome-rls-302035397.html",
+      "https://physicianaitools.com/investors/resmed-ventures/"
+    ]
+  },
+  {
+    "name": "Harpreet Rai",
+    "org": "Former Oura CEO; independent angel",
+    "rank": 160,
+    "tier": "cut",
+    "why": "Angel reachable only by warm intro, with no path we have today.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.emm.co/blog/press-release-blog-19112025"
+    ]
+  },
+  {
+    "name": "Virpi Tuomivaara",
+    "org": "Oura (co-founder); angel",
+    "rank": 161,
+    "tier": "cut",
+    "why": "Angel reachable only by warm intro, with no path we have today.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.tamradar.com/funding-rounds/audicin-seed-1-9m-neurotech"
+    ]
+  },
+  {
+    "name": "Matteo Franceschetti",
+    "org": "Eight Sleep (co-founder & CEO)",
+    "rank": 162,
+    "tier": "cut",
+    "why": "Angel reachable only by warm intro, with no path we have today.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://signal.nfx.com/investors/matteo-franceschetti"
+    ]
+  },
+  {
+    "name": "Portfolia",
+    "org": "Portfolia (Women's Health / FemTech / Active Aging funds)",
+    "rank": 163,
+    "tier": "cut",
+    "why": "Angel reachable only by warm intro, with no path we have today.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.portfolia.co/womenshealthfundpublic",
+      "https://www.members.portfolia.co/press/2025/5/16/portfolia-closes-415m-femtech-fund-iii-building-on-womens-health-investment-track-record"
+    ]
+  },
+  {
+    "name": "Craig Shapiro",
+    "org": "Collaborative Fund",
+    "rank": 164,
+    "tier": "cut",
+    "why": "Growth-stage leader (Oura/WHOOP boards); not writing pre-seed checks for outside founders.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://collabfund.com/blog/whoop/",
+      "https://www.linkedin.com/in/craigjshapiro"
+    ]
+  },
+  {
+    "name": "Eurie Kim",
+    "org": "Forerunner Ventures",
+    "rank": 165,
+    "tier": "cut",
+    "why": "Growth-stage leader (Oura/WHOOP boards); not writing pre-seed checks for outside founders.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://forerunnerventures.com/team/eurie-kim",
+      "https://www.linkedin.com/posts/kirstengreen_my-partner-eurie-kim-has-been-chairwoman-activity-7383901286103982080-dn2R"
+    ]
+  },
+  {
+    "name": "Veteran Ventures Capital",
+    "org": "Veteran Ventures Capital",
+    "rank": 166,
+    "tier": "cut",
+    "why": "Defense/space-autonomy thesis; human-performance fit is only thematic.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://www.prnewswire.com/news-releases/veteran-ventures-capital-closes-oversubscribed-60-million-fund-ii-amid-record-aerospace--defense-momentum-302533707.html",
+      "https://www.prnewswire.com/news-releases/veteran-ventures-capital-invests-in-hybron-technologies-to-accelerate-next-generation-defense-manufacturing-302738589.html",
+      "https://www.veteranventures.us/"
+    ]
+  },
+  {
+    "name": "Capital Factory - Texas Fund / Center for Dual-Use Innovation",
+    "org": "Capital Factory",
+    "rank": 167,
+    "tier": "cut",
+    "why": "Defense/space-autonomy thesis; human-performance fit is only thematic.",
+    "first_move": "None now.",
+    "evidence": [
+      "https://texas-fund.webflow.io/",
+      "https://capitalfactory.com/government",
+      "https://acceleratoratlas.com/accelerators/defense_space/capital-factory-defense"
+    ]
+  }
+]

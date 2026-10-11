@@ -2891,6 +2891,911 @@
    "verdict": "cut",
    "reason": "NBA team; no realistic path, 2025 signal.",
    "move": null
+  },
+  "grayson-judge-supermoon-capital": {
+   "verdict": "A",
+   "reason": "Sleep-specialist pre-seed/seed fund; backed Sahha's wearable-data API, then Kimba and Lume seeds in 2026. Closest thesis match to an open overnight-data platform.",
+   "move": "LinkedIn note to Grayson: Fitbit Web API sunsets Oct 30; Vybe is the open overnight ECG/HRV layer. Ask for 15 minutes."
+  },
+  "sunil-nagaraj-ubiquity-ventures": {
+   "verdict": "A",
+   "reason": "Pre-seed/seed lead, $1-3M, 'software beyond the screen': sensors plus software. Joined SOND's 2026 HRV sleep-earbud round. Public contact form.",
+   "move": "Submit ubiquity.vc/contact: SDK-first ECG/HRV band, DevKit design partners, Fitbit/Garmin/WHOOP developer gap. Ask for a first call."
+  },
+  "isabel-glass-cade-ventures": {
+   "verdict": "B",
+   "reason": "Founder of Cade; pre-seed health and wellness checks. A second door to the same wearable thesis.",
+   "move": "Only if Isabel doesn't reply in 10 days: LinkedIn note referencing the June 2026 post."
+  },
+  "cade-ventures-why-we-haven-t-invested-in-a-wearable-yet-and-what-would-change-ou": {
+   "verdict": "B",
+   "reason": "Founder of Cade; pre-seed health and wellness checks. A second door to the same wearable thesis.",
+   "move": "Only if Isabel doesn't reply in 10 days: LinkedIn note referencing the June 2026 post."
+  },
+  "ryan-engel-cade-ventures": {
+   "verdict": "B",
+   "reason": "Founder of Cade; pre-seed health and wellness checks. A second door to the same wearable thesis.",
+   "move": "Only if Isabel doesn't reply in 10 days: LinkedIn note referencing the June 2026 post."
+  },
+  "a16z-speedrun-sr008-andreessen-horowitz": {
+   "verdict": "A",
+   "reason": "Up to $1M at pre-seed; backed Clair Health's wrist wearable (June 2026 seed). Open application; SR008 runs early 2027.",
+   "move": "Submit the SR008 application this week; raw notes say the priority window is Oct 12-Nov 1 (confirm). Cite Clair."
+  },
+  "hax-sosv": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'HAX' row; ranked there.",
+   "move": "None; use the HAX entry."
+  },
+  "sosv-hax-sosv": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'HAX' row; ranked there.",
+   "move": "None; use the HAX entry."
+  },
+  "hivers-strivers-hivers-strivers-capital": {
+   "verdict": "A",
+   "reason": "Invests only in US-military-veteran-led companies, pre-seed through A, $100K-$1M. DC/Virginia is the closest fit geographically. Last confirmed deal Dec 2025.",
+   "move": "Submit the hiversandstrivers.com contact form with veteran service details and the DevKit plan. Ask for a screening call."
+  },
+  "kiva-dickinson-selva-ventures": {
+   "verdict": "A",
+   "reason": "Led Kimba's $6.5M seed (June 2026), an overnight HRV sleep device with a special-forces founder that integrates with WHOOP/Oura/Garmin. Consumer-health seed lead.",
+   "move": "LinkedIn note to Kiva: an overnight HRV band with an open SDK for apps like Kimba. Ask for a 15-minute call."
+  },
+  "resolute-ventures-resolute-ventures": {
+   "verdict": "A",
+   "reason": "Pre-seed/seed lead; co-invested in Kimba's June 2026 sleep seed. Portfolio pairs Hello Heart (heart health) with Vercel (developer tools), Vybe's two halves.",
+   "move": "resolute.vc contact form: dev-platform pitch, compared to Vercel for wearable health data. Ask for an intro call."
+  },
+  "golden-seeds-golden-seeds": {
+   "verdict": "A",
+   "reason": "Largest US angel network for women-led companies; $250K-$2M rounds, and health devices are exempt from the revenue requirement. Reached $200M in June 2026.",
+   "move": "Confirm a woman holds an operating C-suite role, then apply at goldenseeds.com/how-to-apply."
+  },
+  "ain-ventures-ain-ventures-academy-investor-network": {
+   "verdict": "A",
+   "reason": "Seed fund for veteran-led and dual-use startups, healthcare a focus sector, $250K-$750K checks. Navy-veteran GP active in 2026; public pitch form.",
+   "move": "Submit the academyinvestor.com pitch form framing the band's tactical-readiness and dual-use angle. Mention veteran ownership first."
+  },
+  "labcorp-venture-fund-labcorp": {
+   "verdict": "A",
+   "reason": "Burlington, NC strategic. Seed to B in digital health and consumer wellness; joined a biowearable seed and Ultrahuman's round (Sep 2026). In-state.",
+   "move": "Ask CED or NC Biotech contacts for a free warm intro to the Labcorp Venture Fund team. Cite Emm and Ultrahuman."
+  },
+  "jomayra-herrera-reach-capital": {
+   "verdict": "A",
+   "reason": "Wrote the Reach memo backing Clair's continuous wrist wearable, naming HRV and sensor fusion. Early-stage; publishes her Reach email for founders.",
+   "move": "Email Jomayra at the Reach address on her LinkedIn: HRV-first band plus open SDK. Ask for a 20-minute call."
+  },
+  "kristina-simmons-overwater-ventures": {
+   "verdict": "B",
+   "reason": "Pre-seed lead behind the 'always-on health tracking' memo (Adaptyx); site credits backing veteran teams. Contact form, but no confirmed 2026 deal.",
+   "move": "Send the overwater.vc contact form referencing the always-on memo and the veteran team."
+  },
+  "seaside-ventures-seaside-ventures": {
+   "verdict": "B",
+   "reason": "Consumer-health pre-seed/seed fund ($250K checks) in Somnee and Adaptyx wearables. Contact form; latest confirmed deals are from 2025.",
+   "move": "Submit the Seaside contact form with a three-line overnight-HRV pitch and the DevKit timeline."
+  },
+  "venture-connect-2027-council-for-entrepreneurial-development-ced": {
+   "verdict": "B",
+   "reason": "CED's Southeast capital summit in Durham, Mar 23-24, 2027; presenters are picked by angels and VCs. The 2027 application isn't posted.",
+   "move": "Email CED for the 2027 presenter application date and confirm it has no presenting fee (no-spend rule)."
+  },
+  "point-nine-point-nine": {
+   "verdict": "B",
+   "reason": "Seed fund in Junction's wearable-data API Series A, so it knows the developer-data platform thesis. Berlin-based, contact form, last dated 2025.",
+   "move": "Submit the pointnine.com form positioning Vybe as the device layer under APIs like Junction."
+  },
+  "pipeline-angels-pipeline-angels-ifel": {
+   "verdict": "B",
+   "reason": "Women and non-binary angel network that funds mission-driven US companies at Pitch Summits; next is Apr 2027, interest form open.",
+   "move": "Fill in the founder interest form at pipelineangels.org/forfounders for the April 2027 summit."
+  },
+  "37-angels-37-angels": {
+   "verdict": "B",
+   "reason": "Network of 100+ women angels, $50K-$200K per company, rolling Gust applications and pitch forums every two months.",
+   "move": "Apply via 37angels.com/founders at least two weeks before the next pitch forum."
+  },
+  "healthtech-capital-healthtech-capital": {
+   "verdict": "B",
+   "reason": "National health-tech angel group (since 2010) with free monthly screening through its startup portal. Seed/A; listed as actively seeking deals.",
+   "move": "Submit through healthtechcapital.com/startup before the first-Friday cut-off."
+  },
+  "petteri-lahtela-oura-co-founder-independent-angel": {
+   "verdict": "B",
+   "reason": "Oura co-founder and active angel; 2026 follow-on in Audicin, an SDK that syncs to Oura/WHOOP/Garmin. Rare platform credibility.",
+   "move": "LinkedIn note asking for 15 minutes of feedback on the open-SDK model, not money."
+  },
+  "pankaj-kedia-2468-ventures": {
+   "verdict": "B",
+   "reason": "Built Qualcomm's wearables business; 170+ early-stage investments through 2468 Ventures; angel in FLOWBIO's sweat-sensor wearable.",
+   "move": "LinkedIn note asking for his read on the SDK model and the gap left by Fitbit and Garmin."
+  },
+  "tim-rosa-somnee-former-fitbit-cmo": {
+   "verdict": "B",
+   "reason": "Former Fitbit CMO and Somnee CEO; his LinkedIn says he's open to advising and investing in human-performance ventures.",
+   "move": "LinkedIn note: Fitbit Web API sunset, and Vybe as the open successor. Ask for an advisor-style call."
+  },
+  "51ventures-51ventures": {
+   "verdict": "B",
+   "reason": "Sports and health-performance fund; joined Axo's seed (Sep 2026); GP is a former Green Beret. Contact form.",
+   "move": "Send the 51ventures.vc contact form leading with veteran ownership and overnight readiness data."
+  },
+  "lead-sports-health-tech-partners-lake-nona-fund-lead-lake-nona-fund": {
+   "verdict": "B",
+   "reason": "Orlando sports and health-tech fund (Southeast), pre-seed to A, with wearable portfolio. Contact form; last dated Apr 2025.",
+   "move": "Send the lakenonafund.com contact form; ask whether a pre-launch dev-platform band fits pre-seed."
+  },
+  "the-new-era-fund-the-new-era-fund": {
+   "verdict": "B",
+   "reason": "Seed/A, $100K-$500K checks; tactical markets (DoD, fire/EMS, police) are named in its thesis. Contact form; no dated deal.",
+   "move": "Send the newerafund.vc contact form framed around first-responder recovery data."
+  },
+  "veteran-angel-network-van-context-ventures": {
+   "verdict": "B",
+   "reason": "Veteran Angel Network backs veteran-led startups via SPVs and lists a public email. No dated activity found.",
+   "move": "Email VAN at the address on contextvc.com/van with a veteran-founder one-pager."
+  },
+  "next-chapter-ventures-ncv-next-chapter-ventures": {
+   "verdict": "B",
+   "reason": "Angel-style group whose largest investment is LifeLens, a Special Forces physiological wearable (Sep 2025). Contact form.",
+   "move": "Send the ncvinvestments.com contact form citing LifeLens; ask for a member screening."
+  },
+  "j2-ventures-j2-ventures": {
+   "verdict": "B",
+   "reason": "Veteran-led Boston fund; its $250M fund (Nov 2025) targets remote physiological monitoring; Oura in portfolio. Checks likely larger than pre-seed.",
+   "move": "Contact form at j2vp.com; ask whether they do pre-seed or prefer a DevKit-traction check-in."
+  },
+  "the-veteran-fund-the-veteran-fund": {
+   "verdict": "B",
+   "reason": "Seed fund for veteran-led critical-tech startups; raising Fund II. Thesis leans defense rather than wellness.",
+   "move": "Send the veteran.fund contact form with the tactical/readiness framing."
+  },
+  "vetted-accelerator-vetted-the-vetted-fund": {
+   "verdict": "B",
+   "reason": "Pre-seed accelerator for US/Israeli combat veterans with Vetted Fund investment; next cohort Feb-Apr 2027.",
+   "move": "Check combat-service eligibility, then click 'notify me' on accelerator.thevetted.vc."
+  },
+  "founder-institute-veteran-accelerator-founder-institute-powered-by-jpmorganchase": {
+   "verdict": "B",
+   "reason": "Virtual pre-seed program for veteran founders with a Funding Lab of military-friendly investors.",
+   "move": "Ask FI whether veteran cohorts waive enrollment cost (no-spend rule) before applying for the next cohort."
+  },
+  "alex-morgan-khosla-ventures": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Alex Morgan' row; ranked there.",
+   "move": "None; use the Alex Morgan entry."
+  },
+  "khosla-ventures-khosla-ventures": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Alex Morgan' row; ranked there.",
+   "move": "None; use the Alex Morgan entry."
+  },
+  "toni-schneider-true-ventures": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Toni Schneider' row; ranked there.",
+   "move": "None; use the Toni Schneider entry."
+  },
+  "true-ventures-true-ventures": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Toni Schneider' row; ranked there.",
+   "move": "None; use the Toni Schneider entry."
+  },
+  "krish-ramadurai-aix-ventures": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Krish Ramadurai' row; ranked there.",
+   "move": "None; use the Krish Ramadurai entry."
+  },
+  "aix-ventures-aix-ventures": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Krish Ramadurai' row; ranked there.",
+   "move": "None; use the Krish Ramadurai entry."
+  },
+  "anirvan-chowdhury-qualcomm-ventures": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Anirvan Chowdhury' row; ranked there.",
+   "move": "None; use the Anirvan Chowdhury entry."
+  },
+  "qualcomm-ventures-qualcomm": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Anirvan Chowdhury' row; ranked there.",
+   "move": "None; use the Anirvan Chowdhury entry."
+  },
+  "quinn-li-qualcomm-ventures": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Anirvan Chowdhury' row; ranked there.",
+   "move": "None; use the Anirvan Chowdhury entry."
+  },
+  "timothy-martens-vaark-ventures": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Timothy Martens' row; ranked there.",
+   "move": "None; use the Timothy Martens entry."
+  },
+  "vaark-ventures-vaark-ventures": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Timothy Martens' row; ranked there.",
+   "move": "None; use the Timothy Martens entry."
+  },
+  "oscar-moralez-boomerang-ventures": {
+   "verdict": "B",
+   "reason": "Midwest connected-health studio and fund; seed in SynchNeuro's HRV/sleep wearable (Nov 2025). Contact form.",
+   "move": "Send the boomerang.vc contact form; ask whether a non-Midwest pre-seed device fits."
+  },
+  "catalyst-by-wellstar-wellstar-health-system": {
+   "verdict": "B",
+   "reason": "Atlanta health-system venture arm (Southeast) in the Armor Medical wrist wearable; women-founder program. Strategic pilot path.",
+   "move": "Send the catalyst.wellstar.org contact form framed as wellness-data pilot interest."
+  },
+  "anne-wojcicki-treehub-ai-health-fund-operating-partner-23andme-co-founder": {
+   "verdict": "B",
+   "reason": "Personally in Clair's 2026 wearable seed; Treehub/AI Health Fund writes $50K-$150K first checks into computational health.",
+   "move": "Apply at jointreehub.com if Vybe's analytics layer fits 'computational health'."
+  },
+  "brydge-club-brydge-club": {
+   "verdict": "B",
+   "reason": "200+ women angels in Clair's wearable round; $1K-$50K member checks. Warm intro needed.",
+   "move": "Ask Golden Seeds or Pipeline contacts for a member intro."
+  },
+  "female-founders-fund-female-founders-fund": {
+   "verdict": "B",
+   "reason": "Co-led Taya's consumer-wearable seed (Mar 2026); a women-founder seed fund. Warm intro needed.",
+   "move": "Find a free warm intro through the woman-founder networks above."
+  },
+  "mac-venture-capital-mac-venture-capital": {
+   "verdict": "B",
+   "reason": "Co-led Taya's wearable seed (Mar 2026); backs diverse founders at seed. Warm intro needed.",
+   "move": "Find a free warm intro via minority-founder networks or Taya's founders."
+  },
+  "alumni-ventures-alumni-ventures": {
+   "verdict": "B",
+   "reason": "Co-investor in three 2025-26 wearable rounds (SOND, Emm, Wearlinq); contact form. Follows a lead, never leads.",
+   "move": "Revisit once a lead commits; then use the av.vc contact form."
+  },
+  "crosslink-capital-crosslink-capital": {
+   "verdict": "B",
+   "reason": "Seed/A, $1M-$9M initial checks; joined SOND's HRV sleep round (2026). Warm intro only.",
+   "move": "Ask Ubiquity for a co-investor intro if Sunil engages."
+  },
+  "leo-polovets-humba-ventures": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Leo Polovets' row; ranked there.",
+   "move": "None; use the Leo Polovets entry."
+  },
+  "humba-ventures-humba-ventures": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Leo Polovets' row; ranked there.",
+   "move": "None; use the Leo Polovets entry."
+  },
+  "achal-upadhyaya-interlagos": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Achal Upadhyaya' row; ranked there.",
+   "move": "None; use the Achal Upadhyaya entry."
+  },
+  "interlagos-interlagos": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'Achal Upadhyaya' row; ranked there.",
+   "move": "None; use the Achal Upadhyaya entry."
+  },
+  "dvc-health-duro-ventures-collective": {
+   "verdict": "B",
+   "reason": "AngelList health syndicate with healthcare LPs; founder is a former Army Special Forces medic.",
+   "move": "LinkedIn note to Dan Hightower leading with veteran ownership."
+  },
+  "spartan-tech-ventures-spartan-tech-ventures": {
+   "verdict": "B",
+   "reason": "Human-performance investor (seed/A) naming continuous-biomarker wearables. Contact form; no dated deal.",
+   "move": "Send the spartanventures.tech contact form; ask for a feedback call."
+  },
+  "hjf-mdc-venture-fund-hjf-mdc-venture-fund": {
+   "verdict": "B",
+   "reason": "Dual-use military-medical fund naming wearables for health; raising $20M. Warm intro only.",
+   "move": "Ask veteran-network contacts (H&S, AIN) for an intro once DevKit data exists."
+  },
+  "techstars-anywhere-accelerator-spring-2027-techstars": {
+   "verdict": "B",
+   "reason": "Techstars health accelerator, $220K, Johns Hopkins and MedStar access (Mid-Atlantic). AI-led, so pitch the analytics layer.",
+   "move": "Apply only if the HRV/ECG analytics story is strong; confirm the Spring 2027 deadline."
+  },
+  "techstars-ai-health-baltimore-spring-2027-techstars": {
+   "verdict": "B",
+   "reason": "Techstars health accelerator, $220K, Johns Hopkins and MedStar access (Mid-Atlantic). AI-led, so pitch the analytics layer.",
+   "move": "Apply only if the HRV/ECG analytics story is strong; confirm the Spring 2027 deadline."
+  },
+  "y-combinator-winter-2027-batch-y-combinator": {
+   "verdict": "B",
+   "reason": "$500K standard deal; health hardware eligible. The W27 date has passed, but late applications are reviewed.",
+   "move": "Optional late W27 application; lower priority than speedrun and HAX."
+  },
+  "ajay-surie-beeler-street-ventures-former-fitbit": {
+   "verdict": "B",
+   "reason": "Listed as ex-Fitbit software-platform lead at Beeler Street Ventures; web search could not confirm the firm.",
+   "move": "Verify identity on LinkedIn before any outreach; if confirmed, ask about the Fitbit API successor."
+  },
+  "scalewolf-scalewolf": {
+   "verdict": "B",
+   "reason": "Dual-use pre-seed/seed fund (EUR 50K-1M) in the Pulsetto wearable; opened an Alexandria, VA office in May 2026.",
+   "move": "Send the scalewolf.vc contact form with the tactical framing; ask whether they back US devices."
+  },
+  "fortify-ventures-fortify-ventures": {
+   "verdict": "B",
+   "reason": "US seed fund that co-led Samphire's $5M neurotech-wearable seed (2025). Contact form; no 2026 deal confirmed.",
+   "move": "Send the fortifyventures.com contact form; low priority."
+  },
+  "next-ventures-next-ventures": {
+   "verdict": "B",
+   "reason": "Ex-Nike sports and wellness hardware fund and early Oura investor. LinkedIn only; last post Sep 2025.",
+   "move": "LinkedIn note to Melanie Strong citing Oura; low priority."
+  },
+  "a16z-speedrun-andreessen-horowitz-speedrun": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'a16z speedrun (SR008)' row; ranked there.",
+   "move": "None; use the a16z speedrun (SR008) entry."
+  },
+  "emily-bennett-andreessen-horowitz-a16z-speedrun": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'a16z speedrun (SR008)' row; ranked there.",
+   "move": "None; use the a16z speedrun (SR008) entry."
+  },
+  "ben-joffe-sosv-hax": {
+   "verdict": "cut",
+   "reason": "Duplicate of the 'HAX' row; ranked there.",
+   "move": "None; use the HAX entry."
+  },
+  "lunar-ventures-lunar-ventures": {
+   "verdict": "cut",
+   "reason": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+   "move": "None now."
+  },
+  "mick-halsband-lunar-ventures": {
+   "verdict": "cut",
+   "reason": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+   "move": "None now."
+  },
+  "sand-hill-angels-sand-hill-angels": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "jumpstart-trailblazer-healthtech-accelerator-jumpstart-inc": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "jumpstart-ventures-jumpstart-inc": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "accelerating-angels-accelerating-angels": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "bluetree-allied-angels-bluetree-allied-angels": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "ec-angels-the-entrepreneurs-center-dayton": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "aptima-ventures-aptima-ventures-aptima-inc": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "hpa-hyde-park-angels-hpa": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "kickstart-midwest-2026-startup-world-cup-ohio-regional-kickstart-midwest": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "north-coast-ventures-north-coast-ventures-formerly-north-coast-angel-fund": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "startupcincy-week-2026-cintrifuse-startupcincy": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "rev1-ventures-rev1-ventures": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "ohio-angel-collective-ohio-angel-collective-managed-by-vessel": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "71-70-angels-71-70-angels-rev1-ventures": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "qca-ventures-qca-ventures-formerly-queen-city-angels": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "archangels-akron-regional-change-angels-university-of-akron-research-foundation": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "the-o-h-i-o-fund-the-o-h-i-o-fund": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "cincytech-cincytech": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "heartland-ventures-heartland-ventures": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "bearcat-ventures-bearcat-ventures-university-of-cincinnati": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "beacon-angels-beacon-angels": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "northwestern-medicine-techstars-healthcare-accelerator-class-3-techstars-northwe": {
+   "verdict": "cut",
+   "reason": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus.",
+   "move": "None now. Revisit only if the founder confirms an Ohio or Midwest link."
+  },
+  "nexus-venture-partners-nexus-venture-partners": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "alpha-wave-alpha-wave": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "alteria-capital-alteria-capital": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "dell-family-office-dell-family-office-michael-dell": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "shangbay-capital-shangbay-capital": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "j4-ventures-j4-ventures": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "moai-capital-moai-capital": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "will-ventures-will-ventures": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "moxxie-ventures-moxxie-ventures": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "v1-vc-v1-vc": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "great-oaks-venture-capital-great-oaks-venture-capital": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "shorewind-capital-shorewind-capital": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "oregon-sports-angels-oregon-sports-angels": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "arch-venture-partners-arch-venture-partners": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "peak-xv-partners-peak-xv-partners": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "all-in-capital-all-in-capital": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "kindred-ventures-kindred-ventures": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "blume-ventures-blume-ventures": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "juhi-bhatnagar-forj-capital": {
+   "verdict": "cut",
+   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
+   "move": "None now."
+  },
+  "cartan-capital-cartan-capital": {
+   "verdict": "cut",
+   "reason": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+   "move": "None now."
+  },
+  "able-partners-able-partners": {
+   "verdict": "cut",
+   "reason": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+   "move": "None now."
+  },
+  "palette-ventures-palette-ventures": {
+   "verdict": "cut",
+   "reason": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+   "move": "None now."
+  },
+  "e14-fund-e14-fund-mit-affiliated": {
+   "verdict": "cut",
+   "reason": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+   "move": "None now."
+  },
+  "meach-cove-capital-meach-cove-capital": {
+   "verdict": "cut",
+   "reason": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+   "move": "None now."
+  },
+  "ms-ad-ventures-ms-ad-ventures": {
+   "verdict": "cut",
+   "reason": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+   "move": "None now."
+  },
+  "everywhere-ventures-everywhere-ventures": {
+   "verdict": "cut",
+   "reason": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+   "move": "None now."
+  },
+  "lifex-ventures-lifex-ventures": {
+   "verdict": "cut",
+   "reason": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+   "move": "None now."
+  },
+  "cantos-ventures-cantos-ventures": {
+   "verdict": "cut",
+   "reason": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+   "move": "None now."
+  },
+  "hyperlink-ventures-hyperlink-ventures": {
+   "verdict": "cut",
+   "reason": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+   "move": "None now."
+  },
+  "starbloom-capital-starbloom-capital": {
+   "verdict": "cut",
+   "reason": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor.",
+   "move": "None now."
+  },
+  "skin-in-the-game-skin-in-the-game": {
+   "verdict": "cut",
+   "reason": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+   "move": "None now."
+  },
+  "fredrik-debong-1921-ventures": {
+   "verdict": "cut",
+   "reason": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+   "move": "None now."
+  },
+  "petteri-koponen-lifeline-ventures": {
+   "verdict": "cut",
+   "reason": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+   "move": "None now."
+  },
+  "smarter-ventures-smarter-ventures": {
+   "verdict": "cut",
+   "reason": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+   "move": "None now."
+  },
+  "roger-parellada-nprime": {
+   "verdict": "cut",
+   "reason": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+   "move": "None now."
+  },
+  "gemma-frisius-fund-gemma-frisius-fund-ku-leuven": {
+   "verdict": "cut",
+   "reason": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+   "move": "None now."
+  },
+  "seveno-capital-seveno-capital": {
+   "verdict": "cut",
+   "reason": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+   "move": "None now."
+  },
+  "redalpine-redalpine": {
+   "verdict": "cut",
+   "reason": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+   "move": "None now."
+  },
+  "inventure-inventure-vc": {
+   "verdict": "cut",
+   "reason": "Non-US fund with no stated US pre-seed activity; warm intro only.",
+   "move": "None now."
+  },
+  "healthtech-week-summit-2027-jpm-week-startup-pitch-competition-healthtech-week-m": {
+   "verdict": "cut",
+   "reason": "Event or pitch competition, not an investor; likely fees under the no-spend rule.",
+   "move": "None now."
+  },
+  "ces-2027-eureka-park-consumer-technology-association": {
+   "verdict": "cut",
+   "reason": "Event or pitch competition, not an investor; likely fees under the no-spend rule.",
+   "move": "None now."
+  },
+  "sxsw-pitch-2027-sxsw": {
+   "verdict": "cut",
+   "reason": "Event or pitch competition, not an investor; likely fees under the no-spend rule.",
+   "move": "None now."
+  },
+  "hlth-usa-2026-investor-connect-hlth": {
+   "verdict": "cut",
+   "reason": "Event or pitch competition, not an investor; likely fees under the no-spend rule.",
+   "move": "None now."
+  },
+  "vive-2027-startup-pitch-investor-connect-hlth-chime-vive": {
+   "verdict": "cut",
+   "reason": "Event or pitch competition, not an investor; likely fees under the no-spend rule.",
+   "move": "None now."
+  },
+  "mid-atlantic-bio-angels-maba-mid-atlantic-bio-angels": {
+   "verdict": "cut",
+   "reason": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch.",
+   "move": "None now."
+  },
+  "life-science-angels-life-science-angels": {
+   "verdict": "cut",
+   "reason": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch.",
+   "move": "None now."
+  },
+  "cedars-sinai-accelerator-cedars-sinai": {
+   "verdict": "cut",
+   "reason": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch.",
+   "move": "None now."
+  },
+  "mayo-clinic-platform-accelerate-mayo-clinic-platform": {
+   "verdict": "cut",
+   "reason": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch.",
+   "move": "None now."
+  },
+  "medtech-innovator-2027-accelerator-medtech-innovator": {
+   "verdict": "cut",
+   "reason": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch.",
+   "move": "None now."
+  },
+  "startup-health-syndicate-startup-health": {
+   "verdict": "cut",
+   "reason": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch.",
+   "move": "None now."
+  },
+  "icon-sports-ventures-icon-sports-ventures": {
+   "verdict": "cut",
+   "reason": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+   "move": "None now."
+  },
+  "359-capital-formerly-sapphire-sport-359-capital": {
+   "verdict": "cut",
+   "reason": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+   "move": "None now."
+  },
+  "sequence-sequence": {
+   "verdict": "cut",
+   "reason": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+   "move": "None now."
+  },
+  "thirty-5-capital-thirty-5-capital": {
+   "verdict": "cut",
+   "reason": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+   "move": "None now."
+  },
+  "athleteiq-ventures-athleteiq-ventures": {
+   "verdict": "cut",
+   "reason": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+   "move": "None now."
+  },
+  "match-ventures-match-ventures": {
+   "verdict": "cut",
+   "reason": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+   "move": "None now."
+  },
+  "ndamukong-suh-house-of-spears-management": {
+   "verdict": "cut",
+   "reason": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+   "move": "None now."
+  },
+  "instudio-ventures-instudio-ventures": {
+   "verdict": "cut",
+   "reason": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+   "move": "None now."
+  },
+  "wildwood-ventures-wildwood-ventures-backed-by-vf-corporation": {
+   "verdict": "cut",
+   "reason": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+   "move": "None now."
+  },
+  "forma-capital-the-cashmere-fund-forma-capital": {
+   "verdict": "cut",
+   "reason": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel.",
+   "move": "None now."
+  },
+  "samsung-ventures-samsung-venture-investment-corp-samsung-electronics": {
+   "verdict": "cut",
+   "reason": "Corporate strategic at later stages with warm intro only; too early for Vybe.",
+   "move": "None now."
+  },
+  "samsung-next-samsung-electronics": {
+   "verdict": "cut",
+   "reason": "Corporate strategic at later stages with warm intro only; too early for Vybe.",
+   "move": "None now."
+  },
+  "kirin-health-innovation-fund-kirin-holdings-global-brain": {
+   "verdict": "cut",
+   "reason": "Corporate strategic at later stages with warm intro only; too early for Vybe.",
+   "move": "None now."
+  },
+  "dexcom-dexcom-ventures-dexcom": {
+   "verdict": "cut",
+   "reason": "Corporate strategic at later stages with warm intro only; too early for Vybe.",
+   "move": "None now."
+  },
+  "harpreet-rai-former-oura-ceo-independent-angel": {
+   "verdict": "cut",
+   "reason": "Angel reachable only by warm intro, with no path we have today.",
+   "move": "None now."
+  },
+  "virpi-tuomivaara-oura-co-founder-angel": {
+   "verdict": "cut",
+   "reason": "Angel reachable only by warm intro, with no path we have today.",
+   "move": "None now."
+  },
+  "matteo-franceschetti-eight-sleep-co-founder-ceo": {
+   "verdict": "cut",
+   "reason": "Angel reachable only by warm intro, with no path we have today.",
+   "move": "None now."
+  },
+  "portfolia-portfolia-women-s-health-femtech-active-aging-funds": {
+   "verdict": "cut",
+   "reason": "Angel reachable only by warm intro, with no path we have today.",
+   "move": "None now."
+  },
+  "craig-shapiro-collaborative-fund": {
+   "verdict": "cut",
+   "reason": "Growth-stage leader (Oura/WHOOP boards); not writing pre-seed checks for outside founders.",
+   "move": "None now."
+  },
+  "eurie-kim-forerunner-ventures": {
+   "verdict": "cut",
+   "reason": "Growth-stage leader (Oura/WHOOP boards); not writing pre-seed checks for outside founders.",
+   "move": "None now."
+  },
+  "veteran-ventures-capital-veteran-ventures-capital": {
+   "verdict": "cut",
+   "reason": "Defense/space-autonomy thesis; human-performance fit is only thematic.",
+   "move": "None now."
+  },
+  "capital-factory-texas-fund-center-for-dual-use-innovation-capital-factory": {
+   "verdict": "cut",
+   "reason": "Defense/space-autonomy thesis; human-performance fit is only thematic.",
+   "move": "None now."
+  },
+  "sond-exits-stealth-with-7m-e14-fund-lead-for-hrv-sensing-sleep-earbuds-sond": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
+  },
+  "clair-health-11m-seed-led-by-khosla-for-women-s-hormone-wristband-clair-health": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
+  },
+  "oura-postpones-2-1b-ipo-early-backers-forerunner-and-lifeline-named-oura": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
+  },
+  "ultrahuman-raises-70m-led-by-qualcomm-ventures-and-opens-ring-to-third-party-dev": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
+  },
+  "level-zero-health-6-9m-pre-seed-for-continuous-hormone-wearable-level-zero-healt": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
+  },
+  "whoop-raises-575m-series-g-at-10-1b-led-by-collaborative-fund-whoop": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
+  },
+  "wearlinq-14m-series-a-aix-ventures-for-wireless-6-lead-ecg-wearable-wearlinq": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
+  },
+  "nix-biosensors-10m-series-a-to-license-hydration-algorithms-to-consumer-wearable": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
+  },
+  "sahha-raises-1-2m-for-wearable-data-api-antler-supermoon-func-ventures-sahha": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
+  },
+  "eli-lilly-makes-equity-investment-in-oura-after-lillydirect-glp-1-tie-up-eli-lil": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
+  },
+  "kimba-6-5m-seed-selva-lead-for-overnight-biometric-sleep-device-kimba": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
+  },
+  "onalabs-closes-eur9-3m-round-for-sweat-sensing-health-wearables-onalabs": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
+  },
+  "throne-science-10m-series-a-will-ventures-lead-co-founded-by-ex-whoop-cto-throne": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
+  },
+  "oura-raises-900m-series-e-at-11b-fidelity-lead-oura": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
+  },
+  "xsensio-6m-series-a-wi-harper-for-wearable-biochemical-sensing-chip-xsensio": {
+   "verdict": "cut",
+   "reason": "Not ranked A/B in the 11 Oct investor review",
+   "move": null
   }
  }
 }

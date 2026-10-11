@@ -228,6 +228,8 @@ def load_review() -> dict:
 
 
 def costs_money(row: dict) -> bool:
+    if row.get("hunt") == "investor":
+        return False  # a check size is money coming in, not going out
     if row.get("hunt") == "sponsorship" or row.get("type") in ("competitor-deal", "athlete"):
         return True
     text = " ".join(str(row.get(k) or "") for k in ("name", "ask", "opener", "why", "why_now"))

@@ -199,3 +199,7 @@ def test_needs_units_marks_device_asks_for_after_devkit():
     assert build.needs_units({"ask": "Seed 5 bands with the training group"})
     assert build.needs_units({"ask": "Offer a DevKit unit with raw-data SDK access"})
     assert not build.needs_units({"ask": "15-minute call on how they add new data sources"})
+
+
+def test_investor_check_sizes_are_not_parked_as_spend():
+    assert not build.costs_money({"hunt": "investor", "type": "vc", "why": "Writes $1M pre-seed checks"})

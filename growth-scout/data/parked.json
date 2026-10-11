@@ -2,235 +2,263 @@
   "rule": "Parked (costs money): sponsorships, tables, booths, vendor slots, expo or event fees, tiers, prizes and athlete deals. Founder, 11 Oct: no spend.",
   "rows": [
     {
-      "name": "a16z speedrun (SR008)",
+      "name": "Northwestern Medicine & Techstars Healthcare Accelerator (Class 3)",
       "type": "accelerator",
-      "geo": "San Francisco, CA (in person)",
-      "ask": "Submit SR008 application inside the Oct 12 - Nov 1 priority window.",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Y Combinator (Winter 2027 batch)",
-      "type": "accelerator",
-      "geo": "San Francisco, CA",
-      "ask": "Submit W27 application before Nov 2, 2026 8pm PT (or Early Decision for Spring 2027).",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Techstars Anywhere Accelerator (Spring 2027)",
-      "type": "accelerator",
-      "geo": "Remote (North America)",
-      "ask": "Apply to Spring 2027 Anywhere before Nov 18, 2026; request a 15-min call with the MD.",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Techstars AI Health Baltimore (Spring 2027)",
-      "type": "accelerator",
-      "geo": "Baltimore, MD",
-      "ask": "Apply before Nov 18, 2026; ask Investment Manager Emily McLanahan for a fit check.",
-      "why_parked": "costs money"
+      "geo": "Chicago, IL",
+      "ask": "Confirm final deadline and apply; ask MD Brad Schnitzer for a 15-min fit call.",
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
       "name": "HAX",
       "type": "accelerator",
       "geo": "Newark, NJ / Shenzhen",
       "ask": "Submit HAX application and ask for a 15-min intro call with the health-hardware partner.",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'HAX' row; ranked there."
     },
     {
       "name": "Cedars-Sinai Accelerator+",
       "type": "accelerator",
       "geo": "Los Angeles, CA",
       "ask": "Request intake call to learn the next Accelerator+ application window.",
-      "why_parked": "costs money"
+      "why_parked": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch."
     },
     {
       "name": "Mayo Clinic Platform_Accelerate",
       "type": "accelerator",
       "geo": "Rochester, MN (virtual)",
       "ask": "Apply for the next cohort; ask whether consumer wellness wearables are in scope.",
-      "why_parked": "costs money"
+      "why_parked": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch."
+    },
+    {
+      "name": "JumpStart Trailblazer HealthTech Accelerator",
+      "type": "accelerator",
+      "geo": "Cleveland, OH",
+      "ask": "Ask a JumpStart advisor for a 15-min intake call and a heads-up on the next Trailblazer HealthTech window.",
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
       "name": "Rev1 Ventures",
       "type": "accelerator",
       "geo": "Columbus, OH",
       "ask": "15-min intro call about the studio program and Ohio pre-seed capital.",
-      "why_parked": "costs money"
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
       "name": "Capital Factory - Texas Fund / Center for Dual-Use Innovation",
       "type": "accelerator",
       "geo": "Austin, TX",
       "ask": "Submit a Texas Fund pitch and request a CDI intro on Army/SOF human-performance buyers.",
-      "why_parked": "costs money"
+      "why_parked": "Defense/space-autonomy thesis; human-performance fit is only thematic."
     },
     {
       "name": "MedTech Innovator 2027 Accelerator",
       "type": "accelerator",
       "geo": "Virtual (US)",
       "ask": "Join 2027 waitlist and apply as soon as the window opens (Oct 2026).",
-      "why_parked": "costs money"
+      "why_parked": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch."
     },
     {
       "name": "Qualcomm Ventures",
       "type": "corporate-vc",
       "geo": "San Diego, CA (global)",
       "ask": "Intro conversation with Qualcomm Ventures' consumer/IoT team about developer-platform wearables.",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'Anirvan Chowdhury' row; ranked there."
     },
     {
-      "name": "Labcorp Venture Fund",
+      "name": "Samsung NEXT",
       "type": "corporate-vc",
-      "geo": "Burlington, NC",
-      "ask": "15-min call with the Labcorp Venture Fund team about wearable-data partnerships.",
-      "why_parked": "costs money"
+      "geo": "San Francisco, CA",
+      "ask": "Intro to Samsung NEXT health team for feedback on Galaxy-ecosystem SDK interoperability.",
+      "why_parked": "Corporate strategic at later stages with warm intro only; too early for Vybe."
+    },
+    {
+      "name": "Samsung Ventures (Samsung Venture Investment Corp.)",
+      "type": "corporate-vc",
+      "geo": "Seoul / global",
+      "ask": "Intro conversation about wearable biosensor investments with tactical/consumer dual use.",
+      "why_parked": "Corporate strategic at later stages with warm intro only; too early for Vybe."
     },
     {
       "name": "Dexcom (Dexcom Ventures)",
       "type": "corporate-vc",
       "geo": "San Diego, CA",
       "ask": "Short call on whether ECG/HRV data platforms complement Stelo's consumer biosensor ecosystem.",
-      "why_parked": "costs money"
+      "why_parked": "Corporate strategic at later stages with warm intro only; too early for Vybe."
+    },
+    {
+      "name": "KIRIN HEALTH INNOVATION FUND",
+      "type": "corporate-vc",
+      "geo": "Tokyo / global",
+      "ask": "Intro via Global Brain for a short conversation on wellness wearables.",
+      "why_parked": "Corporate strategic at later stages with warm intro only; too early for Vybe."
     },
     {
       "name": "CES 2027 - Eureka Park",
       "type": "event",
       "geo": "Las Vegas, NV",
       "ask": "Submit Eureka Park application now so the DevKit can be shown to investors Jan 6-9, 2027.",
-      "why_parked": "costs money"
+      "why_parked": "Event or pitch competition, not an investor; likely fees under the no-spend rule."
     },
     {
       "name": "SXSW Pitch 2027",
       "type": "event",
       "geo": "Austin, TX",
       "ask": "Enter Life Sciences, Healthcare & AssistiveTech category before Nov 11, 2026.",
-      "why_parked": "costs money"
+      "why_parked": "Event or pitch competition, not an investor; likely fees under the no-spend rule."
     },
     {
       "name": "HLTH USA 2026 - Investor Connect",
       "type": "event",
       "geo": "Las Vegas, NV",
       "ask": "Register at startup rate and request Investor Connect matching for Nov 15-18.",
-      "why_parked": "costs money"
+      "why_parked": "Event or pitch competition, not an investor; likely fees under the no-spend rule."
     },
     {
       "name": "ViVE 2027 - Startup Pitch & Investor Connect",
       "type": "event",
       "geo": "Nashville, TN",
       "ask": "Apply for Startup/Investor Connect and watch for 2027 pitch-application opening.",
-      "why_parked": "costs money"
+      "why_parked": "Event or pitch competition, not an investor; likely fees under the no-spend rule."
     },
     {
-      "name": "Petteri Lahtela",
-      "type": "angel",
-      "geo": "Finland",
-      "ask": "20-minute call for feedback on the Vybe SDK/DevKit approach and whether he would follow the round",
-      "why_parked": "costs money"
+      "name": "HealthTech Week & Summit 2027 (JPM week) - Startup Pitch Competition",
+      "type": "event",
+      "geo": "San Francisco, CA",
+      "ask": "Apply to the JPM-week pitch competition once the 2027 form opens.",
+      "why_parked": "Event or pitch competition, not an investor; likely fees under the no-spend rule."
+    },
+    {
+      "name": "Kickstart Midwest 2026 - Startup World Cup Ohio Regional",
+      "type": "event",
+      "geo": "Columbus, OH",
+      "ask": "Submit Vybe to the Startup World Cup Ohio regional immediately.",
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
+    },
+    {
+      "name": "StartupCincy Week 2026",
+      "type": "event",
+      "geo": "Cincinnati, OH",
+      "ask": "Register and book VC meetings for Capital day, Oct 6.",
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
       "name": "Harpreet Rai",
       "type": "angel",
       "geo": null,
       "ask": "Intro conversation on the open SDK/no-subscription model for a consumer band",
-      "why_parked": "costs money"
+      "why_parked": "Angel reachable only by warm intro, with no path we have today."
     },
     {
       "name": "Virpi Tuomivaara",
       "type": "angel",
       "geo": "Finland",
       "ask": "Short call on design-partner selection for a wearable SDK",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Anne Wojcicki",
-      "type": "angel",
-      "geo": "Los Altos / Palo Alto, CA",
-      "ask": "Apply to Treehub, or ask for a 20-minute conversation about the open-data wearable platform",
-      "why_parked": "costs money"
+      "why_parked": "Angel reachable only by warm intro, with no path we have today."
     },
     {
       "name": "Matteo Franceschetti",
       "type": "angel",
       "geo": "New York, NY",
       "ask": "15-minute call for feedback on sleep/HRV developer use cases",
-      "why_parked": "costs money"
+      "why_parked": "Angel reachable only by warm intro, with no path we have today."
     },
     {
-      "name": "Brydge Club",
+      "name": "Accelerating Angels",
       "type": "angel-group",
-      "geo": "Los Angeles, CA / remote",
-      "ask": "Ask to be considered for a Brydge Club deal-flow session",
-      "why_parked": "costs money"
+      "geo": "Dublin, OH",
+      "ask": "Pitch slot at an upcoming Accelerating Angels screening",
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
       "name": "Ohio Angel Collective",
       "type": "syndicate",
       "geo": "Ohio (statewide)",
       "ask": "Submit via Pitch Us and request a screening call",
-      "why_parked": "costs money"
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
       "name": "71/70 Angels",
       "type": "angel-group",
       "geo": "Columbus, OH",
       "ask": "Intro call with Melinda Gloriosa on fit for the SDK/API side of the business",
-      "why_parked": "costs money"
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
+    },
+    {
+      "name": "North Coast Ventures",
+      "type": "angel-group",
+      "geo": "Cleveland, OH",
+      "ask": "Apply via contact page and request a screening call",
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
       "name": "QCA Ventures",
       "type": "angel-group",
       "geo": "Cincinnati, OH",
       "ask": "Free one-hour screening with QCA member angels",
-      "why_parked": "costs money"
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
+    },
+    {
+      "name": "EC Angels",
+      "type": "angel-group",
+      "geo": "Dayton, OH",
+      "ask": "Ask how a non-Dayton Ohio company can be considered for a quarterly EC Angels pitch",
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
       "name": "ARCHAngels (Akron Regional Change Angels)",
       "type": "angel-group",
       "geo": "Akron, OH",
       "ask": "Submit executive summary for the next ARCHAngels deal-flow committee",
-      "why_parked": "costs money"
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
-      "name": "Golden Seeds",
+      "name": "HPA (Hyde Park Angels)",
       "type": "angel-group",
-      "geo": "New York, NY (national)",
-      "ask": "Attend an information session, then submit an application ($50 fee)",
-      "why_parked": "costs money"
+      "geo": "Chicago, IL",
+      "ask": "Intro screening call",
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
-      "name": "Pipeline Angels",
+      "name": "BlueTree Allied Angels",
       "type": "angel-group",
-      "geo": "Virtual (US)",
-      "ask": "Complete the interest form for the Spring 2027 Pitch Summit",
-      "why_parked": "costs money"
+      "geo": "Pittsburgh, PA",
+      "ask": "Submit through the Entrepreneurs portal for screening",
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
-      "name": "37 Angels",
+      "name": "Life Science Angels",
+      "type": "angel-group",
+      "geo": "Sunnyvale, CA",
+      "ask": "Find a referring member or affiliate, then submit the Dealum application",
+      "why_parked": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch."
+    },
+    {
+      "name": "Mid Atlantic Bio Angels (MABA)",
       "type": "angel-group",
       "geo": "New York, NY",
-      "ask": "Apply via Gust for a 20-minute fit call",
-      "why_parked": "costs money"
+      "ask": "Submit for MABA screening",
+      "why_parked": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch."
+    },
+    {
+      "name": "Sand Hill Angels",
+      "type": "angel-group",
+      "geo": "Mountain View, CA",
+      "ask": "Apply to Sand Hill Angels RAW pitch practice",
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
       "name": "Portfolia",
       "type": "syndicate",
       "geo": "San Mateo, CA",
       "ask": "Intro to the Active Aging / Women's Health fund team for pipeline review",
-      "why_parked": "costs money"
+      "why_parked": "Angel reachable only by warm intro, with no path we have today."
     },
     {
       "name": "StartUp Health Syndicate",
       "type": "syndicate",
       "geo": "New York, NY",
       "ask": "Explore StartUp Health Academy admission (gateway to the syndicate)",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "DVC: Health",
-      "type": "syndicate",
-      "geo": null,
-      "ask": "15-minute intro with the syndicate lead",
-      "why_parked": "costs money"
+      "why_parked": "Clinical, life-science or medical-device mandate; Vybe is general wellness and pre-launch."
     },
     {
       "name": "Wearables-HF registry (NCT07650669)",
@@ -4272,6 +4300,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Beacon Angels",
+      "type": "angel-group",
+      "geo": "Boston, MA",
+      "ask": "Ask how out-of-region health-hardware founders apply and get screened",
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
+    },
+    {
       "name": "Massachusetts National Guard (2026 Best Warrior Competition)",
       "type": "channel-partner",
       "geo": "Camp Edwards, MA",
@@ -5147,6 +5182,13 @@
       "why_parked": "Clinical sleep-apnea therapy research."
     },
     {
+      "name": "Biometrics (tusharcora)",
+      "type": "builder",
+      "geo": null,
+      "ask": "Open a GitHub issue offering a Vybe SDK adapter as a second data source and a 15-minute call",
+      "why_parked": "costs money"
+    },
+    {
       "name": "13th Annual Wells Veterans Day 5K 2026",
       "type": "event",
       "geo": "Wells, ME",
@@ -5418,13 +5460,6 @@
       "geo": "Camp Lejeune, NC",
       "ask": "Ask an MCTFIT trainer for 15 minutes on how sleep fits into unit total-fitness plans",
       "why_parked": "Military unit training photo; no reachable owner or payoff."
-    },
-    {
-      "name": "Venture Connect 2027",
-      "type": "event",
-      "geo": "Durham, NC",
-      "ask": "Apply to present when the 2027 application opens; meanwhile ask CED which track hardware-health companies go in",
-      "why_parked": "costs money"
     },
     {
       "name": "Raleigh Founded",
@@ -6050,116 +6085,130 @@
       "why_parked": "Paid/travel conference; clinical."
     },
     {
-      "name": "The New Era Fund",
+      "name": "Icon Sports Ventures",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call",
-      "why_parked": "costs money"
+      "why_parked": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel."
     },
     {
-      "name": "51Ventures",
+      "name": "Match Ventures",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call",
-      "why_parked": "costs money"
+      "why_parked": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel."
     },
     {
-      "name": "LEAD Sports & Health Tech Partners (Lake Nona Fund)",
+      "name": "AthleteIQ Ventures",
       "type": "vc",
-      "geo": "Orlando, FL",
+      "geo": null,
       "ask": "15-minute intro call",
-      "why_parked": "costs money"
+      "why_parked": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel."
+    },
+    {
+      "name": "Sequence",
+      "type": "vc",
+      "geo": "Los Angeles, CA",
+      "ask": "15-minute intro call",
+      "why_parked": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel."
+    },
+    {
+      "name": "359 Capital (formerly Sapphire Sport)",
+      "type": "vc",
+      "geo": null,
+      "ask": "15-minute intro call",
+      "why_parked": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel."
     },
     {
       "name": "InStudio Ventures",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call",
-      "why_parked": "costs money"
+      "why_parked": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel."
+    },
+    {
+      "name": "Skin In The Game",
+      "type": "angel-group",
+      "geo": "London, UK",
+      "ask": "15-minute intro call",
+      "why_parked": "Non-US fund with no stated US pre-seed activity; warm intro only."
     },
     {
       "name": "Wildwood Ventures",
       "type": "corporate-vc",
       "geo": "Denver, CO",
       "ask": "15-minute intro call",
-      "why_parked": "costs money"
+      "why_parked": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel."
     },
     {
       "name": "Seveno Capital",
       "type": "vc",
       "geo": "Singapore / Hong Kong",
       "ask": "15-minute intro call",
-      "why_parked": "costs money"
+      "why_parked": "Non-US fund with no stated US pre-seed activity; warm intro only."
+    },
+    {
+      "name": "Thirty-5 Capital",
+      "type": "vc",
+      "geo": "Chicago, IL",
+      "ask": "15-minute intro call",
+      "why_parked": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel."
     },
     {
       "name": "Forma Capital / The Cashmere Fund",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "J2 Ventures",
-      "type": "vc",
-      "geo": "Boston, MA",
-      "ask": "15-minute intro call",
-      "why_parked": "costs money"
+      "why_parked": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel."
     },
     {
       "name": "Veteran Ventures Capital",
       "type": "vc",
       "geo": "McLean, VA",
       "ask": "15-minute intro call",
-      "why_parked": "costs money"
+      "why_parked": "Defense/space-autonomy thesis; human-performance fit is only thematic."
     },
     {
-      "name": "The Veteran Fund",
-      "type": "vc",
-      "geo": "San Francisco, CA",
+      "name": "Aptima Ventures",
+      "type": "corporate-vc",
+      "geo": "Fairborn / Dayton, OH",
       "ask": "15-minute intro call",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "HJF-MDC Venture Fund",
-      "type": "vc",
-      "geo": "Bethesda, MD",
-      "ask": "15-minute intro call",
-      "why_parked": "costs money"
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
       "name": "The O.H.I.O. Fund",
       "type": "vc",
       "geo": "Cleveland, OH",
       "ask": "15-minute intro call",
-      "why_parked": "costs money"
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
       "name": "CincyTech",
       "type": "vc",
       "geo": "Cincinnati, OH",
       "ask": "15-minute intro call",
-      "why_parked": "costs money"
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
       "name": "Heartland Ventures",
       "type": "vc",
       "geo": "Columbus, OH",
       "ask": "15-minute intro call",
-      "why_parked": "costs money"
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
       "name": "Bearcat Ventures",
       "type": "vc",
       "geo": "Cincinnati, OH",
       "ask": "15-minute intro call",
-      "why_parked": "costs money"
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
-      "name": "Tim Rosa",
+      "name": "Ndamukong Suh",
       "type": "angel",
       "geo": null,
       "ask": "15-minute intro call",
-      "why_parked": "costs money"
+      "why_parked": "Sports, athlete or outdoor fund with no wearable-health pre-seed activity or reachable channel."
     },
     {
       "name": "ANZER USA",
@@ -6943,238 +6992,259 @@
       "type": "vc",
       "geo": "India",
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "Alpha Wave",
       "type": "vc",
       "geo": "India",
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "Alteria Capital",
       "type": "vc",
       "geo": "India",
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "Cartan Capital",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor."
     },
     {
       "name": "Able Partners",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor."
     },
     {
       "name": "Palette Ventures",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor."
     },
     {
       "name": "E14 Fund",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor."
     },
     {
       "name": "Meach Cove Capital",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor."
     },
     {
       "name": "Dell Family Office",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
+    },
+    {
+      "name": "Fredrik Debong",
+      "type": "vc",
+      "geo": "Austria",
+      "ask": "15-minute intro call about Vybe's developer-platform round",
+      "why_parked": "Non-US fund with no stated US pre-seed activity; warm intro only."
+    },
+    {
+      "name": "Roger Parellada",
+      "type": "vc",
+      "geo": "Singapore",
+      "ask": "15-minute intro call about Vybe's developer-platform round",
+      "why_parked": "Non-US fund with no stated US pre-seed activity; warm intro only."
     },
     {
       "name": "Shangbay Capital",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "J4 Ventures",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "Moai Capital",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "Will Ventures",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "Moxxie Ventures",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "V1.VC",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "Great Oaks Venture Capital",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "Shorewind Capital",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "Oregon Sports Angels",
       "type": "angel-group",
       "geo": "Oregon",
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "MS&AD Ventures",
       "type": "corporate-vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor."
     },
     {
       "name": "Everywhere Ventures",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor."
     },
     {
       "name": "LifeX Ventures",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor."
     },
     {
       "name": "ARCH Venture Partners",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "Cantos Ventures",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor."
     },
     {
       "name": "Hyperlink Ventures",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor."
     },
     {
       "name": "Starbloom Capital",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "A single seed co-investment, with no stated thesis, contact channel or lead role. Revisit through the lead investor."
     },
     {
       "name": "Peak XV Partners",
       "type": "vc",
       "geo": "India",
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
+    },
+    {
+      "name": "Smarter Ventures",
+      "type": "vc",
+      "geo": "Belgium",
+      "ask": "15-minute intro call about Vybe's developer-platform round",
+      "why_parked": "Non-US fund with no stated US pre-seed activity; warm intro only."
+    },
+    {
+      "name": "Gemma Frisius Fund",
+      "type": "vc",
+      "geo": "Belgium",
+      "ask": "15-minute intro call about Vybe's developer-platform round",
+      "why_parked": "Non-US fund with no stated US pre-seed activity; warm intro only."
     },
     {
       "name": "Juhi Bhatnagar",
       "type": "angel",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "All In Capital",
       "type": "vc",
       "geo": "India",
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Female Founders Fund",
-      "type": "vc",
-      "geo": null,
-      "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "MaC Venture Capital",
-      "type": "vc",
-      "geo": null,
-      "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "Kindred Ventures",
       "type": "vc",
       "geo": null,
       "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "Nix Biosensors $10M Series A to license hydration algorithms to consumer wearables",
       "type": "signal",
       "geo": null,
       "ask": "Track the round; map its investors and partner model for Vybe outreach",
-      "why_parked": "costs money"
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
     },
     {
       "name": "Kimba $6.5M seed (Selva lead) for overnight biometric sleep device",
       "type": "signal",
       "geo": null,
       "ask": "Track the round; map its investors and partner model for Vybe outreach",
-      "why_parked": "costs money"
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
     },
     {
       "name": "Throne Science $10M Series A (Will Ventures lead), co-founded by ex-WHOOP CTO",
       "type": "signal",
       "geo": null,
       "ask": "Track the round; map its investors and partner model for Vybe outreach",
-      "why_parked": "costs money"
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
+    },
+    {
+      "name": "Onalabs closes EUR9.3M+ round for sweat-sensing health wearables",
+      "type": "signal",
+      "geo": null,
+      "ask": "Track the round; map its investors and partner model for Vybe outreach",
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
     },
     {
       "name": "Sleep Disorders and Research Center wearable sleep-staging work (Philip Cheng, PhD; Christopher Drake, PhD)",
@@ -7454,7 +7524,7 @@
       "type": "signal",
       "geo": null,
       "ask": "Use as a category comp in the seed deck; do not cold-pitch the late-stage leads.",
-      "why_parked": "costs money"
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
     },
     {
       "name": "Oura files S-1: $1.21B revenue in 9 months, ~5M paid members",
@@ -7468,14 +7538,14 @@
       "type": "signal",
       "geo": null,
       "ask": "Research Forerunner Ventures and Lifeline Ventures partners who led the early Oura rounds; ask for a 15-minute conversation about developer-platform wearables.",
-      "why_parked": "costs money"
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
     },
     {
       "name": "WHOOP raises $575M Series G at $10.1B led by Collaborative Fund",
       "type": "signal",
       "geo": null,
       "ask": "Send Collaborative Fund a short note pointing to Craig Shapiro's 'Health OS' post: Vybe is the open developer-platform layer underneath.",
-      "why_parked": "costs money"
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
     },
     {
       "name": "WHOOP 5.0 / MG launch with $199-$359/yr membership tiers",
@@ -7489,7 +7559,7 @@
       "type": "signal",
       "geo": null,
       "ask": "Message Anirvan Chowdhury (Qualcomm Ventures) referencing his Ultrahuman post; ask for a 15-minute conversation on band-based developer platforms.",
-      "why_parked": "costs money"
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
     },
     {
       "name": "Google launches $99 screenless Fitbit Air; Fitbit app becomes Google Health",
@@ -7527,39 +7597,53 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Eli Lilly makes equity investment in Oura after LillyDirect GLP-1 tie-up",
+      "type": "signal",
+      "geo": null,
+      "ask": "Add 'pharma adherence programs' as a later-stage licensing segment; no outreach to Lilly yet.",
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
+    },
+    {
       "name": "Clair Health $11M seed led by Khosla for women's hormone wristband",
       "type": "signal",
       "geo": null,
       "ask": "Ask Dr. Alex Morgan (Khosla) and the a16z speedrun team for a 15-minute conversation; Clair is also a possible SDK partner.",
-      "why_parked": "costs money"
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
     },
     {
       "name": "Wearlinq $14M Series A (AIX Ventures) for wireless 6-lead ECG wearable",
       "type": "signal",
       "geo": null,
       "ask": "Target Device of Tomorrow Capital, Berkeley Catalyst Fund and Angelschool from the syndicate for seed conversations on wellness ECG.",
-      "why_parked": "costs money"
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
     },
     {
       "name": "SOND exits stealth with $7M (E14 Fund lead) for HRV-sensing sleep earbuds",
       "type": "signal",
       "geo": "Boston",
       "ask": "Ask E14 Fund and Ubiquity Ventures (hardware/sensing seed) for a conversation; reference the SOND deal.",
-      "why_parked": "costs money"
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
     },
     {
       "name": "Level Zero Health $6.9M pre-seed for continuous hormone wearable",
       "type": "signal",
       "geo": null,
       "ask": "Approach HAX (SOSV) and Springbank Collective; both write pre-seed checks in hardware or women-led health.",
-      "why_parked": "costs money"
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
     },
     {
       "name": "Sahha raises $1.2M for wearable data API (Antler, Supermoon, Func Ventures)",
       "type": "signal",
       "geo": null,
       "ask": "Ask Sahha to add Vybe as a supported device source; separately ask Antler/Supermoon about dev-platform wearables.",
-      "why_parked": "costs money"
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
+    },
+    {
+      "name": "Xsensio €6M Series A (WI Harper) for wearable biochemical sensing chip",
+      "type": "signal",
+      "geo": null,
+      "ask": "Add WI Harper to the investor long-list for a later round; low priority now.",
+      "why_parked": "Not ranked A/B in the 11 Oct investor review"
     },
     {
       "name": "Rock Health H1 2026: $7.4B digital health funding; wearables are the platform story",
@@ -9596,238 +9680,189 @@
       "type": "vc",
       "geo": "Menlo Park, CA",
       "ask": "15-min intro call",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Crosslink Capital",
-      "type": "vc",
-      "geo": "San Francisco, CA",
-      "ask": "15-min intro call",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Sunil Nagaraj",
-      "type": "vc",
-      "geo": "Palo Alto, CA",
-      "ask": "Send a concise deck note, ask for a 15-min call",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Kristina Simmons",
-      "type": "vc",
-      "geo": "San Francisco, CA",
-      "ask": "15-min intro call",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Seaside Ventures",
-      "type": "vc",
-      "geo": "Boulder, CO",
-      "ask": "15-min intro call",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'Alex Morgan' row; ranked there."
     },
     {
       "name": "Humba Ventures",
       "type": "vc",
       "geo": "San Francisco Bay Area",
       "ask": "15-min intro call",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'Leo Polovets' row; ranked there."
     },
     {
       "name": "Interlagos",
       "type": "vc",
       "geo": null,
       "ask": "Intro via Adaptyx co-investor (Overwater/Seaside)",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Kiva Dickinson",
-      "type": "vc",
-      "geo": "Los Angeles, CA",
-      "ask": "15-min intro call",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Resolute Ventures",
-      "type": "vc",
-      "geo": null,
-      "ask": "15-min intro call",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'Achal Upadhyaya' row; ranked there."
     },
     {
       "name": "a16z speedrun",
       "type": "vc",
       "geo": "San Francisco, CA",
       "ask": "Apply to next speedrun cohort",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'a16z speedrun (SR008)' row; ranked there."
     },
     {
       "name": "SOSV HAX",
       "type": "vc",
       "geo": "Newark, NJ / San Francisco",
       "ask": "Application to HAX program",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'HAX' row; ranked there."
     },
     {
       "name": "Redalpine",
       "type": "vc",
       "geo": "Zurich, Switzerland",
       "ask": "15-min intro call",
-      "why_parked": "costs money"
+      "why_parked": "Non-US fund with no stated US pre-seed activity; warm intro only."
     },
     {
       "name": "Lunar Ventures",
       "type": "vc",
       "geo": "Berlin, Germany",
       "ask": "15-min intro call",
-      "why_parked": "costs money"
+      "why_parked": "Non-US fund with no stated US pre-seed activity; warm intro only."
     },
     {
       "name": "Quinn Li",
       "type": "corporate-vc",
       "geo": "San Diego, CA",
       "ask": "15-min intro call",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Fortify Ventures",
-      "type": "vc",
-      "geo": null,
-      "ask": "15-min intro call",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'Anirvan Chowdhury' row; ranked there."
     },
     {
       "name": "Inventure",
       "type": "vc",
       "geo": "Helsinki, Finland",
       "ask": "Feedback call on wearable seed positioning",
-      "why_parked": "costs money"
+      "why_parked": "Non-US fund with no stated US pre-seed activity; warm intro only."
     },
     {
       "name": "Vaark Ventures",
       "type": "vc",
       "geo": "Chicago, IL",
       "ask": "15-min intro call",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'Timothy Martens' row; ranked there."
     },
     {
       "name": "AIX Ventures",
       "type": "vc",
       "geo": "San Francisco, CA",
       "ask": "15-min intro call",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Alumni Ventures",
-      "type": "vc",
-      "geo": "Manchester, NH",
-      "ask": "Add to co-investor list for the seed round",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'Krish Ramadurai' row; ranked there."
     },
     {
       "name": "Blume Ventures",
       "type": "vc",
       "geo": "Mumbai, India",
       "ask": "Feedback call; possible co-investor",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Point Nine",
-      "type": "vc",
-      "geo": "Berlin, Germany",
-      "ask": "15-min intro call",
-      "why_parked": "costs money"
+      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
       "name": "True Ventures",
       "type": "vc",
       "geo": "San Francisco, CA",
       "ask": "15-min intro call",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'Toni Schneider' row; ranked there."
     },
     {
       "name": "JumpStart Ventures",
       "type": "vc",
       "geo": "Cleveland, OH",
       "ask": "Intro meeting with JumpStart healthcare investment team",
-      "why_parked": "costs money"
+      "why_parked": "Regional mandate (Ohio, Pittsburgh, Midwest, Boston or Bay Area) set when the data assumed Vybe was in Akron. Vybe is in Raleigh, so no nexus."
     },
     {
       "name": "Alex Morgan",
       "type": "vc",
       "geo": "Menlo Park, CA",
       "ask": "20-minute call on whether a licensed sensor/SDK layer fits KV's wearable thesis",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'Alex Morgan' row; ranked there."
     },
     {
       "name": "Emily Bennett",
       "type": "vc",
       "geo": "San Francisco, CA",
       "ask": "Submit the SR008 application in the Oct 12 - Nov 1 window, then send Bennett a short note",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'a16z speedrun (SR008)' row; ranked there."
     },
     {
       "name": "Craig Shapiro",
       "type": "vc",
       "geo": "New York, NY",
       "ask": "20-minute call on what an early-stage wearable needs to show Collaborative",
-      "why_parked": "costs money"
+      "why_parked": "Growth-stage leader (Oura/WHOOP boards); not writing pre-seed checks for outside founders."
     },
     {
       "name": "Eurie Kim",
       "type": "vc",
       "geo": "San Francisco, CA",
       "ask": "Short call on how Forerunner views infrastructure plays beneath the ring/band incumbents",
-      "why_parked": "costs money"
+      "why_parked": "Growth-stage leader (Oura/WHOOP boards); not writing pre-seed checks for outside founders."
+    },
+    {
+      "name": "Petteri Koponen",
+      "type": "vc",
+      "geo": "Helsinki, Finland",
+      "ask": "Intro via an Oura co-founder for a 20-minute call",
+      "why_parked": "Non-US fund with no stated US pre-seed activity; warm intro only."
     },
     {
       "name": "Anirvan Chowdhury",
       "type": "corporate-vc",
       "geo": "Bengaluru, India (Qualcomm Ventures, San Diego HQ)",
       "ask": "15-minute call, or a referral to the right US Qualcomm Ventures colleague, on wearables as a developer platform",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'Anirvan Chowdhury' row; ranked there."
     },
     {
       "name": "Krish Ramadurai",
       "type": "vc",
       "geo": "San Francisco, CA",
       "ask": "20-minute call on ECG wearables plus licensed data for performance and readiness use cases",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'Krish Ramadurai' row; ranked there."
     },
     {
       "name": "Achal Upadhyaya",
       "type": "vc",
       "geo": "Los Angeles, CA",
       "ask": "20-minute call on hardware risk at the wearable seed stage",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'Achal Upadhyaya' row; ranked there."
     },
     {
       "name": "Leo Polovets",
       "type": "vc",
       "geo": "San Francisco Bay Area",
       "ask": "20-minute call on Humba's hardware-products theme",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'Leo Polovets' row; ranked there."
+    },
+    {
+      "name": "Toni Schneider",
+      "type": "vc",
+      "geo": "San Francisco Bay Area",
+      "ask": "20-minute call, or a pointer to the right True partner for health wearables",
+      "why_parked": "Duplicate of the 'Toni Schneider' row; ranked there."
     },
     {
       "name": "Mick Halsband",
       "type": "vc",
       "geo": "Berlin, Germany",
       "ask": "Short call on whether a US sensor-platform company fits Lunar",
-      "why_parked": "costs money"
+      "why_parked": "Non-US fund with no stated US pre-seed activity; warm intro only."
+    },
+    {
+      "name": "Timothy Martens",
+      "type": "vc",
+      "geo": "New York (Long Island)",
+      "ask": "20-minute call; clinician feedback on the DevKit's ECG data",
+      "why_parked": "Duplicate of the 'Timothy Martens' row; ranked there."
     },
     {
       "name": "Ben Joffe",
       "type": "vc",
       "geo": "Newark, NJ / global",
       "ask": "Feedback call before a HAX application; DFM help for the DevKit-to-production step",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Grayson Judge",
-      "type": "vc",
-      "geo": "San Francisco, CA / Boston, MA",
-      "ask": "20-minute call; ask whether Sahha or Kimba would test the DevKit",
-      "why_parked": "costs money"
+      "why_parked": "Duplicate of the 'HAX' row; ranked there."
     }
   ]
 }
