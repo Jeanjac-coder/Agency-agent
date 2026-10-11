@@ -1,0 +1,1001 @@
+[
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-07-21",
+  "why_now": "Ownership change announced 2026-07-21; OnDeck planned a Fan Fest on 2026-08-04; partner inventory for the 2027 season is being set now",
+  "confidence": "verified",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "team",
+  "hunt": "sponsorship",
+  "name": "Wilmington Blue Rocks",
+  "org": "Wilmington Blue Rocks (High-A, owned by OnDeck Partners)",
+  "why": "OnDeck Partners, a Minor League Baseball operator backed by Avenue Sports Fund, announced its acquisition of the Blue Rocks on 2026-07-21 after Riverfront Development Corporation approval; a new owner usually re-plans its partner inventory, and the club already carries a ChristianaCare-branded box office.",
+  "evidence": [
+   "https://www.milb.com/wilmington/news/ondeck-partners-expands-milb-portfolio-with-acquisition-of-wilmington-blue-rocks",
+   "https://www.nbcphiladelphia.com/news/local/wilmington-blue-rocks-acquired-by-private-equity-backed-ondeck-partners/4436483/"
+  ],
+  "channel": "contact form",
+  "contact_url": "https://www.milb.com/wilmington",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 5,
+   "e": 6
+  },
+  "ask": "15-minute call with the partnerships team about a small 2027 in-kind deal (bands for a few staff or players to wear overnight, plus a recovery-data content collab)",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight that records ECG-based HRV and resting heart rate. Congratulations on joining OnDeck Partners. As you plan 2027 partners, would you take a 15-minute call about a small in-kind pilot: a handful of bands for staff, plus some recovery-data content for fans? No big asks, just a test.",
+  "geo": "Wilmington, DE",
+  "tags": [
+   "minor-league",
+   "baseball",
+   "delaware",
+   "sponsorship",
+   "sleep",
+   "hrv"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-08-28",
+  "why_now": "Season opens at home 2026-11-06 vs Capital City Go-Go; partner activations are being finalised now",
+  "confidence": "verified",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "team",
+  "hunt": "sponsorship",
+  "name": "Delaware Blue Coats",
+  "org": "Delaware Blue Coats (NBA G League, Philadelphia 76ers affiliate)",
+  "why": "The 76ers' G League affiliate released its 2026-27 schedule on 2026-08-28 with a 24-game home slate at Chase Fieldhouse; it held open tryouts in Glassboro, NJ (2026-09-12) and Wilmington (2026-10-04), and ChristianaCare is listed as an official partner, so health-adjacent partner categories already exist.",
+  "evidence": [
+   "https://bluecoats.gleague.nba.com/news/delaware-blue-coats-announce-schedule-for-2026-27-season",
+   "https://bluecoats.gleague.nba.com/news/blue-coats-announce-select-home-game-dates-for-2026-27-season",
+   "https://news.christianacare.org/?p=25081"
+  ],
+  "channel": "contact form",
+  "contact_url": "https://bluecoats.gleague.nba.com/",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 4,
+   "e": 5
+  },
+  "ask": "Ask the partnerships lead for a 15-minute call about seeding a few bands with players or staff for an overnight recovery content series",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We build a screenless band worn overnight that records ECG-based HRV and resting heart rate, with an open SDK. G League schedules are travel-heavy, so I'd value 15 minutes with your partnerships team about a small in-kind test this season: a few bands, staff feedback, and maybe a content piece. Would that be worth a short call?",
+  "geo": "Wilmington, DE",
+  "tags": [
+   "g-league",
+   "basketball",
+   "delaware",
+   "sponsorship",
+   "travel",
+   "hrv"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-02-27",
+  "why_now": "Fall 2026 Life Sciences cohort announced; next cohort intake timing not yet published",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "accelerator",
+  "hunt": "growth",
+  "name": "Science Inc. accelerator (The Innovation Space)",
+  "org": "The Innovation Space",
+  "why": "The Innovation Space in Wilmington runs cohort-based Science Inc. accelerators; it announced a Spring 2026 CleanTech & Materials cohort on 2026-02-27 and a Fall 2026 Life Sciences cohort of ten startups spanning therapeutics, drug delivery and medical technologies, and has added a $50K investment option.",
+  "evidence": [
+   "https://innovationspace.org/news/",
+   "https://technical.ly/startups/innovation-space-science-accelerator-investment/",
+   "https://www.delawarebio.org/news/651414/Innovation-Space-Welcomes-11-New-Startups-to-Science-Inc.-Accelerator-Program-.htm"
+  ],
+  "channel": "contact form",
+  "contact_url": "https://innovationspace.org/",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 4,
+   "e": 6
+  },
+  "ask": "Ask whether the next Life Sciences cohort accepts out-of-state medtech hardware startups and when applications open",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless overnight band with ECG-based HRV and a licensed SDK, launching to consumers in May 2027. I saw the Fall 2026 Science Inc. Life Sciences cohort. Could someone tell me whether the next cohort is open to out-of-state hardware startups, and when applications open? Happy to send a one-page summary.",
+  "geo": "Wilmington, DE",
+  "tags": [
+   "accelerator",
+   "medtech",
+   "delaware",
+   "health-hardware"
+  ],
+  "unknowns": "Out-of-state eligibility, next deadline and the investment terms were not visible in search results"
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-07-14",
+  "why_now": "Partners in Care progress report covering April-June 2026 posted 2026-07-14",
+  "confidence": "verified",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "channel-partner",
+  "hunt": "partnership",
+  "name": "Wilmington Police Department Wellness Program",
+  "org": "Wilmington Police Department (Delaware)",
+  "why": "WPD runs a wellness program for sworn and civilian members and retirees, with six officers designated as Wellness Officers by Chief Wilfredo Campos (July 2024), and a separate Partners in Care mental health program with ChristianaCare whose April-June 2026 progress report was posted 2026-07-14.",
+  "evidence": [
+   "https://www.wilmingtonde.gov/government/public-safety/wilmington-police-department/wpd-wellness-program",
+   "https://www.wilmingtonde.gov/government/public-safety/wilmington-police-department/wpd-partners-in-care-program",
+   "https://townsquaredelaware.com/tag/wilmington-police-department/"
+  ],
+  "channel": "contact form",
+  "contact_url": "https://www.wilmingtonde.gov/government/public-safety/wilmington-police-department/wpd-wellness-program",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 4,
+   "e": 5
+  },
+  "opportunity": "Offer the Wellness Officers a few DevKit bands for a voluntary staff feedback test on whether overnight HRV/resting HR data is useful for shift workers, with data owned by the officer",
+  "unknowns": "No public wellness-program contact; no source shows WPD using wearables; city procurement and officer-privacy rules unknown",
+  "ask": "Ask a Wellness Officer for a 15-minute feedback call",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight that records ECG-based HRV and resting heart rate, and the wearer owns the data. I read about WPD's Wellness Officers. Would one of them give me 15 minutes on what shift workers would actually want from overnight data? Feedback only, no sales pitch.",
+  "geo": "Wilmington, DE",
+  "tags": [
+   "police",
+   "peer-support",
+   "delaware",
+   "shift-work",
+   "sleep"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": null,
+  "why_now": "First cohort announced April 2026; second-cohort timing not yet published",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "accelerator",
+  "hunt": "growth",
+  "name": "NJ AI Hub Accelerator (with Plug and Play)",
+  "org": "NJ AI Hub",
+  "why": "The NJ AI Hub launched an accelerator with Plug and Play; NJBIZ reported in April 2026 that its first cohort of 14 startups spans healthcare, fintech, climate tech and enterprise AI, chosen from 20 finalists who pitched in March 2026, and the Daily Princetonian covered the hub's first anniversary in July 2026.",
+  "evidence": [
+   "https://njbiz.com/nj-ai-hub-accelerator-selects-14-startups-first-cohort/",
+   "https://www.dailyprincetonian.com/article/2026/07/princeton-news-local-nj-ai-hub-marks-first-anniversary-with-inaugural-startup-cohort",
+   "https://letsdatascience.com/news/nj-ai-hub-launches-ai-accelerator-with-plug-and-play-a27f6353"
+  ],
+  "channel": "apply",
+  "contact_url": null,
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 4,
+   "e": 5
+  },
+  "ask": "Ask when the second cohort opens and whether a hardware-plus-SDK health startup outside New Jersey is eligible",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We build a screenless overnight band with ECG-based HRV and a licensed SDK, so most of our work is data and models. I saw the first NJ AI Hub cohort included healthcare startups. When does the next cohort open, and is it open to companies outside New Jersey? A short reply would help us plan.",
+  "geo": "Princeton, NJ",
+  "tags": [
+   "accelerator",
+   "ai",
+   "digital-health",
+   "new-jersey"
+  ],
+  "unknowns": "Next cohort date, New Jersey presence requirement and terms not found"
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": null,
+  "why_now": "Batch 4 ran Spring 2026; next batch timing not yet found",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "accelerator",
+  "hunt": "growth",
+  "name": "NJ FAST accelerator (Plug and Play / NJEDA)",
+  "org": "New Jersey Economic Development Authority (NJEDA) with Plug and Play",
+  "why": "An NJEDA update sheet dated April 2026 says NJ FAST cohorts 1-3 are complete with 44 startups accelerated and 17 startups in Batch 4 (Spring 2026), making it an active, state-backed startup program.",
+  "evidence": [
+   "https://www.njeda.gov/wp-content/uploads/2026/04/SIC-CA-Update-Sheets.pdf"
+  ],
+  "channel": "apply",
+  "contact_url": null,
+  "fit": 7,
+  "ice": {
+   "i": 5,
+   "c": 3,
+   "e": 5
+  },
+  "ask": "Ask NJEDA whether a future NJ FAST batch has a health-hardware track and what the New Jersey nexus requirement is",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless overnight band with ECG-based HRV and a licensed SDK, with a consumer launch in May 2027. I saw NJ FAST's Batch 4 in the NJEDA update. Could you tell me whether future batches take health-hardware startups, and what New Jersey presence is required? Thank you.",
+  "geo": "Trenton, NJ",
+  "tags": [
+   "accelerator",
+   "state-program",
+   "new-jersey",
+   "health-hardware"
+  ],
+  "unknowns": "Sector focus of NJ FAST, eligibility rules and next intake date not visible in the source"
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-05-13",
+  "why_now": "Grant awarded May 2026 and is being spent on 2026 wellness programming now",
+  "confidence": "verified",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "channel-partner",
+  "hunt": "partnership",
+  "name": "Montclair State University Police Department officer wellness programming",
+  "org": "Montclair State University Police Department",
+  "why": "On 2026-05-13 Montclair State announced its police department was awarded $49,999.90 from the NJ Attorney General's Law Enforcement Wellness & Resiliency Grant for officer wellness programming focused on resilience, stress management, peer support, recovery and healthy coping.",
+  "evidence": [
+   "https://www.montclair.edu/newscenter/2026/05/13/montclair-state-university-police-department-awarded-statewide-wellness-and-resiliency-grant/",
+   "https://www.njoag.gov/attorney-general-davenport-announces-2026-excellence-in-policing-award-recipients-and-law-enforcement-wellness-resiliency-grant-awards/"
+  ],
+  "channel": "contact form",
+  "contact_url": "https://www.montclair.edu/newscenter/2026/05/13/montclair-state-university-police-department-awarded-statewide-wellness-and-resiliency-grant/",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 5,
+   "e": 6
+  },
+  "opportunity": "Offer a few DevKit bands as an optional, officer-owned input to the grant-funded resilience and recovery programming, framed as feedback on overnight data for shift workers",
+  "unknowns": "Grant budget lines and whether devices are allowable not public; wellness lead not named in results",
+  "ask": "Ask the department's wellness lead for a 15-minute call",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We build a screenless band worn overnight that records ECG-based HRV and resting heart rate; the officer owns the data. Congratulations on the AG wellness and resiliency grant. Would your wellness lead spare 15 minutes to tell me whether overnight data like this would help or just add noise for officers on shifts?",
+  "geo": "Montclair, NJ",
+  "tags": [
+   "police",
+   "peer-support",
+   "new-jersey",
+   "university",
+   "shift-work"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-05-07",
+  "why_now": "Awards presented 2026-05-07; fitness and facility work underway in 2026",
+  "confidence": "verified",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "channel-partner",
+  "hunt": "partnership",
+  "name": "Montgomery Township Police Department wellness and fitness upgrade",
+  "org": "Montgomery Township Police Department",
+  "why": "Montgomery Township was a 2026 NJ AG Law Enforcement Wellness & Resiliency Grant recipient, listed at $39,294.10 for fitness equipment, facility upgrades and contracted services; awards were presented in Trenton on 2026-05-07.",
+  "evidence": [
+   "https://www.njoag.gov/attorney-general-davenport-announces-2026-excellence-in-policing-award-recipients-and-law-enforcement-wellness-resiliency-grant-awards/",
+   "https://www.themontynews.org/single-post/nj-attorney-general-honors-law-enforcement-agencies-officers-with-excellence-in-policing-awards-mo",
+   "https://wrnjradio.com/nj-attorney-general-honors-law-enforcement-agencies-officers-with-excellence-in-policing-awards/"
+  ],
+  "channel": "contact form",
+  "contact_url": null,
+  "fit": 7,
+  "ice": {
+   "i": 5,
+   "c": 5,
+   "e": 6
+  },
+  "opportunity": "Pair the new fitness facility with a small voluntary overnight HRV/resting HR feedback pilot for officers who want it",
+  "unknowns": "Department wellness contact not public; whether 'contracted services' covers devices unknown; one source shows $39,295",
+  "ask": "Ask for a 15-minute call with whoever manages the fitness upgrade",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight that records ECG-based HRV and resting heart rate, with officer-owned data. I saw Montgomery Township's wellness grant for fitness upgrades. Could whoever runs that project give me 15 minutes on whether a few officers would want to try overnight data alongside the new gym? Feedback first.",
+  "geo": "Montgomery Township, NJ",
+  "tags": [
+   "police",
+   "fitness",
+   "new-jersey",
+   "shift-work"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-05-07",
+  "why_now": "2026 grant awarded 2026-05-07",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "channel-partner",
+  "hunt": "partnership",
+  "name": "Camden County Police Department officer wellness (2026 AG grant recipient)",
+  "org": "Camden County Police Department",
+  "why": "Camden County Police Department is named among the 15 agencies selected for the NJ Attorney General's 2026 Law Enforcement Wellness & Resiliency Grant ($500,000 total, up to $50,000 per agency for counseling, fitness, peer support and wellness spaces), presented 2026-05-07.",
+  "evidence": [
+   "https://wrnjradio.com/nj-attorney-general-honors-law-enforcement-agencies-officers-with-excellence-in-policing-awards/",
+   "https://www.njoag.gov/attorney-general-davenport-announces-2026-excellence-in-policing-award-recipients-and-law-enforcement-wellness-resiliency-grant-awards/"
+  ],
+  "channel": "contact form",
+  "contact_url": null,
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 4,
+   "e": 5
+  },
+  "opportunity": "Offer a voluntary overnight HRV/resting HR feedback test inside the department's grant-funded wellness work",
+  "unknowns": "Award amount and what it funds not visible in results; no named wellness contact",
+  "ask": "Ask the department's wellness or peer-support coordinator for a 15-minute call",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We build a screenless band worn overnight that records ECG-based HRV and resting heart rate, and the wearer owns the data. I saw Camden County PD among the AG's 2026 wellness grant recipients. Would your wellness coordinator give me 15 minutes on what officers on rotating shifts would want from overnight data?",
+  "geo": "Camden, NJ",
+  "tags": [
+   "police",
+   "peer-support",
+   "new-jersey",
+   "shift-work"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-05-07",
+  "why_now": "2026 grant awarded 2026-05-07",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "channel-partner",
+  "hunt": "partnership",
+  "name": "Town of Dover Police Department wellness app (2026 AG grant)",
+  "org": "Town of Dover Police Department (New Jersey)",
+  "why": "The Town of Dover, NJ received $6,400 from the NJ Attorney General's 2026 Law Enforcement Wellness & Resiliency Grant for a wellness mobile app, which signals an app-first wellness approach where a wearable data feed could plug in.",
+  "evidence": [
+   "https://wrnjradio.com/nj-attorney-general-honors-law-enforcement-agencies-officers-with-excellence-in-policing-awards/"
+  ],
+  "channel": "contact form",
+  "contact_url": null,
+  "fit": 7,
+  "ice": {
+   "i": 5,
+   "c": 4,
+   "e": 6
+  },
+  "opportunity": "Ask which wellness app they chose and whether it accepts wearable data, then offer Vybe's SDK as an optional overnight data source",
+  "unknowns": "App vendor not named; no wellness contact; whether the app integrates any wearables unknown",
+  "ask": "Ask which wellness app was selected and whether it takes wearable data",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless overnight band with ECG-based HRV and an open SDK. I saw Dover's AG grant for a police wellness app. Could you tell me which app you chose and whether it can take wearable data? If it can, I'd be glad to explore an optional feed for officers who want it.",
+  "geo": "Dover, NJ",
+  "tags": [
+   "police",
+   "wellness-app",
+   "new-jersey",
+   "dev-platform"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-05-07",
+  "why_now": "2026 grant awarded 2026-05-07",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "channel-partner",
+  "hunt": "partnership",
+  "name": "New Jersey State Police officer wellness (2026 AG grant recipient)",
+  "org": "New Jersey State Police",
+  "why": "The New Jersey State Police appear in the partial list of agencies selected for the NJ Attorney General's 2026 Law Enforcement Wellness & Resiliency Grant (15 agencies chosen from 155 applications), presented 2026-05-07.",
+  "evidence": [
+   "https://wrnjradio.com/nj-attorney-general-honors-law-enforcement-agencies-officers-with-excellence-in-policing-awards/",
+   "https://www.njoag.gov/attorney-general-davenport-announces-2026-excellence-in-policing-award-recipients-and-law-enforcement-wellness-resiliency-grant-awards/"
+  ],
+  "channel": "warm intro needed",
+  "contact_url": null,
+  "fit": 7,
+  "ice": {
+   "i": 7,
+   "c": 3,
+   "e": 3
+  },
+  "opportunity": "Long-term: a voluntary trooper feedback group on overnight HRV/resting HR; near-term: a feedback call with the wellness unit",
+  "unknowns": "Award amount and purpose unknown; NJSP wellness unit contact not public; state procurement and data rules apply",
+  "ask": "Ask for an intro to the NJSP wellness unit for a 15-minute feedback call",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We build a screenless band worn overnight that records ECG-based HRV and resting heart rate, with trooper-owned data. I saw NJSP among the AG's 2026 wellness grant recipients. Could someone in your wellness unit give me 15 minutes of feedback on whether overnight data would fit trooper schedules? Not a sales call.",
+  "geo": "West Trenton, NJ",
+  "tags": [
+   "police",
+   "state-police",
+   "new-jersey",
+   "shift-work"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-04-02",
+  "why_now": "10th-anniversary 2026 season; 2027 partner sales follow the season end",
+  "confidence": "verified",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "team",
+  "hunt": "sponsorship",
+  "name": "Hartford Yard Goats",
+  "org": "Hartford Yard Goats (Double-A, Colorado Rockies affiliate)",
+  "why": "The Yard Goats opened their 10th season at Dunkin' Park on 2026-04-02 with a new manager and a packed 2026 schedule; health and insurance brands (Cigna, ConnectiCare) have sponsored the club, so a wellness-category partner fits its inventory.",
+  "evidence": [
+   "https://hartfordbusiness.com/article/yard-goats-open-10th-season-at-dunkin-park-on-april-2-with-5-parking-deal/",
+   "https://hartfordbusiness.com/article/hartford-yard-goats-add-new-manager-veteran-coaches-and-packed-2026-schedule/",
+   "https://www.cbia.com/?p=168235"
+  ],
+  "channel": "contact form",
+  "contact_url": "https://www.milb.com/hartford",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 4,
+   "e": 5
+  },
+  "ask": "15-minute call with partnerships about a small 2027 in-kind deal or a staff recovery-data content collab",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight that records ECG-based HRV and resting heart rate. Congratulations on ten seasons at Dunkin' Park. As you plan 2027 partners, would you take a 15-minute call about a small in-kind test: a few bands for staff and some fan-facing recovery content? Happy to keep it simple.",
+  "geo": "Hartford, CT",
+  "tags": [
+   "minor-league",
+   "baseball",
+   "connecticut",
+   "sponsorship"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-05-07",
+  "why_now": "Inaugural 2026 season; a new club is still filling partner categories",
+  "confidence": "verified",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "team",
+  "hunt": "sponsorship",
+  "name": "CT United FC",
+  "org": "CT United FC (MLS NEXT Pro) / Connecticut Sports Group",
+  "why": "MLS NEXT Pro's newest club named Yale New Haven Health and Yale Medicine its Official Healthcare Partner for its inaugural 2026 season on 2026-05-07 (Christina Allen, MD, Chief of Yale Sports Medicine, as CMO); it played at UConn's Morrone Stadium and Yale's Reese Stadium and signed a lease for Dodd Stadium in Norwich.",
+  "evidence": [
+   "https://www.ynhhs.org/news/ct-united-fc-partners-with-yale-new-haven-health-to-power-player-performance-and-care",
+   "https://ctmirror.org/2026/05/08/ct-united-fc-soccer-norwich-dodd-stadium-singh-swanston/"
+  ],
+  "channel": "contact form",
+  "contact_url": null,
+  "fit": 8,
+  "ice": {
+   "i": 7,
+   "c": 5,
+   "e": 5
+  },
+  "ask": "Ask the club's performance staff for a 15-minute call about a small overnight HRV/resting HR test with a few players during preseason",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We build a screenless band worn overnight that records ECG-based HRV and resting heart rate, with an open SDK so the club keeps its data. Congratulations on the inaugural season. Would your performance staff give me 15 minutes to see if a small preseason test with a few players makes sense? Feedback first.",
+  "geo": "New Haven, CT",
+  "tags": [
+   "soccer",
+   "mls-next-pro",
+   "connecticut",
+   "sports-performance",
+   "hrv"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": null,
+  "why_now": "2026 peer support course sessions scheduled",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "channel-partner",
+  "hunt": "partnership",
+  "name": "CABLE peer support training (Connecticut Alliance to Benefit Law Enforcement)",
+  "org": "CABLE (Connecticut Alliance to Benefit Law Enforcement)",
+  "why": "CABLE runs Connecticut peer support training for police, with 2026 sessions scheduled at the Norwalk and East Hartford police departments; it reaches the peer-support officers who shape department wellness choices.",
+  "evidence": [
+   "https://www.cablect.com/peer-support-training"
+  ],
+  "channel": "contact form",
+  "contact_url": "https://www.cablect.com/peer-support-training",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 4,
+   "e": 5
+  },
+  "opportunity": "Ask to hear from peer-support trainers on whether overnight data is useful for officers; later, a short optional demo at a training if invited",
+  "unknowns": "Session dates and attendance not visible; no named contact; CABLE's view on wearables unknown",
+  "ask": "15-minute feedback call with a CABLE peer support trainer",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight that records ECG-based HRV and resting heart rate, and the officer owns the data. I saw CABLE's 2026 peer support trainings. Would one of your trainers spare 15 minutes to tell me if officers would find overnight data helpful or intrusive? Honest feedback is the goal.",
+  "geo": "East Hartford, CT",
+  "tags": [
+   "police",
+   "peer-support",
+   "connecticut",
+   "training"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-08-24",
+  "why_now": "HIPP cohort runs 2026-08-24 to mid-December 2026; the next accelerator round would follow the February-May pattern",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "accelerator",
+  "hunt": "growth",
+  "name": "NEMIC programs (Health Innovator Pathways Program and RI DLT life sciences accelerator)",
+  "org": "New England Medical Innovation Center (NEMIC)",
+  "why": "NEMIC runs a five-month 2026 medical and digital health accelerator with the RI Department of Labor and Training (February-May, at CIC Providence and on Zoom) and its eighth Health Innovator Pathways Program cohort starting Monday 2026-08-24 through mid-December; both are Rhode Island's main medtech founder programs.",
+  "evidence": [
+   "https://pbn.com/nemic-and-r-i-dlt-to-hold-2026-life-sciences-accelerator/",
+   "https://pbn.com/nemic-seeking-participants-for-next-health-innovator-pathways-program-cohort/"
+  ],
+  "channel": "contact form",
+  "contact_url": null,
+  "fit": 7,
+  "ice": {
+   "i": 5,
+   "c": 4,
+   "e": 6
+  },
+  "ask": "Ask NEMIC whether out-of-state hardware founders can join as speakers or mentors, or whether any track is open to them",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless overnight band with ECG-based HRV and a licensed SDK, launching in May 2027. I know NEMIC's accelerator is for Rhode Island founders. Is there a way for an out-of-state hardware team to take part, perhaps as a speaker on wearable data, or to join a future open session?",
+  "geo": "Providence, RI",
+  "tags": [
+   "accelerator",
+   "medtech",
+   "digital-health",
+   "rhode-island"
+  ],
+  "unknowns": "Accelerator requires participants to live, work or study in Rhode Island; 2027 dates not published"
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": null,
+  "why_now": "2026-27 AHL season underway in October 2026",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "team",
+  "hunt": "sponsorship",
+  "name": "Providence Bruins",
+  "org": "Providence Bruins (AHL, Boston Bruins affiliate)",
+  "why": "The Boston Bruins' AHL affiliate won the 2025-26 regular season title and runs community programs (a floorball program with Special Olympics Rhode Island, a team physician exam room dedication), showing an active partner and community calendar.",
+  "evidence": [
+   "https://pbn.com/tag/providence-bruins/"
+  ],
+  "channel": "contact form",
+  "contact_url": "https://www.providencebruins.com/",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 3,
+   "e": 5
+  },
+  "ask": "Ask the partnerships team for a 15-minute call about a small in-kind pilot with staff or a recovery-content collab",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We build a screenless band worn overnight that records ECG-based HRV and resting heart rate. Congratulations on the 2025-26 regular season title. Would your partnerships team take a 15-minute call about a small in-kind test this season, such as a few bands for staff and a short fan content series on sleep and travel?",
+  "geo": "Providence, RI",
+  "tags": [
+   "ahl",
+   "hockey",
+   "rhode-island",
+   "sponsorship"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-02-18",
+  "why_now": "Club is building partner inventory around its new stadium; 2026 legal write-up on the stadium partnership",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "team",
+  "hunt": "sponsorship",
+  "name": "Rhode Island FC",
+  "org": "Rhode Island FC (USL Championship)",
+  "why": "The USL Championship club plays at Centreville Bank Stadium; a Nixon Peabody write-up dated 2026-02-18 describes the naming-rights deal's sponsorship benefits, and Ortho Rhode Island is the club's first Anchor Partner and exclusive orthopedic partner, providing the head athletic trainer and team physicians.",
+  "evidence": [
+   "https://www.nixonpeabody.com/insights/articles/2026/02/18/centreville-bank-scores-naming-rights-and-benefits-for-rhode-island-fcs-new-stadium",
+   "https://orthopedicsri.com/?p=16728"
+  ],
+  "channel": "contact form",
+  "contact_url": null,
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 4,
+   "e": 5
+  },
+  "ask": "Ask the club's athletic training staff for a 15-minute call about a small offseason overnight HRV test",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight that records ECG-based HRV and resting heart rate, with an open SDK so the club keeps its data. Would your athletic training staff give me 15 minutes to see if a small offseason test with a few players is worth doing? We'd work alongside your existing medical partners.",
+  "geo": "Pawtucket, RI",
+  "tags": [
+   "soccer",
+   "usl",
+   "rhode-island",
+   "sports-performance"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": null,
+  "why_now": "New 2026 naming partner; 2027 partner inventory being planned",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "team",
+  "hunt": "sponsorship",
+  "name": "Vermont Lake Monsters",
+  "org": "Vermont Lake Monsters (Futures Collegiate Baseball League)",
+  "why": "Ahead of their 31st season the Lake Monsters added Delta Dental as a long-term financial partner, and the ballpark is now Diamond Delta Dental at Centennial Field; the team takes local health-category partners.",
+  "evidence": [
+   "https://digital-release.mychamplainvalley.com/?p=2009320"
+  ],
+  "channel": "contact form",
+  "contact_url": null,
+  "fit": 7,
+  "ice": {
+   "i": 5,
+   "c": 3,
+   "e": 6
+  },
+  "ask": "Ask about a small in-kind deal: bands for a few college players to wear overnight in summer 2027, plus a content collab",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight that records ECG-based HRV and resting heart rate. Summer collegiate baseball is a long grind, and I'd like to learn from it. Would you take a 15-minute call about a small in-kind test for summer 2027, a few bands for players who opt in and a short content series?",
+  "geo": "Burlington, VT",
+  "tags": [
+   "collegiate-summer",
+   "baseball",
+   "vermont",
+   "sponsorship"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": null,
+  "why_now": "January 2026 broker newsletter and 2026 employer enrollment guides",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "channel-partner",
+  "hunt": "partnership",
+  "name": "BeWell@Work worksite wellness (Blue Cross and Blue Shield of Vermont)",
+  "org": "Blue Cross and Blue Shield of Vermont",
+  "why": "BCBSVT offers employers BeWell@Work, combining data, health and wellness services, employee incentives, an online portal and dedicated wellness consultants; its January 2026 broker newsletter says wellness consultants build customizable programming for large groups.",
+  "evidence": [
+   "https://bluecrossvt.org/our-plans/employers-and-groups/employers-101-plus-employees/additional-products",
+   "https://www.bluecrossvt.org/documents/broker-newsletter-january-2026",
+   "https://www.bluecrossvt.org/documents/2026-small-group-employer-enrollment-guide"
+  ],
+  "channel": "contact form",
+  "contact_url": "https://bluecrossvt.org/our-plans/employers-and-groups/employers-101-plus-employees/additional-products",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 4,
+   "e": 4
+  },
+  "opportunity": "Ask the wellness consultant team whether BeWell@Work incentives or the portal accept wearable data, and whether a no-subscription overnight band could be an optional employer add-on",
+  "unknowns": "No source shows BeWell@Work integrating wearables; vendor onboarding route not public",
+  "ask": "15-minute call with a BeWell@Work wellness consultant",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless overnight band with ECG-based HRV, no subscription, and an open SDK, launching May 2027. I read about BeWell@Work's employer programs. Could a wellness consultant spend 15 minutes telling me whether employers ever ask for wearable options, and how a vendor would be considered? Learning first.",
+  "geo": "Berlin, VT",
+  "tags": [
+   "insurer",
+   "employer-wellness",
+   "vermont",
+   "channel"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-03-05",
+  "why_now": "H.270 peer-support confidentiality bill moving through the 2026 session",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "channel-partner",
+  "hunt": "partnership",
+  "name": "Burlington Fire Department Peer Support Team",
+  "org": "Burlington Fire Department (Vermont)",
+  "why": "The Vermont ESP Wellness Commission's report names the Burlington Fire Department Peer Support Team among agency programs; it is led by Battalion Chief Mark McDonough, vice-chair of the Commission, and Vermont's 2026 push for confidential peer support (H.270) was covered on 2026-03-05.",
+  "evidence": [
+   "https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Health%20Care/FY%202026%20Budget/W~Mark%20McDonough~Emergency%20Service%20Provider%20Wellness%20Commission%20Report%202024~2-19-2025.pdf",
+   "https://www.charlottenewsvt.org/2026/03/05/vermont-first-responders-seek-confidential-peer-support/"
+  ],
+  "channel": "contact form",
+  "contact_url": null,
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 4,
+   "e": 5
+  },
+  "opportunity": "Feedback from the peer support team on whether overnight HRV/resting HR data would help firefighters on 24-hour shifts, then a small voluntary test if useful",
+  "unknowns": "No public contact for the team; no source shows wearable use; city procurement rules unknown",
+  "ask": "15-minute feedback call with the peer support team lead",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We build a screenless band worn overnight that records ECG-based HRV and resting heart rate, and the firefighter owns the data. I read about Burlington's peer support team and the H.270 work. Would you give me 15 minutes on whether overnight data would help crews on long shifts or just add stress? Feedback only.",
+  "geo": "Burlington, VT",
+  "tags": [
+   "fire",
+   "peer-support",
+   "vermont",
+   "shift-work",
+   "sleep"
+  ]
+ },
+ {
+  "role": "President",
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-05-01",
+  "why_now": "H.270 testimony 2026-05-01",
+  "confidence": "verified",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "channel-partner",
+  "hunt": "partnership",
+  "name": "Professional Firefighters of Vermont (peer support advocacy)",
+  "org": "Professional Firefighters of Vermont",
+  "why": "President Christopher Dube submitted written testimony dated 2026-05-01 to the Vermont Senate Health and Welfare Committee on H.270 about firefighter peer support teams and training, so the union is actively shaping member wellness programs.",
+  "evidence": [
+   "https://legislature.vermont.gov/Documents/2026/Workgroups/Senate%20Health%20and%20Welfare/Bills/H.270/Witness%20Testimony/H.270~Chris%20Dube~Firefighter%20Peer%20Support%20Team%20and%20Training~5-1-2026.pdf"
+  ],
+  "channel": "warm intro needed",
+  "contact_url": null,
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 4,
+   "e": 4
+  },
+  "opportunity": "Member feedback on overnight recovery data for shift workers; later, optional member discount or pilot through the union if members want it",
+  "unknowns": "No public union contact page found; member interest in wearables unknown",
+  "ask": "15-minute call with union leadership for feedback",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight that records ECG-based HRV and resting heart rate, and members would own their data. I read your H.270 testimony on peer support. Would you spare 15 minutes to tell me whether Vermont firefighters would want overnight data, and what would make it trustworthy? Feedback first.",
+  "geo": "Montpelier, VT",
+  "tags": [
+   "fire",
+   "union",
+   "peer-support",
+   "vermont"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-03-05",
+  "why_now": "2026 legislative session work on responder peer support (H.270)",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "channel-partner",
+  "hunt": "partnership",
+  "name": "Vermont Emergency Service Provider (ESP) Wellness Commission",
+  "org": "Vermont Department of Health",
+  "why": "Created by Act 37 (2021), the Commission covers police, firefighters, EMS, dispatchers, corrections officers and ski patrollers and works to close gaps in peer support and clinician access; Vermont's statewide SECURE and Green Mountain CISM peer teams sit in this system, and the 2026 confidential peer-support push was reported on 2026-03-05.",
+  "evidence": [
+   "https://www.healthvermont.gov/emergency/first-responder-wellness/get-help",
+   "https://www.charlottenewsvt.org/2026/03/05/vermont-first-responders-seek-confidential-peer-support/"
+  ],
+  "channel": "contact form",
+  "contact_url": "https://www.healthvermont.gov/emergency/first-responder-wellness/get-help",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 3,
+   "e": 4
+  },
+  "opportunity": "Present at a Commission meeting or share a feedback survey with responder agencies about overnight recovery data",
+  "unknowns": "Whether the Commission considers vendor tools at all; meeting public-comment rules not checked",
+  "ask": "Ask whether the Commission takes short public input from vendors, or would share a feedback survey",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We build a screenless overnight band that records ECG-based HRV and resting heart rate, with data owned by the wearer. I'd like to learn what Vermont's responders actually need before we launch in May 2027. Does the Commission take short public input, or could we share a brief feedback survey with member agencies?",
+  "geo": "Burlington, VT",
+  "tags": [
+   "first-responders",
+   "state-program",
+   "vermont",
+   "peer-support"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-10-02",
+  "why_now": "2027 partner deals being signed this month (Delta Dental expansion 2026-10-02)",
+  "confidence": "verified",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "team",
+  "hunt": "sponsorship",
+  "name": "Portland Sea Dogs",
+  "org": "Portland Sea Dogs (Double-A, Boston Red Sox affiliate)",
+  "why": "On 2026-10-02 Northeast Delta Dental expanded its partnership with the Sea Dogs and NH Fisher Cats, putting its logo on uniforms from the 2027 season, so 2027 partner inventory is being sold right now.",
+  "evidence": [
+   "https://www.milb.com/portland/news/delta-dental-expands-partnership-with-sea-dogs-and-fisher-cats-with-new-opportunity",
+   "https://www.mlb.com/milb/portland/news/delta-dental-expands-partnership-with-sea-dogs-and-fisher-cats-with-new-opportunity"
+  ],
+  "channel": "contact form",
+  "contact_url": "https://www.milb.com/portland",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 5,
+   "e": 5
+  },
+  "ask": "15-minute call about a small 2027 in-kind or content partnership",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight that records ECG-based HRV and resting heart rate, launching May 2027, right as your season starts. Would your partnerships team take a 15-minute call about a small 2027 in-kind test, such as bands for a few staff and a short fan content series?",
+  "geo": "Portland, ME",
+  "tags": [
+   "minor-league",
+   "baseball",
+   "maine",
+   "sponsorship"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-08-28",
+  "why_now": "Season opens 2026-11-06",
+  "confidence": "verified",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "team",
+  "hunt": "sponsorship",
+  "name": "Maine Celtics",
+  "org": "Maine Celtics (NBA G League, Boston Celtics affiliate)",
+  "why": "The Maine Celtics announced their 2026-27 schedule on 2026-08-28: 24 home games at the Portland Expo opening 2026-11-06 vs Westchester; Unum has been the presenting partner since the 2021 rebrand.",
+  "evidence": [
+   "https://maine.gleague.nba.com/news/schedule-release-082826",
+   "https://maine.gleague.nba.com/news/dates-announced-060126"
+  ],
+  "channel": "contact form",
+  "contact_url": "https://maine.gleague.nba.com/",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 4,
+   "e": 5
+  },
+  "ask": "15-minute call about seeding a few bands with players or staff for an overnight travel-recovery content series",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We build a screenless band worn overnight that records ECG-based HRV and resting heart rate, with an open SDK. G League travel is tough, and I'd love to learn from your staff. Would your partnerships team take 15 minutes to discuss a small in-kind test this season with a few players or staff who opt in?",
+  "geo": "Portland, ME",
+  "tags": [
+   "g-league",
+   "basketball",
+   "maine",
+   "sponsorship",
+   "travel"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": null,
+  "why_now": "2026-27 ECHL season starting October 2026",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "team",
+  "hunt": "sponsorship",
+  "name": "Maine Mariners",
+  "org": "Maine Mariners (ECHL, Boston Bruins affiliate)",
+  "why": "The ECHL club, which has an affiliation with the Boston Bruins, posted in June 2026 that it was a finalist for four league awards, and it has run health-category partnerships before (Spectrum Healthcare Partners as official healthcare provider in 2018).",
+  "evidence": [
+   "https://www.marinersofmaine.com/news/2026/06/mariners-named-finalists-for-four-league-awards",
+   "https://marinersofmaine.com/news/maine-mariners-add-spectrum-as-premier-partner"
+  ],
+  "channel": "contact form",
+  "contact_url": "https://www.marinersofmaine.com/",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 4,
+   "e": 5
+  },
+  "ask": "15-minute call with partnerships about a small in-kind test with players or staff",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We make a screenless band worn overnight that records ECG-based HRV and resting heart rate. ECHL bus trips and weekend triples interest us a lot. Would your partnerships team take a 15-minute call about a small in-kind test this season, a few bands for players or staff who opt in, plus some fan content?",
+  "geo": "Portland, ME",
+  "tags": [
+   "echl",
+   "hockey",
+   "maine",
+   "sponsorship",
+   "travel"
+  ]
+ },
+ {
+  "role": null,
+  "check_size": null,
+  "stage": null,
+  "warm_path": null,
+  "deadline": null,
+  "last_signal_date": "2026-05-20",
+  "why_now": "2026 cohort finished May 2026; 2027 cycle expected to recruit around the turn of the year",
+  "confidence": "single-source",
+  "verification_note": "Evidence URLs were surfaced and summarized by web search on 2026-10-11; direct page fetch was blocked in this session (DNS failure), so re-open each URL before sending.",
+  "type": "accelerator",
+  "hunt": "growth",
+  "name": "Top Gun (Maine Center for Entrepreneurs)",
+  "org": "Maine Center for Entrepreneurs (with Northern Maine Development Commission)",
+  "why": "MCE's 15-week Top Gun program selected 24 companies for 2026 in January, held its showcase on 2026-05-12 (Saco Bay Sea Farms won $25,000) and announced the results on 2026-05-20; it is Maine's main founder program and draws mentors from the state's startup network.",
+  "evidence": [
+   "https://yespress.io/maine-center-for-entrepreneurs",
+   "https://mainebiz.biz/article/this-years-top-gun-contestants-cover-it-electric-boats-and-kimchi"
+  ],
+  "channel": "contact form",
+  "contact_url": null,
+  "fit": 7,
+  "ice": {
+   "i": 4,
+   "c": 3,
+   "e": 6
+  },
+  "ask": "Ask whether Top Gun welcomes out-of-state founders as guest speakers on hardware, or whether any 2027 track is open to them",
+  "opener": "Hi, I'm the founder of Vybe Health in Raleigh, North Carolina. We're building a screenless overnight band with ECG-based HRV and a licensed SDK, launching May 2027. I know Top Gun is for Maine founders. Would a guest session on what we've learned building consumer hardware be useful to a 2027 cohort? Happy to share notes, no pitch.",
+  "geo": "Portland, ME",
+  "tags": [
+   "accelerator",
+   "maine",
+   "community"
+  ],
+  "unknowns": "Program appears to be for Maine-based entrepreneurs; 2027 dates not published; cohort details come mainly from an aggregator"
+ }
+]
