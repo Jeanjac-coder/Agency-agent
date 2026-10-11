@@ -3796,6 +3796,31 @@
    "verdict": "cut",
    "reason": "Not ranked A/B in the 11 Oct investor review",
    "move": null
+  },
+  "ironai-ironai-fitness": {
+   "verdict": "A",
+   "reason": "WHOOP integration stalled for months; members already use other wearables; ready integration partner.",
+   "move": "Reply in the WHOOP Community thread or DM the founder for a 15-minute call."
+  },
+  "longy-appvillis": {
+   "verdict": "B",
+   "reason": "Real WHOOP-cap blocker but tiny (~200 monthly users).",
+   "move": "Reply in WHOOP Community thread 14592 offering a 15-minute call."
+  },
+  "whooper-2-0-eazylee30-eazylee30-whooper-2-0-github": {
+   "verdict": "B",
+   "reason": "ChatGPT/Codex WHOOP plugin stuck at 10 members.",
+   "move": "Open a GitHub issue proposing a Vybe data adapter."
+  },
+  "vora-vora-health-askvora-com": {
+   "verdict": "B",
+   "reason": "Aggregates 500+ wearables; Fitbit access capped; no verified contact route yet.",
+   "move": "Find the integrations contact on askvora.com, then ask for a 15-minute call."
+  },
+  "cued-back-end-edwn1x-cued-edwn1x-cued-back-end-on-github": {
+   "verdict": "B",
+   "reason": "Sleep/HRV feature shipped switched off; product and owner unconfirmed.",
+   "move": "Comment on PR #111 asking what Cued is and whether an open source would help."
   }
  }
 }
