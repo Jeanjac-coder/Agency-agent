@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11 10:31 UTC",
+  "generated": "2026-10-11 13:45 UTC",
   "today": "2026-10-11",
   "scope": {
     "company": "Vybe Health",
@@ -71246,6 +71246,236 @@
         "status": "awaiting John",
         "requested": "2026-10-10",
         "batch": 1
+      },
+      "fu-waka-kickball": {
+        "n": 21,
+        "name": "Follow-up: WAKA Kickball",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "info@clubwaka.com",
+        "send_on": "2026-10-14"
+      },
+      "fu-running-4-heroes": {
+        "n": 22,
+        "name": "Follow-up: Running 4 Heroes",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "info@running4heroes.org",
+        "send_on": "2026-10-14"
+      },
+      "fu-kyros-engineering": {
+        "n": 23,
+        "name": "Follow-up: Kyros Engineering",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "peter@kyrosengineering.com",
+        "send_on": "2026-10-14"
+      },
+      "fu-iafc-technology-council-fire-service-vendor-engagement": {
+        "n": 24,
+        "name": "Follow-up: IAFC Technology Council (fire service vendor engagement)",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "techcouncil@iafc.org",
+        "send_on": "2026-10-14"
+      },
+      "fu-adaptive-and-wheelchair-sports-ohio": {
+        "n": 25,
+        "name": "Follow-up: Adaptive and wheelchair sports (Ohio)",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "info@adaptivesportsohio.org",
+        "send_on": "2026-10-14"
+      },
+      "fu-akron-city-fc": {
+        "n": 26,
+        "name": "Follow-up: Akron City FC",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "info@akroncityfc.com",
+        "send_on": "2026-10-14"
+      },
+      "fu-arnold-sports-festival-arnold-expo-2027": {
+        "n": 27,
+        "name": "Follow-up: Arnold Sports Festival & Arnold Expo 2027",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "exhibitors@arnoldsports.com",
+        "send_on": "2026-10-14"
+      },
+      "fu-gt-brazilian-jiu-jitsu": {
+        "n": 28,
+        "name": "Follow-up: GT Brazilian Jiu-Jitsu",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "todd@gtbjjohio.com",
+        "send_on": "2026-10-14"
+      },
+      "fu-kent-state-esports": {
+        "n": 29,
+        "name": "Follow-up: Kent State Esports",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "esports@kent.edu",
+        "send_on": "2026-10-14"
+      },
+      "fu-magnet-manufacturing-advocacy-growth-network": {
+        "n": 30,
+        "name": "Follow-up: MAGNET (Manufacturing Advocacy & Growth Network)",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "info@manufacturingsuccess.org",
+        "send_on": "2026-10-14"
+      },
+      "fu-ohio-state-crew-club-rowing": {
+        "n": 31,
+        "name": "Follow-up: Ohio State Crew (club rowing)",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "osucrewrar@gmail.com",
+        "send_on": "2026-10-14"
+      },
+      "fu-ohiohealth-capital-city-half-quarter-marathon-2027": {
+        "n": 32,
+        "name": "Follow-up: OhioHealth Capital City Half & Quarter Marathon 2027",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "info@m3ssports.com",
+        "send_on": "2026-10-14"
+      },
+      "fu-reach-fitness": {
+        "n": 33,
+        "name": "Follow-up: REACH Fitness",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "marianne@reachfitnessohio.com",
+        "send_on": "2026-10-14"
+      },
+      "fu-youth-and-adult-bouldering-akron": {
+        "n": 34,
+        "name": "Follow-up: Youth and adult bouldering (Akron)",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "info@rockmillclimbing.com",
+        "send_on": "2026-10-14"
+      },
+      "fu-aaron-handy": {
+        "n": 35,
+        "name": "Follow-up: Aaron Handy",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "office@legacy-ohio.com",
+        "send_on": "2026-10-14"
+      },
+      "fu-chris-kriebel": {
+        "n": 36,
+        "name": "Follow-up: Chris Kriebel",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "chris@tkobjj.com",
+        "send_on": "2026-10-14"
+      },
+      "fu-joules": {
+        "n": 37,
+        "name": "Follow-up: Joules",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "hello@joules.cc",
+        "send_on": "2026-10-14"
+      },
+      "fu-leyen-zulueta": {
+        "n": 38,
+        "name": "Follow-up: Leyen Zulueta",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "travis@matlabbjj.com",
+        "send_on": "2026-10-14"
+      },
+      "fu-platelens": {
+        "n": 39,
+        "name": "Follow-up: PlateLens",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "support@platelens.app",
+        "send_on": "2026-10-14"
+      },
+      "fu-cincinnati-cycle-club": {
+        "n": 40,
+        "name": "Follow-up: Cincinnati Cycle Club",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "membership@cincinnaticycleclub.org",
+        "send_on": "2026-10-14"
+      },
+      "fu-chagrin-falls-booster-club-5k-turkey-trot-2026": {
+        "n": 41,
+        "name": "Follow-up: Chagrin Falls Booster Club 5K Turkey Trot 2026",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "info@cfboosterclub.org",
+        "send_on": "2026-10-14"
+      },
+      "fu-columbus-weightlifting-club": {
+        "n": 42,
+        "name": "Follow-up: Columbus Weightlifting Club",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "info@columbusweightlifting.org",
+        "send_on": "2026-10-14"
+      },
+      "fu-sugamed-ecg-patch-pcba": {
+        "n": 43,
+        "name": "Follow-up: SugaMed (ECG Patch PCBA)",
+        "status": "awaiting John",
+        "requested": "2026-10-11",
+        "batch": 2,
+        "kind": "follow-up",
+        "to": "info@sugaintl.com",
+        "send_on": "2026-10-14"
       }
     },
     "batches": [
@@ -71255,6 +71485,14 @@
         "thread_id": "1a125d5532424d3b",
         "to": "john@vybe.health",
         "count": 20
+      },
+      {
+        "batch": 2,
+        "kind": "follow-ups",
+        "sent": "2026-10-11",
+        "thread_id": "1a12b3642c25f565",
+        "to": "john@vybe.health",
+        "count": 23
       }
     ]
   },
