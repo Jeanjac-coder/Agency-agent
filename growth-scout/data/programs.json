@@ -1,0 +1,180 @@
+[
+  {
+    "name": "AgeTech After Dark @ CES 2027 (pitch route into AgeTech Collaborative from AARP Accelerator)",
+    "org": "AgeTech Collaborative from AARP",
+    "geo": "National; pitch event in Las Vegas, NV on 2027-01-07",
+    "gives": "3-minute live pitch to industry panel; finalists get a free CES 2027 ticket; winner gets $10,000 prize; AgeTech Collaborative accelerator (8 weeks, invitation-only) sources startups through these pitch events",
+    "cost": "Free to apply; no equity stated. Travel to Las Vegas at own cost.",
+    "deadline": "2026-10-12 11:59 pm (applications opened 2026-09-01). Listing header still says 'CES 2026', so confirm on the page.",
+    "fit": "B",
+    "why": "Welcomes healthspan and wellness; prototypes welcome but prefers market-ready products. Vybe launches May 2027. Deadline is tomorrow.",
+    "apply": "agetechcollaborative.org, AgeTech After Dark event page",
+    "evidence": [
+      "https://agetechcollaborative.org/?p=22004",
+      "https://agetechcollaborative.org/?p=21519",
+      "https://www.chiefhealthcareexecutive.com/view/how-aarp-is-helping-young-companies-reach-seniors"
+    ]
+  },
+  {
+    "name": "SBA Boots to Business Reboot (online, live Zoom)",
+    "org": "U.S. Small Business Administration (Mississippi District Office session)",
+    "geo": "Online; this session is aimed at service members/spouses in AL, AZ, LA, MS",
+    "gives": "Two-day entrepreneurship course; completers can take further B2B online courses at no cost",
+    "cost": "Free for service members, veterans and military spouses; no equity",
+    "deadline": "Session 2026-10-27 (register via SBA VETS portal; Zoom link sent about a week before). Other sessions are scheduled locally.",
+    "fit": "B",
+    "why": "Veteran founder is eligible and it is free, but it is intro-level training and this session targets other states.",
+    "apply": "Register through the SBA VETS portal; event listing at legacy.sba.gov/event/87448. Ask the NC Veterans Business Outreach Center or NCMBC for NC sessions.",
+    "evidence": [
+      "https://legacy.sba.gov/event/87448",
+      "https://legacy.sba.gov/event/87445",
+      "https://flywheeladvisors.com/?p=56517"
+    ]
+  },
+  {
+    "name": "Techstars AI Health Baltimore (Spring 2027)",
+    "org": "Techstars (backers include Johns Hopkins and Maryland health systems)",
+    "geo": "Baltimore, MD (East Coast)",
+    "gives": "$220,000 investment, mentorship, 13-week program from 2027-03-08 to Demo Day 2027-06-03, Techstars network",
+    "cost": "EQUITY: $200,000 uncapped MFN SAFE plus $20,000 for equity under a post-money convertible equity agreement",
+    "deadline": "2026-11-18 (opened 2026-08-24; later applications go to a general pool)",
+    "fit": "A",
+    "why": "East Coast health cohort for AI in healthcare; Vybe's overnight ECG/HRV analytics plus SDK qualifies. Equity required. Timing fits May 2027 launch.",
+    "apply": "techstars.com/accelerators, choose AI Health Baltimore, apply before 2026-11-18",
+    "evidence": [
+      "https://technext24.com/kqo7",
+      "https://www.startupresearcher.com/news/techstars-opens-spring-2027-accelerator-applications-with-usd220-000-investment",
+      "https://innovation-village.com/techstars-opens-spring-2027-applications-with-220k/",
+      "https://www.heysuccess.com/opportunity/Techstars-AI-Health-Baltimore-52659"
+    ]
+  },
+  {
+    "name": "NC SBTDC business counseling",
+    "org": "Small Business and Technology Development Center (UNC System)",
+    "geo": "North Carolina; 16 regional offices including the Triangle",
+    "gives": "Confidential one-on-one counseling at no cost (50,000+ hours to 5,500+ businesses in 2025); capital-readiness help through the SSBCI Technical Assistance Program; veteran 'Taking the Leap' cohort ran in Raleigh in 2025",
+    "cost": "Free; no equity",
+    "deadline": "Rolling (2026 source: SBTDC 'State of Small Business in 2026')",
+    "fit": "A",
+    "why": "Raleigh-based, free, available now; helps with capital readiness and planning before the May 2027 launch.",
+    "apply": "sbtdc.org: request counseling with the Raleigh-area office",
+    "evidence": [
+      "https://sbtdc.org/blog/state-of-small-business-in-2026",
+      "https://sbtdc.org/news/helping-small-businesses-access-capital-across-north-carolina",
+      "https://www.ncmbc.us/event/sbtdc-taking-the-leap-for-military-entrepreneurs/"
+    ]
+  },
+  {
+    "name": "AWS Activate Founders",
+    "org": "Amazon Web Services",
+    "geo": "Global / remote",
+    "gives": "$1,000 in AWS credits, up to $5,000 for select participants; Activate resources",
+    "cost": "Free; no equity. Requires an AWS account on a paid-tier plan.",
+    "deadline": "Rolling; reply in 5-10 business days (2026 source: Causo 'How to Apply for AWS Activate Credits in 2026')",
+    "fit": "A",
+    "why": "Self-funded and pre-Series B fits. Credits cover the SDK backend and data pipeline.",
+    "apply": "Create an AWS Builder ID and apply at aws.amazon.com/activate (Founders tier). Needs a business email and working website.",
+    "evidence": [
+      "https://aws.amazon.com/de/activate/founders/",
+      "https://aws.amazon.com/aws-startups/learn/applying-for-aws-activate-credits-a-step-by-step-guide",
+      "https://hub.causo.ai/guides/how-to-apply-to-aws-activate-2026"
+    ]
+  },
+  {
+    "name": "Google for Startups Cloud Program - Start tier",
+    "org": "Google",
+    "geo": "Global / remote",
+    "gives": "$2,000 in Google Cloud credits, resources and support",
+    "cost": "Free; no equity",
+    "deadline": "Rolling (Google startup pages current as of 2026; Google/Antler 2026 PDF)",
+    "fit": "A",
+    "why": "For tech startups with no institutional funding yet, which fits Vybe. Google pages disagree on founding age (5 years vs 24 months).",
+    "apply": "cloud.google.com/startup/pre-seed; questions to cloudstartupsupport@google.com",
+    "evidence": [
+      "https://cloud.google.com/startup/pre-seed",
+      "https://cloud.google.com/startup/faq",
+      "https://services.google.com/fh/files/misc/antler_googlecloud_2026.pdf"
+    ]
+  },
+  {
+    "name": "Microsoft for Startups (self-service track)",
+    "org": "Microsoft",
+    "geo": "Global / remote",
+    "gives": "$1,000 Azure credits (90 days), up to $5,000 total after business verification (180 days); Investor Network track ($100K+) needs an affiliated investor",
+    "cost": "Free; no equity",
+    "deadline": "Rolling (2026 sources: Ukrainian Startup Fund notice dated 2026-07-03; fin.ai 'Startup Programs Compared 2026')",
+    "fit": "B",
+    "why": "Free and eligible, but credits expire quickly and overlap with AWS/Google. Take only if Azure is the chosen stack.",
+    "apply": "microsoft.com/startups (Founders Hub sign-up, then business verification)",
+    "evidence": [
+      "https://fin.ai/learn/startup-credit-programs",
+      "https://usf.com.ua/en/dlya-startapiv-dostupni-hmarni-krediti-microsoft-startups-na-sumu-do-200-000",
+      "https://guptadeepak.com/startup-offers/guides/microsoft-for-startups"
+    ]
+  },
+  {
+    "name": "NVIDIA Inception",
+    "org": "NVIDIA",
+    "geo": "Global / remote",
+    "gives": "Free self-paced Deep Learning Institute credits, SDKs, hardware/software discounts, partner offers, investor connections, go-to-market support; cloud credits up to $100K are separately gated",
+    "cost": "Free; no equity or fees",
+    "deadline": "Rolling (2026 source: Causo 'How to Apply to NVIDIA Inception in 2026')",
+    "fit": "B",
+    "why": "Needs incorporation, website, employed developer and an AI/data science product; useful only if Vybe's HRV models are central.",
+    "apply": "nvidia.com/startups (Inception application with company website and developer + executive contacts)",
+    "evidence": [
+      "https://hub.causo.ai/guides/how-to-apply-to-nvidia-inception-2026",
+      "https://www.thundercompute.com/blog/nvidia-inception-program-guide",
+      "https://guptadeepak.com/startup-offers/programs/nvidia-inception"
+    ]
+  },
+  {
+    "name": "Plug and Play accelerator (Health vertical)",
+    "org": "Plug and Play Tech Center",
+    "geo": "Multiple US hubs (e.g., Orlando health program); varies by batch",
+    "gives": "Matching with corporate partners, Playbook invitation, potential corporate pilots",
+    "cost": "Equity-free; no fees or commissions reported",
+    "deadline": "Rolling, per batch (2026 source: Causo 'How to Apply to Plug and Play Accelerator in 2026'); no current Health batch date found",
+    "fit": "B",
+    "why": "Equity-free path to health-system and corporate pilots, but no open Health batch date confirmed.",
+    "apply": "plugandplaytechcenter.com: pick the Health vertical/location batch and apply on that page",
+    "evidence": [
+      "https://hub.causo.ai/guides/how-to-apply-to-plug-and-play-2026",
+      "https://elev-x.com/news-insights/article-plug-and-play-accelerator-review/",
+      "https://business.seminolebusiness.org/news/details/plug-and-play-orlando-announces-second-batch-of-its-health-innovation-program"
+    ]
+  },
+  {
+    "name": "HAX (SOSV) hardware accelerator",
+    "org": "SOSV",
+    "geo": "Newark, NJ (6-month residency)",
+    "gives": "Investment (reported up to $550K in 2025-26 sources; older sources say $250K), 35,000 sq ft hardware labs, engineering support",
+    "cost": "EQUITY: SOSV pre-seed terms (older reports: ~9-10%). One listing says it charges a fee; this is unverified.",
+    "deadline": "Rolling; reportedly 2-3 teams admitted per month (2026 sources: Peony 'Hardware Accelerators in 2026', Causo HAX 2026 guide)",
+    "fit": "B",
+    "why": "Hardware-only and wants a working prototype, which the DevKit provides; requires equity and Newark residency.",
+    "apply": "hax.co (rolling application)",
+    "evidence": [
+      "https://www.peony.ink/blog/hardware-accelerators",
+      "https://hub.causo.ai/guides/how-to-apply-to-hax-sosv-hardware-2026",
+      "https://elev-x.com/news-insights/article-sosv-accelerator-review/"
+    ]
+  },
+  {
+    "name": "SBA VetCert (VOSB/SDVOSB certification)",
+    "org": "U.S. Small Business Administration",
+    "geo": "National",
+    "gives": "Veteran-owned small business certification for federal set-aside and sole-source contracts (VA for VOSB; government-wide for SDVOSB)",
+    "cost": "No fee found in sources (SBA says most of its services are free; confirm). No equity.",
+    "deadline": "Rolling; average processing about 12 days reported (2026 sources: beancount.io guide 2026-09-01; disabledveterans.org 2026)",
+    "fit": "B",
+    "why": "Needs 51% veteran ownership and SAM.gov registration; matters mainly for federal/VA sales, not the consumer launch.",
+    "apply": "veterans.certify.sba.gov",
+    "evidence": [
+      "https://veterans.certify.sba.gov/",
+      "https://beancount.io/blog/2026/09/01/sba-vetcert-veteran-owned-small-business-certification-guide",
+      "https://www.disabledveterans.org/vetcert-is-fully-operational-in-2026/",
+      "https://cloudfront.www.sba.gov/brand/assets/sba/resource-partners/Veteran-Small-Business-Certification-Overview-Factsheet.pdf"
+    ]
+  }
+]
