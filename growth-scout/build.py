@@ -443,7 +443,91 @@ def build(params: dict, today: dt.date) -> tuple[list[dict], list[dict], dict]:
         if not row.get("move"):
             row["move"] = row.get("ask")
         row["id"] = re.sub(r"\s+", "-", norm(f"{row['name']} {row.get('org') or ''}"))[:80]
+        scrub_claims(row)
+    threads = {norm(t["org"]): t for t in load_followups()["threads"]}
+    for row in targets:
+        decision_fields(row, threads.get(norm(row.get("org"))) or threads.get(norm(row["name"])))
     return targets, rejected, lanes
+
+
+# Approved claims only: heart rate, HRV and sleep timing (founder). Never "ECG".
+CLAIM_FIXES = [
+    (re.compile(r"ECG[- ]based\s+", re.I), ""),
+    (re.compile(r"\bECG\s*[/-]\s*HRV\b|\bHRV\s*/\s*ECG\b", re.I), "HRV"),
+    (re.compile(r"\bECG\b"), "heart rate"),
+]
+CLAIM_FIELDS = ("why", "why_now", "ask", "opener", "move", "opportunity", "review_reason")
+
+
+def scrub_claims(row: dict) -> None:
+    for f in CLAIM_FIELDS:
+        v = row.get(f)
+        if isinstance(v, str):
+            for rx, rep in CLAIM_FIXES:
+                v = rx.sub(rep, v)
+            row[f] = v
+
+
+DECISION_KEYS = ("org", "what_is", "status", "offer", "we_need", "they_need", "cost", "next_date", "size", "size_source")
+# Rule 9.7 (VYBE-AGENT-STANDARDS.md): every lead carries the decision fields.
+THREAD_STATUS = {"no reply": "waiting", "auto-reply only": "waiting", "replied": "replied",
+                 "replied: meeting": "booked", "no go": "closed", "closed": "closed"}
+THEY_NEED = {
+    "investor": "Pre-seed deal flow in wearables and health data that fits their thesis.",
+    "signal": "",
+}
+THEY_NEED_DEFAULT = "An open source of overnight HRV, heart rate and sleep timing their users can bring in, without a closed vendor API."
+
+
+def first_sentence(text: str | None) -> str:
+    text = (text or "").strip()
+    m = re.match(r"(.+?(?<!\bDr)(?<!\bMr)(?<!\bMs)(?<!\bSt)(?<!\bInc)(?<!\be\.g)(?<!\bi\.e)(?<!\bU\.S)(?<!\bvs)[.!?])(\s+[A-Z]|$)", text)
+    return (m.group(1) if m else text)[:260]
+
+
+def money(text: str | None) -> float | None:
+    """Largest dollar amount in a string: '$250K-$1M' -> 1000000."""
+    best = None
+    for n, unit in re.findall(r"\$\s?(\d[\d,]*(?:\.\d+)?)\s*([kKmMbB])?\b", text or ""):
+        v = float(n.replace(",", "")) * {"k": 1e3, "m": 1e6, "b": 1e9}.get(unit.lower(), 1)
+        best = v if best is None or v > best else best
+    return best
+
+
+def thread_status(t: dict) -> str:
+    if "declined" in (t.get("next") or "").lower() or "perhaps in the future" in (t.get("next") or "").lower():
+        return "declined"
+    return THREAD_STATUS.get(t.get("state"), "waiting")
+
+
+def decision_fields(row: dict, thread: dict | None) -> None:
+    src = (row.get("evidence") or [""])[0]
+    host = re.sub(r"^https?://(www\.)?", "", src).split("/")[0]
+    row["what_is"] = first_sentence(row.get("why")) + (f" (source: {host})" if host else "")
+    row["status"] = thread_status(thread) if thread else "drafted"
+    row["offer"] = (thread or {}).get("offer", "")
+    row["we_need"] = row.get("opportunity") or row.get("ask") or ""
+    row["they_need"] = row.get("why_now") or THEY_NEED.get(row["type"], THEY_NEED.get(row["hunt"], THEY_NEED_DEFAULT))
+    row["cost"] = 0  # rows that cost money are parked before they reach the board
+    row["next_date"] = row.get("deadline") or (thread or {}).get("due") or ""
+    size = money(row.get("check_size")) if row["hunt"] == "investor" else None
+    row["size"] = size
+    row["size_source"] = f"check size listed at {host}" if size and host else ""
+
+
+def thread_fields(t: dict, targets_by_org: dict) -> dict:
+    row = targets_by_org.get(norm(t["org"])) or {}
+    t = dict(t)
+    t["status"] = thread_status(t)
+    t.setdefault("offer", "")
+    t["what_is"] = row.get("what_is", "")
+    t["we_need"] = row.get("we_need", "")
+    t["they_need"] = row.get("they_need", "")
+    t["cost"] = t.get("cost", money(t.get("next")) or 0)
+    t["next_date"] = "" if t["status"] in ("closed", "declined") else (t.get("due") or "")
+    t.setdefault("size", None)
+    t.setdefault("size_source", "")
+    return t
 
 
 QUEUE_HUNTS = ("partnership", "growth", "social")
@@ -544,6 +628,7 @@ def summary(targets: list[dict], today: dt.date) -> dict:
         "ready_to_send": count(lambda t: t.get("sendable")),
         "identity_needs_ok": count(lambda t: t.get("identity_needs_ok")),
         "outreach_queue": count(lambda t: t["hunt"] in QUEUE_HUNTS and t.get("sendable")),
+        "rule_9_7": all(all(k in t for k in DECISION_KEYS) for t in targets),
     }
 
 
@@ -579,6 +664,9 @@ def main() -> int:
     approvals = load_approvals()
     APPROVALS_CACHE.clear()
     APPROVALS_CACHE.update(approvals.get("items", {}))
+    followups = load_followups()
+    by_org = {norm(t.get("org")): t for t in targets}
+    followups["threads"] = [thread_fields(t, by_org) for t in followups["threads"]]
     data = {
         "generated": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "today": today.isoformat(),
@@ -595,7 +683,7 @@ def main() -> int:
         "rejected_count": len(rejected),
         "approvals": approvals,
         "outreach": outreach_queue(targets),
-        "followups": load_followups(),
+        "followups": followups,
         "parked_count": len(PARKED),
         "parked_rule": "Parked (costs money): sponsorships, tables, booths, vendor slots, expo or event fees, tiers, prizes and athlete deals. Founder, 11 Oct: no spend.",
     }

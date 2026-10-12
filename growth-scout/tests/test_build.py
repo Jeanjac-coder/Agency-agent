@@ -209,3 +209,20 @@ def test_suppliers_are_not_an_outreach_lane():
     assert build.is_supplier({"name": "ANZER USA", "type": "oem-partner"})
     assert build.is_supplier({"name": "Acme", "type": "builder", "why": "Contract electronics manufacturer for PCBA"})
     assert not build.is_supplier({"name": "Tredict", "type": "app-partner", "why": "Endurance platform; battery of tests"})
+
+
+def test_every_target_carries_rule_9_7_decision_fields():
+    row = {"name": "X", "org": "X", "type": "investor", "hunt": "investor", "why": "An angel group. It invests.",
+           "evidence": ["https://www.example.com/a"], "check_size": "$25K-$1,200", "ask": "Intro call"}
+    build.decision_fields(row, None)
+    assert all(k in row for k in build.DECISION_KEYS)
+    assert row["status"] == "drafted" and row["cost"] == 0 and row["size"] == 25000
+    assert row["what_is"] == "An angel group. (source: example.com)"
+    t = build.thread_fields({"org": "Y", "state": "no go", "due": "2026-10-14", "next": "not paying $1,200"}, {})
+    assert t["status"] == "closed" and t["cost"] == 1200 and t["next_date"] == ""
+
+
+def test_claims_never_say_ecg():
+    row = {"opener": "a screenless ECG/HRV band that records ECG-based HRV; ECG too"}
+    build.scrub_claims(row)
+    assert "ECG" not in row["opener"] and "HRV band" in row["opener"]

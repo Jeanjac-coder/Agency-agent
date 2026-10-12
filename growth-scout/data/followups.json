@@ -126,7 +126,8 @@
    "state": "no go",
    "due": null,
    "next": "No go (John, 11 Oct). They declined for now ('Perhaps in the future'). No further outreach.",
-   "followed_up": "2026-10-09"
+   "followed_up": "2026-10-09",
+   "offer": "\"Perhaps in the future.\""
   },
   {
    "org": "Travis Manion Foundation",
@@ -174,17 +175,19 @@
    "org": "ANZER USA",
    "to": "JayM@anzer-usa.com",
    "first_sent": "2026-10-09",
-   "state": "no go",
+   "state": "closed",
    "due": null,
-   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+   "why": "rule 7"
   },
   {
    "org": "Kyros Engineering",
    "to": "peter@kyrosengineering.com",
    "first_sent": "2026-10-09",
-   "state": "no go",
+   "state": "closed",
    "due": null,
-   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+   "why": "rule 7"
   },
   {
    "org": "IAFC Technology Council (fire service vendor engagement)",
@@ -238,9 +241,10 @@
    "org": "MAGNET (Manufacturing Advocacy & Growth Network)",
    "to": "info@manufacturingsuccess.org",
    "first_sent": "2026-10-09",
-   "state": "no go",
+   "state": "closed",
    "due": null,
-   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+   "why": "rule 7"
   },
   {
    "org": "Ohio State Crew (club rowing)",
@@ -294,9 +298,10 @@
    "org": "Joules",
    "to": "hello@joules.cc",
    "first_sent": "2026-10-09",
-   "state": "no go",
+   "state": "closed",
    "due": null,
-   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+   "why": "rule 7"
   },
   {
    "org": "Leyen Zulueta",
@@ -310,9 +315,10 @@
    "org": "PlateLens",
    "to": "support@platelens.app",
    "first_sent": "2026-10-09",
-   "state": "no go",
+   "state": "closed",
    "due": null,
-   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+   "why": "rule 7"
   },
   {
    "org": "Cincinnati Cycle Club",
@@ -326,9 +332,10 @@
    "org": "LiPol Battery North America",
    "to": "info@lipolbatteries.com",
    "first_sent": "2026-10-09",
-   "state": "no go",
+   "state": "closed",
    "due": null,
-   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+   "why": "rule 7"
   },
   {
    "org": "Ohio State Triathlon Club",
@@ -358,9 +365,10 @@
    "org": "Nocturnal Product Development",
    "to": "eyal@nocturnalpd.com",
    "first_sent": "2026-10-09",
-   "state": "no go",
+   "state": "closed",
    "due": null,
-   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+   "why": "rule 7"
   },
   {
    "org": "Stress Platform - Health & HRV",
@@ -374,17 +382,19 @@
    "org": "SugaMed (ECG Patch PCBA)",
    "to": "info@sugaintl.com",
    "first_sent": "2026-10-09",
-   "state": "no go",
+   "state": "closed",
    "due": null,
-   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+   "why": "rule 7"
   },
   {
    "org": "Zufek",
    "to": "info@zufek.com",
    "first_sent": "2026-10-09",
-   "state": "no go",
+   "state": "closed",
    "due": null,
-   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up."
+   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+   "why": "rule 7"
   },
   {
    "org": "Open Wearables (Momentum)",
@@ -424,7 +434,8 @@
    "first_sent": "2026-10-09",
    "state": "replied: meeting",
    "due": "2026-10-16",
-   "next": "Markus Rummel replied 11 Oct and booked a meeting for next week. Our 9 Oct email carried the OLD i-grow booking link, so the booking sits on the i-grow calendar, not the Vybe one. Jeremy: find it there and re-send Markus a jeremy@vybe.health invite (John on CC), or ask him to rebook at https://calendly.com/jeremy-vybe/30min. Prep: data route and format for overnight HRV, HR and sleep timing. Do not promise a band."
+   "next": "Markus Rummel replied 11 Oct and booked a meeting for next week. Our 9 Oct email carried the OLD i-grow booking link, so the booking sits on the i-grow calendar, not the Vybe one. Jeremy: find it there and re-send Markus a jeremy@vybe.health invite (John on CC), or ask him to rebook at https://calendly.com/jeremy-vybe/30min. Prep: data route and format for overnight HRV, HR and sleep timing. Do not promise a band.",
+   "offer": "\"Thanks for reaching out, sounds very interesting. I've booked a meeting for next week.\""
   }
  ],
  "forwarded": [
