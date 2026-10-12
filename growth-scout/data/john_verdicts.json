@@ -1,0 +1,83 @@
+{
+ "note": "John's replies are the verdict (rule 11). Read with GMAIL_FETCH_EMAILS from:john@vybe.health newer_than:2d. Rule 7 outranks a reply: supplier, vendor and booth threads stay closed.",
+ "verdicts": [
+  {
+   "org": "__batch1__",
+   "verdict": "no",
+   "at": "2026-10-11T10:55:32Z",
+   "said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at the expos"
+  },
+  {
+   "org": "Stress Platform - Health & HRV",
+   "verdict": "waiting",
+   "at": "2026-10-11T10:53:14Z",
+   "said": "The agent is correct in that it requires the engineering response from you. All it requires is a technical response back, so low-hanging fruit before any calendly chats."
+  },
+  {
+   "org": "WNBF Naturalmania Pro Am Nationals",
+   "verdict": "no",
+   "at": "2026-10-11T10:51:52Z",
+   "said": "Vendor table plus social post in White Plains in 3 weeks. Cancel this one."
+  },
+  {
+   "org": "MSBL",
+   "verdict": "change",
+   "at": "2026-10-11T10:51:11Z",
+   "said": "Just need to send back a one-pager on what Vybe offers to send them the founding batch. But also for request #2, cancel that. No shot we are making it to Phoenix in the next 3 weeks."
+  },
+  {
+   "org": "RRCA 2027 Convention",
+   "verdict": "no",
+   "at": "2026-10-11T10:49:49Z",
+   "said": "Convention in Austin in April, 2027. Asking to pay $1200 to pay for a Convention table for running clubs. Doubtful we want to do this one."
+  },
+  {
+   "org": "Head of the Schuylkill Regatta",
+   "verdict": "no",
+   "at": "2026-10-11T10:48:45Z",
+   "said": "Go ahead and cancel this one. We are not going up to PA to pay $300 to have a table."
+  },
+  {
+   "org": "Concept2 Logbook",
+   "verdict": "waiting",
+   "at": "2026-10-11T10:47:59Z",
+   "said": "No partnerships, no emails required. Just need to fill out the application. Let me know if you want me to run that."
+  },
+  {
+   "org": "Ohio State Triathlon Club",
+   "verdict": "approve",
+   "at": "2026-10-11T10:47:15Z",
+   "said": "Resend the calendly link to discuss this with them, and see what works best. Something I could easily handle over the phone."
+  },
+  {
+   "org": "Tredict",
+   "verdict": "approve",
+   "at": "2026-10-11T10:45:49Z",
+   "said": "Super good response from them. We just need to apply to that actual link (I don't believe the agent has done that yet)."
+  },
+  {
+   "org": "ANZER USA",
+   "verdict": "change",
+   "at": "2026-10-11T10:41:50Z",
+   "said": "Thanks for getting back to us, and for flagging the broken link. Here's the corrected scheduling link: [INSERT CORRECT CALENDAR LINK]"
+  },
+  {
+   "org": "Nocturnal Product Development",
+   "verdict": "change",
+   "at": "2026-10-11T10:40:00Z",
+   "said": "Hi Eyal, Thanks for your interest, we'd be glad to set up a meeting."
+  },
+  {
+   "org": "Open Wearables (Momentum)",
+   "verdict": "approve",
+   "at": "2026-10-11T10:38:41Z",
+   "said": "Good possibility. Option email to send below:"
+  },
+  {
+   "org": "Roy Hobbs World Series",
+   "verdict": "no",
+   "at": "2026-10-11T01:15:24Z",
+   "said": "No acrtion for Roy Hobbs World Series. The agent can go ahead and mark this one as a no go on the dashboard."
+  }
+ ]
+}

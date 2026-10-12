@@ -226,3 +226,11 @@ def test_claims_never_say_ecg():
     row = {"opener": "a screenless ECG/HRV band that records ECG-based HRV; ECG too"}
     build.scrub_claims(row)
     assert "ECG" not in row["opener"] and "HRV band" in row["opener"]
+
+
+def test_rule_11_john_fields_default_to_none_and_truncate():
+    row = {}
+    build.john_fields(row, None)
+    assert row == {"john_verdict": "none", "john_said": "", "john_at": ""}
+    build.john_fields(row, {"verdict": "no", "said": "x" * 300, "at": "2026-10-11T10:00:00Z"})
+    assert row["john_verdict"] == "no" and len(row["john_said"]) == 200

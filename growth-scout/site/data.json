@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12 16:23 UTC",
+  "generated": "2026-10-12 17:28 UTC",
   "today": "2026-10-12",
   "scope": {
     "company": "Vybe Health",
@@ -127,7 +127,8 @@
     "ready_to_send": 180,
     "identity_needs_ok": 21,
     "outreach_queue": 151,
-    "rule_9_7": true
+    "rule_9_7": true,
+    "rule_11": true
   },
   "by_state": [
     {
@@ -317,7 +318,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "HRV4Training",
@@ -386,7 +390,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Kygo Health",
@@ -444,7 +451,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "RestOrTrain",
@@ -504,7 +514,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Open Wearables",
@@ -565,7 +578,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -639,7 +655,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Today AI",
@@ -697,7 +716,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": "Founder & Developer",
@@ -770,7 +792,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "approve",
+      "john_said": "Super good response from them. We just need to apply to that actual link (I don't believe the agent has done that yet).",
+      "john_at": "2026-10-11T10:45:49Z"
     },
     {
       "name": "Vita (iOS longevity app)",
@@ -829,7 +854,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Delx Wellness",
@@ -892,7 +920,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "OneTwenty",
@@ -951,7 +982,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": "Founder",
@@ -1027,7 +1061,10 @@
       "cost": 0,
       "next_date": "2026-10-16",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "AxlCoach",
@@ -1088,7 +1125,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Junction (formerly Vital)",
@@ -1168,7 +1208,10 @@
       "cost": 0,
       "next_date": "2026-10-14",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Labcorp Venture Fund",
@@ -1223,7 +1266,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Marco Altini",
@@ -1278,7 +1324,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Nikita Starov",
@@ -1334,7 +1383,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Welltory",
@@ -1410,7 +1462,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "type": "vc",
@@ -1467,7 +1522,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Emotion, Culture, and Psychophysiology Lab (Stress Watch)",
@@ -1525,7 +1583,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -1602,7 +1663,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Marko Maslakovic",
@@ -1655,7 +1719,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "ROOK",
@@ -1726,7 +1793,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "RadiantHealth",
@@ -1792,7 +1862,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Spike API",
@@ -1866,7 +1939,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Sunil Nagaraj",
@@ -1921,7 +1997,10 @@
       "cost": 0,
       "next_date": "",
       "size": 3000000.0,
-      "size_source": "check size listed at prnewswire.com"
+      "size_source": "check size listed at prnewswire.com",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Ultrax",
@@ -1980,7 +2059,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "abbjetmus (GitHub)",
@@ -2039,7 +2121,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": "Founder",
@@ -2115,7 +2200,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Thryve",
@@ -2172,7 +2260,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "type": "vc",
@@ -2227,7 +2318,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Brendan Keeler",
@@ -2281,7 +2375,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "IronAI",
@@ -2346,7 +2443,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -2405,7 +2505,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Pace",
@@ -2465,7 +2568,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "GDG Charlotte (DevFest Charlotte)",
@@ -2525,7 +2631,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Justin (GitHub: rlarson7)",
@@ -2583,7 +2692,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Lorenzo Susino (GitHub: LorenzoSusino99)",
@@ -2643,7 +2755,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -2703,7 +2818,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "oura-toolkit",
@@ -2761,7 +2879,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Terra",
@@ -2819,7 +2940,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Golden Seeds",
@@ -2873,7 +2997,10 @@
       "cost": 0,
       "next_date": "",
       "size": 10000000.0,
-      "size_source": "check size listed at goldenseeds.com"
+      "size_source": "check size listed at goldenseeds.com",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "SparkyFitness",
@@ -2930,7 +3057,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "a16z speedrun (SR008)",
@@ -2985,7 +3115,10 @@
       "cost": 0,
       "next_date": "2026-11-01",
       "size": 1000000.0,
-      "size_source": "check size listed at speedrun.a16z.com"
+      "size_source": "check size listed at speedrun.a16z.com",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Chris Gammell",
@@ -3038,7 +3171,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Julien Blin",
@@ -3091,7 +3227,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Kiva Dickinson",
@@ -3146,7 +3285,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "OpenStrap",
@@ -3204,7 +3346,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Ryan Merket",
@@ -3257,7 +3402,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -3333,7 +3481,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "r/QuantifiedSelf",
@@ -3387,7 +3538,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Duke Center for Computational and Digital Health Innovation (CompHealth)",
@@ -3447,7 +3601,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Leonid Liadveikin (GitHub: Flatout73)",
@@ -3506,7 +3663,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "octafield (GitHub)",
@@ -3564,7 +3724,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Hivers & Strivers",
@@ -3616,7 +3779,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Victoria Song",
@@ -3670,7 +3836,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "org": "Elite HRV",
@@ -3729,7 +3898,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Fleet Feet Carrboro and Durham training programs",
@@ -3793,7 +3965,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Keep IT Healthy Podcast",
@@ -3846,7 +4021,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Life Time Innovation Hub",
@@ -3908,7 +4086,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Resolute Ventures",
@@ -3962,7 +4143,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Open Wearables (the-momentum/open-wearables)",
@@ -4022,7 +4206,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Biodynamics and Human Performance Center HRV research (Andrew A. Flatt, PhD)",
@@ -4080,7 +4267,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Quantified Self (Show & Tell meetups + QS Forum)",
@@ -4133,7 +4323,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Wearable Data Builders by ROOK",
@@ -4186,7 +4379,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Abbie E. Smith-Ryan (UNC Department of Exercise and Sport Science)",
@@ -4246,7 +4442,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Adam W. Kiefer (UNC STAR Heel Performance Laboratory, Matthew Gfeller Center)",
@@ -4307,7 +4506,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Hunter Treuchet, H2F Director, 1st BCT 82nd Airborne Division",
@@ -4365,7 +4567,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Neuromuscular Research Laboratory / Warrior Human Performance Research Center (Bradley C. Nindl, PhD)",
@@ -4427,7 +4632,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Ray Maker",
@@ -4482,7 +4690,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "AIN Ventures",
@@ -4536,7 +4747,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": "Host",
@@ -4592,7 +4806,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -4657,7 +4874,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Jim McDonald",
@@ -4709,7 +4929,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Raleigh Fire Department mandatory fitness program",
@@ -4771,7 +4994,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Sleep Cycle",
@@ -4837,7 +5063,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "the5krunner",
@@ -4892,7 +5121,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Firefighter multimodal wearable sensing (Jerome P. Lynch, PhD)",
@@ -4949,7 +5181,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -5008,7 +5243,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -5070,7 +5308,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -5129,7 +5370,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Narat Srivali (Duke Division of Pulmonary, Allergy, and Critical Care Medicine)",
@@ -5189,7 +5433,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "org": "O2X Human Performance",
@@ -5247,7 +5494,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "TheoryEx Validation Sprint (Susie Reiner, PhD)",
@@ -5304,7 +5554,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Sleep consumer wearables and nearables evaluation (Rebecca M. C. Spencer, PhD)",
@@ -5361,7 +5614,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Aere",
@@ -5431,7 +5687,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Athlytic",
@@ -5498,7 +5757,10 @@
       "cost": 0,
       "next_date": "2026-10-14",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -5560,7 +5822,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Crowd Supply (hardware launch platform, Mouser-backed)",
@@ -5621,7 +5886,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Dale W. Russell (Uniformed Services University, Department of Psychiatry)",
@@ -5682,7 +5950,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": "Founder",
@@ -5752,7 +6023,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "org": "First Due",
@@ -5813,7 +6087,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Humango",
@@ -5879,7 +6156,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Meredith Dietz",
@@ -5932,7 +6212,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Nolio",
@@ -6011,7 +6294,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -6082,7 +6368,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "RISE Science (RISE Sleep)",
@@ -6155,7 +6444,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -6227,7 +6519,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "The Hardtech Podcast",
@@ -6281,7 +6576,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Synheart",
@@ -6339,7 +6637,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -6398,7 +6699,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "UNC/NC State Joint BME Senior Design Program",
@@ -6456,7 +6760,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Alumni Ventures",
@@ -6511,7 +6818,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "J2 Ventures",
@@ -6566,7 +6876,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Maneuver Center of Excellence H2F Proponency (Fort Benning)",
@@ -6629,7 +6942,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Human Performance Collaborative (Ohio State)",
@@ -6690,7 +7006,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": "Associate Dean, College of Health; Professor",
@@ -6750,7 +7069,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Cade Ventures: 'Why we haven't invested in a wearable yet - and what would change our minds'",
@@ -6803,7 +7125,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Cheryl McColgan",
@@ -6858,7 +7183,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": "Crew Endurance Lead; Senior Scientist",
@@ -6923,7 +7251,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Fitbod",
@@ -6996,7 +7327,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Kristina Simmons",
@@ -7052,7 +7386,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "LORDoftheSMARTRINGS",
@@ -7106,7 +7443,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "NOWFit",
@@ -7173,7 +7513,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Neurovus",
@@ -7231,7 +7574,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Oscar Moralez",
@@ -7285,7 +7631,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Petteri Lahtela",
@@ -7341,7 +7690,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "STRONG Lab, 711th Human Performance Wing",
@@ -7403,7 +7755,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Seaside Ventures",
@@ -7459,7 +7814,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Sunil Bhatt",
@@ -7513,7 +7871,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "ai-running-coach",
@@ -7570,7 +7931,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "kai",
@@ -7628,7 +7992,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "David Gozal (Marshall University Joan C. Edwards School of Medicine)",
@@ -7692,7 +8059,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "GDG on Campus NC A&T",
@@ -7750,7 +8120,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Metabolic & Applied Physiology Laboratory (Matthew J. McAllister, PhD)",
@@ -7807,7 +8180,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Techstars AI Health Baltimore (Spring 2027)",
@@ -7861,7 +8237,10 @@
       "cost": 0,
       "next_date": "2026-11-18",
       "size": 220000.0,
-      "size_source": "check size listed at techstars.com"
+      "size_source": "check size listed at techstars.com",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "FDA 2026 General Wellness guidance explicitly covers wearables measuring HRV, BP, SpO2",
@@ -7917,7 +8296,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -7979,7 +8361,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "type": "vc",
@@ -8033,7 +8418,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "type": "vc",
@@ -8086,7 +8474,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "51Ventures",
@@ -8142,7 +8533,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Anne Wojcicki",
@@ -8197,7 +8591,10 @@
       "cost": 0,
       "next_date": "",
       "size": 150000.0,
-      "size_source": "check size listed at jointhepurse.substack.com"
+      "size_source": "check size listed at jointhepurse.substack.com",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Brydge Club",
@@ -8250,7 +8647,10 @@
       "cost": 0,
       "next_date": "",
       "size": 50000.0,
-      "size_source": "check size listed at brydgeclub.com"
+      "size_source": "check size listed at brydgeclub.com",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "org": "Lexipol",
@@ -8311,7 +8711,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Fueld",
@@ -8375,7 +8778,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Load Metric Pro",
@@ -8441,7 +8847,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Longy",
@@ -8508,7 +8917,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "NOOP",
@@ -8567,7 +8979,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Omnio",
@@ -8640,7 +9055,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Pankaj Kedia",
@@ -8694,7 +9112,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Product Hunt Coming Soon (launch teaser)",
@@ -8749,7 +9170,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Robb Sutton",
@@ -8802,7 +9226,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": "Principal investigator",
@@ -8865,7 +9292,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Sathi.fit",
@@ -8932,7 +9362,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -9005,7 +9438,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -9080,7 +9516,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -9144,7 +9583,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Wake County EMS peer support team (John Sammons)",
@@ -9205,7 +9647,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Whooper 2.0 (EazyLee30)",
@@ -9266,7 +9711,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Jagim Lab, Mayo Clinic Health System (Andrew Jagim, PhD)",
@@ -9325,7 +9773,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -9383,7 +9834,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Mi Fitness Data Bridge",
@@ -9442,7 +9896,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Oura Home Assistant Integration",
@@ -9499,7 +9956,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Pulsetto",
@@ -9555,7 +10015,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "oura-ring-mcp-server",
@@ -9613,7 +10076,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Fitbit Web API shuts down 30 Oct 2026; tokens do not migrate",
@@ -9671,7 +10137,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "LEAD Sports & Health Tech Partners (Lake Nona Fund)",
@@ -9726,7 +10195,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "ScaleWolf",
@@ -9781,7 +10253,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Garmin pauses Connect Developer Program: no new API access since spring 2026",
@@ -9841,7 +10316,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -9902,7 +10380,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "WHOOP API approval backlog: developers stuck at 10-user cap for months (2026)",
@@ -9961,7 +10442,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Crosslink Capital",
@@ -10015,7 +10499,10 @@
       "cost": 0,
       "next_date": "",
       "size": 9000000.0,
-      "size_source": "check size listed at techcrunch.com"
+      "size_source": "check size listed at techcrunch.com",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": "Director",
@@ -10077,7 +10564,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Fortify Ventures",
@@ -10130,7 +10620,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Next Chapter Ventures (NCV)",
@@ -10184,7 +10677,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Ohio State Athletics Sport Science (Paul Jones, Associate Sport Scientist)",
@@ -10245,7 +10741,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Simple Muscle",
@@ -10306,7 +10805,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -10366,7 +10868,10 @@
       "cost": 0,
       "next_date": "2026-10-13",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "waiting",
+      "john_said": "The agent is correct in that it requires the engineering response from you. All it requires is a technical response back, so low-hanging fruit before any calendly chats.",
+      "john_at": "2026-10-11T10:53:14Z"
     },
     {
       "name": "Venture Connect 2027",
@@ -10426,7 +10931,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Vora",
@@ -10503,7 +11011,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "cued-back-end (Edwn1x)",
@@ -10562,7 +11073,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -10634,7 +11148,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "ClawWatch",
@@ -10692,7 +11209,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -10749,7 +11269,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -10809,7 +11332,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -10866,7 +11392,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "dailybuild",
@@ -10921,7 +11450,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "fitbit-grafana",
@@ -10979,7 +11511,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "fitness-dashboard (jlai)",
@@ -11035,7 +11570,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "fitnick",
@@ -11091,7 +11629,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Ketogenic and sleep-restriction tactical performance research (Jeff S. Volek, PhD)",
@@ -11149,7 +11690,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -11208,7 +11752,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "HJF-MDC Venture Fund",
@@ -11262,7 +11809,10 @@
       "cost": 0,
       "next_date": "",
       "size": 20000000.0,
-      "size_source": "check size listed at prnewswire.com"
+      "size_source": "check size listed at prnewswire.com",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Apple prototyping screenless fitness band (Gurman); launch not before 2028",
@@ -11318,7 +11868,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Google Fit APIs (incl. REST) deprecated in 2026; no REST replacement",
@@ -11374,7 +11927,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Y Combinator (Winter 2027 batch)",
@@ -11428,7 +11984,10 @@
       "cost": 0,
       "next_date": "2026-11-02",
       "size": 500000.0,
-      "size_source": "check size listed at ycombinator.com"
+      "size_source": "check size listed at ycombinator.com",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Techstars Anywhere Accelerator (Spring 2027)",
@@ -11481,7 +12040,10 @@
       "cost": 0,
       "next_date": "2026-11-18",
       "size": 220000.0,
-      "size_source": "check size listed at techstars.com"
+      "size_source": "check size listed at techstars.com",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "BetterHealthTech Podcast",
@@ -11532,7 +12094,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Matt Evans",
@@ -11585,7 +12150,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Michael L Hicks",
@@ -11637,7 +12205,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Rachael Schultz",
@@ -11689,7 +12260,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "OpenHRV",
@@ -11748,7 +12322,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Home Assistant Fitbit / Google Health integration",
@@ -11805,7 +12382,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Smartwatch sleep validation study (Mohit Chauhan)",
@@ -11862,7 +12442,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "org": "National Fallen Firefighters Foundation",
@@ -11917,7 +12500,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Vetted Accelerator",
@@ -11970,7 +12556,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "FDA closes WHOOP warning letter on Blood Pressure Insights",
@@ -12026,7 +12615,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "ClawHub (OpenClaw skill registry)",
@@ -12085,7 +12677,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Do - AI Fitness & Wellness",
@@ -12152,7 +12747,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Google Health API adds ECG, IRN and HRV webhooks",
@@ -12207,7 +12805,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -12285,7 +12886,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "HealthTech Capital",
@@ -12338,7 +12942,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Next Ventures",
@@ -12393,7 +13000,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Point Nine",
@@ -12446,7 +13056,10 @@
       "cost": 0,
       "next_date": "",
       "size": 10000000.0,
-      "size_source": "check size listed at healthcareittoday.com"
+      "size_source": "check size listed at healthcareittoday.com",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": "Developers",
@@ -12505,7 +13118,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Clean Dopamine",
@@ -12561,7 +13177,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "openfit",
@@ -12617,7 +13236,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "org": "National Strength and Conditioning Association (NSCA)",
@@ -12677,7 +13299,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "37 Angels",
@@ -12728,7 +13353,10 @@
       "cost": 0,
       "next_date": "",
       "size": 200000.0,
-      "size_source": "check size listed at 37angels.com"
+      "size_source": "check size listed at 37angels.com",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Catalyst by Wellstar",
@@ -12780,7 +13408,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "HHS Secretary Kennedy: 'every American wearing a wearable within four years'",
@@ -12835,7 +13466,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "ITC bans Ultrahuman rings in US over Oura patents; RingConn takes license",
@@ -12892,7 +13526,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Founder Institute Veteran Accelerator",
@@ -12944,7 +13581,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "SHIPP Lab (Science of Health Interventions and Peak Performance)",
@@ -13001,7 +13641,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Spartan Tech Ventures",
@@ -13054,7 +13697,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "The New Era Fund",
@@ -13107,7 +13753,10 @@
       "cost": 0,
       "next_date": "",
       "size": 500000.0,
-      "size_source": "check size listed at newerafund.vc"
+      "size_source": "check size listed at newerafund.vc",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Tim Perkin",
@@ -13160,7 +13809,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Veteran Angel Network (VAN)",
@@ -13211,7 +13863,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "r/hyrox",
@@ -13263,7 +13918,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "wearable-api-field-guide",
@@ -13320,7 +13978,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Ajay Surie",
@@ -13373,7 +14034,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "IDC: 611.5M wearables shipped in 2025; 625.2M forecast for 2026; wrist-worn down 4.3% in Q2 2026",
@@ -13429,7 +14093,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "NH HB 1805 (2026) officer wellness program requirement",
@@ -13485,7 +14152,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Pipeline Angels",
@@ -13536,7 +14206,10 @@
       "cost": 0,
       "next_date": "",
       "size": 5000.0,
-      "size_source": "check size listed at pipelineangels.org"
+      "size_source": "check size listed at pipelineangels.org",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "The Veteran Fund",
@@ -13591,7 +14264,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Tim Rosa",
@@ -13644,7 +14320,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "org": "FAAC",
@@ -13700,7 +14379,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "role": null,
@@ -13759,7 +14441,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "DVC: Health",
@@ -13810,7 +14495,10 @@
       "cost": 0,
       "next_date": "",
       "size": 110800.0,
-      "size_source": "check size listed at venture.angellist.com"
+      "size_source": "check size listed at venture.angellist.com",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Female Founders Fund",
@@ -13863,7 +14551,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "MaC Venture Capital",
@@ -13915,7 +14606,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "Samsung completes Xealth acquisition to wire wearable data into clinical workflows",
@@ -13970,7 +14664,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "name": "YC W26 'Fort' building a screenless strength-tracking band",
@@ -14026,7 +14723,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     },
     {
       "org": "IJERPH (MDPI) pilot study",
@@ -14081,7 +14781,10 @@
       "cost": 0,
       "next_date": "",
       "size": null,
-      "size_source": ""
+      "size_source": "",
+      "john_verdict": "none",
+      "john_said": "",
+      "john_at": ""
     }
   ],
   "combos": [
@@ -14452,142 +15155,202 @@
       "baltimore-running-festival-2026-health-fitness-expo-corrigan-sports-enterprises": {
         "n": 1,
         "name": "Baltimore Running Festival 2026 Health & Fitness Expo",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "marine-corps-marathon-health-fitness-expo-2026-marine-corps-marathon-organizatio": {
         "n": 2,
         "name": "Marine Corps Marathon Health & Fitness Expo 2026",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "hyrox-tampa-2026-hyrox": {
         "n": 3,
         "name": "HYROX Tampa 2026",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "tough-as-trails-off-road-race-series-2026-27-bull-city-running-co": {
         "n": 4,
         "name": "Tough as Trails Off-Road Race Series 2026-27",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "martin-marietta-city-of-oaks-marathon-2026-city-of-oaks-marathon-nonprofit": {
         "n": 5,
         "name": "Martin Marietta City of Oaks Marathon 2026",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "tideland-24-24-hour-ultra-benefiting-marine-raider-foundation-tideland-24": {
         "n": 6,
         "name": "Tideland 24 (24-hour ultra benefiting Marine Raider Foundation)",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "bolt-run-2026-team-tampa-bay-5k-champions-club-tampa-bay-lightning-tampa-bay-spo": {
         "n": 7,
         "name": "Bolt Run 2026 (Team Tampa Bay 5K Champions Club)",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "wounded-warrior-project-carry-forward-5k-jacksonville-2026-wounded-warrior-proje": {
         "n": 8,
         "name": "Wounded Warrior Project Carry Forward 5K - Jacksonville 2026",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "veterans-military-council-5k-ruck-run-walk-2026-veterans-military-council": {
         "n": 9,
         "name": "Veterans & Military Council 5K (Ruck & Run/Walk) 2026",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "novant-health-charlotte-marathon-2026-health-wellness-expo-charlotte-sports-foun": {
         "n": 10,
         "name": "Novant Health Charlotte Marathon 2026 (Health & Wellness Expo)",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "princeton-national-rowing-association-row-for-change-gala-2026-princeton-nationa": {
         "n": 11,
         "name": "Princeton National Rowing Association - Row for Change Gala 2026",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "philadelphia-marathon-weekend-expo-presented-by-drywater-2026-philadelphia-marat": {
         "n": 12,
         "name": "Philadelphia Marathon Weekend Expo presented by DryWater 2026",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "town-of-vinton-veterans-ruck-2026-town-of-vinton": {
         "n": 13,
         "name": "Town of Vinton Veterans Ruck 2026",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "kiawah-island-golf-resort-marathon-2026-expo-holiday-market-kiawah-island-golf-r": {
         "n": 14,
         "name": "Kiawah Island Golf Resort Marathon 2026 Expo & Holiday Market",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "novant-health-wilmington-nc-marathon-2027-without-limits": {
         "n": 15,
         "name": "Novant Health Wilmington NC Marathon 2027",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "tobacco-road-marathon-weekend-2027-tobacco-road-marathon-501-c-3-nonprofit": {
         "n": 16,
         "name": "Tobacco Road Marathon Weekend 2027",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "asheville-marathon-half-2027-idaph-events": {
         "n": 17,
         "name": "Asheville Marathon & Half 2027",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "all-american-races-half-marathon-and-5k-2027-fort-bragg-family-and-mwr": {
         "n": 18,
         "name": "All American Races (Half Marathon and 5K) 2027",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "delaware-running-festival-2027-sports-expo-delaware-marathon-running-festival": {
         "n": 19,
         "name": "Delaware Running Festival 2027 (Sports Expo)",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "55th-annual-fire-expo-2027-lancaster-county-firemen-s-association-lancaster-coun": {
         "n": 20,
         "name": "55th Annual FIRE EXPO 2027 (Lancaster County Firemen's Association)",
-        "status": "on hold: team discussion",
+        "status": "closed: rule 7 (never an event presence)",
         "requested": "2026-10-10",
-        "batch": 1
+        "batch": 1,
+        "john_verdict": "no",
+        "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+        "john_at": "2026-10-11T10:55:32Z"
       },
       "fu-waka-kickball": {
         "n": 21,
@@ -17675,7 +18438,10 @@
         "cost": 0,
         "next_date": "2026-10-13",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "waiting",
+        "john_said": "No partnerships, no emails required. Just need to fill out the application. Let me know if you want me to run that.",
+        "john_at": "2026-10-11T10:47:59Z"
       },
       {
         "org": "MSBL",
@@ -17693,7 +18459,10 @@
         "cost": 0,
         "next_date": "2026-10-13",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "change",
+        "john_said": "Just need to send back a one-pager on what Vybe offers to send them the founding batch. But also for request #2, cancel that. No shot we are making it to Phoenix in the next 3 weeks.",
+        "john_at": "2026-10-11T10:51:11Z"
       },
       {
         "org": "Senior Softball-USA Winter Nationals",
@@ -17711,7 +18480,10 @@
         "cost": 0,
         "next_date": "2026-10-13",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Stress Platform - Health & HRV",
@@ -17728,7 +18500,10 @@
         "cost": 0,
         "next_date": "2026-10-13",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "waiting",
+        "john_said": "The agent is correct in that it requires the engineering response from you. All it requires is a technical response back, so low-hanging fruit before any calendly chats.",
+        "john_at": "2026-10-11T10:53:14Z"
       },
       {
         "org": "Aaron Handy",
@@ -17745,7 +18520,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Adaptive and wheelchair sports (Ohio)",
@@ -17762,7 +18540,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Arnold Sports Festival & Arnold Expo 2027",
@@ -17779,7 +18560,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Athlytic",
@@ -17796,7 +18580,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Chagrin Falls Booster Club 5K Turkey Trot 2026",
@@ -17813,7 +18600,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Cincinnati Cycle Club",
@@ -17830,7 +18620,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Columbus Weightlifting Club",
@@ -17847,7 +18640,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "GT Brazilian Jiu-Jitsu",
@@ -17864,7 +18660,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "IAFC Technology Council (fire service vendor engagement)",
@@ -17881,7 +18680,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Junction (formerly Vital)",
@@ -17898,7 +18700,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Kent State Esports",
@@ -17915,7 +18720,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Leyen Zulueta",
@@ -17932,7 +18740,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "National Senior Games Association",
@@ -17949,7 +18760,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Ohio State Crew (club rowing)",
@@ -17966,7 +18780,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Ohio State Triathlon Club",
@@ -17983,7 +18800,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "approve",
+        "john_said": "Resend the calendly link to discuss this with them, and see what works best. Something I could easily handle over the phone.",
+        "john_at": "2026-10-11T10:47:15Z"
       },
       {
         "org": "OhioHealth Capital City Half & Quarter Marathon 2027",
@@ -18000,7 +18820,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Open Wearables (Momentum)",
@@ -18017,7 +18840,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "approve",
+        "john_said": "Good possibility. Option email to send below:",
+        "john_at": "2026-10-11T10:38:41Z"
       },
       {
         "org": "REACH Fitness",
@@ -18034,7 +18860,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Running 4 Heroes",
@@ -18051,7 +18880,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "WAKA Kickball",
@@ -18068,7 +18900,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Youth and adult bouldering (Akron)",
@@ -18085,7 +18920,10 @@
         "cost": 0,
         "next_date": "2026-10-14",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "AI Endurance",
@@ -18102,7 +18940,10 @@
         "cost": 0,
         "next_date": "2026-10-16",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Black Girls RUN!",
@@ -18120,7 +18961,10 @@
         "cost": 0,
         "next_date": "2026-10-16",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Black Men Run",
@@ -18138,7 +18982,10 @@
         "cost": 0,
         "next_date": "2026-10-16",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Hockey North America",
@@ -18156,7 +19003,10 @@
         "cost": 0,
         "next_date": "2026-10-16",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "International Pride Softball",
@@ -18174,7 +19024,10 @@
         "cost": 0,
         "next_date": "2026-10-16",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "NABA (adult baseball)",
@@ -18192,7 +19045,10 @@
         "cost": 0,
         "next_date": "2026-10-16",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "NYRR Strategic Partnerships",
@@ -18210,7 +19066,10 @@
         "cost": 0,
         "next_date": "2026-10-16",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Travis Manion Foundation",
@@ -18228,7 +19087,10 @@
         "cost": 0,
         "next_date": "2026-10-16",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "US Police & Fire Championships",
@@ -18246,7 +19108,10 @@
         "cost": 0,
         "next_date": "2026-10-16",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Volo",
@@ -18264,7 +19129,10 @@
         "cost": 0,
         "next_date": "2026-10-16",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "ANZER USA",
@@ -18282,7 +19150,10 @@
         "cost": 0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "change",
+        "john_said": "Thanks for getting back to us, and for flagging the broken link. Here's the corrected scheduling link: [INSERT CORRECT CALENDAR LINK]",
+        "john_at": "2026-10-11T10:41:50Z"
       },
       {
         "org": "Akron City FC",
@@ -18300,7 +19171,10 @@
         "cost": 0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Head of the Schuylkill Regatta",
@@ -18318,7 +19192,10 @@
         "cost": 300.0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "no",
+        "john_said": "Go ahead and cancel this one. We are not going up to PA to pay $300 to have a table.",
+        "john_at": "2026-10-11T10:48:45Z"
       },
       {
         "org": "Joules",
@@ -18336,7 +19213,10 @@
         "cost": 0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Kyros Engineering",
@@ -18354,7 +19234,10 @@
         "cost": 0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "LiPol Battery North America",
@@ -18372,7 +19255,10 @@
         "cost": 0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "MAGNET (Manufacturing Advocacy & Growth Network)",
@@ -18390,7 +19276,10 @@
         "cost": 0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Nocturnal Product Development",
@@ -18408,7 +19297,10 @@
         "cost": 0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "change",
+        "john_said": "Hi Eyal, Thanks for your interest, we'd be glad to set up a meeting.",
+        "john_at": "2026-10-11T10:40:00Z"
       },
       {
         "org": "PlateLens",
@@ -18426,7 +19318,10 @@
         "cost": 0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "RRCA 2027 Convention",
@@ -18444,7 +19339,10 @@
         "cost": 1200.0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "no",
+        "john_said": "Convention in Austin in April, 2027. Asking to pay $1200 to pay for a Convention table for running clubs. Doubtful we want to do this one.",
+        "john_at": "2026-10-11T10:49:49Z"
       },
       {
         "org": "Roy Hobbs World Series",
@@ -18462,7 +19360,10 @@
         "cost": 0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "no",
+        "john_said": "No acrtion for Roy Hobbs World Series. The agent can go ahead and mark this one as a no go on the dashboard.",
+        "john_at": "2026-10-11T01:15:24Z"
       },
       {
         "org": "SugaMed (ECG Patch PCBA)",
@@ -18480,7 +19381,10 @@
         "cost": 0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Team Kriebel Ohio Brazilian Jiu-Jitsu Academy (TKO BJJ)",
@@ -18498,7 +19402,10 @@
         "cost": 0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       },
       {
         "org": "Tredict",
@@ -18515,7 +19422,10 @@
         "cost": 0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "approve",
+        "john_said": "Super good response from them. We just need to apply to that actual link (I don't believe the agent has done that yet).",
+        "john_at": "2026-10-11T10:45:49Z"
       },
       {
         "org": "WNBF Naturalmania Pro Am Nationals",
@@ -18533,7 +19443,10 @@
         "cost": 0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "no",
+        "john_said": "Vendor table plus social post in White Plains in 3 weeks. Cancel this one.",
+        "john_at": "2026-10-11T10:51:52Z"
       },
       {
         "org": "Zufek",
@@ -18551,7 +19464,10 @@
         "cost": 0,
         "next_date": "",
         "size": null,
-        "size_source": ""
+        "size_source": "",
+        "john_verdict": "none",
+        "john_said": "",
+        "john_at": ""
       }
     ],
     "forwarded": [

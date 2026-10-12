@@ -33,6 +33,7 @@ SCREENED = ROOT / "data" / "screened_apps.json"
 IDENTIFIED = ROOT / "data" / "identified_apps.json"
 FOLLOWUPS = ROOT / "data" / "followups.json"
 APPROVALS = ROOT / "data" / "approvals.json"
+JOHN = ROOT / "data" / "john_verdicts.json"
 
 TYPES = {
     "vc", "angel", "angel-group", "syndicate", "accelerator", "corporate-vc",
@@ -445,8 +446,13 @@ def build(params: dict, today: dt.date) -> tuple[list[dict], list[dict], dict]:
         row["id"] = re.sub(r"\s+", "-", norm(f"{row['name']} {row.get('org') or ''}"))[:80]
         scrub_claims(row)
     threads = {norm(t["org"]): t for t in load_followups()["threads"]}
+    john, batch1 = load_john()
+    JOHN_BY_ORG.clear(); JOHN_BY_ORG.update(john)
+    batch1_ids = {k for k, it in load_approvals().get("items", {}).items() if it.get("batch") == 1}
     for row in targets:
         decision_fields(row, threads.get(norm(row.get("org"))) or threads.get(norm(row["name"])))
+        v = john.get(norm(row.get("org"))) or john.get(norm(row["name"]))
+        john_fields(row, v or (batch1 if row["id"] in batch1_ids else None))
     return targets, rejected, lanes
 
 
@@ -468,6 +474,7 @@ def scrub_claims(row: dict) -> None:
             row[f] = v
 
 
+JOHN_BY_ORG: dict = {}
 DECISION_KEYS = ("org", "what_is", "status", "offer", "we_need", "they_need", "cost", "next_date", "size", "size_source")
 # Rule 9.7 (VYBE-AGENT-STANDARDS.md): every lead carries the decision fields.
 THREAD_STATUS = {"no reply": "waiting", "auto-reply only": "waiting", "replied": "replied",
@@ -515,6 +522,22 @@ def decision_fields(row: dict, thread: dict | None) -> None:
     row["size_source"] = f"check size listed at {host}" if size and host else ""
 
 
+# Rule 11: John's reply is the verdict on a draft.
+def load_john() -> tuple[dict, dict | None]:
+    if not JOHN.exists():
+        return {}, None
+    rows = json.loads(JOHN.read_text())["verdicts"]
+    by_org = {norm(r["org"]): r for r in rows if r["org"] != "__batch1__"}
+    batch1 = next((r for r in rows if r["org"] == "__batch1__"), None)
+    return by_org, batch1
+
+
+def john_fields(row: dict, v: dict | None) -> None:
+    row["john_verdict"] = (v or {}).get("verdict", "none")
+    row["john_said"] = ((v or {}).get("said") or "")[:200]
+    row["john_at"] = (v or {}).get("at", "")
+
+
 def thread_fields(t: dict, targets_by_org: dict) -> dict:
     row = targets_by_org.get(norm(t["org"])) or {}
     t = dict(t)
@@ -527,6 +550,7 @@ def thread_fields(t: dict, targets_by_org: dict) -> dict:
     t["next_date"] = "" if t["status"] in ("closed", "declined") else (t.get("due") or "")
     t.setdefault("size", None)
     t.setdefault("size_source", "")
+    john_fields(t, JOHN_BY_ORG.get(norm(t["org"])))
     return t
 
 
@@ -629,6 +653,7 @@ def summary(targets: list[dict], today: dt.date) -> dict:
         "identity_needs_ok": count(lambda t: t.get("identity_needs_ok")),
         "outreach_queue": count(lambda t: t["hunt"] in QUEUE_HUNTS and t.get("sendable")),
         "rule_9_7": all(all(k in t for k in DECISION_KEYS) for t in targets),
+        "rule_11": all(all(k in t for k in ("john_verdict", "john_said", "john_at")) for t in targets),
     }
 
 

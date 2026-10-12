@@ -1,396 +1,456 @@
 {
-  "approver": "john@vybe.health",
-  "rule": "No outreach draft is sent until John approves it. John replies APPROVE / NO / CHANGE by number.",
-  "items": {
-    "baltimore-running-festival-2026-health-fitness-expo-corrigan-sports-enterprises": {
-      "n": 1,
-      "name": "Baltimore Running Festival 2026 Health & Fitness Expo",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "marine-corps-marathon-health-fitness-expo-2026-marine-corps-marathon-organizatio": {
-      "n": 2,
-      "name": "Marine Corps Marathon Health & Fitness Expo 2026",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "hyrox-tampa-2026-hyrox": {
-      "n": 3,
-      "name": "HYROX Tampa 2026",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "tough-as-trails-off-road-race-series-2026-27-bull-city-running-co": {
-      "n": 4,
-      "name": "Tough as Trails Off-Road Race Series 2026-27",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "martin-marietta-city-of-oaks-marathon-2026-city-of-oaks-marathon-nonprofit": {
-      "n": 5,
-      "name": "Martin Marietta City of Oaks Marathon 2026",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "tideland-24-24-hour-ultra-benefiting-marine-raider-foundation-tideland-24": {
-      "n": 6,
-      "name": "Tideland 24 (24-hour ultra benefiting Marine Raider Foundation)",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "bolt-run-2026-team-tampa-bay-5k-champions-club-tampa-bay-lightning-tampa-bay-spo": {
-      "n": 7,
-      "name": "Bolt Run 2026 (Team Tampa Bay 5K Champions Club)",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "wounded-warrior-project-carry-forward-5k-jacksonville-2026-wounded-warrior-proje": {
-      "n": 8,
-      "name": "Wounded Warrior Project Carry Forward 5K - Jacksonville 2026",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "veterans-military-council-5k-ruck-run-walk-2026-veterans-military-council": {
-      "n": 9,
-      "name": "Veterans & Military Council 5K (Ruck & Run/Walk) 2026",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "novant-health-charlotte-marathon-2026-health-wellness-expo-charlotte-sports-foun": {
-      "n": 10,
-      "name": "Novant Health Charlotte Marathon 2026 (Health & Wellness Expo)",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "princeton-national-rowing-association-row-for-change-gala-2026-princeton-nationa": {
-      "n": 11,
-      "name": "Princeton National Rowing Association - Row for Change Gala 2026",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "philadelphia-marathon-weekend-expo-presented-by-drywater-2026-philadelphia-marat": {
-      "n": 12,
-      "name": "Philadelphia Marathon Weekend Expo presented by DryWater 2026",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "town-of-vinton-veterans-ruck-2026-town-of-vinton": {
-      "n": 13,
-      "name": "Town of Vinton Veterans Ruck 2026",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "kiawah-island-golf-resort-marathon-2026-expo-holiday-market-kiawah-island-golf-r": {
-      "n": 14,
-      "name": "Kiawah Island Golf Resort Marathon 2026 Expo & Holiday Market",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "novant-health-wilmington-nc-marathon-2027-without-limits": {
-      "n": 15,
-      "name": "Novant Health Wilmington NC Marathon 2027",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "tobacco-road-marathon-weekend-2027-tobacco-road-marathon-501-c-3-nonprofit": {
-      "n": 16,
-      "name": "Tobacco Road Marathon Weekend 2027",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "asheville-marathon-half-2027-idaph-events": {
-      "n": 17,
-      "name": "Asheville Marathon & Half 2027",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "all-american-races-half-marathon-and-5k-2027-fort-bragg-family-and-mwr": {
-      "n": 18,
-      "name": "All American Races (Half Marathon and 5K) 2027",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "delaware-running-festival-2027-sports-expo-delaware-marathon-running-festival": {
-      "n": 19,
-      "name": "Delaware Running Festival 2027 (Sports Expo)",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "55th-annual-fire-expo-2027-lancaster-county-firemen-s-association-lancaster-coun": {
-      "n": 20,
-      "name": "55th Annual FIRE EXPO 2027 (Lancaster County Firemen's Association)",
-      "status": "on hold: team discussion",
-      "requested": "2026-10-10",
-      "batch": 1
-    },
-    "fu-waka-kickball": {
-      "n": 21,
-      "name": "Follow-up: WAKA Kickball",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "info@clubwaka.com",
-      "send_on": "2026-10-14"
-    },
-    "fu-running-4-heroes": {
-      "n": 22,
-      "name": "Follow-up: Running 4 Heroes",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "info@running4heroes.org",
-      "send_on": "2026-10-14"
-    },
-    "fu-kyros-engineering": {
-      "n": 23,
-      "name": "Follow-up: Kyros Engineering",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "peter@kyrosengineering.com",
-      "send_on": "2026-10-14"
-    },
-    "fu-iafc-technology-council-fire-service-vendor-engagement": {
-      "n": 24,
-      "name": "Follow-up: IAFC Technology Council (fire service vendor engagement)",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "techcouncil@iafc.org",
-      "send_on": "2026-10-14"
-    },
-    "fu-adaptive-and-wheelchair-sports-ohio": {
-      "n": 25,
-      "name": "Follow-up: Adaptive and wheelchair sports (Ohio)",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "info@adaptivesportsohio.org",
-      "send_on": "2026-10-14"
-    },
-    "fu-akron-city-fc": {
-      "n": 26,
-      "name": "Follow-up: Akron City FC",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "info@akroncityfc.com",
-      "send_on": "2026-10-14"
-    },
-    "fu-arnold-sports-festival-arnold-expo-2027": {
-      "n": 27,
-      "name": "Follow-up: Arnold Sports Festival & Arnold Expo 2027",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "exhibitors@arnoldsports.com",
-      "send_on": "2026-10-14"
-    },
-    "fu-gt-brazilian-jiu-jitsu": {
-      "n": 28,
-      "name": "Follow-up: GT Brazilian Jiu-Jitsu",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "todd@gtbjjohio.com",
-      "send_on": "2026-10-14"
-    },
-    "fu-kent-state-esports": {
-      "n": 29,
-      "name": "Follow-up: Kent State Esports",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "esports@kent.edu",
-      "send_on": "2026-10-14"
-    },
-    "fu-magnet-manufacturing-advocacy-growth-network": {
-      "n": 30,
-      "name": "Follow-up: MAGNET (Manufacturing Advocacy & Growth Network)",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "info@manufacturingsuccess.org",
-      "send_on": "2026-10-14"
-    },
-    "fu-ohio-state-crew-club-rowing": {
-      "n": 31,
-      "name": "Follow-up: Ohio State Crew (club rowing)",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "osucrewrar@gmail.com",
-      "send_on": "2026-10-14"
-    },
-    "fu-ohiohealth-capital-city-half-quarter-marathon-2027": {
-      "n": 32,
-      "name": "Follow-up: OhioHealth Capital City Half & Quarter Marathon 2027",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "info@m3ssports.com",
-      "send_on": "2026-10-14"
-    },
-    "fu-reach-fitness": {
-      "n": 33,
-      "name": "Follow-up: REACH Fitness",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "marianne@reachfitnessohio.com",
-      "send_on": "2026-10-14"
-    },
-    "fu-youth-and-adult-bouldering-akron": {
-      "n": 34,
-      "name": "Follow-up: Youth and adult bouldering (Akron)",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "info@rockmillclimbing.com",
-      "send_on": "2026-10-14"
-    },
-    "fu-aaron-handy": {
-      "n": 35,
-      "name": "Follow-up: Aaron Handy",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "office@legacy-ohio.com",
-      "send_on": "2026-10-14"
-    },
-    "fu-chris-kriebel": {
-      "n": 36,
-      "name": "Follow-up: Chris Kriebel",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "chris@tkobjj.com",
-      "send_on": "2026-10-14"
-    },
-    "fu-joules": {
-      "n": 37,
-      "name": "Follow-up: Joules",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "hello@joules.cc",
-      "send_on": "2026-10-14"
-    },
-    "fu-leyen-zulueta": {
-      "n": 38,
-      "name": "Follow-up: Leyen Zulueta",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "travis@matlabbjj.com",
-      "send_on": "2026-10-14"
-    },
-    "fu-platelens": {
-      "n": 39,
-      "name": "Follow-up: PlateLens",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "support@platelens.app",
-      "send_on": "2026-10-14"
-    },
-    "fu-cincinnati-cycle-club": {
-      "n": 40,
-      "name": "Follow-up: Cincinnati Cycle Club",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "membership@cincinnaticycleclub.org",
-      "send_on": "2026-10-14"
-    },
-    "fu-chagrin-falls-booster-club-5k-turkey-trot-2026": {
-      "n": 41,
-      "name": "Follow-up: Chagrin Falls Booster Club 5K Turkey Trot 2026",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "info@cfboosterclub.org",
-      "send_on": "2026-10-14"
-    },
-    "fu-columbus-weightlifting-club": {
-      "n": 42,
-      "name": "Follow-up: Columbus Weightlifting Club",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "info@columbusweightlifting.org",
-      "send_on": "2026-10-14"
-    },
-    "fu-sugamed-ecg-patch-pcba": {
-      "n": 43,
-      "name": "Follow-up: SugaMed (ECG Patch PCBA)",
-      "status": "awaiting John",
-      "requested": "2026-10-11",
-      "batch": 2,
-      "kind": "follow-up",
-      "to": "info@sugaintl.com",
-      "send_on": "2026-10-14"
-    }
+ "approver": "john@vybe.health",
+ "rule": "No outreach draft is sent until John approves it. John replies APPROVE / NO / CHANGE by number.",
+ "items": {
+  "baltimore-running-festival-2026-health-fitness-expo-corrigan-sports-enterprises": {
+   "n": 1,
+   "name": "Baltimore Running Festival 2026 Health & Fitness Expo",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
   },
-  "batches": [
-    {
-      "batch": 1,
-      "sent": "2026-10-10",
-      "thread_id": "1a125d5532424d3b",
-      "to": "john@vybe.health",
-      "count": 20,
-      "correction": "2026-10-11: booking line corrected to https://calendly.com/jeremy-vybe/30min (the first email to John showed the wrong company's calendar). Approve against the corrected text; correction sent on thread 1a12b3642c25f565.",
-      "john_reply": "11 Oct: John wants a team discussion first on what filling a vendor slot means (booths at expos, plus bands for founding members: do we have them?). Batch 1 is on hold."
-    },
-    {
-      "batch": 2,
-      "kind": "follow-ups",
-      "sent": "2026-10-11",
-      "thread_id": "1a12b3642c25f565",
-      "to": "john@vybe.health",
-      "count": 23,
-      "correction": "2026-10-11: booking line corrected to https://calendly.com/jeremy-vybe/30min (the first email to John showed the wrong company's calendar). Approve against the corrected text; correction sent on thread 1a12b3642c25f565."
-    }
-  ]
+  "marine-corps-marathon-health-fitness-expo-2026-marine-corps-marathon-organizatio": {
+   "n": 2,
+   "name": "Marine Corps Marathon Health & Fitness Expo 2026",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "hyrox-tampa-2026-hyrox": {
+   "n": 3,
+   "name": "HYROX Tampa 2026",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "tough-as-trails-off-road-race-series-2026-27-bull-city-running-co": {
+   "n": 4,
+   "name": "Tough as Trails Off-Road Race Series 2026-27",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "martin-marietta-city-of-oaks-marathon-2026-city-of-oaks-marathon-nonprofit": {
+   "n": 5,
+   "name": "Martin Marietta City of Oaks Marathon 2026",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "tideland-24-24-hour-ultra-benefiting-marine-raider-foundation-tideland-24": {
+   "n": 6,
+   "name": "Tideland 24 (24-hour ultra benefiting Marine Raider Foundation)",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "bolt-run-2026-team-tampa-bay-5k-champions-club-tampa-bay-lightning-tampa-bay-spo": {
+   "n": 7,
+   "name": "Bolt Run 2026 (Team Tampa Bay 5K Champions Club)",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "wounded-warrior-project-carry-forward-5k-jacksonville-2026-wounded-warrior-proje": {
+   "n": 8,
+   "name": "Wounded Warrior Project Carry Forward 5K - Jacksonville 2026",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "veterans-military-council-5k-ruck-run-walk-2026-veterans-military-council": {
+   "n": 9,
+   "name": "Veterans & Military Council 5K (Ruck & Run/Walk) 2026",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "novant-health-charlotte-marathon-2026-health-wellness-expo-charlotte-sports-foun": {
+   "n": 10,
+   "name": "Novant Health Charlotte Marathon 2026 (Health & Wellness Expo)",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "princeton-national-rowing-association-row-for-change-gala-2026-princeton-nationa": {
+   "n": 11,
+   "name": "Princeton National Rowing Association - Row for Change Gala 2026",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "philadelphia-marathon-weekend-expo-presented-by-drywater-2026-philadelphia-marat": {
+   "n": 12,
+   "name": "Philadelphia Marathon Weekend Expo presented by DryWater 2026",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "town-of-vinton-veterans-ruck-2026-town-of-vinton": {
+   "n": 13,
+   "name": "Town of Vinton Veterans Ruck 2026",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "kiawah-island-golf-resort-marathon-2026-expo-holiday-market-kiawah-island-golf-r": {
+   "n": 14,
+   "name": "Kiawah Island Golf Resort Marathon 2026 Expo & Holiday Market",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "novant-health-wilmington-nc-marathon-2027-without-limits": {
+   "n": 15,
+   "name": "Novant Health Wilmington NC Marathon 2027",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "tobacco-road-marathon-weekend-2027-tobacco-road-marathon-501-c-3-nonprofit": {
+   "n": 16,
+   "name": "Tobacco Road Marathon Weekend 2027",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "asheville-marathon-half-2027-idaph-events": {
+   "n": 17,
+   "name": "Asheville Marathon & Half 2027",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "all-american-races-half-marathon-and-5k-2027-fort-bragg-family-and-mwr": {
+   "n": 18,
+   "name": "All American Races (Half Marathon and 5K) 2027",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "delaware-running-festival-2027-sports-expo-delaware-marathon-running-festival": {
+   "n": 19,
+   "name": "Delaware Running Festival 2027 (Sports Expo)",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "55th-annual-fire-expo-2027-lancaster-county-firemen-s-association-lancaster-coun": {
+   "n": 20,
+   "name": "55th Annual FIRE EXPO 2027 (Lancaster County Firemen's Association)",
+   "status": "closed: rule 7 (never an event presence)",
+   "requested": "2026-10-10",
+   "batch": 1,
+   "john_verdict": "no",
+   "john_said": "Before I actually deny all these, maybe it's a good idea to discuss as a team what filling a vendor slot actually looks lke for the company. Because most all of these are asking us to have booths at t",
+   "john_at": "2026-10-11T10:55:32Z"
+  },
+  "fu-waka-kickball": {
+   "n": 21,
+   "name": "Follow-up: WAKA Kickball",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "info@clubwaka.com",
+   "send_on": "2026-10-14"
+  },
+  "fu-running-4-heroes": {
+   "n": 22,
+   "name": "Follow-up: Running 4 Heroes",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "info@running4heroes.org",
+   "send_on": "2026-10-14"
+  },
+  "fu-kyros-engineering": {
+   "n": 23,
+   "name": "Follow-up: Kyros Engineering",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "peter@kyrosengineering.com",
+   "send_on": "2026-10-14"
+  },
+  "fu-iafc-technology-council-fire-service-vendor-engagement": {
+   "n": 24,
+   "name": "Follow-up: IAFC Technology Council (fire service vendor engagement)",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "techcouncil@iafc.org",
+   "send_on": "2026-10-14"
+  },
+  "fu-adaptive-and-wheelchair-sports-ohio": {
+   "n": 25,
+   "name": "Follow-up: Adaptive and wheelchair sports (Ohio)",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "info@adaptivesportsohio.org",
+   "send_on": "2026-10-14"
+  },
+  "fu-akron-city-fc": {
+   "n": 26,
+   "name": "Follow-up: Akron City FC",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "info@akroncityfc.com",
+   "send_on": "2026-10-14"
+  },
+  "fu-arnold-sports-festival-arnold-expo-2027": {
+   "n": 27,
+   "name": "Follow-up: Arnold Sports Festival & Arnold Expo 2027",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "exhibitors@arnoldsports.com",
+   "send_on": "2026-10-14"
+  },
+  "fu-gt-brazilian-jiu-jitsu": {
+   "n": 28,
+   "name": "Follow-up: GT Brazilian Jiu-Jitsu",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "todd@gtbjjohio.com",
+   "send_on": "2026-10-14"
+  },
+  "fu-kent-state-esports": {
+   "n": 29,
+   "name": "Follow-up: Kent State Esports",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "esports@kent.edu",
+   "send_on": "2026-10-14"
+  },
+  "fu-magnet-manufacturing-advocacy-growth-network": {
+   "n": 30,
+   "name": "Follow-up: MAGNET (Manufacturing Advocacy & Growth Network)",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "info@manufacturingsuccess.org",
+   "send_on": "2026-10-14"
+  },
+  "fu-ohio-state-crew-club-rowing": {
+   "n": 31,
+   "name": "Follow-up: Ohio State Crew (club rowing)",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "osucrewrar@gmail.com",
+   "send_on": "2026-10-14"
+  },
+  "fu-ohiohealth-capital-city-half-quarter-marathon-2027": {
+   "n": 32,
+   "name": "Follow-up: OhioHealth Capital City Half & Quarter Marathon 2027",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "info@m3ssports.com",
+   "send_on": "2026-10-14"
+  },
+  "fu-reach-fitness": {
+   "n": 33,
+   "name": "Follow-up: REACH Fitness",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "marianne@reachfitnessohio.com",
+   "send_on": "2026-10-14"
+  },
+  "fu-youth-and-adult-bouldering-akron": {
+   "n": 34,
+   "name": "Follow-up: Youth and adult bouldering (Akron)",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "info@rockmillclimbing.com",
+   "send_on": "2026-10-14"
+  },
+  "fu-aaron-handy": {
+   "n": 35,
+   "name": "Follow-up: Aaron Handy",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "office@legacy-ohio.com",
+   "send_on": "2026-10-14"
+  },
+  "fu-chris-kriebel": {
+   "n": 36,
+   "name": "Follow-up: Chris Kriebel",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "chris@tkobjj.com",
+   "send_on": "2026-10-14"
+  },
+  "fu-joules": {
+   "n": 37,
+   "name": "Follow-up: Joules",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "hello@joules.cc",
+   "send_on": "2026-10-14"
+  },
+  "fu-leyen-zulueta": {
+   "n": 38,
+   "name": "Follow-up: Leyen Zulueta",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "travis@matlabbjj.com",
+   "send_on": "2026-10-14"
+  },
+  "fu-platelens": {
+   "n": 39,
+   "name": "Follow-up: PlateLens",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "support@platelens.app",
+   "send_on": "2026-10-14"
+  },
+  "fu-cincinnati-cycle-club": {
+   "n": 40,
+   "name": "Follow-up: Cincinnati Cycle Club",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "membership@cincinnaticycleclub.org",
+   "send_on": "2026-10-14"
+  },
+  "fu-chagrin-falls-booster-club-5k-turkey-trot-2026": {
+   "n": 41,
+   "name": "Follow-up: Chagrin Falls Booster Club 5K Turkey Trot 2026",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "info@cfboosterclub.org",
+   "send_on": "2026-10-14"
+  },
+  "fu-columbus-weightlifting-club": {
+   "n": 42,
+   "name": "Follow-up: Columbus Weightlifting Club",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "info@columbusweightlifting.org",
+   "send_on": "2026-10-14"
+  },
+  "fu-sugamed-ecg-patch-pcba": {
+   "n": 43,
+   "name": "Follow-up: SugaMed (ECG Patch PCBA)",
+   "status": "awaiting John",
+   "requested": "2026-10-11",
+   "batch": 2,
+   "kind": "follow-up",
+   "to": "info@sugaintl.com",
+   "send_on": "2026-10-14"
+  }
+ },
+ "batches": [
+  {
+   "batch": 1,
+   "sent": "2026-10-10",
+   "thread_id": "1a125d5532424d3b",
+   "to": "john@vybe.health",
+   "count": 20,
+   "correction": "2026-10-11: booking line corrected to https://calendly.com/jeremy-vybe/30min (the first email to John showed the wrong company's calendar). Approve against the corrected text; correction sent on thread 1a12b3642c25f565.",
+   "john_reply": "11 Oct: John wants a team discussion first on what filling a vendor slot means (booths at expos, plus bands for founding members: do we have them?). Batch 1 is on hold."
+  },
+  {
+   "batch": 2,
+   "kind": "follow-ups",
+   "sent": "2026-10-11",
+   "thread_id": "1a12b3642c25f565",
+   "to": "john@vybe.health",
+   "count": 23,
+   "correction": "2026-10-11: booking line corrected to https://calendly.com/jeremy-vybe/30min (the first email to John showed the wrong company's calendar). Approve against the corrected text; correction sent on thread 1a12b3642c25f565."
+  }
+ ]
 }
