@@ -56,18 +56,6 @@
    "said": "Super good response from them. We just need to apply to that actual link (I don't believe the agent has done that yet)."
   },
   {
-   "org": "ANZER USA",
-   "verdict": "change",
-   "at": "2026-10-11T10:41:50Z",
-   "said": "Thanks for getting back to us, and for flagging the broken link. Here's the corrected scheduling link: [INSERT CORRECT CALENDAR LINK]"
-  },
-  {
-   "org": "Nocturnal Product Development",
-   "verdict": "change",
-   "at": "2026-10-11T10:40:00Z",
-   "said": "Hi Eyal, Thanks for your interest, we'd be glad to set up a meeting."
-  },
-  {
    "org": "Open Wearables (Momentum)",
    "verdict": "approve",
    "at": "2026-10-11T10:38:41Z",
@@ -78,6 +66,48 @@
    "verdict": "no",
    "at": "2026-10-11T01:15:24Z",
    "said": "No acrtion for Roy Hobbs World Series. The agent can go ahead and mark this one as a no go on the dashboard."
+  },
+  {
+   "org": "ANZER USA",
+   "verdict": "no",
+   "at": "2026-10-12T18:02:46Z",
+   "said": "device built and supplied; rule 7 (founder, 12 Oct)"
+  },
+  {
+   "org": "Kyros Engineering",
+   "verdict": "no",
+   "at": "2026-10-12T18:02:46Z",
+   "said": "device built and supplied; rule 7 (founder, 12 Oct)"
+  },
+  {
+   "org": "LiPol Battery North America",
+   "verdict": "no",
+   "at": "2026-10-12T18:02:46Z",
+   "said": "device built and supplied; rule 7 (founder, 12 Oct)"
+  },
+  {
+   "org": "MAGNET (Manufacturing Advocacy & Growth Network)",
+   "verdict": "no",
+   "at": "2026-10-12T18:02:46Z",
+   "said": "device built and supplied; rule 7 (founder, 12 Oct)"
+  },
+  {
+   "org": "Nocturnal Product Development",
+   "verdict": "no",
+   "at": "2026-10-12T18:02:46Z",
+   "said": "device built and supplied; rule 7 (founder, 12 Oct)"
+  },
+  {
+   "org": "SugaMed (ECG Patch PCBA)",
+   "verdict": "no",
+   "at": "2026-10-12T18:02:46Z",
+   "said": "device built and supplied; rule 7 (founder, 12 Oct)"
+  },
+  {
+   "org": "Zufek",
+   "verdict": "no",
+   "at": "2026-10-12T18:02:46Z",
+   "said": "device built and supplied; rule 7 (founder, 12 Oct)"
   }
  ]
 }

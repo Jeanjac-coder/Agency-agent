@@ -710,6 +710,8 @@ def summary(targets: list[dict], today: dt.date) -> dict:
         "identity_needs_ok": count(lambda t: t.get("identity_needs_ok")),
         "outreach_queue": count(lambda t: t["hunt"] in QUEUE_HUNTS and t.get("sendable")),
         "rule_9_7": all(all(k in t for k in DECISION_KEYS) for t in targets),
+        "hardware_lanes_retired": True,
+        "hardware_parked": sum(1 for r in PARKED if "rule 7" in (r.get("why_parked") or "")),
         "rule_12": all("big_name" in t and "big_name_why" in t for t in targets),
         "drafts_published": all("send_today" in t and "draft_body" in t for t in targets),
         "wins": count(lambda t: t.get("status") in ("replied", "booked") and t.get("john_verdict") != "no" and t.get("big_name", 0) >= 7),

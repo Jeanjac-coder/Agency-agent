@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12 17:31 UTC",
+  "generated": "2026-10-12 18:03 UTC",
   "today": "2026-10-12",
   "scope": {
     "company": "Vybe Health",
@@ -128,6 +128,8 @@
     "identity_needs_ok": 21,
     "outreach_queue": 151,
     "rule_9_7": true,
+    "hardware_lanes_retired": true,
+    "hardware_parked": 37,
     "rule_12": true,
     "drafts_published": true,
     "wins": 1,
@@ -20687,8 +20689,8 @@
         "to": "JayM@anzer-usa.com",
         "first_sent": "2026-10-09",
         "state": "closed",
-        "due": null,
-        "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+        "due": "",
+        "next": "Closed (founder, 12 Oct: device built and supplied; rule 7). A one-line courtesy note in John's name is on the approval page; it is sent only if approved there. No call.",
         "why": "rule 7",
         "status": "closed",
         "offer": "",
@@ -20703,9 +20705,9 @@
         "draft_body": "",
         "send_today": false,
         "size_source": "",
-        "john_verdict": "change",
-        "john_said": "Thanks for getting back to us, and for flagging the broken link. Here's the corrected scheduling link: [INSERT CORRECT CALENDAR LINK]",
-        "john_at": "2026-10-11T10:41:50Z"
+        "john_verdict": "no",
+        "john_said": "device built and supplied; rule 7 (founder, 12 Oct)",
+        "john_at": "2026-10-12T18:02:46Z"
       },
       {
         "org": "Akron City FC",
@@ -20787,7 +20789,7 @@
         "to": "peter@kyrosengineering.com",
         "first_sent": "2026-10-09",
         "state": "closed",
-        "due": null,
+        "due": "",
         "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up. 12 Oct: Peter Sords offered a call Wed 14 or Thu 15 Oct at 4:45. Not answered by the agent; founder's call.",
         "why": "rule 7",
         "status": "closed",
@@ -20803,16 +20805,16 @@
         "draft_body": "",
         "send_today": false,
         "size_source": "",
-        "john_verdict": "none",
-        "john_said": "",
-        "john_at": ""
+        "john_verdict": "no",
+        "john_said": "device built and supplied; rule 7 (founder, 12 Oct)",
+        "john_at": "2026-10-12T18:02:46Z"
       },
       {
         "org": "LiPol Battery North America",
         "to": "info@lipolbatteries.com",
         "first_sent": "2026-10-09",
         "state": "closed",
-        "due": null,
+        "due": "",
         "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
         "why": "rule 7",
         "status": "closed",
@@ -20828,16 +20830,16 @@
         "draft_body": "",
         "send_today": false,
         "size_source": "",
-        "john_verdict": "none",
-        "john_said": "",
-        "john_at": ""
+        "john_verdict": "no",
+        "john_said": "device built and supplied; rule 7 (founder, 12 Oct)",
+        "john_at": "2026-10-12T18:02:46Z"
       },
       {
         "org": "MAGNET (Manufacturing Advocacy & Growth Network)",
         "to": "info@manufacturingsuccess.org",
         "first_sent": "2026-10-09",
         "state": "closed",
-        "due": null,
+        "due": "",
         "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
         "why": "rule 7",
         "status": "closed",
@@ -20853,17 +20855,17 @@
         "draft_body": "",
         "send_today": false,
         "size_source": "",
-        "john_verdict": "none",
-        "john_said": "",
-        "john_at": ""
+        "john_verdict": "no",
+        "john_said": "device built and supplied; rule 7 (founder, 12 Oct)",
+        "john_at": "2026-10-12T18:02:46Z"
       },
       {
         "org": "Nocturnal Product Development",
         "to": "eyal@nocturnalpd.com",
         "first_sent": "2026-10-09",
         "state": "closed",
-        "due": null,
-        "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+        "due": "",
+        "next": "Closed (founder, 12 Oct: device built and supplied; rule 7). A one-line courtesy note in John's name is on the approval page; it is sent only if approved there. No call.",
         "why": "rule 7",
         "status": "closed",
         "offer": "",
@@ -20878,9 +20880,9 @@
         "draft_body": "",
         "send_today": false,
         "size_source": "",
-        "john_verdict": "change",
-        "john_said": "Hi Eyal, Thanks for your interest, we'd be glad to set up a meeting.",
-        "john_at": "2026-10-11T10:40:00Z"
+        "john_verdict": "no",
+        "john_said": "device built and supplied; rule 7 (founder, 12 Oct)",
+        "john_at": "2026-10-12T18:02:46Z"
       },
       {
         "org": "PlateLens",
@@ -20962,7 +20964,7 @@
         "to": "info@sugaintl.com",
         "first_sent": "2026-10-09",
         "state": "closed",
-        "due": null,
+        "due": "",
         "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
         "why": "rule 7",
         "status": "closed",
@@ -20978,9 +20980,9 @@
         "draft_body": "",
         "send_today": false,
         "size_source": "",
-        "john_verdict": "none",
-        "john_said": "",
-        "john_at": ""
+        "john_verdict": "no",
+        "john_said": "device built and supplied; rule 7 (founder, 12 Oct)",
+        "john_at": "2026-10-12T18:02:46Z"
       },
       {
         "org": "Team Kriebel Ohio Brazilian Jiu-Jitsu Academy (TKO BJJ)",
@@ -21061,7 +21063,7 @@
         "to": "info@zufek.com",
         "first_sent": "2026-10-09",
         "state": "closed",
-        "due": null,
+        "due": "",
         "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
         "why": "rule 7",
         "status": "closed",
@@ -21077,9 +21079,9 @@
         "draft_body": "",
         "send_today": false,
         "size_source": "",
-        "john_verdict": "none",
-        "john_said": "",
-        "john_at": ""
+        "john_verdict": "no",
+        "john_said": "device built and supplied; rule 7 (founder, 12 Oct)",
+        "john_at": "2026-10-12T18:02:46Z"
       }
     ],
     "forwarded": [

@@ -176,8 +176,8 @@
    "to": "JayM@anzer-usa.com",
    "first_sent": "2026-10-09",
    "state": "closed",
-   "due": null,
-   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+   "due": "",
+   "next": "Closed (founder, 12 Oct: device built and supplied; rule 7). A one-line courtesy note in John's name is on the approval page; it is sent only if approved there. No call.",
    "why": "rule 7"
   },
   {
@@ -185,7 +185,7 @@
    "to": "peter@kyrosengineering.com",
    "first_sent": "2026-10-09",
    "state": "closed",
-   "due": null,
+   "due": "",
    "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up. 12 Oct: Peter Sords offered a call Wed 14 or Thu 15 Oct at 4:45. Not answered by the agent; founder's call.",
    "why": "rule 7"
   },
@@ -244,7 +244,7 @@
    "to": "info@manufacturingsuccess.org",
    "first_sent": "2026-10-09",
    "state": "closed",
-   "due": null,
+   "due": "",
    "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
    "why": "rule 7"
   },
@@ -337,7 +337,7 @@
    "to": "info@lipolbatteries.com",
    "first_sent": "2026-10-09",
    "state": "closed",
-   "due": null,
+   "due": "",
    "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
    "why": "rule 7"
   },
@@ -370,8 +370,8 @@
    "to": "eyal@nocturnalpd.com",
    "first_sent": "2026-10-09",
    "state": "closed",
-   "due": null,
-   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+   "due": "",
+   "next": "Closed (founder, 12 Oct: device built and supplied; rule 7). A one-line courtesy note in John's name is on the approval page; it is sent only if approved there. No call.",
    "why": "rule 7"
   },
   {
@@ -387,7 +387,7 @@
    "to": "info@sugaintl.com",
    "first_sent": "2026-10-09",
    "state": "closed",
-   "due": null,
+   "due": "",
    "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
    "why": "rule 7"
   },
@@ -396,7 +396,7 @@
    "to": "info@zufek.com",
    "first_sent": "2026-10-09",
    "state": "closed",
-   "due": null,
+   "due": "",
    "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
    "why": "rule 7"
   },
