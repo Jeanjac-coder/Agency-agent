@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12 00:48 UTC",
+  "generated": "2026-10-12 10:23 UTC",
   "today": "2026-10-12",
   "scope": {
     "company": "Vybe Health",
@@ -764,11 +764,11 @@
       "id": "tredict-tredict",
       "what_is": "Manufacturer-independent endurance planning/analysis platform that already ingests nightly HRV, sleep and resting HR from Oura, Garmin, Coros, Suunto and Polar, and publishes a Tredict API for platforms that includes a health-data receiving endpoint. (source: tredict.com)",
       "status": "replied",
-      "offer": "",
+      "offer": "\"yes, bodyvaluesWrite is necessary for this and covers it... Tredict knows the source by the clientId. No need for a video call... shoot me a message if anything is unclear or not working.\"",
       "we_need": "Become a Tredict health-data source via the public Tredict API health-data receiving endpoint (same slot Oura fills: nightly HRV, sleep, resting HR in the form curve).",
       "they_need": "An open source of overnight HRV, heart rate and sleep timing their users can bring in, without a closed vendor API.",
       "cost": 0,
-      "next_date": "2026-10-14",
+      "next_date": "",
       "size": null,
       "size_source": ""
     },
@@ -18088,23 +18088,6 @@
         "size_source": ""
       },
       {
-        "org": "Tredict",
-        "to": "info@tredict.com",
-        "first_sent": "2026-10-09",
-        "state": "replied",
-        "due": "2026-10-14",
-        "next": "11 Oct: sent John's technical questions (bodyvaluesWrite coverage, source-labeling). Application package to follow once confirmed.",
-        "status": "replied",
-        "offer": "",
-        "what_is": "Manufacturer-independent endurance planning/analysis platform that already ingests nightly HRV, sleep and resting HR from Oura, Garmin, Coros, Suunto and Polar, and publishes a Tredict API for platforms that includes a health-data receiving endpoint. (source: tredict.com)",
-        "we_need": "Become a Tredict health-data source via the public Tredict API health-data receiving endpoint (same slot Oura fills: nightly HRV, sleep, resting HR in the form curve).",
-        "they_need": "An open source of overnight HRV, heart rate and sleep timing their users can bring in, without a closed vendor API.",
-        "cost": 0,
-        "next_date": "2026-10-14",
-        "size": null,
-        "size_source": ""
-      },
-      {
         "org": "WAKA Kickball",
         "to": "info@clubwaka.com",
         "first_sent": "2026-10-09",
@@ -18510,6 +18493,23 @@
         "what_is": "",
         "we_need": "",
         "they_need": "",
+        "cost": 0,
+        "next_date": "",
+        "size": null,
+        "size_source": ""
+      },
+      {
+        "org": "Tredict",
+        "to": "info@tredict.com",
+        "first_sent": "2026-10-09",
+        "state": "replied",
+        "due": "",
+        "next": "Felix Gertz replied 12 Oct: bodyvaluesWrite covers HRV and sleep upload; Tredict identifies the source by clientId; no call needed, docs cover it. Jeremy: apply for Tredict API access (bodyvaluesWrite scope) when the SDK can write data, and build against the docs. No more emails needed until then.",
+        "offer": "\"yes, bodyvaluesWrite is necessary for this and covers it... Tredict knows the source by the clientId. No need for a video call... shoot me a message if anything is unclear or not working.\"",
+        "status": "replied",
+        "what_is": "Manufacturer-independent endurance planning/analysis platform that already ingests nightly HRV, sleep and resting HR from Oura, Garmin, Coros, Suunto and Polar, and publishes a Tredict API for platforms that includes a health-data receiving endpoint. (source: tredict.com)",
+        "we_need": "Become a Tredict health-data source via the public Tredict API health-data receiving endpoint (same slot Oura fills: nightly HRV, sleep, resting HR in the form curve).",
+        "they_need": "An open source of overnight HRV, heart rate and sleep timing their users can bring in, without a closed vendor API.",
         "cost": 0,
         "next_date": "",
         "size": null,

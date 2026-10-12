@@ -409,8 +409,9 @@
    "to": "info@tredict.com",
    "first_sent": "2026-10-09",
    "state": "replied",
-   "due": "2026-10-14",
-   "next": "11 Oct: sent John's technical questions (bodyvaluesWrite coverage, source-labeling). Application package to follow once confirmed."
+   "due": "",
+   "next": "Felix Gertz replied 12 Oct: bodyvaluesWrite covers HRV and sleep upload; Tredict identifies the source by clientId; no call needed, docs cover it. Jeremy: apply for Tredict API access (bodyvaluesWrite scope) when the SDK can write data, and build against the docs. No more emails needed until then.",
+   "offer": "\"yes, bodyvaluesWrite is necessary for this and covers it... Tredict knows the source by the clientId. No need for a video call... shoot me a message if anything is unclear or not working.\""
   },
   {
    "org": "Junction (formerly Vital)",
