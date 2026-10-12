@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12 10:23 UTC",
+  "generated": "2026-10-12 14:25 UTC",
   "today": "2026-10-12",
   "scope": {
     "company": "Vybe Health",
@@ -17833,23 +17833,6 @@
         "size_source": ""
       },
       {
-        "org": "Chris Kriebel",
-        "to": "chris@tkobjj.com",
-        "first_sent": "2026-10-09",
-        "state": "no reply",
-        "due": "2026-10-14",
-        "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up.",
-        "status": "waiting",
-        "offer": "",
-        "what_is": "",
-        "we_need": "",
-        "they_need": "",
-        "cost": 0,
-        "next_date": "2026-10-14",
-        "size": null,
-        "size_source": ""
-      },
-      {
         "org": "Cincinnati Cycle Club",
         "to": "membership@cincinnaticycleclub.org",
         "first_sent": "2026-10-09",
@@ -18490,6 +18473,24 @@
         "why": "rule 7",
         "status": "closed",
         "offer": "",
+        "what_is": "",
+        "we_need": "",
+        "they_need": "",
+        "cost": 0,
+        "next_date": "",
+        "size": null,
+        "size_source": ""
+      },
+      {
+        "org": "Team Kriebel Ohio Brazilian Jiu-Jitsu Academy (TKO BJJ)",
+        "to": "chris@tkobjj.com",
+        "first_sent": "2026-10-09",
+        "state": "replied",
+        "due": "",
+        "next": "Replied 12 Oct, interested. The 9 Oct email (sent before the current rules) offered pre-launch bands, said ECG, and used the old i-grow booking link. A BJJ academy is a community of adults, which rule 7 assigns to Marketsom, so Growsom will not reply. Jeremy or Marketsom: answer without promising bands, use https://calendly.com/jeremy-vybe/30min, John on CC.",
+        "role": "Chris Kriebel, head instructor and co-owner",
+        "offer": "\"Hey Jeremy, we would be interested in hearing more about this!\"",
+        "status": "replied",
         "what_is": "",
         "we_need": "",
         "they_need": "",
