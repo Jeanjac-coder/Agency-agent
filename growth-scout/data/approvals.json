@@ -205,232 +205,301 @@
   "fu-waka-kickball": {
    "n": 21,
    "name": "Follow-up: WAKA Kickball",
-   "status": "awaiting John",
+   "status": "approved by John; follow-up due Wed 14 Oct, not sent",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "info@clubwaka.com",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "approve",
+   "john_said": "APPROVE 21 Waka: Multistate adult sports network. Ask about promotion across multiple leagues, member emails, and a tracked launch offer.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-running-4-heroes": {
    "n": 22,
    "name": "Follow-up: Running 4 Heroes",
-   "status": "awaiting John",
+   "status": "closed: John said no",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "info@running4heroes.org",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "no",
+   "john_said": "NO: Meaningful charitable mission, but no clear route to a substantial audience likely to buy the band.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-kyros-engineering": {
    "n": 23,
    "name": "Follow-up: Kyros Engineering",
-   "status": "awaiting John",
+   "status": "closed: rule 7 (supplier)",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "peter@kyrosengineering.com",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "no",
+   "john_said": "device built and supplied; rule 7 (founder, 12 Oct)",
+   "john_at": "2026-10-12T18:02:46Z"
   },
   "fu-iafc-technology-council-fire-service-vendor-engagement": {
    "n": 24,
    "name": "Follow-up: IAFC Technology Council (fire service vendor engagement)",
-   "status": "awaiting John",
+   "status": "on hold: John reserve",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "techcouncil@iafc.org",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "waiting",
+   "john_said": "RESERVE, no email now: Could introduce us to fire departments and potential bulk buyers. Worth pursuing if they can connect us to a named agency pilot.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-adaptive-and-wheelchair-sports-ohio": {
    "n": 25,
    "name": "Follow-up: Adaptive and wheelchair sports (Ohio)",
-   "status": "awaiting John",
+   "status": "on hold: John reserve",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "info@adaptivesportsohio.org",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "waiting",
+   "john_said": "RESERVE, no email now: We'd need a specific promotion or distribution plan to justify ten bands for growth.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-akron-city-fc": {
    "n": 26,
    "name": "Follow-up: Akron City FC",
-   "status": "awaiting John",
+   "status": "on hold: John reserve",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "info@akroncityfc.com",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "waiting",
+   "john_said": "RESERVE, no email now: They've already replied. We need fan-facing promotion and audience numbers; giving bands to players alone doesn't establish a path to buyers.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-arnold-sports-festival-arnold-expo-2027": {
    "n": 27,
    "name": "Follow-up: Arnold Sports Festival & Arnold Expo 2027",
-   "status": "awaiting John",
+   "status": "closed: rule 7 (event presence)",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "exhibitors@arnoldsports.com",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "approve",
+   "john_said": "APPROVE 27 Arnold Sports and Festival Expo: Largest verified physical audience on the list and strong fitness-product fit. Ask what an in-kind contribution earns and disclose all additional fees.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-gt-brazilian-jiu-jitsu": {
    "n": 28,
    "name": "Follow-up: GT Brazilian Jiu-Jitsu",
-   "status": "awaiting John",
+   "status": "on hold: John reserve",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "todd@gtbjjohio.com",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "waiting",
+   "john_said": "RESERVE, no email now: Relevant training community, but its reach is unverified.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-kent-state-esports": {
    "n": 29,
    "name": "Follow-up: Kent State Esports",
-   "status": "awaiting John",
+   "status": "on hold: John reserve",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "esports@kent.edu",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "waiting",
+   "john_said": "RESERVE, no email now: We need actual stream views, event attendance, and promotional access.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-magnet-manufacturing-advocacy-growth-network": {
    "n": 30,
    "name": "Follow-up: MAGNET (Manufacturing Advocacy & Growth Network)",
-   "status": "awaiting John",
+   "status": "closed: rule 7 (supplier)",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "info@manufacturingsuccess.org",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "no",
+   "john_said": "device built and supplied; rule 7 (founder, 12 Oct)",
+   "john_at": "2026-10-12T18:02:46Z"
   },
   "fu-ohio-state-crew-club-rowing": {
    "n": 31,
    "name": "Follow-up: Ohio State Crew (club rowing)",
-   "status": "awaiting John",
+   "status": "on hold: John reserve",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "osucrewrar@gmail.com",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "waiting",
+   "john_said": "RESERVE, no email now: Strong potential testing group, but it's a student-run club.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-ohiohealth-capital-city-half-quarter-marathon-2027": {
    "n": 32,
    "name": "Follow-up: OhioHealth Capital City Half & Quarter Marathon 2027",
-   "status": "awaiting John",
+   "status": "approved by John; follow-up due Wed 14 Oct, not sent",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "info@m3ssports.com",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "approve",
+   "john_said": "APPROVE 32 Capital City Half/M3S Sports: Large, relevant running audience with ambassadors, training channels, and packet pickup. Strong prospect for a measurable launch campaign.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-reach-fitness": {
    "n": 33,
    "name": "Follow-up: REACH Fitness",
-   "status": "awaiting John",
+   "status": "on hold: John reserve",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "marianne@reachfitnessohio.com",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "waiting",
+   "john_said": "RESERVE, no email now: Confirm active membership, email/social reach, and a concrete promotion plan.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-youth-and-adult-bouldering-akron": {
    "n": 34,
    "name": "Follow-up: Youth and adult bouldering (Akron)",
-   "status": "awaiting John",
+   "status": "on hold: John reserve",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "info@rockmillclimbing.com",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "waiting",
+   "john_said": "RESERVE, no email now: Worth considering if they can provide adult audience numbers and commit to member emails and on-site promotion.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-aaron-handy": {
    "n": 35,
    "name": "Follow-up: Aaron Handy",
-   "status": "awaiting John",
+   "status": "on hold: John reserve",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "office@legacy-ohio.com",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "waiting",
+   "john_said": "RESERVE, no email now: Verify his reach and specific introductions before considering more than one or two samples.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-chris-kriebel": {
    "n": 36,
    "name": "Follow-up: Chris Kriebel",
-   "status": "awaiting John",
+   "status": "on hold: John reserve",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "chris@tkobjj.com",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "waiting",
+   "john_said": "RESERVE, no email now: Relevant coach and academy connection, but broad reach is unproven.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-joules": {
    "n": 37,
    "name": "Follow-up: Joules",
-   "status": "awaiting John",
+   "status": "closed: John said no",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "hello@joules.cc",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "no",
+   "john_said": "NO: Potential integration fit, but no verified large user audience.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-leyen-zulueta": {
    "n": 38,
    "name": "Follow-up: Leyen Zulueta",
-   "status": "awaiting John",
+   "status": "closed: John said no",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "travis@matlabbjj.com",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "no",
+   "john_said": "NO: The contact identity needs clarification because the listed email belongs to Travis. Audience reach is also unverified.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-platelens": {
    "n": 39,
    "name": "Follow-up: PlateLens",
-   "status": "awaiting John",
+   "status": "closed: John said no",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "support@platelens.app",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "no",
+   "john_said": "NO: Potential software integration, but accessible customer scale is unverified.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-cincinnati-cycle-club": {
    "n": 40,
    "name": "Follow-up: Cincinnati Cycle Club",
-   "status": "awaiting John",
+   "status": "approved by John; follow-up due Wed 14 Oct, not sent",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "membership@cincinnaticycleclub.org",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "approve",
+   "john_said": "APPROVE 40 Cincinnati Cycle Club: Relevant endurance audience, stated 1,100+ members, recurring rides, newsletter, and existing partner benefits. Strong practical pilot prospect.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-chagrin-falls-booster-club-5k-turkey-trot-2026": {
    "n": 41,
    "name": "Follow-up: Chagrin Falls Booster Club 5K Turkey Trot 2026",
-   "status": "awaiting John",
+   "status": "on hold: John reserve",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "info@cfboosterclub.org",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "waiting",
+   "john_said": "RESERVE, no email now: Attendance is unverified and the November event is early.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-columbus-weightlifting-club": {
    "n": 42,
    "name": "Follow-up: Columbus Weightlifting Club",
-   "status": "awaiting John",
+   "status": "approved by John; follow-up due Wed 14 Oct, not sent",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "info@columbusweightlifting.org",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "approve",
+   "john_said": "APPROVE 42 Columbus Weightlifting Club: Strong athlete fit and advertised Arnold competition connection. Email to confirm current event access.",
+   "john_at": "2026-10-12T17:33:16Z"
   },
   "fu-sugamed-ecg-patch-pcba": {
    "n": 43,
    "name": "Follow-up: SugaMed (ECG Patch PCBA)",
-   "status": "awaiting John",
+   "status": "closed: rule 7 (supplier)",
    "requested": "2026-10-11",
    "batch": 2,
    "kind": "follow-up",
    "to": "info@sugaintl.com",
-   "send_on": "2026-10-14"
+   "send_on": "2026-10-14",
+   "john_verdict": "no",
+   "john_said": "device built and supplied; rule 7 (founder, 12 Oct)",
+   "john_at": "2026-10-12T18:02:46Z"
   }
  },
  "batches": [
