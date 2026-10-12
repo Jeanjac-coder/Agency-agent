@@ -161,15 +161,15 @@
    "first_sent": "2026-10-09",
    "state": "no reply",
    "due": "2026-10-14",
-   "next": "First email sent 9 Oct. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "next": "John approved the one follow-up (12 Oct). Tailored follow-up is on the approval page for Wed 14 Oct; it is sent only once approved there."
   },
   {
    "org": "Running 4 Heroes",
    "to": "info@running4heroes.org",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "First email sent 9 Oct. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "state": "closed",
+   "due": "",
+   "next": "No go (John, 12 Oct). No follow-up."
   },
   {
    "org": "ANZER USA",
@@ -193,25 +193,25 @@
    "org": "IAFC Technology Council (fire service vendor engagement)",
    "to": "techcouncil@iafc.org",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "state": "on hold",
+   "due": "",
+   "next": "John, 12 Oct: reserve, no email now. Could introduce us to fire departments and potential bulk buyers. Worth pursuing if they can connect us to a named agency pilot."
   },
   {
    "org": "Adaptive and wheelchair sports (Ohio)",
    "to": "info@adaptivesportsohio.org",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "state": "on hold",
+   "due": "",
+   "next": "John, 12 Oct: reserve, no email now. We'd need a specific promotion or distribution plan to justify ten bands for growth."
   },
   {
    "org": "Akron City FC",
    "to": "info@akroncityfc.com",
    "first_sent": "2026-10-09",
-   "state": "replied",
+   "state": "on hold",
    "due": "",
-   "next": "Replied 12 Oct; says he will book a call. The 9 Oct email pitched a player sponsorship and lending bands (no-spend and no-bands rules now), said ECG, and carried the old i-grow booking link, so his booking will land on that calendar. A soccer club is Marketsom's lane (rule 7). Jeremy: decide whether to take the call; if so, steer away from sponsorship and bands.",
+   "next": "John, 12 Oct: reserve, no email now. They've already replied. We need fan-facing promotion and audience numbers; giving bands to players alone doesn't establish a path to buyers.",
    "role": "Nick (club contact)",
    "offer": "\"I'll grab a spot on your calendar, looking forward to discussing further!\""
   },
@@ -219,25 +219,26 @@
    "org": "Arnold Sports Festival & Arnold Expo 2027",
    "to": "exhibitors@arnoldsports.com",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "state": "closed",
+   "due": "",
+   "next": "John approved the follow-up (12 Oct), but it goes to the Arnold exhibitors inbox and asks what an in-kind contribution earns: an event presence, closed under rule 7. Not queued.",
+   "why": "rule 7"
   },
   {
    "org": "GT Brazilian Jiu-Jitsu",
    "to": "todd@gtbjjohio.com",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "state": "on hold",
+   "due": "",
+   "next": "John, 12 Oct: reserve, no email now. Relevant training community, but its reach is unverified."
   },
   {
    "org": "Kent State Esports",
    "to": "esports@kent.edu",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "state": "on hold",
+   "due": "",
+   "next": "John, 12 Oct: reserve, no email now. We need actual stream views, event attendance, and promotional access."
   },
   {
    "org": "MAGNET (Manufacturing Advocacy & Growth Network)",
@@ -252,9 +253,9 @@
    "org": "Ohio State Crew (club rowing)",
    "to": "osucrewrar@gmail.com",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "state": "on hold",
+   "due": "",
+   "next": "John, 12 Oct: reserve, no email now. Strong potential testing group, but it's a student-run club."
   },
   {
    "org": "OhioHealth Capital City Half & Quarter Marathon 2027",
@@ -262,39 +263,39 @@
    "first_sent": "2026-10-09",
    "state": "no reply",
    "due": "2026-10-14",
-   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "next": "John approved the one follow-up (12 Oct). Tailored follow-up is on the approval page for Wed 14 Oct; it is sent only once approved there."
   },
   {
    "org": "REACH Fitness",
    "to": "marianne@reachfitnessohio.com",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "state": "on hold",
+   "due": "",
+   "next": "John, 12 Oct: reserve, no email now. Confirm active membership, email/social reach, and a concrete promotion plan."
   },
   {
    "org": "Youth and adult bouldering (Akron)",
    "to": "info@rockmillclimbing.com",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "state": "on hold",
+   "due": "",
+   "next": "John, 12 Oct: reserve, no email now. Worth considering if they can provide adult audience numbers and commit to member emails and on-site promotion."
   },
   {
    "org": "Aaron Handy",
    "to": "office@legacy-ohio.com",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "state": "on hold",
+   "due": "",
+   "next": "John, 12 Oct: reserve, no email now. Verify his reach and specific introductions before considering more than one or two samples."
   },
   {
    "org": "Team Kriebel Ohio Brazilian Jiu-Jitsu Academy (TKO BJJ)",
    "to": "chris@tkobjj.com",
    "first_sent": "2026-10-09",
-   "state": "replied",
+   "state": "on hold",
    "due": "",
-   "next": "Replied 12 Oct, interested. The 9 Oct email (sent before the current rules) offered pre-launch bands, said ECG, and used the old i-grow booking link. A BJJ academy is a community of adults, which rule 7 assigns to Marketsom, so Growsom will not reply. Jeremy or Marketsom: answer without promising bands, use https://calendly.com/jeremy-vybe/30min, John on CC.",
+   "next": "John, 12 Oct: reserve, no email now. Relevant coach and academy connection, but broad reach is unproven.",
    "role": "Chris Kriebel, head instructor and co-owner",
    "offer": "\"Hey Jeremy, we would be interested in hearing more about this!\""
   },
@@ -303,25 +304,25 @@
    "to": "hello@joules.cc",
    "first_sent": "2026-10-09",
    "state": "closed",
-   "due": null,
-   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+   "due": "",
+   "next": "No go (John, 12 Oct). No follow-up.",
    "why": "rule 7"
   },
   {
    "org": "Leyen Zulueta",
    "to": "travis@matlabbjj.com",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "state": "closed",
+   "due": "",
+   "next": "No go (John, 12 Oct). No follow-up."
   },
   {
    "org": "PlateLens",
    "to": "support@platelens.app",
    "first_sent": "2026-10-09",
    "state": "closed",
-   "due": null,
-   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+   "due": "",
+   "next": "No go (John, 12 Oct). No follow-up.",
    "why": "rule 7"
   },
   {
@@ -330,7 +331,7 @@
    "first_sent": "2026-10-09",
    "state": "no reply",
    "due": "2026-10-14",
-   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "next": "John approved the one follow-up (12 Oct). Tailored follow-up is on the approval page for Wed 14 Oct; it is sent only once approved there."
   },
   {
    "org": "LiPol Battery North America",
@@ -353,9 +354,9 @@
    "org": "Chagrin Falls Booster Club 5K Turkey Trot 2026",
    "to": "info@cfboosterclub.org",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "state": "on hold",
+   "due": "",
+   "next": "John, 12 Oct: reserve, no email now. Attendance is unverified and the November event is early."
   },
   {
    "org": "Columbus Weightlifting Club",
@@ -363,7 +364,7 @@
    "first_sent": "2026-10-09",
    "state": "no reply",
    "due": "2026-10-14",
-   "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up."
+   "next": "John approved the one follow-up (12 Oct). Tailored follow-up is on the approval page for Wed 14 Oct; it is sent only once approved there."
   },
   {
    "org": "Nocturnal Product Development",
