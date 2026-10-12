@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12 14:25 UTC",
+  "generated": "2026-10-12 16:23 UTC",
   "today": "2026-10-12",
   "scope": {
     "company": "Vybe Health",
@@ -17765,23 +17765,6 @@
         "size_source": ""
       },
       {
-        "org": "Akron City FC",
-        "to": "info@akroncityfc.com",
-        "first_sent": "2026-10-09",
-        "state": "no reply",
-        "due": "2026-10-14",
-        "next": "First email sent 9 Oct with the Calendly link. If there's no reply by Wed 14 Oct, send the one follow-up.",
-        "status": "waiting",
-        "offer": "",
-        "what_is": "",
-        "we_need": "",
-        "they_need": "",
-        "cost": 0,
-        "next_date": "2026-10-14",
-        "size": null,
-        "size_source": ""
-      },
-      {
         "org": "Arnold Sports Festival & Arnold Expo 2027",
         "to": "exhibitors@arnoldsports.com",
         "first_sent": "2026-10-09",
@@ -18302,6 +18285,24 @@
         "size_source": ""
       },
       {
+        "org": "Akron City FC",
+        "to": "info@akroncityfc.com",
+        "first_sent": "2026-10-09",
+        "state": "replied",
+        "due": "",
+        "next": "Replied 12 Oct; says he will book a call. The 9 Oct email pitched a player sponsorship and lending bands (no-spend and no-bands rules now), said ECG, and carried the old i-grow booking link, so his booking will land on that calendar. A soccer club is Marketsom's lane (rule 7). Jeremy: decide whether to take the call; if so, steer away from sponsorship and bands.",
+        "role": "Nick (club contact)",
+        "offer": "\"I'll grab a spot on your calendar, looking forward to discussing further!\"",
+        "status": "replied",
+        "what_is": "",
+        "we_need": "",
+        "they_need": "",
+        "cost": 0,
+        "next_date": "",
+        "size": null,
+        "size_source": ""
+      },
+      {
         "org": "Head of the Schuylkill Regatta",
         "to": "jenwesson@hosr.org",
         "first_sent": "2026-10-06",
@@ -18343,7 +18344,7 @@
         "first_sent": "2026-10-09",
         "state": "closed",
         "due": null,
-        "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up.",
+        "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up. 12 Oct: Peter Sords offered a call Wed 14 or Thu 15 Oct at 4:45. Not answered by the agent; founder's call.",
         "why": "rule 7",
         "status": "closed",
         "offer": "",
