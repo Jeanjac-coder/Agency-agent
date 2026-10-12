@@ -435,8 +435,11 @@ def build(params: dict, today: dt.date) -> tuple[list[dict], list[dict], dict]:
                    "why_parked": r.get("review_reason") if r.get("review") == "cut" else "costs money"} for r in parked)
     for r in kept.values():
         r["when"] = "after DevKit v0.1" if needs_units(r) else "now"
+    for r in kept.values():
+        big_name_fields(r)
+    # Rule 12: rank by the name on the door first, then fit and score. Signals are context, not a hunt.
     targets = sorted((r for r in kept.values() if not costs_money(r) and r.get("review") != "cut"),
-                     key=lambda r: (-r["score"], r.get("deadline") or "9999", r["name"]))
+                     key=lambda r: (r["type"] == "signal", -r["big_name"], -r["score"], r.get("deadline") or "9999", r["name"]))
     for i, row in enumerate(targets, 1):
         row["rank"] = i
         row["sendable"] = is_sendable(row)
@@ -453,6 +456,7 @@ def build(params: dict, today: dt.date) -> tuple[list[dict], list[dict], dict]:
         decision_fields(row, threads.get(norm(row.get("org"))) or threads.get(norm(row["name"])))
         v = john.get(norm(row.get("org"))) or john.get(norm(row["name"]))
         john_fields(row, v or (batch1 if row["id"] in batch1_ids else None))
+        draft_fields(row)
     return targets, rejected, lanes
 
 
@@ -472,6 +476,58 @@ def scrub_claims(row: dict) -> None:
             for rx, rep in CLAIM_FIXES:
                 v = rx.sub(rep, v)
             row[f] = v
+
+
+# Rule 12: big name, small batch. A first pass from the organisation's name and type;
+# BIG_NAME_OVERRIDES in data/big_name.json wins when the founder or a review sets one.
+BIG_NAME_TIERS = [
+    (10, r"\b(garmin|whoop|oura|apple|google|samsung|strava|withings|fitbit|reddit|product hunt|y combinator|andreessen horowitz|us fda|us hhs|mayo clinic)\b"),
+    (9, r"\b(concept2|the verge|business insider|techstars|life time|labcorp|home assistant|ncaa|team usa)\b"),
+    (8, r"\b(duke|university of north carolina|ohio state|stanford|arizona state|university of pittsburgh|oregon health|university of massachusetts|university of kentucky|82nd airborne|air force research|naval postgraduate|uniformed services university|u\.s\. army|rti international|trainingpeaks|dc rainmaker|national strength and conditioning|crosslink|point nine|founder institute|idc)\b"),
+    (7, r"\b(techradar|android central|lifehacker|golden seeds|mac venture|female founders fund|alumni ventures|reach capital|junction|terra|sleep cycle|fitbod|rise science|intervals\.icu|wellstar|quantified self|former fitbit|oura \(co-founder\)|stanford spezi|national fallen firefighters)\b"),
+    (6, r"\b(hrv4training|welltory|elite hrv|raleigh fire|charlotte fire|wake county ems|fleet feet|37 angels|pipeline angels|hivers|lexipol|o2x|crowd supply|university|college|37angels|the veteran fund|vetted)\b"),
+]
+BIG_NAME_DEFAULT = {"vc": 5, "corporate-vc": 6, "accelerator": 6, "research-lab": 6, "channel-partner": 5,
+                    "angel-group": 5, "syndicate": 4, "angel": 4, "app-partner": 4, "amplifier": 4,
+                    "community": 4, "listing": 4, "program": 5, "event": 4, "team": 6, "builder": 3, "signal": 5}
+BIG_NAME_REASON = {10: "a household or national name", 9: "a household or national name",
+                   8: "a flagship institution, national body or major fund", 7: "a flagship institution, national body or major fund",
+                   6: "a regional body, known niche name or seed fund", 5: "a regional body, known niche name or seed fund"}
+FIRST_BATCH = {"app-partner": "one data feed into their app for 10 to 25 consenting users",
+               "builder": "one data feed into their tool for 10 to 25 consenting users",
+               "research-lab": "one small pilot of 10 to 25 participants",
+               "channel-partner": "one pilot team of 10 to 25", "team": "one pilot team of 10 to 25",
+               "community": "one pilot group of 10 to 25 members", "amplifier": "one review, feature or mention",
+               "listing": "one free listing", "signal": "context only, no ask"}
+BIG_NAME_FILE = ROOT / "data" / "big_name.json"
+
+
+def big_name_fields(row: dict) -> None:
+    over = {}
+    if BIG_NAME_FILE.exists():
+        over = json.loads(BIG_NAME_FILE.read_text()).get("rows", {})
+    text = norm(row.get("org") or row["name"])
+    score = next((n for n, rx in BIG_NAME_TIERS if re.search(rx, text)), BIG_NAME_DEFAULT.get(row["type"], 3))
+    # A project or chapter that only mentions a big brand is not that brand.
+    if re.search(r"github|open source|developer group|self-hoster|\bon polar\b|unnamed|name not public|/", text):
+        score = min(score, 4)
+    if row["type"] == "angel":
+        score = min(score, 7)
+    o = over.get(row.get("id") or "") or {}
+    score = o.get("big_name", score)
+    reason = BIG_NAME_REASON.get(score, "a local or niche name with little recognition outside its field")
+    batch = FIRST_BATCH.get(row["type"], "a first intro call" if row["hunt"] == "investor" else "one small pilot")
+    row["big_name"] = score
+    row["big_name_why"] = o.get("big_name_why") or f"{row.get('org') or row['name']} is {reason}; first batch: {batch}."
+
+
+def draft_fields(row: dict) -> None:
+    """Rule 11/12 front page: an unsent draft is published in full; a sent one carries no body."""
+    unsent = row.get("status") == "drafted" and bool(row.get("opener"))
+    row["draft_to"] = (row.get("role") or row.get("org") or row["name"]) if unsent else ""
+    row["draft_subject"] = email_subject(row) if unsent else ""
+    row["draft_body"] = (row["opener"].strip() + SIGNOFF) if unsent else ""
+    row["send_today"] = unsent and row.get("john_verdict") == "approve" and not is_supplier(row) and not costs_money(row)
 
 
 JOHN_BY_ORG: dict = {}
@@ -549,6 +605,7 @@ def thread_fields(t: dict, targets_by_org: dict) -> dict:
     t["cost"] = t.get("cost", money(t.get("next")) or 0)
     t["next_date"] = "" if t["status"] in ("closed", "declined") else (t.get("due") or "")
     t.setdefault("size", None)
+    t["draft_to"], t["draft_subject"], t["draft_body"], t["send_today"] = "", "", "", False
     t.setdefault("size_source", "")
     john_fields(t, JOHN_BY_ORG.get(norm(t["org"])))
     return t
@@ -653,6 +710,10 @@ def summary(targets: list[dict], today: dt.date) -> dict:
         "identity_needs_ok": count(lambda t: t.get("identity_needs_ok")),
         "outreach_queue": count(lambda t: t["hunt"] in QUEUE_HUNTS and t.get("sendable")),
         "rule_9_7": all(all(k in t for k in DECISION_KEYS) for t in targets),
+        "rule_12": all("big_name" in t and "big_name_why" in t for t in targets),
+        "drafts_published": all("send_today" in t and "draft_body" in t for t in targets),
+        "wins": count(lambda t: t.get("status") in ("replied", "booked") and t.get("john_verdict") != "no" and t.get("big_name", 0) >= 7),
+        "send_today": count(lambda t: t.get("send_today")),
         "rule_11": all(all(k in t for k in ("john_verdict", "john_said", "john_at")) for t in targets),
     }
 
