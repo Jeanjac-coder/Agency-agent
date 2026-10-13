@@ -70,9 +70,12 @@ m = mdb.Model(name="NotchedPlate")
 L, H, R = 50.0, 20.0, 5.0          # mm  (geometry inputs, not magic numbers)
 p = m.Part(name="Plate", dimensionality=TWO_D_PLANAR, type=DEFORMABLE_BODY)
 s = p.ConstrainedSketch(name="notch", sheetSize=200.0)
-s.rectangle(point1=(0.0, 0.0), point2=(L, H))
-s.ArcByCenterEnds(center=(L, H - R), point1=(L - R, H), point2=(L, H - R))
-p.Cut(sketchPlane=p.faces[0], sketchUpEdge=p.edges[0], sketch=s)
+s.Line(point1=(0.0, 0.0), point2=(L, 0.0))              # bottom edge
+s.Line(point1=(L, 0.0), point2=(L, H - R))              # right edge below the notch
+s.ArcByCenterEnds(center=(L, H), point1=(L - R, H), point2=(L, H - R))  # corner notch, centre on the corner
+s.Line(point1=(L - R, H), point2=(0.0, H))              # top edge left of the notch
+s.Line(point1=(0.0, H), point2=(0.0, 0.0))              # left edge
+p.BaseShell(sketch=s)
 
 # --- Material: elastic–plastic, provenance recorded ---
 E, nu, sy = 210000.0, 0.3, 250.0   # MPa — structural steel, room temp, lab cert
@@ -89,11 +92,12 @@ a = m.rootAssembly
 inst = a.Instance(name="Plate-1", part=p, dependent=ON)
 m.StaticStep(name="Load", previous="Initial", nlgeom=ON)
 m.DisplacementBC(name="SymX", createStepName="Initial",
-                 region=regionToolset.region(edges=(inst.edges[3],)), u1=SET)
+                 region=regionToolset.region(edges=inst.edges.findAt(((0.0, H / 2.0, 0.0),))), u1=SET)
 m.DisplacementBC(name="SymY", createStepName="Initial",
-                 region=regionToolset.region(edges=(inst.edges[1],)), u2=SET)
+                 region=regionToolset.region(edges=inst.edges.findAt(((L / 2.0, 0.0, 0.0),))), u2=SET)
+a.Surface(side1Edges=inst.edges.findAt(((L, (H - R) / 2.0, 0.0),)), name="PullEdge")
 m.Pressure(name="Pull", createStepName="Load",
-           region=regionToolset.region(edges=(inst.edges[5],)), magnitude=-120.0)
+           region=a.surfaces["PullEdge"], magnitude=-120.0)
 
 # --- Mesh + element type (plane strain, reduced integration) ---
 p.seedPart(size=1.0)              # <-- the variable we sweep in convergence
@@ -105,7 +109,7 @@ p.setElementType(regions=(p.faces[0],),
 ### ODB Post-Processing Script (extract the result for the convergence table)
 ```python
 # read_peak.py — extract peak von Mises from each ODB for the convergence study.
-from abaqus import *
+from abaqusConstants import MISES
 import odbAccess
 
 def peak_mises(odb_path):
