@@ -442,6 +442,16 @@
    "due": "2026-10-16",
    "next": "Markus Rummel replied 11 Oct and booked a meeting for next week. Our 9 Oct email carried an old non-Vybe booking link, so the booking is not on the Vybe calendar. Jeremy: find it there and re-send Markus a jeremy@vybe.health invite (John on CC), or ask him to rebook at https://calendly.com/jeremy-vybe/30min. Prep: data route and format for overnight HRV, HR and sleep timing. Do not promise a band.",
    "offer": "\"Thanks for reaching out, sounds very interesting. I've booked a meeting for next week.\""
+  },
+  {
+   "org": "Lighthouse Health & Wellness (Baseline 4PS)",
+   "to": "joe@lighthousehw.org",
+   "role": "Joe Ramirez",
+   "first_sent": "2026-10-09",
+   "state": "replied",
+   "due": "2026-11-09",
+   "offer": "\"Sounds like we're on similar paths! We're working on a band as well but I'd be happy to connect... send me an invite for anytime after 8am pacific any day other than Thursday the week of Nov 9\"",
+   "next": "Replied 12 Oct: open to a call, but they are building their own band (possible competitor). Jeremy: send a calendar invite for the week of 9 Nov, after 8am PT, not Thursday (Nov 12). Keep it to data integration; no bands."
   }
  ],
  "forwarded": [
