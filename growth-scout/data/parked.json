@@ -1430,13 +1430,6 @@
       "why_parked": "costs money"
     },
     {
-      "name": "Firefighter Health & Wellness Conference 2026 (Fairborn, OH)",
-      "type": "event",
-      "geo": "Fairborn, OH",
-      "ask": "Ask whether a late vendor table or evening-networking pass is still available for 2026, and get on the 2027 vendor list",
-      "why_parked": "costs money"
-    },
-    {
       "name": "NSCA Ohio State Clinic 2026",
       "type": "event",
       "geo": "University Heights, OH",
@@ -9631,13 +9624,6 @@
       "type": "channel-partner",
       "geo": "Orlando, FL",
       "ask": "15-minute call with AdventHealth sports performance staff on how they assess consumer recovery wearables",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "BioFlorida Innovation Conference 2026",
-      "type": "event",
-      "geo": "Orlando, FL",
-      "ask": "Register to attend and meet Florida digital health and medtech leads; no booth this year",
       "why_parked": "costs money"
     },
     {

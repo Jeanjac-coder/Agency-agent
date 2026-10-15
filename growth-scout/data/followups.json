@@ -1,6 +1,6 @@
 {
  "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
- "checked": "2026-10-11",
+ "checked": "2026-10-15T17:20Z",
  "threads": [
   {
    "org": "Head of the Schuylkill Regatta",
@@ -159,9 +159,9 @@
    "org": "WAKA Kickball",
    "to": "info@clubwaka.com",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "John approved the one follow-up (12 Oct). Tailored follow-up is on the approval page for Wed 14 Oct; it is sent only once approved there."
+   "state": "followed up",
+   "due": "",
+   "next": "Follow-up sent 15 Oct 15:24 UTC from jeremy@vybe.health (sent by the hub routine). Don't send again; wait for a reply."
   },
   {
    "org": "Running 4 Heroes",
@@ -209,9 +209,9 @@
    "org": "Akron City FC",
    "to": "info@akroncityfc.com",
    "first_sent": "2026-10-09",
-   "state": "on hold",
-   "due": "",
-   "next": "John, 12 Oct: reserve, no email now. They've already replied. We need fan-facing promotion and audience numbers; giving bands to players alone doesn't establish a path to buyers.",
+   "state": "replied",
+   "due": "2026-10-22",
+   "next": "15 Oct: Jeremy asked to reschedule (flight delay). Nick replied 'how about next Thursday?' (22 Oct). Jeremy to confirm a time.",
    "role": "Nick (club contact)",
    "offer": "\"I'll grab a spot on your calendar, looking forward to discussing further!\""
   },
@@ -261,9 +261,9 @@
    "org": "OhioHealth Capital City Half & Quarter Marathon 2027",
    "to": "info@m3ssports.com",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "John approved the one follow-up (12 Oct). Tailored follow-up is on the approval page for Wed 14 Oct; it is sent only once approved there."
+   "state": "followed up",
+   "due": "",
+   "next": "Follow-up sent 15 Oct 15:24 UTC from jeremy@vybe.health (sent by the hub routine). Don't send again; wait for a reply."
   },
   {
    "org": "REACH Fitness",
@@ -329,9 +329,9 @@
    "org": "Cincinnati Cycle Club",
    "to": "membership@cincinnaticycleclub.org",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "John approved the one follow-up (12 Oct). Tailored follow-up is on the approval page for Wed 14 Oct; it is sent only once approved there."
+   "state": "followed up",
+   "due": "",
+   "next": "Follow-up sent 15 Oct 15:24 UTC from jeremy@vybe.health (sent by the hub routine). Don't send again; wait for a reply."
   },
   {
    "org": "LiPol Battery North America",
@@ -354,17 +354,18 @@
    "org": "Chagrin Falls Booster Club 5K Turkey Trot 2026",
    "to": "info@cfboosterclub.org",
    "first_sent": "2026-10-09",
-   "state": "on hold",
+   "state": "closed",
    "due": "",
-   "next": "John, 12 Oct: reserve, no email now. Attendance is unverified and the November event is early."
+   "next": "15 Oct: they replied with a paid sponsorship packet for the 26 Nov Turkey Trot. Paid sponsorship, so closed under the no-spend rule. No follow-up.",
+   "why": "no spend"
   },
   {
    "org": "Columbus Weightlifting Club",
    "to": "info@columbusweightlifting.org",
    "first_sent": "2026-10-09",
-   "state": "no reply",
-   "due": "2026-10-14",
-   "next": "John approved the one follow-up (12 Oct). Tailored follow-up is on the approval page for Wed 14 Oct; it is sent only once approved there."
+   "state": "followed up",
+   "due": "",
+   "next": "Follow-up sent 15 Oct 15:24 UTC from jeremy@vybe.health (sent by the hub routine). Don't send again; wait for a reply."
   },
   {
    "org": "Nocturnal Product Development",
