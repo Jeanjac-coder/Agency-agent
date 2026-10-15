@@ -1,6 +1,6 @@
 {
  "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
- "checked": "2026-10-15T17:20Z",
+ "checked": "2026-10-15T18:25Z",
  "threads": [
   {
    "org": "Head of the Schuylkill Regatta",
@@ -209,9 +209,9 @@
    "org": "Akron City FC",
    "to": "info@akroncityfc.com",
    "first_sent": "2026-10-09",
-   "state": "replied",
+   "state": "call booked",
    "due": "2026-10-22",
-   "next": "15 Oct: Jeremy asked to reschedule (flight delay). Nick replied 'how about next Thursday?' (22 Oct). Jeremy to confirm a time.",
+   "next": "15 Oct: Nick Turchan booked the Calendly 30-min for Thu 22 Oct 10:00 EDT and accepted the invite (likely this club's Nick, who proposed next Thursday; his invite came from nick.turchan@team8global.com). Jeremy takes the call.",
    "role": "Nick (club contact)",
    "offer": "\"I'll grab a spot on your calendar, looking forward to discussing further!\""
   },
