@@ -5707,6 +5707,20 @@
       "why_parked": "costs money"
     },
     {
+      "name": "Fast Talk Podcast",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Post one well-framed listener question in the free forum about reading overnight HRV against a personal baseline. Not the partner email (likely paid).",
+      "why_parked": "costs money"
+    },
+    {
+      "name": "Marathon Training Academy Podcast",
+      "type": "amplifier",
+      "geo": null,
+      "ask": "Submit a listener question for Ask the Coach on using overnight resting HR and HRV trends during a marathon build. Avoid the sponsorship link (paid).",
+      "why_parked": "costs money"
+    },
+    {
       "name": "Infinity Medical Concierge",
       "type": "builder",
       "geo": "Johannesburg, South Africa",

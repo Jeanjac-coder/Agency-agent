@@ -1,5 +1,5 @@
 {
- "reviewed": "2026-10-11",
+ "reviewed": "2026-10-16",
  "rule": "Kept only if it grows Vybe, costs $0, is realistic for a pre-launch startup, and has current evidence. A = do this month, B = worth doing, later.",
  "rows": {
   "athletic-lab-athletic-lab": {
@@ -3821,6 +3821,46 @@
    "verdict": "B",
    "reason": "Sleep/HRV feature shipped switched off; product and owner unconfirmed.",
    "move": "Comment on PR #111 asking what Cued is and whether an open source would help."
+  },
+  "better-in-bed-with-the-sleep-doctor-lemonada-media": {
+   "verdict": "A",
+   "reason": "Weekly consumer sleep podcast from a nationally known sleep expert; recent episodes cover sleep gadgets and athletic recovery, aimed at people who track their s",
+   "move": "Free story pitch for a future sleep-tracking or gadgets episode: screenless overnight tracking judged against your own baseline."
+  },
+  "steve-magness-newsletter-steve-magness": {
+   "verdict": "A",
+   "reason": "Widely read performance newsletter (47,000+ subscribers on its own page) that just published an essay on athletes handing decisions to watch data, a natural ope",
+   "move": "Short note responding to 'When the Watch Makes the Call', offering Vybe's screenless design as a real example he could reference."
+  },
+  "sweat-science-newsletter-alex-hutchinson": {
+   "verdict": "B",
+   "reason": "Evidence-first monthly endurance-science digest (15,000+ subscribers on its own page) by the Outside Sweat Science columnist; a credible voice on how to read we",
+   "move": "Reply with one research-backed point on night-to-night HRV variability against a personal baseline as a possible column lead; no product pitch."
+  },
+  "that-triathlon-show-scientific-triathlon": {
+   "verdict": "A",
+   "reason": "Science-heavy triathlon podcast with weekly interviews and research roundups; publicly invites guest pitches and listener questions.",
+   "move": "Guest pitch on using overnight HRV and sleep timing against a personal baseline, or a listener question for a Q&A episode."
+  },
+  "fast-talk-podcast-fast-talk-laboratories": {
+   "verdict": "B",
+   "reason": "Long-running endurance-science podcast (400+ episodes) whose audience of coaches and data-literate athletes fits HRV and sleep monitoring.",
+   "move": "Post one well-framed listener question in the free forum about reading overnight HRV against a personal baseline. Not the partner email (likely paid)."
+  },
+  "marathon-training-academy-podcast-marathon-training-academy": {
+   "verdict": "B",
+   "reason": "Mass-market marathon podcast (over 100,000 downloads a month per its About page) that answers listener questions, including heart-rate training.",
+   "move": "Submit a listener question for Ask the Coach on using overnight resting HR and HRV trends during a marathon build. Avoid the sponsorship link (paid)."
+  },
+  "tread-lightly-running-science-podcast-runtothefinish": {
+   "verdict": "A",
+   "reason": "Weekly evidence-based running podcast that recently tested trendy recovery tools against the data, matching how Vybe frames recovery tracking.",
+   "move": "Pitch a follow-up episode on what overnight heart rate and HRV trends can and can't tell runners, founder as guest or background."
+  },
+  "cts-ultrarunning-podcast-cts-carmichael-training-systems": {
+   "verdict": "A",
+   "reason": "Weekly evidence-based ultrarunning show focused on recovering smarter; latest episode is on stress, recovery and adaptation, Vybe's core story.",
+   "move": "Offer the founder as a guest or source on overnight HRV and sleep-timing baselines across ultra training blocks."
   }
  }
 }

@@ -1,0 +1,37 @@
+{
+ "note": "Founder or review overrides of the computed big_name, keyed by row id.",
+ "rows": {
+  "better-in-bed-with-the-sleep-doctor-lemonada-media": {
+   "big_name": 8,
+   "big_name_why": "Michael Breus is one of the best-known sleep experts in US national media, on a major podcast network; first batch: one episode mention or guest spot."
+  },
+  "steve-magness-newsletter-steve-magness": {
+   "big_name": 8,
+   "big_name_why": "Bestselling author and well-known running coach with a 47,000+ subscriber newsletter; first batch: one mention or a podcast conversation."
+  },
+  "sweat-science-newsletter-alex-hutchinson": {
+   "big_name": 8,
+   "big_name_why": "Bestselling author of Endure and long-time Outside columnist; first batch: one research lead he may or may not use."
+  },
+  "that-triathlon-show-scientific-triathlon": {
+   "big_name": 7,
+   "big_name_why": "Calls itself the number one triathlon podcast for coach and scientist interviews; first batch: one guest spot or Q&A answer."
+  },
+  "fast-talk-podcast-fast-talk-laboratories": {
+   "big_name": 7,
+   "big_name_why": "Well-known endurance-science brand whose guests include leading physiologists; first batch: one listener question answered on air."
+  },
+  "marathon-training-academy-podcast-marathon-training-academy": {
+   "big_name": 7,
+   "big_name_why": "Running since 2010 with 100,000+ monthly downloads and Runner's World mentions; first batch: one listener question on air."
+  },
+  "tread-lightly-running-science-podcast-runtothefinish": {
+   "big_name": 5,
+   "big_name_why": "RunToTheFinish is a well-established running site; the podcast is mid-sized; first batch: one guest spot."
+  },
+  "cts-ultrarunning-podcast-cts-carmichael-training-systems": {
+   "big_name": 6,
+   "big_name_why": "CTS is a well-known coaching brand; this podcast is newer; first batch: one guest spot."
+  }
+ }
+}
