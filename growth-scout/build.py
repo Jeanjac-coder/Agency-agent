@@ -513,7 +513,8 @@ def big_name_fields(row: dict) -> None:
         score = min(score, 4)
     if row["type"] == "angel":
         score = min(score, 7)
-    o = over.get(row.get("id") or "") or {}
+    rid = row.get("id") or re.sub(r"\s+", "-", norm(f"{row['name']} {row.get('org') or ''}"))[:80]
+    o = over.get(rid) or {}
     score = o.get("big_name", score)
     reason = BIG_NAME_REASON.get(score, "a local or niche name with little recognition outside its field")
     batch = FIRST_BATCH.get(row["type"], "a first intro call" if row["hunt"] == "investor" else "one small pilot")
