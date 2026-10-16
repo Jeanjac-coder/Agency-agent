@@ -2928,9 +2928,9 @@
    "move": "None; use the HAX entry."
   },
   "sosv-hax-sosv": {
-   "verdict": "cut",
-   "reason": "Duplicate of the 'HAX' row; ranked there.",
-   "move": "None; use the HAX entry."
+   "verdict": "B",
+   "reason": "Hard-tech pre-seed program (Newark NJ) with a human-health theme that has backed health wearables.",
+   "move": "Confirm terms first (one third-party listing claims a participation charge), then decide on the free application."
   },
   "hivers-strivers-hivers-strivers-capital": {
    "verdict": "A",
@@ -3398,9 +3398,9 @@
    "move": "None now."
   },
   "will-ventures-will-ventures": {
-   "verdict": "cut",
-   "reason": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel.",
-   "move": "None now."
+   "verdict": "A",
+   "reason": "Boston seed and Series A fund for sports, health and consumer; its 2026 'Quantified Self 3.0' post says it is investing in the space and that hardware may captu",
+   "move": "Cold intro citing the Quantified Self 3.0 post; ask for a seed conversation."
   },
   "moxxie-ventures-moxxie-ventures": {
    "verdict": "cut",
@@ -3861,6 +3861,31 @@
    "verdict": "A",
    "reason": "Weekly evidence-based ultrarunning show focused on recovering smarter; latest episode is on stress, recovery and adaptation, Vybe's core story.",
    "move": "Offer the founder as a guest or source on overnight HRV and sleep-timing baselines across ultra training blocks."
+  },
+  "charlotte-angel-fund-charlotte-angel-fund": {
+   "verdict": "A",
+   "reason": "NC early-stage angel fund investing in NC and neighbouring states; 2026 investments include health and medtech (Reselute Medical, Durham; Neurotone AI). Rolling",
+   "move": "Submit the free web form with deck and summary; ask to be screened for a member presentation."
+  },
+  "venturesouth-venturesouth": {
+   "verdict": "A",
+   "reason": "Largest angel network in the Carolinas (500+ investors); invests pre-seed and seed in Southeastern companies and has backed Raleigh startups.",
+   "move": "Send a free introduction asking for screening; no public general-solicitation language."
+  },
+  "hatteras-healthcare-innovation-venture-fund-hatteras-venture-partners": {
+   "verdict": "A",
+   "reason": "RTP-based health VC; its HIVF (formerly the WakeMed Innovation Venture Fund) backs early digital health and devices with pilot access at hospital LPs, including",
+   "move": "Free intro asking for an HIVF review and whether a WakeMed pilot conversation is possible."
+  },
+  "new-york-angels-new-york-angels-investment-group": {
+   "verdict": "B",
+   "reason": "One of the largest East Coast angel groups; seed and Series A, monthly screening forums.",
+   "move": "Submit the Gust application before the next forum deadline; confirm on the FAQ that there is no fee first."
+  },
+  "idea-fund-partners-idea-fund-partners": {
+   "verdict": "B",
+   "reason": "Durham pre-seed to Series A fund focused on Baltimore-to-Atlanta, with health companies in its portfolio.",
+   "move": "Free intro via site contact asking for a pre-seed review."
   }
  }
 }

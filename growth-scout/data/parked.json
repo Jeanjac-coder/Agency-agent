@@ -7065,13 +7065,6 @@
       "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
     },
     {
-      "name": "Will Ventures",
-      "type": "vc",
-      "geo": null,
-      "ask": "15-minute intro call about Vybe's developer-platform round",
-      "why_parked": "Shows up only as a co-investor in Series A+ or India rounds; no pre-seed fit and no public channel."
-    },
-    {
       "name": "Moxxie Ventures",
       "type": "vc",
       "geo": null,
@@ -9667,13 +9660,6 @@
       "geo": "San Francisco, CA",
       "ask": "Apply to next speedrun cohort",
       "why_parked": "Duplicate of the 'a16z speedrun (SR008)' row; ranked there."
-    },
-    {
-      "name": "SOSV HAX",
-      "type": "vc",
-      "geo": "Newark, NJ / San Francisco",
-      "ask": "Application to HAX program",
-      "why_parked": "Duplicate of the 'HAX' row; ranked there."
     },
     {
       "name": "Redalpine",

@@ -1,0 +1,219 @@
+[
+ {
+  "name": "Charlotte Angel Fund",
+  "org": "Charlotte Angel Fund",
+  "role": null,
+  "type": "angel-group",
+  "hunt": "investor",
+  "why": "NC early-stage angel fund investing in NC and neighbouring states; 2026 investments include health and medtech (Reselute Medical, Durham; Neurotone AI). Rolling submissions.",
+  "why_now": "'2026 Investments' section and 30 Mar 2026 community letter on its own site.",
+  "evidence": [
+   "https://www.cltangelfund.com/our-portfolio-1",
+   "https://www.cltangelfund.com/how-to-be-considered/"
+  ],
+  "channel": "Web form on own site",
+  "contact_url": "https://www.cltangelfund.com/how-to-be-considered/",
+  "warm_path": null,
+  "fit": 8,
+  "ice": null,
+  "ask": "Submit the free web form with deck and summary; ask to be screened for a member presentation.",
+  "opener": "Hi Charlotte Angel Fund team,\n\nWe're building Vybe, a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK on top. We're pre-seed in Raleigh, North Carolina, with a public waitlist.\n\nYour 2026 investments in Reselute Medical and Neurotone AI suggest health hardware and data are in scope, so I'd like to be considered for screening. Deck and summary are attached to the form; happy to do 20 minutes here if useful: https://calendly.com/jeremy-vybe/30min",
+  "check_size": "$50K-$250K into rounds of $250K-$2M (per its entrepreneur pages)",
+  "stage": "seed",
+  "geo": "North Carolina and neighbouring states",
+  "deadline": null,
+  "last_signal_date": "2026-03-30",
+  "confidence": "own-domain search summaries 2026-10-16; spot-check before outreach",
+  "tags": [
+   "investor",
+   "digital-health",
+   "east-coast"
+  ]
+ },
+ {
+  "name": "VentureSouth",
+  "org": "VentureSouth",
+  "role": "Charlie Banks, Managing Director",
+  "type": "angel-group",
+  "hunt": "investor",
+  "why": "Largest angel network in the Carolinas (500+ investors); invests pre-seed and seed in Southeastern companies and has backed Raleigh startups.",
+  "why_now": "'VentureSouth Invests Over $100 Million in Southeastern...' release, Aug 2026, on its own site.",
+  "evidence": [
+   "https://www.venturesouth.vc/investment-criteria",
+   "https://www.venturesouth.vc/resources/venturesouth-invests-over-100-million"
+  ],
+  "channel": "Introduction via site after reading criteria (warm intro preferred)",
+  "contact_url": "https://www.venturesouth.vc/investment-criteria",
+  "warm_path": null,
+  "fit": 8,
+  "ice": null,
+  "ask": "Send a free introduction asking for screening; no public general-solicitation language.",
+  "opener": "Hi VentureSouth team,\n\nWe're building Vybe, a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK on top. We're pre-seed in Raleigh, North Carolina, with a public waitlist.\n\nWe read your investment criteria and think we fit the pre-seed Southeastern profile. Could we be considered for screening? A short call is easiest for us: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": "pre-seed / seed",
+  "geo": "Southeast",
+  "deadline": null,
+  "last_signal_date": "2026-08-01",
+  "confidence": "own-domain search summaries 2026-10-16; spot-check before outreach",
+  "tags": [
+   "investor",
+   "digital-health",
+   "east-coast"
+  ]
+ },
+ {
+  "name": "Hatteras Healthcare Innovation Venture Fund",
+  "org": "Hatteras Venture Partners",
+  "role": null,
+  "type": "vc",
+  "hunt": "investor",
+  "why": "RTP-based health VC; its HIVF (formerly the WakeMed Innovation Venture Fund) backs early digital health and devices with pilot access at hospital LPs, including WakeMed in Raleigh.",
+  "why_now": "Baptist Health joined HIVF as second hospital LP (May 2026); news dated 30 Sep 2026 on its own site.",
+  "evidence": [
+   "https://hatterasvp.com/healthcare-innovation-venture-fund",
+   "https://hatterasvp.com/category/news/"
+  ],
+  "channel": "Website contact",
+  "contact_url": "https://hatterasvp.com/healthcare-innovation-venture-fund",
+  "warm_path": null,
+  "fit": 8,
+  "ice": null,
+  "ask": "Free intro asking for an HIVF review and whether a WakeMed pilot conversation is possible.",
+  "opener": "Hi Hatteras team,\n\nWe're building Vybe, a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK on top. We're pre-seed in Raleigh, North Carolina, with a public waitlist.\n\nThe Healthcare Innovation Venture Fund looks like the right home to ask: we're a Raleigh company and would value your read on fit, and on whether a small WakeMed pilot conversation would ever make sense. Here if easier: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": "seed / early",
+  "geo": "NC / Southeast",
+  "deadline": null,
+  "last_signal_date": "2026-09-30",
+  "confidence": "own-domain search summaries 2026-10-16; spot-check before outreach",
+  "tags": [
+   "investor",
+   "digital-health",
+   "east-coast"
+  ]
+ },
+ {
+  "name": "Will Ventures",
+  "org": "Will Ventures",
+  "role": null,
+  "type": "vc",
+  "hunt": "investor",
+  "why": "Boston seed and Series A fund for sports, health and consumer; its 2026 'Quantified Self 3.0' post says it is investing in the space and that hardware may capture the most value in health monitoring.",
+  "why_now": "'Quantified Self 3.0' blog post, Apr 2026, on its own site.",
+  "evidence": [
+   "https://www.willventures.com/blog/quantified-self-3-0",
+   "https://www.willventures.com/"
+  ],
+  "channel": "Contact links on own site",
+  "contact_url": "https://www.willventures.com/",
+  "warm_path": null,
+  "fit": 8,
+  "ice": null,
+  "ask": "Cold intro citing the Quantified Self 3.0 post; ask for a seed conversation.",
+  "opener": "Hi Will Ventures team,\n\nYour 'Quantified Self 3.0' post argued that hardware may capture the most value in health monitoring. That's our bet too. We're building Vybe, a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK on top. We're pre-seed in Raleigh, North Carolina, with a public waitlist.\n\nWould you be open to a short conversation as we put our pre-seed round together? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": "seed / Series A",
+  "geo": "US (Boston)",
+  "deadline": null,
+  "last_signal_date": "2026-04-01",
+  "confidence": "own-domain search summaries 2026-10-16; spot-check before outreach",
+  "tags": [
+   "investor",
+   "digital-health",
+   "east-coast"
+  ]
+ },
+ {
+  "name": "New York Angels",
+  "org": "New York Angels Investment Group",
+  "role": null,
+  "type": "angel-group",
+  "hunt": "investor",
+  "why": "One of the largest East Coast angel groups; seed and Series A, monthly screening forums.",
+  "why_now": "January and March 2026 newsletters and a 16 Nov 2026 investment forum on its own site.",
+  "evidence": [
+   "https://www.newyorkangels.com/investment-process",
+   "https://www.newyorkangels.com/calendar/november-investment-forum-2026"
+  ],
+  "channel": "Gust application from Investment Process page",
+  "contact_url": "https://www.newyorkangels.com/investment-process",
+  "warm_path": null,
+  "fit": 7,
+  "ice": null,
+  "ask": "Submit the Gust application before the next forum deadline; confirm on the FAQ that there is no fee first.",
+  "opener": null,
+  "check_size": "$100K-$1.5M (per its site)",
+  "stage": "seed / Series A",
+  "geo": "Northeast",
+  "deadline": null,
+  "last_signal_date": "2026-11-16",
+  "confidence": "own-domain search summaries 2026-10-16; spot-check before outreach",
+  "tags": [
+   "investor",
+   "digital-health",
+   "east-coast"
+  ]
+ },
+ {
+  "name": "SOSV HAX",
+  "org": "SOSV",
+  "role": null,
+  "type": "vc",
+  "hunt": "investor",
+  "why": "Hard-tech pre-seed program (Newark NJ) with a human-health theme that has backed health wearables.",
+  "why_now": "HAX 2026 seed cohort and 12 Oct 2026 post on its own sites.",
+  "evidence": [
+   "https://sosv.com/apply/hax/",
+   "https://hax.co/tx_cohort/hax-seed-2026/"
+  ],
+  "channel": "Public online application",
+  "contact_url": "https://sosv.com/apply/hax/",
+  "warm_path": null,
+  "fit": 7,
+  "ice": null,
+  "ask": "Confirm terms first (one third-party listing claims a participation charge), then decide on the free application.",
+  "opener": null,
+  "check_size": "up to $550K initial (per its site)",
+  "stage": "pre-seed",
+  "geo": "Newark NJ",
+  "deadline": null,
+  "last_signal_date": "2026-10-12",
+  "confidence": "own-domain search summaries 2026-10-16; spot-check before outreach",
+  "tags": [
+   "investor",
+   "digital-health",
+   "east-coast"
+  ]
+ },
+ {
+  "name": "IDEA Fund Partners",
+  "org": "IDEA Fund Partners",
+  "role": null,
+  "type": "vc",
+  "hunt": "investor",
+  "why": "Durham pre-seed to Series A fund focused on Baltimore-to-Atlanta, with health companies in its portfolio.",
+  "why_now": "Third-party only: listed investor in a March 2026 round; no 2026 item found on its own site.",
+  "evidence": [
+   "https://www.ideafundpartners.com/portfolio-1",
+   "https://www.crunchbase.com/organization/idea-fund-partners/investor_summary/overview_timeline"
+  ],
+  "channel": "Website contact",
+  "contact_url": "https://www.ideafundpartners.com/",
+  "warm_path": null,
+  "fit": 7,
+  "ice": null,
+  "ask": "Free intro via site contact asking for a pre-seed review.",
+  "opener": null,
+  "check_size": null,
+  "stage": "pre-seed to Series A",
+  "geo": "Southeast / Mid-Atlantic",
+  "deadline": null,
+  "last_signal_date": "2026-03-01",
+  "confidence": "own-domain search summaries 2026-10-16; spot-check before outreach",
+  "tags": [
+   "investor",
+   "digital-health",
+   "east-coast"
+  ]
+ }
+]
