@@ -1,6 +1,6 @@
 {
  "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
- "checked": "2026-10-16T20:25Z",
+ "checked": "2026-10-16T22:25Z",
  "threads": [
   {
    "org": "Head of the Schuylkill Regatta",
@@ -224,7 +224,7 @@
    "first_sent": "2026-10-09",
    "state": "closed",
    "due": "",
-   "next": "John approved the follow-up (12 Oct), but it goes to the Arnold exhibitors inbox and asks what an in-kind contribution earns: an event presence, closed under rule 7. Not queued.",
+   "next": "John approved the follow-up (12 Oct), but it goes to the Arnold exhibitors inbox and asks what an in-kind contribution earns: an event presence, closed under rule 7. Not queued. 16 Oct 22:00 UTC: Arnold exhibitors replied asking Vybe to fill out the 2027 exhibitor Interest Form. Still closed under rule 7 (event presence costs money); no reply unless the founder decides otherwise.",
    "why": "rule 7"
   },
   {
