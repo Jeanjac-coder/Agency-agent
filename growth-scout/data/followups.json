@@ -1,6 +1,6 @@
 {
  "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
- "checked": "2026-10-16T18:25Z",
+ "checked": "2026-10-16T20:25Z",
  "threads": [
   {
    "org": "Head of the Schuylkill Regatta",
@@ -186,7 +186,7 @@
    "first_sent": "2026-10-09",
    "state": "closed",
    "due": "",
-   "next": "Close-out sent 16 Oct 10:58 UTC from jeremy@vybe.health by the hub routine (verified in Sent). Do not send again.",
+   "next": "Close-out sent 16 Oct 10:58 UTC from jeremy@vybe.health by the hub routine (verified in Sent). Do not send again. 16 Oct 20:16 UTC: Peter replied graciously and offered a second look before launch if ever useful. Closed; no reply needed.",
    "why": "rule 7",
    "john_verdict": "approve",
    "john_said": "YES, close it",
