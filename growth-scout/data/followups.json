@@ -1,6 +1,6 @@
 {
  "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
- "checked": "2026-10-16T00:25Z",
+ "checked": "2026-10-16T11:08Z",
  "threads": [
   {
    "org": "Head of the Schuylkill Regatta",
@@ -186,8 +186,11 @@
    "first_sent": "2026-10-09",
    "state": "closed",
    "due": "",
-   "next": "John, 15 Oct (email): YES, close it.",
-   "why": "rule 7"
+   "next": "Close-out sent 16 Oct 10:58 UTC from jeremy@vybe.health by the hub routine (verified in Sent). Do not send again.",
+   "why": "rule 7",
+   "john_verdict": "approve",
+   "john_said": "YES, close it",
+   "john_at": "2026-10-15T23:01Z"
   },
   {
    "org": "IAFC Technology Council (fire service vendor engagement)",
@@ -295,9 +298,12 @@
    "first_sent": "2026-10-09",
    "state": "on hold",
    "due": "",
-   "next": "John, 15 Oct (email): Keep as reserve for bands, but approve a reply to his interest: ask about active adult membership and whether he'd support member emails, coach referrals or a demo. No full-batch commitment; maybe one or two coach samples with a clear plan. Reply needs drafting and approval-page sign-off.",
+   "next": "Hub reports a reply draft sits in Gmail drafts on Chris's thread (r1147473895280395952). Not sent. Under the founder's rules it needs approval-page sign-off, not a Gmail draft.",
    "role": "Chris Kriebel, head instructor and co-owner",
-   "offer": "\"Hey Jeremy, we would be interested in hearing more about this!\""
+   "offer": "\"Hey Jeremy, we would be interested in hearing more about this!\"",
+   "john_verdict": "approve reply",
+   "john_at": "2026-10-15T23:01Z",
+   "john_said": "Keep as reserve for bands, but approve a reply to his interest; ask about active adult membership, member emails, coach referrals or a demo; no full-batch commitment; maybe one or two coach samples with a clear plan."
   },
   {
    "org": "Joules",
