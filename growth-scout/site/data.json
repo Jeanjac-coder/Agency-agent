@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16 16:30 UTC",
+  "generated": "2026-10-16 18:23 UTC",
   "today": "2026-10-16",
   "scope": {
     "company": "Vybe Health",
@@ -20947,7 +20947,7 @@
   ],
   "followups": {
     "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
-    "checked": "2026-10-16T14:26Z",
+    "checked": "2026-10-16T18:25Z",
     "threads": [
       {
         "org": "Concept2 Logbook",
@@ -22265,7 +22265,7 @@
         "org": "Ragnar Relay",
         "at": "2026-10-16T10:28Z",
         "by": "hub",
-        "result": "BOUNCED: domain ragnarrelay.com not found. Needs a verified address before any resend."
+        "result": "BOUNCED: domain ragnarrelay.com not found. Needs a verified address before any resend. Resent 16 Oct 17:17 UTC by the hub to customerservice@runragnar.com (signed as John). Do not send again."
       },
       {
         "to": "membership@usmastersswimming.org",
