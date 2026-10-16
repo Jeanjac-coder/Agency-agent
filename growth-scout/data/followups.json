@@ -1,15 +1,15 @@
 {
  "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
- "checked": "2026-10-15T18:25Z",
+ "checked": "2026-10-16T00:25Z",
  "threads": [
   {
    "org": "Head of the Schuylkill Regatta",
    "to": "jenwesson@hosr.org",
    "first_sent": "2026-10-06",
    "followed_up": "2026-10-08",
-   "state": "no go",
+   "state": "closed",
    "due": null,
-   "next": "No go (John, 11 Oct): not paying $300 for a PA table."
+   "next": "John, 15 Oct (email): YES, let them resell the table. We are declining the event."
   },
   {
    "org": "MSBL",
@@ -18,7 +18,7 @@
    "followed_up": "2026-10-08",
    "state": "replied",
    "due": "2026-10-13",
-   "next": "John, 11 Oct: send them a one-pager on what Vybe offers for the founding batch. Cancel the World Series table request (no Phoenix trip)."
+   "next": "John, 15 Oct (email): CHANGE. Send the founding-batch one-pager to John for review first; explain the member offer and the promotion asked in return. Release the World Series table request (no Phoenix trip)."
   },
   {
    "org": "WNBF Naturalmania Pro Am Nationals",
@@ -43,9 +43,9 @@
    "to": "info@seniorsoftball.com",
    "first_sent": "2026-10-06",
    "followed_up": "2026-10-08",
-   "state": "no reply",
+   "state": "closed",
    "due": "2026-10-13",
-   "next": "The one follow-up is already used. The event is 3-8 Nov: if there's still no reply by Tue 13 Oct, phone them instead of emailing again."
+   "next": "John, 15 Oct (email): NO more email; the one follow-up is used. A phone call is the next option if still wanted."
   },
   {
    "org": "Hockey North America",
@@ -135,7 +135,7 @@
    "first_sent": "2026-10-08",
    "state": "no reply",
    "due": "2026-10-16",
-   "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
+   "next": "John, 15 Oct (email): 16 Oct follow-up YES if no human follow-up already sent; focus on a participant resource and a specific distribution opportunity. Needs a draft on the approval page.",
    "followed_up": "2026-10-09"
   },
   {
@@ -144,7 +144,7 @@
    "first_sent": "2026-10-08",
    "state": "no reply",
    "due": "2026-10-16",
-   "next": "Follow-up sent 9 Oct with the Calendly link. This was the one follow-up; if there is still no reply by Fri 16 Oct, mark it Dead.",
+   "next": "John, 15 Oct (email): YES only if the 9 Oct message was the initial email; dashboard marks it as a sent follow-up, so check the thread first. If so, don't send another.",
    "followed_up": "2026-10-09"
   },
   {
@@ -186,7 +186,7 @@
    "first_sent": "2026-10-09",
    "state": "closed",
    "due": "",
-   "next": "Closed by the founder on 11 Oct: a supplier, outside the outreach lanes (rule 7). Never follow up. 12 Oct: Peter Sords offered a call Wed 14 or Thu 15 Oct at 4:45. Not answered by the agent; founder's call.",
+   "next": "John, 15 Oct (email): YES, close it.",
    "why": "rule 7"
   },
   {
@@ -295,7 +295,7 @@
    "first_sent": "2026-10-09",
    "state": "on hold",
    "due": "",
-   "next": "John, 12 Oct: reserve, no email now. Relevant coach and academy connection, but broad reach is unproven.",
+   "next": "John, 15 Oct (email): Keep as reserve for bands, but approve a reply to his interest: ask about active adult membership and whether he'd support member emails, coach referrals or a demo. No full-batch commitment; maybe one or two coach samples with a clear plan. Reply needs drafting and approval-page sign-off.",
    "role": "Chris Kriebel, head instructor and co-owner",
    "offer": "\"Hey Jeremy, we would be interested in hearing more about this!\""
   },
@@ -348,7 +348,7 @@
    "first_sent": "2026-10-09",
    "state": "replied",
    "due": "2026-10-14",
-   "next": "11 Oct: resent with the correct Vybe booking link (John's instruction). John will take the call by phone."
+   "next": "John, 15 Oct (email): NO generic follow-up. Check whether a meeting is booked; if not, a scheduling check-in."
   },
   {
    "org": "Chagrin Falls Booster Club 5K Turkey Trot 2026",
@@ -382,7 +382,7 @@
    "first_sent": "2026-10-09",
    "state": "replied",
    "due": "2026-10-13",
-   "next": "John, 11 Oct: Jeremy needs to send the technical answer (does a prototype write HRV and resting HR to Apple Health?) before any call."
+   "next": "John, 15 Oct (email): CHANGE. Jeremy first answers their question on whether the prototype writes HRV and resting HR to Apple Health, and asks which data types they read. No calendar request yet."
   },
   {
    "org": "SugaMed (ECG Patch PCBA)",
@@ -473,5 +473,17 @@
   "1a127159fd6f49dc",
   "1a12b9751e8baaac"
  ],
- "forward_to": "john@vybe.health"
+ "forward_to": "john@vybe.health",
+ "john_15oct_unmatched": [
+  "Ragnar Relay: APPROVE. Offer one sleep-between-legs guide, ask where they'd distribute it; Vybe attribution and tracked link.",
+  "USA Pickleball: CHANGE. One recovery article first, not a series; confirm channel and whether placement requires payment.",
+  "U.S. Masters Swimming: APPROVE. Contributed recovery piece; ask editorial requirements, attribution, link back.",
+  "Bevel: CHANGE. Exploratory compatibility question on third-party HRV/HR/sleep via Apple Health; confirm Vybe export internally first.",
+  "Legends Pickleball League: CHANGE. Ask whether they'd distribute one recovery piece and via which channels; no series or bands.",
+  "Akron City FC: NO for now on the new draft (reserve). Call already booked 22 Oct by Nick.",
+  "Ruck 'N' Run: CHANGE. One reusable recovery piece, subject to distribution with attribution and tracked link.",
+  "New York Road Runners: 16 Oct follow-up YES if no human follow-up sent; contributed piece or member benefit, no paid placement.",
+  "Cincinnati Cycle Club, Columbus Weightlifting, Capital City Half (M3S), WAKA: John replied APPROVE on each thread after the 15 Oct follow-ups had already gone out. Nothing further to send.",
+  "Standing: none of these approvals authorises paid sponsorship, free bands, or public use of an organisation's name as a Vybe partner."
+ ]
 }
