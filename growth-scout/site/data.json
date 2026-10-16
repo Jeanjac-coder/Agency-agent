@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16 12:25 UTC",
+  "generated": "2026-10-16 14:24 UTC",
   "today": "2026-10-16",
   "scope": {
     "company": "Vybe Health",
@@ -7647,7 +7647,7 @@
       "sendable": true,
       "id": "ai-endurance-ai-endurance",
       "what_is": "AI running/cycling/triathlon coach whose recovery model uses overnight HR and HRV; it already imports overnight data from Oura, Whoop, Garmin, Suunto, Coros and Polar, and tells users of other HRV devices to route via Intervals.icu or manual entry. (source: aiendurance.com)",
-      "status": "booked",
+      "status": "replied",
       "offer": "\"Thanks for reaching out, sounds very interesting. I've booked a meeting for next week.\"",
       "we_need": "Add Vybe as a direct overnight HR/HRV source for the AI Endurance recovery model (today 'Others' must go through Intervals.icu); DevKit design-partner pilot.",
       "they_need": "Gear checklist listing overnight HRV sources updated 2026-08-31.",
@@ -19899,7 +19899,7 @@
   ],
   "followups": {
     "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
-    "checked": "2026-10-16T12:27Z",
+    "checked": "2026-10-16T14:26Z",
     "threads": [
       {
         "org": "Concept2 Logbook",
@@ -20100,11 +20100,11 @@
         "org": "AI Endurance",
         "to": "markus@aiendurance.com",
         "first_sent": "2026-10-09",
-        "state": "replied: meeting",
+        "state": "replied",
         "due": "2026-10-16",
-        "next": "Markus Rummel replied 11 Oct and booked a meeting for next week. Our 9 Oct email carried an old non-Vybe booking link, so the booking is not on the Vybe calendar. Jeremy: find it there and re-send Markus a jeremy@vybe.health invite (John on CC), or ask him to rebook at https://calendly.com/jeremy-vybe/30min. Prep: data route and format for overnight HRV, HR and sleep timing. Do not promise a band.",
+        "next": "16 Oct: Jeremy asked to move the call (travel); Markus agreed and will book a new time. Jeremy thanked him 14:22 UTC.",
         "offer": "\"Thanks for reaching out, sounds very interesting. I've booked a meeting for next week.\"",
-        "status": "booked",
+        "status": "replied",
         "what_is": "AI running/cycling/triathlon coach whose recovery model uses overnight HR and HRV; it already imports overnight data from Oura, Whoop, Garmin, Suunto, Coros and Polar, and tells users of other HRV devices to route via Intervals.icu or manual entry. (source: aiendurance.com)",
         "we_need": "Add Vybe as a direct overnight HR/HRV source for the AI Endurance recovery model (today 'Others' must go through Intervals.icu); DevKit design-partner pilot.",
         "they_need": "Gear checklist listing overnight HRV sources updated 2026-08-31.",
@@ -20376,7 +20376,7 @@
         "first_sent": "2026-10-09",
         "state": "closed",
         "due": "",
-        "next": "Closed (founder, 12 Oct: device built and supplied; rule 7). A one-line courtesy note in John's name is on the approval page; it is sent only if approved there. No call.",
+        "next": "16 Oct 13:34 UTC: Jay Mendpara wrote he was waiting in the meeting room and asked to be let in (cell in his email). Supplier row (rule 7); courtesy note still pending approval. Jeremy to reply.",
         "why": "rule 7",
         "status": "closed",
         "offer": "",
