@@ -60,6 +60,34 @@
   "idea-fund-partners-idea-fund-partners": {
    "big_name": 7,
    "big_name_why": "One of NC's most active early-stage VCs; first batch: one intro call."
+  },
+  "final-surge-final-surge-llc": {
+   "big_name": 6,
+   "big_name_why": "Well known with US running/tri coaches and college and pro teams, smaller than TrainingPeaks."
+  },
+  "fitnesssyncer-fx-development-inc-fitnesssyncer": {
+   "big_name": 5,
+   "big_name_why": "Known among quantified-self users who move data between apps; not a household name with athletes."
+  },
+  "bevel-bevel-bevel-health": {
+   "big_name": 7,
+   "big_name_why": "One of the most talked-about recovery and HRV apps of 2025-26, often compared with Athlytic and WHOOP."
+  },
+  "runalyze-runalyze-germany": {
+   "big_name": 7,
+   "big_name_why": "Well known with data-minded runners and triathletes as a free analytics tool."
+  },
+  "kubios-hrv-kubios-oy": {
+   "big_name": 8,
+   "big_name_why": "The standard HRV analysis tool in peer-reviewed research and pro sport science."
+  },
+  "athletica-athletica-ai": {
+   "big_name": 5,
+   "big_name_why": "Respected in cycling and tri circles but niche next to TrainingPeaks or TrainerRoad."
+  },
+  "runna-runna-part-of-strava": {
+   "big_name": 8,
+   "big_name_why": "One of the best-known running-plan apps worldwide, bought by Strava in 2025."
   }
  }
 }

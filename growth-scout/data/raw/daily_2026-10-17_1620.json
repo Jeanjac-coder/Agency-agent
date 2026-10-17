@@ -1,0 +1,284 @@
+[
+ {
+  "name": "Final Surge",
+  "org": "Final Surge LLC",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Raleigh, NC-based free endurance training/coaching platform that already imports third-party HRV, resting HR and sleep into its Daily Vitals (HRV4Training, Elite HRV, Apple Health) and keeps adding device syncs. Vybe's overnight HR/HRV/sleep timing would slot into Daily Vitals for coaches and athletes; Vybe gets a hometown platform used by coaches and teams.",
+  "why_now": "Final Surge's own blog post 'Amazfit x Final Surge Sync is Here!' (about early Aug 2026 per the search index) shows active 2026 device-integration work.",
+  "evidence": [
+   "https://blog.finalsurge.com/amazfit-x-final-surge-sync-is-here/",
+   "https://www.finalsurge.com/connected-apps",
+   "https://blog.finalsurge.com/daily-vital-graphing-steps-hrv/",
+   "https://blog.finalsurge.com/hrv4training-integration/",
+   "https://www.finalsurge.com/contact-us"
+  ],
+  "channel": "Published general/business email (contact page routes partnership enquiries to email) (info@finalsurge.com)",
+  "contact_url": "https://www.finalsurge.com/contact-us",
+  "warm_path": null,
+  "fit": 9,
+  "ask": "A 30-minute call or email reply about pushing nightly HR, HRV and sleep timing into Final Surge Daily Vitals, like their HRV4Training/Elite HRV integrations, plus early SDK access for their team.",
+  "opener": "Hi Final Surge team,\n\nI'm Jeremy, building Vybe Health a few miles from you here in Raleigh. Vybe is a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK.\n\nYour Daily Vitals view already takes HRV and resting HR from HRV4Training and Elite HRV, and Vybe's overnight data looks like a natural extra source for your athletes and coaches. Would you be open to a short call about what an integration would need? Here's my calendar if easier: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Raleigh, NC, USA",
+  "deadline": null,
+  "last_signal_date": "2026-08-03",
+  "confidence": "Pages not opened this run (fetch blocked); facts from search results restricted to finalsurge.com. Post date approximate; Raleigh address and info@ from an older terms page. Spot-check pages before outreach.",
+  "tags": [
+   "NC",
+   "endurance",
+   "coaching-platform",
+   "daily-vitals",
+   "HRV",
+   "device-integration"
+  ],
+  "existing_wearables": [
+   "HRV4Training",
+   "Elite HRV",
+   "Apple Health",
+   "Amazfit"
+  ],
+  "partner_status": "open",
+  "opportunity": "Become a Daily Vitals source (nightly HR, HRV, sleep timing) next to HRV4Training and Elite HRV for Raleigh-based coaches and athletes."
+ },
+ {
+  "name": "FitnessSyncer",
+  "org": "FX Development, Inc. (FitnessSyncer)",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "US health-data hub that pulls sleep, HR and HRV from many providers and passes it to other apps; its supported-apps page invites services to get in touch about new integrations. Being a provider would let Vybe users route overnight data to many destinations.",
+  "why_now": "Own 'What's new' changelog lists new providers through 2026: Morpheus (3 Oct 2026), Ultrahuman with sleep stages and overnight HR/HRV (12 Sep 2026), Wahoo (21 Aug 2026), Zepp (7 Aug 2026).",
+  "evidence": [
+   "https://www.fitnesssyncer.com/support/whats-new",
+   "https://www.fitnesssyncer.com/support/supported-apps-and-services",
+   "https://www.fitnesssyncer.com/ContactUs.html",
+   "https://www.fitnesssyncer.com/api/documentation.html"
+  ],
+  "channel": "Contact form or support email (support@fitnesssyncer.com)",
+  "contact_url": "https://www.fitnesssyncer.com/ContactUs.html",
+  "warm_path": null,
+  "fit": 8,
+  "ask": "Ask to be considered as a new FitnessSyncer provider for nightly HR, HRV and sleep timing, with free SDK access and test data for their developers.",
+  "opener": "Hi FitnessSyncer team,\n\nI'm Jeremy from Vybe Health in Raleigh. Vybe is a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK.\n\nI saw you've added Ultrahuman, Wahoo, Zepp and Morpheus this year, and we'd like to be considered as a provider so our users can send their nightly data anywhere FitnessSyncer reaches. Could we set up a quick call about what you need from a new source? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Seattle, WA, USA",
+  "deadline": null,
+  "last_signal_date": "2026-10-03",
+  "confidence": "Pages not opened this run (fetch blocked); changelog dates and contacts from search results restricted to fitnesssyncer.com. Spot-check pages before outreach.",
+  "tags": [
+   "aggregator",
+   "US",
+   "sleep",
+   "HRV",
+   "provider-integration"
+  ],
+  "existing_wearables": [
+   "Ultrahuman",
+   "Wahoo",
+   "Zepp",
+   "Morpheus"
+  ],
+  "partner_status": "open",
+  "opportunity": "Be listed as a FitnessSyncer provider so Vybe overnight data flows to every destination FitnessSyncer syncs to."
+ },
+ {
+  "name": "Bevel",
+  "org": "Bevel (bevel.health)",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Fast-growing NYC recovery, sleep and HRV app that already reads data directly from Garmin, Oura and Google Health and runs a public feedback board where users request new wearables. Vybe adds a data source; Vybe gets a popular recovery app.",
+  "why_now": "Bevel release notes cover a 2026 Mid-Summer Release (13 Jul 2026) adding a direct Google Health integration, and a Fall release dated 30 Sep 2026.",
+  "evidence": [
+   "https://docs.bevel.health/release-notes/b/2790BF67-C2C3-4B45-8344-A97FA266F149/Sep-10-2025-Bevel-2025-Summer-Rel",
+   "https://help.bevel.health/en/articles/11194113",
+   "https://feedback.bevel.health/feature-requests/p/luna-ring-integration",
+   "https://www.bevel.health/privacy-policy"
+  ],
+  "channel": "Published general email, plus a public integration request on the feedback board (hello@bevel.health)",
+  "contact_url": "https://feedback.bevel.health/feature-requests",
+  "warm_path": null,
+  "fit": 8,
+  "ask": "An email reply or short call about adding Vybe as a direct data source (nightly HR, HRV, sleep timing), with free SDK access for their engineers.",
+  "opener": "Hi Bevel team,\n\nI'm Jeremy from Vybe Health. Vybe is a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK.\n\nI saw the Mid-Summer release added Google Health, and your feedback board shows users asking for more wearables, so Vybe could be a simple extra source for Bevel's recovery and sleep views. Would you be up for a short call about what a direct integration would take? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "New York, NY, USA",
+  "deadline": null,
+  "last_signal_date": "2026-07-13",
+  "confidence": "Pages not opened this run (fetch blocked); release-note dates from search results restricted to bevel.health and inconsistent (URL says 2025, entries labelled 2026). NYC HQ from third-party profiles. Spot-check pages before outreach.",
+  "tags": [
+   "recovery-app",
+   "HRV",
+   "sleep",
+   "NYC",
+   "consumer"
+  ],
+  "existing_wearables": [
+   "Garmin",
+   "Oura",
+   "Google Health"
+  ],
+  "partner_status": "open",
+  "opportunity": "Add Vybe as a direct data source for Bevel's recovery and sleep views, answering feedback-board requests for more wearables."
+ },
+ {
+  "name": "Runalyze",
+  "org": "Runalyze (Germany)",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Long-running, data-heavy analysis platform for endurance athletes with a health-tracking section for daily HRV, sleep and resting HR, open to vetted outside apps pushing data in. Vybe's overnight HRV and sleep timing fit its health tracking directly.",
+  "why_now": "Own changelog: direct Zepp/Amazfit sync of activities, sleep and HRV (28 Apr 2026), sync toggles (16 May 2026), Garmin export import incl. sleep, RHR and HRV (16 Sep 2026), entries through 28 Sep 2026.",
+  "evidence": [
+   "https://runalyze.com/changelog",
+   "https://blog.runalyze.com/allgemein-en/runalyze-is-now-compatible-with-zepp-amazfit/",
+   "https://runalyze.com/features/health-tracking?_locale=en",
+   "https://blog.runalyze.com/features/external-apps-can-push-activities-to-runalyze-now/"
+  ],
+  "channel": "Published general email (hello@runalyze.com)",
+  "contact_url": "https://runalyze.com/help/article/support?_locale=en",
+  "warm_path": null,
+  "fit": 8,
+  "ask": "Ask for API/partner access so Vybe can push nightly HRV, resting HR and sleep timing into Runalyze health tracking, with free SDK access and test accounts.",
+  "opener": "Hi Runalyze team,\n\nI'm Jeremy from Vybe Health in Raleigh, NC. Vybe is a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK.\n\nI saw this year's Zepp sync and the Garmin import for sleep and HRV, and we'd like to give Runalyze users the same nightly data from Vybe. Could you point me to the right person to discuss push access for health data? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Germany",
+  "deadline": null,
+  "last_signal_date": "2026-09-16",
+  "confidence": "Pages not opened this run (fetch blocked); changelog dates from search results restricted to runalyze.com. hello@ from older homepage metadata, unconfirmed for 2026. Spot-check pages before outreach.",
+  "tags": [
+   "endurance",
+   "analytics",
+   "HRV",
+   "sleep",
+   "Europe",
+   "open-integration"
+  ],
+  "existing_wearables": [
+   "Zepp/Amazfit",
+   "Garmin"
+  ],
+  "partner_status": "open",
+  "opportunity": "Push nightly HRV, resting HR and sleep timing into Runalyze health tracking via its external-app push path."
+ },
+ {
+  "name": "Kubios HRV",
+  "org": "Kubios Oy",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Reference HRV analysis software in research and sport science; its app reads any Bluetooth sensor that sends RR intervals and its supported-devices page says it will work with makers not yet listed. Compatibility gives Vybe research credibility and Kubios another overnight sensor.",
+  "why_now": "Kubios news: HRV Scientific 4.3.0 (10 Mar 2026), major HRV App update (11 May 2026), Team Readiness 5.2.0 (26 May 2026).",
+  "evidence": [
+   "https://www.kubios.com/news/",
+   "https://www.kubios.com/news/introducing-kubios-hrv-scientific-4-3-0/",
+   "https://www.kubios.com/news/kubios-hrv-team-readiness-5-2-0-is-now-available/",
+   "https://www.kubios.com/supported-devices/"
+  ],
+  "channel": "Support email (user guide names it for device-compatibility checks) (support@kubios.com)",
+  "contact_url": "https://www.kubios.com/support/",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "Ask for a free device-compatibility check so Vybe RR/HRV data can be read by Kubios HRV, via the 'not listed? we'll work with you' route. Do not ask about Kubios Cloud.",
+  "opener": "Hello Kubios team,\n\nI'm Jeremy from Vybe Health, a startup in Raleigh, NC. Vybe is a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK.\n\nYour supported-devices page says you'll work with makers whose device isn't listed yet, and we'd value a compatibility check so Kubios users can analyse Vybe overnight data. Could you tell me what format and documentation you'd need from us? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Finland",
+  "deadline": null,
+  "last_signal_date": "2026-05-26",
+  "confidence": "Pages not opened this run (fetch blocked); news dates and email from search results restricted to kubios.com. Fit depends on Vybe exposing RR intervals (unconfirmed). Spot-check pages before outreach.",
+  "tags": [
+   "HRV",
+   "research",
+   "sport-science",
+   "Europe",
+   "device-compatibility"
+  ],
+  "existing_wearables": [
+   "Bluetooth RR-interval sensors"
+  ],
+  "partner_status": "open",
+  "opportunity": "Get Vybe listed as Kubios-compatible so researchers can analyse Vybe overnight data in the standard HRV tool."
+ },
+ {
+  "name": "Athletica",
+  "org": "Athletica.ai",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "AI endurance coaching platform whose Recovery Profile and readiness run on overnight HR/HRV and sleep from wearables; its forum has users asking for more HRV sources. Vybe gives a dedicated overnight input; Vybe gets coached endurance athletes.",
+  "why_now": "Own forum post 'Athletica Platform Updates - Week of February 24, 2026' and a June 2026 news post on a Wahoo integration.",
+  "evidence": [
+   "https://forum.athletica.ai/t/athletica-platform-updates-week-of-february-24-2026/4786",
+   "https://news.athletica.ai/posts/athletica-x-wahoo-seamless-workout-syncing-is-here",
+   "https://forum.athletica.ai/t/overnight-morning-hrv/2246"
+  ],
+  "channel": "Support email, or a post in the forum's Integration & Devices category (support@athletica.ai)",
+  "contact_url": "https://forum.athletica.ai/",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "A short call about feeding nightly HR, HRV and sleep timing into Athletica's Recovery Profile, with free SDK access.",
+  "opener": "Hi Athletica team,\n\nI'm Jeremy from Vybe Health. Vybe is a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK.\n\nAthletica's Recovery Profile already leans on overnight HRV, and your forum has users asking for more ways to get it in, so Vybe could be a clean source. Would you be open to a quick chat about an integration? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Canada",
+  "deadline": null,
+  "last_signal_date": "2026-02-24",
+  "confidence": "Pages not opened this run (fetch blocked); dates from search results restricted to athletica.ai domains. Spot-check pages before outreach.",
+  "tags": [
+   "AI-coaching",
+   "endurance",
+   "HRV",
+   "readiness"
+  ],
+  "existing_wearables": [
+   "Garmin",
+   "Apple Watch (via Watchletic)",
+   "Wahoo"
+  ],
+  "partner_status": "open",
+  "opportunity": "Feed Vybe overnight HR/HRV/sleep into Athletica's Recovery Profile and readiness."
+ },
+ {
+  "name": "Runna",
+  "org": "Runna (part of Strava)",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "One of the biggest running-plan apps, now owned by Strava; its own help pages show it does not read sleep or recovery data from wearables. Overnight HRV and sleep timing could support recovery-aware plan changes, and Runna brings large reach.",
+  "why_now": "Runna press: 'Adapt for Heat' and other updates (29 Jul 2026); sports-science partnership with Loughborough University (25 Aug 2026).",
+  "evidence": [
+   "https://www.runna.com/press/runna-announces-new-updates",
+   "https://www.runna.com/press/runna-announces-partnership-with-loughborough-university",
+   "https://www.runna.com/partnerships",
+   "https://support.runna.com/en/articles/15272605-how-does-runna-build-recovery-into-your-training-plan"
+  ],
+  "channel": "Partnerships form on own site (hello@ for general enquiries) (hello@runna.com)",
+  "contact_url": "https://www.runna.com/partnerships",
+  "warm_path": null,
+  "fit": 6,
+  "ask": "Submit the free partnerships form asking whether Runna's product team would explore nightly HRV and sleep timing to inform recovery, with free SDK access.",
+  "opener": "Hi Runna team,\n\nI'm Jeremy from Vybe Health. Vybe is a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK.\n\nYour heat-adaptation update and the Loughborough partnership suggest you're adding more physiology to plans, and nightly recovery data could be a useful next input. Would someone on product be open to a short conversation? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "London, UK",
+  "deadline": null,
+  "last_signal_date": "2026-08-25",
+  "confidence": "Pages not opened this run (fetch blocked); press dates and contacts from search results restricted to runna.com. Partnerships form looks brand-focused. Spot-check pages before outreach.",
+  "tags": [
+   "running",
+   "consumer",
+   "Strava",
+   "big-reach"
+  ],
+  "existing_wearables": null,
+  "partner_status": "open",
+  "opportunity": "Give Runna a nightly recovery input for recovery-aware plan changes."
+ }
+]

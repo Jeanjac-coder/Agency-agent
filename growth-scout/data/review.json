@@ -3886,6 +3886,41 @@
    "verdict": "B",
    "reason": "Durham pre-seed to Series A fund focused on Baltimore-to-Atlanta, with health companies in its portfolio.",
    "move": "Free intro via site contact asking for a pre-seed review."
+  },
+  "final-surge-final-surge-llc": {
+   "verdict": "A",
+   "reason": "Same city as Vybe, already ingests outside HRV/sleep data, adding devices in 2026, published email.",
+   "move": "A 30-minute call or email reply about pushing nightly HR, HRV and sleep timing into Final Surge Daily Vitals, like their HRV4Training/Elite HRV integrations, plus early SDK access for their team."
+  },
+  "fitnesssyncer-fx-development-inc-fitnesssyncer": {
+   "verdict": "A",
+   "reason": "Adds providers almost monthly in 2026, invites services to get in touch, published email.",
+   "move": "Ask to be considered as a new FitnessSyncer provider for nightly HR, HRV and sleep timing, with free SDK access and test data for their developers."
+  },
+  "bevel-bevel-bevel-health": {
+   "verdict": "A",
+   "reason": "Strong fit and adding direct integrations in 2026; only a general inbox is published.",
+   "move": "An email reply or short call about adding Vybe as a direct data source (nightly HR, HRV, sleep timing), with free SDK access for their engineers."
+  },
+  "runalyze-runalyze-germany": {
+   "verdict": "A",
+   "reason": "Many 2026 health-data integrations, existing push path for outside apps, published email; outside the US.",
+   "move": "Ask for API/partner access so Vybe can push nightly HRV, resting HR and sleep timing into Runalyze health tracking, with free SDK access and test accounts."
+  },
+  "kubios-hrv-kubios-oy": {
+   "verdict": "B",
+   "reason": "Very influential and active in 2026, but needs RR-interval output and partner path is mostly commercial.",
+   "move": "Ask for a free device-compatibility check so Vybe RR/HRV data can be read by Kubios HRV, via the 'not listed? we'll work with you' route. Do not ask about Kubios Cloud."
+  },
+  "athletica-athletica-ai": {
+   "verdict": "B",
+   "reason": "Good fit with 2026 activity, but staff have been lukewarm on more integrations; only a support inbox.",
+   "move": "A short call about feeding nightly HR, HRV and sleep timing into Athletica's Recovery Profile, with free SDK access."
+  },
+  "runna-runna-part-of-strava": {
+   "verdict": "B",
+   "reason": "Big name and active in 2026, but no wearable-recovery data path today and partnerships route is brand-focused.",
+   "move": "Submit the free partnerships form asking whether Runna's product team would explore nightly HRV and sleep timing to inform recovery, with free SDK access."
   }
  }
 }
