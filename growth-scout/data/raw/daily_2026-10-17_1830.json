@@ -1,0 +1,48 @@
+[
+ {
+  "name": "Validic",
+  "org": "Validic (part of ChartSpan)",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Durham, NC-based normalized API covering 700+ consumer and clinical devices, feeding health systems, payers, digital health companies and EHRs (Epic, Oracle Health, Salesforce Health Cloud). Its site defines partners as device or app suppliers who want to share data with Validic customers, with a partner contact route. Vybe overnight HR/HRV/sleep would reach every Validic customer; Validic gains a screenless sleep band source.",
+  "why_now": "Validic launched free developer self-signup from Durham on 2026-04-23, posted on CES 2026 (2026-01-05) and won a 2026 MedTech Breakthrough award; ChartSpan closed its acquisition on 2026-06-16, so partner terms may be shifting.",
+  "evidence": [
+   "https://validic.com/news/Validic-launches-free-developer-tier-with-API-driven-agentic-self-signup/",
+   "https://validic.com/blog/validic-powers-scalable-ai-driven-remote-care-at-ces-2026/",
+   "https://validic.com/company/contact/?type=partner",
+   "https://partner.validic.com/faq",
+   "https://developer.validic.com/docs/registration",
+   "https://validic.com/news/chartspan/"
+  ],
+  "channel": "Partner contact form on validic.com (type=partner), plus free developer self-signup",
+  "contact_url": "https://validic.com/company/contact/?type=partner",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "A 20-minute call with the partner team about adding Vybe as a device source in Validic Inform, starting with a sandbox integration on a free developer account.",
+  "opener": "Hi Validic team,\n\nValidic opening free developer self-signup out of Durham caught my eye, since we're building Vybe just down the road in Raleigh. Vybe is a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK.\n\nI'd like to know what it would take for Vybe to become a device source in Validic Inform, so your customers can get personal-baseline overnight data through the API they already use. Would you have 20 minutes? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Durham, NC",
+  "deadline": null,
+  "last_signal_date": "2026-04-23",
+  "confidence": "Medium: pages not opened this run (fetch blocked); seen in search results restricted to validic.com. Confirm device partners are listed at no cost on the first call. Spot-check pages before outreach.",
+  "tags": [
+   "data-aggregator",
+   "RPM",
+   "EHR",
+   "NC",
+   "Triangle",
+   "device-partner-path"
+  ],
+  "existing_wearables": [
+   "Withings",
+   "Tenovi",
+   "Fitbit/Google Health",
+   "Garmin",
+   "Oura"
+  ],
+  "partner_status": "open",
+  "opportunity": "One integration with a Triangle-based API puts Vybe overnight data in front of health plans, health systems and digital health apps."
+ }
+]

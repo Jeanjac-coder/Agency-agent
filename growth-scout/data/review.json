@@ -3921,6 +3921,11 @@
    "verdict": "B",
    "reason": "Big name and active in 2026, but no wearable-recovery data path today and partnerships route is brand-focused.",
    "move": "Submit the free partnerships form asking whether Runna's product team would explore nightly HRV and sleep timing to inform recovery, with free SDK access."
+  },
+  "validic-validic-part-of-chartspan": {
+   "verdict": "A",
+   "reason": "Fifteen minutes away, widely known, defined device-partner concept and 2026 developer self-signup; clinical focus and ChartSpan transition are the risks.",
+   "move": "A 20-minute call with the partner team about adding Vybe as a device source in Validic Inform, starting with a sandbox integration on a free developer account."
   }
  }
 }

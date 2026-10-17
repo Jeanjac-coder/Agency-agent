@@ -88,6 +88,10 @@
   "runna-runna-part-of-strava": {
    "big_name": 8,
    "big_name_why": "One of the best-known running-plan apps worldwide, bought by Strava in 2025."
+  },
+  "validic-validic-part-of-chartspan": {
+   "big_name": 8,
+   "big_name_why": "One of the best-known wearable and RPM data platforms in digital health for over a decade, with Epic and Salesforce integrations."
   }
  }
 }
