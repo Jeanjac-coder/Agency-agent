@@ -1,0 +1,38 @@
+[
+ {
+  "name": "NC IDEA MICRO (Spring 2027 cycle)",
+  "org": "NC IDEA",
+  "role": null,
+  "type": "program",
+  "hunt": "growth",
+  "why": "North Carolina's best-known no-cost founder programme: MICRO pairs a 10K-dollar non-dilutive grant (no equity) with an eight-week programme for young NC companies validating their model; SEED is the alternative track and you can apply to only one per cycle. A Raleigh pre-seed hardware and SDK startup is exactly its profile.",
+  "why_now": "NC IDEA's Fall 2026 cycle page and 13 Jul 2026 info-session deck: applications ran 27 Jul to 24 Aug 2026, MICRO recipients selected 23 Oct 2026. Cycles run twice a year; the spring cycle has opened in late January (Spring 2026 closed 23 Feb 2026).",
+  "evidence": [
+   "https://ncidea.org/nc-idea-micro/",
+   "https://ncidea.org/fall-2026-grant-cycle/",
+   "https://ncidea.org/wp-content/uploads/2026/07/Fall-2026-Grants-Info-Session-Slide-Deck-for-Website.pdf",
+   "https://ncidea.org/spring-2026-grant-cycle/",
+   "https://ncidea.org/frequently-asked-questions/"
+  ],
+  "channel": "Online grant application (twice yearly)",
+  "contact_url": "https://ncidea.org/nc-idea-micro/",
+  "warm_path": null,
+  "fit": 8,
+  "ask": "Join the free Spring 2027 info session and apply to MICRO when the cycle opens (expected late January 2027).",
+  "opener": "Hi NC IDEA team,\n\nVybe Health is a pre-seed startup headquartered in Raleigh, building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK for other apps. Our public waitlist is open, and MICRO's eight weeks would help us test our assumptions with North Carolina users and partners before we scale.\n\nWe plan to apply in the spring cycle and would welcome a short conversation beforehand: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": "pre-seed",
+  "geo": "North Carolina (Raleigh-eligible)",
+  "deadline": null,
+  "last_signal_date": "2026-08-24",
+  "confidence": "Medium: pages not opened this run (fetch blocked); dates from search results restricted to ncidea.org. Spring 2027 dates not yet published; confirm whether programme sessions are virtual. Spot-check pages before outreach.",
+  "tags": [
+   "NC",
+   "Raleigh",
+   "non-dilutive",
+   "founder-programme",
+   "pre-seed",
+   "free"
+  ]
+ }
+]
