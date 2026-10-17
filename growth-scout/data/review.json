@@ -3931,6 +3931,11 @@
    "verdict": "A",
    "reason": "Free, home state, strong pre-seed fit, predictable twice-yearly cycle.",
    "move": "Join the free Spring 2027 info session and apply to MICRO when the cycle opens (expected late January 2027)."
+  },
+  "neurokit2-neuropsychology-neurokit-open-source-python-toolbox-for-physiological-": {
+   "verdict": "A",
+   "reason": "Active 2026 maintainers, HRV is the core of the project, and a clear free contribution path.",
+   "move": "Open a GitHub Discussion in Ideas proposing a docs example (an overnight wearable HRV workflow on sample data); submit the PR if maintainers agree."
   }
  }
 }

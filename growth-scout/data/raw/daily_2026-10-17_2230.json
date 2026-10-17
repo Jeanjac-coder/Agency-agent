@@ -1,0 +1,35 @@
+[
+ {
+  "name": "NeuroKit2",
+  "org": "neuropsychology/NeuroKit (open-source Python toolbox for physiological signals)",
+  "role": null,
+  "type": "community",
+  "hunt": "growth",
+  "why": "One of the most widely used open-source toolboxes for HRV and PPG analysis, with built-in time-domain, frequency-domain and nonlinear HRV functions, and maintainers who invite contributors of every level. Developers who pull nightly HRV from Vybe's SDK are the same people who analyze it in NeuroKit2, so a docs or tutorial contribution puts Vybe in front of them for free.",
+  "why_now": "Maintainers merged PR #1217 (ppg_process docs fix) on 2026-10-01; a discussion was posted 2026-08-31; the repo carries the hacktoberfest topic in October 2026.",
+  "evidence": [
+   "https://github.com/neuropsychology/NeuroKit/commits/dev",
+   "https://github.com/neuropsychology/NeuroKit/discussions",
+   "https://github.com/neuropsychology/NeuroKit"
+  ],
+  "channel": "GitHub Discussions (Ideas category), then a docs PR",
+  "contact_url": "https://github.com/neuropsychology/NeuroKit/discussions",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "Open a GitHub Discussion in Ideas proposing a docs example (an overnight wearable HRV workflow on sample data); submit the PR if maintainers agree.",
+  "opener": "Hi NeuroKit2 team,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline. Developers building on our SDK will likely use NeuroKit2 for their own HRV analysis, so we'd like to contribute a short docs example: overnight wearable HRV on sample data, run through your HRV functions.\n\nWould that kind of docs PR be welcome, or would you prefer a different format? Glad to talk it through: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Online (global OSS)",
+  "deadline": null,
+  "last_signal_date": "2026-10-01",
+  "confidence": "High: GitHub commits and discussions seen by the research agent; re-open before posting. Spot-check pages before outreach.",
+  "tags": [
+   "oss",
+   "hrv",
+   "ppg",
+   "python",
+   "docs-contribution"
+  ]
+ }
+]
