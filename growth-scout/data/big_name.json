@@ -124,6 +124,26 @@
   "high-performance-longevity-podcast-outliyr-outliyr-nick-urban": {
    "big_name": 4,
    "big_name_why": "Mid-size biohacking show (270+ episodes) with a large product-review site."
+  },
+  "guava-health-guava-health-inc": {
+   "big_name": 4,
+   "big_name_why": "Known in chronic-illness and direct-primary-care circles, not a household brand."
+  },
+  "gyroscope-gyroscope-innovations-inc": {
+   "big_name": 5,
+   "big_name_why": "Long-running quantified-self app (since 2014) with a loyal following."
+  },
+  "vekta-vekta-raig-sas": {
+   "big_name": 5,
+   "big_name_why": "Well known in pro cycling (WorldTour teams), smaller than TrainingPeaks."
+  },
+  "coachmeplus-coachmeplus": {
+   "big_name": 3,
+   "big_name_why": "Known among college strength coaches and tactical programmes."
+  },
+  "kitman-labs-ip-intelligence-platform-kitman-labs": {
+   "big_name": 6,
+   "big_name_why": "Well known in pro sport (NFL, MLB, Premier League clubs)."
   }
  }
 }

@@ -1,0 +1,220 @@
+[
+ {
+  "name": "Guava Health",
+  "org": "Guava Health, Inc.",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Personal health record and provider dashboard (200k+ patients) that already pulls sleep, heart rate and recovery from Oura, WHOOP, Garmin, Polar, Ultrahuman, Suunto, Coros and Morpheus; its supported-apps page publicly invites emailed suggestions for new device sources.",
+  "why_now": "Guava's own article on its Cerbo integration (2026-07-14) merges clinic records with wearables in the provider dashboard; the supported-apps page lists newer additions Suunto, Coros and Morpheus.",
+  "evidence": [
+   "https://guavahealth.com/supported-apps",
+   "https://guavahealth.com/article/guava-cerbo-integration-for-dpc-and-functional-medicine",
+   "https://guavahealth.com/for-business/device-companion-app"
+  ],
+  "channel": "Published email for new device suggestions (hello@guavahealth.com)",
+  "contact_url": "https://guavahealth.com/supported-apps",
+  "warm_path": null,
+  "fit": 8,
+  "ask": "Ask to be added to Guava's supported-device list and which data format their device-companion intake expects for overnight HR, HRV and sleep timing.",
+  "opener": "Hi Guava team,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK.\n\nYour supported-apps page invites suggestions for new device sources, and the recent Suunto, Coros and Morpheus additions suggest you're widening that list. I'd love to learn what Guava needs from a new device so our nightly data could sit next to labs in your dashboard. Here's a 30-minute slot if a call is easier: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US",
+  "deadline": null,
+  "last_signal_date": "2026-07-14",
+  "confidence": "Medium: research agent read Guava's own pages; 2026 dating of the newest integrations comes from app release notes. Spot-check pages before outreach.",
+  "tags": [
+   "health-record",
+   "provider-dashboard",
+   "device-integrations",
+   "sleep",
+   "HRV"
+  ],
+  "existing_wearables": [
+   "Apple Health",
+   "Health Connect",
+   "Oura",
+   "WHOOP",
+   "Garmin",
+   "Fitbit",
+   "Polar",
+   "Ultrahuman",
+   "Suunto",
+   "Coros",
+   "Morpheus",
+   "Withings",
+   "Dexcom"
+  ],
+  "partner_status": "open",
+  "opportunity": "Become a listed device source in a multi-device health record that clinicians and patients already use."
+ },
+ {
+  "name": "Gyroscope",
+  "org": "Gyroscope Innovations, Inc.",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "AI health coach app that merges Oura, WHOOP, Garmin, Fitbit and Apple Watch data; its new sleep system scores each night against the user's own previous nights, the same idea as Vybe's personal baseline.",
+  "why_now": "'The New Sleep System' launched 2026-08-20 (own-baseline sleep score with HRV, direct Oura and Garmin HRV sync); MCP Bridge page on wearable data updated 2026-10-17.",
+  "evidence": [
+   "https://gyrosco.pe/timeline/",
+   "https://gyrosco.pe/announcements/sleep/",
+   "https://gyrosco.pe/mcp/wearables/",
+   "https://gyrosco.pe/press/v8/"
+  ],
+  "channel": "Published support email (support@gyrosco.pe)",
+  "contact_url": "https://gyrosco.pe/press/v8/",
+  "warm_path": null,
+  "fit": 8,
+  "ask": "Ask whether Gyroscope would add a direct device source for overnight HR, HRV and sleep timing, and who owns new integrations.",
+  "opener": "Hi Gyroscope team,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC. Your August sleep system, which flags what's different for you rather than outside a population range, is very close to what we're building: a screenless overnight band that reads heart rate, HRV and sleep timing, compares each night to the wearer's own baseline, and comes with a developer SDK.\n\nI'd love to explore whether Vybe could become a direct source alongside Oura and Garmin in your sleep report. Here's 30 minutes if useful: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (Austin, TX)",
+  "deadline": null,
+  "last_signal_date": "2026-10-17",
+  "confidence": "High: research agent read Gyroscope's own announcement and MCP pages. Spot-check pages before outreach.",
+  "tags": [
+   "sleep",
+   "HRV",
+   "personal-baseline",
+   "AI-coach",
+   "MCP"
+  ],
+  "existing_wearables": [
+   "Apple Watch",
+   "Oura",
+   "WHOOP",
+   "Garmin",
+   "Fitbit",
+   "Eight Sleep",
+   "Dexcom"
+  ],
+  "partner_status": "open",
+  "opportunity": "Plug Vybe's nightly baseline data into a sleep system already built around each person's own nights."
+ },
+ {
+  "name": "Vekta",
+  "org": "Vekta (RAIG SAS)",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Cycling and endurance coaching platform used by WorldTour teams that connects to WHOOP and Oura for recovery and sleep; its public API exposes Sleeps, Metrics and Wellness endpoints.",
+  "why_now": "Own changelog 2026-10-13 added API access to athletes' wellness check-ins so readiness sits beside training load.",
+  "evidence": [
+   "https://joinvekta.com/",
+   "https://docs.joinvekta.com",
+   "https://joinvekta.com/partnerships"
+  ],
+  "channel": "Partnerships page / published support email (support@joinvekta.com)",
+  "contact_url": "https://joinvekta.com/partnerships",
+  "warm_path": null,
+  "fit": 8,
+  "ask": "Ask to be considered as a recovery data source next to WHOOP and Oura, and how to build against the Sleeps and Wellness API.",
+  "opener": "Hi Vekta team,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC. Your October changelog putting readiness next to training load in the API caught our eye. Vybe is building a screenless overnight band that reads heart rate, HRV and sleep timing, compares each night to the rider's own baseline, and comes with a developer SDK.\n\nWe'd love to understand what it would take for Vybe to appear as a recovery source in Vekta next to WHOOP and Oura. Here's a 30-minute slot: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "France (global users)",
+  "deadline": null,
+  "last_signal_date": "2026-10-13",
+  "confidence": "High: research agent read Vekta's own site, docs and partnerships page. Spot-check pages before outreach.",
+  "tags": [
+   "endurance",
+   "cycling",
+   "coaching-platform",
+   "API",
+   "recovery"
+  ],
+  "existing_wearables": [
+   "Garmin",
+   "Wahoo",
+   "Hammerhead",
+   "WHOOP",
+   "Oura"
+  ],
+  "partner_status": "open",
+  "opportunity": "Be a recovery data source on a coaching platform pro teams use, with an open sleep and wellness API."
+ },
+ {
+  "name": "CoachMePlus",
+  "org": "CoachMePlus",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Athlete and first-responder performance platform (Buffalo, NY) with documented Oura, WHOOP, Polar, Garmin, Fitbit and Apple Health integrations; its 2026 push is tactical wellness for fire, police and EMS.",
+  "why_now": "Blog post 2026-07-23 on first-responder fatigue (departments using wearable resting HR, sleep and recovery), after a 2026-02-12 partnership with FrontLine Human Performance.",
+  "evidence": [
+   "https://coachmeplus.com/the-hidden-cost-of-cumulative-fatigue-for-first-responders/",
+   "https://coachmeplus.com/coachmeplus-partners-with-ben-jacobs-frontline-human-performance/",
+   "https://help.coachmeplus.com/hc/en-us/categories/16541830147095-Wearable-Data-Integration",
+   "https://coachmeplus.com/contact/"
+  ],
+  "channel": "Contact form",
+  "contact_url": "https://coachmeplus.com/contact/",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "Ask for a call with their integrations lead about adding Vybe to the wearable data integration catalogue for first-responder departments.",
+  "opener": "Hi CoachMePlus team,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC. Your July post on cumulative fatigue in first responders makes the case for overnight signals like resting heart rate and sleep. Vybe is building a screenless overnight band that reads heart rate, HRV and sleep timing, compares each night to the wearer's own baseline, and comes with a developer SDK.\n\nWe'd love to learn what it takes to join your wearable integration list next to Oura and WHOOP for shift workers. Here's a 30-minute slot: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (Buffalo, NY)",
+  "deadline": null,
+  "last_signal_date": "2026-07-23",
+  "confidence": "Medium: the 2026 item is a positioning post, not a new integration. Spot-check pages before outreach.",
+  "tags": [
+   "tactical",
+   "first-responder",
+   "athlete-management",
+   "wearable-integrations"
+  ],
+  "existing_wearables": [
+   "Oura",
+   "WHOOP",
+   "Polar",
+   "Garmin",
+   "Fitbit",
+   "Apple Health"
+  ],
+  "partner_status": "open",
+  "opportunity": "Reach fire, police and EMS departments through a US platform that already pipes in third-party sleep and recovery data."
+ },
+ {
+  "name": "Kitman Labs iP: Intelligence Platform",
+  "org": "Kitman Labs",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Pro-sports performance and medical platform with 150+ integrations that builds custom integrations as teams add data providers; it now imports WHOOP sleep, recovery and HRV.",
+  "why_now": "Kitman Labs published 'WHOOP Recovery & Readiness Monitoring in My iP' on 2026-07-21, a new integration importing sleep, recovery and HRV into athlete profiles.",
+  "evidence": [
+   "https://www.kitmanlabs.com/blog/use-case-whoop-recovery-readiness-monitoring-in-ip/",
+   "https://www.kitmanlabs.com/platform/integrations/"
+  ],
+  "channel": "Contact form",
+  "contact_url": "https://www.kitmanlabs.com/contact/",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "Ask the integrations team how a new overnight data provider gets added to iP and whether a pilot team could pull Vybe nightly data.",
+  "opener": "Hi Kitman Labs team,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC. Your July use case on bringing WHOOP sleep, recovery and HRV into My iP shows how much teams want overnight data next to training load. Vybe is building a screenless overnight band that reads heart rate, HRV and sleep timing, compares each night to the athlete's own baseline, and comes with a developer SDK.\n\nWe'd love to learn how a new provider becomes one of your 150+ integrations. Here's a 30-minute slot: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Ireland / US",
+  "deadline": null,
+  "last_signal_date": "2026-07-21",
+  "confidence": "High: research agent read Kitman Labs' own blog and integrations page. Enterprise sales cycle is slow. Spot-check pages before outreach.",
+  "tags": [
+   "pro-sports",
+   "athlete-management",
+   "integrations",
+   "recovery",
+   "HRV"
+  ],
+  "existing_wearables": [
+   "WHOOP",
+   "Catapult"
+  ],
+  "partner_status": "open",
+  "opportunity": "Get listed as an overnight data provider inside the platform pro teams use for readiness decisions."
+ }
+]

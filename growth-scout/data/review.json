@@ -3966,6 +3966,31 @@
    "verdict": "B",
    "reason": "Strong topic fit and hosts wearable founders, but guest route unverified and affiliate model needs a firm guest-only line.",
    "move": "Pitch a founder conversation on comparing each night to your own baseline and an open developer SDK; guest spot only, decline any affiliate or review arrangement."
+  },
+  "guava-health-guava-health-inc": {
+   "verdict": "A",
+   "reason": "Ingests overnight data from many third-party wearables and publishes an email for new device requests.",
+   "move": "Ask to be added to Guava's supported-device list and which data format their device-companion intake expects for overnight HR, HRV and sleep timing."
+  },
+  "gyroscope-gyroscope-innovations-inc": {
+   "verdict": "A",
+   "reason": "2026 sleep feature built on personal baselines, already ingests third-party overnight HRV, published email.",
+   "move": "Ask whether Gyroscope would add a direct device source for overnight HR, HRV and sleep timing, and who owns new integrations."
+  },
+  "vekta-vekta-raig-sas": {
+   "verdict": "A",
+   "reason": "Ingests third-party overnight HRV and sleep, 2026 API changes, public partnerships page and email; not US-based.",
+   "move": "Ask to be considered as a recovery data source next to WHOOP and Oura, and how to build against the Sleeps and Wellness API."
+  },
+  "coachmeplus-coachmeplus": {
+   "verdict": "A",
+   "reason": "Ingests Oura and WHOOP overnight data, tactical wedge fit, public contact path.",
+   "move": "Ask for a call with their integrations lead about adding Vybe to the wearable data integration catalogue for first-responder departments."
+  },
+  "kitman-labs-ip-intelligence-platform-kitman-labs": {
+   "verdict": "A",
+   "reason": "2026 integration ingesting overnight HRV and sleep, and a public statement that they add new providers.",
+   "move": "Ask the integrations team how a new overnight data provider gets added to iP and whether a pilot team could pull Vybe nightly data."
   }
  }
 }
