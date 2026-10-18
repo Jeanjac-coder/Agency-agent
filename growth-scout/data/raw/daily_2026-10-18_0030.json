@@ -1,0 +1,104 @@
+[
+ {
+  "name": "DREAM and DREAM-COUPLES sleep health trials (Nour Makarem, PhD)",
+  "org": "Columbia University Mailman School of Public Health",
+  "role": "Principal Investigator",
+  "type": "research-lab",
+  "hunt": "growth",
+  "why": "Two active Columbia trials on sleep regularity and duration in which participants wear a consumer wrist wearable for the whole study (DREAM uses a Fitbit for about 6 months). A multi-month sleep-regularity design fits a screenless overnight band that compares each night with the wearer's own baseline, and the SDK is a natural topic for a future-study or validation conversation.",
+  "why_now": "DREAM-COUPLES (NCT07603245) started 2026-06-08 and is recruiting through Columbia's own RecruitMe portal; DREAM (NCT06285968) status verified May 2026, still recruiting.",
+  "evidence": [
+   "https://recruit.cumc.columbia.edu/studyinfopage/3086",
+   "https://recruit.cumc.columbia.edu/studyinfopage/2772",
+   "https://clinicaltrials.gov/study/NCT07603245",
+   "https://clinicaltrials.gov/study/NCT06285968"
+  ],
+  "channel": "Published study-team email (dream@cumc.columbia.edu)",
+  "contact_url": "https://recruit.cumc.columbia.edu/studyinfopage/3086",
+  "warm_path": null,
+  "fit": 8,
+  "ask": "A 20-minute video call with Dr. Makarem's team on whether a screenless overnight band and SDK could suit a future DREAM-style sleep-regularity study, or a small co-designed validation pilot.",
+  "opener": "Dr. Makarem,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK for researchers.\n\nDREAM-COUPLES is a strong example of the multi-week sleep-regularity work we hope a band like ours could support. Would you be open to a 20-minute video call about whether it could fit a future study? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "New York, NY",
+  "deadline": null,
+  "last_signal_date": "2026-06-08",
+  "confidence": "Medium-high: PI, dates and email from search results of Columbia RecruitMe and ClinicalTrials.gov; pages not opened this run. Fitbit confirmed for the parent DREAM trial only. Spot-check pages before outreach.",
+  "tags": [
+   "sleep regularity",
+   "consumer wearable",
+   "cardiometabolic",
+   "recruiting 2026",
+   "NYC",
+   "Ivy"
+  ]
+ },
+ {
+  "name": "Media and Innovation Lab / Center for Translational Sleep and Circadian Sciences (Azizi Seixas, PhD)",
+  "org": "University of Miami Miller School of Medicine, Informatics and Health Data Science",
+  "role": "Founding Director, Media and Innovation Lab",
+  "type": "research-lab",
+  "hunt": "growth",
+  "why": "Seixas's lab builds remote home-sensing kits (the MILBox, with wearables and nearables) and works on personalized sleep health; in 2026 he helped shape the National Sleep Foundation statement on when consumer sleep technology helps and where independent evaluation is needed. A screenless band built on each person's own baseline fits that agenda, and an independent-evaluation pilot or a letter of support would fit.",
+  "why_now": "Miller School InventUM article dated 2026-03-25, 'Consumer Sleep Technology Can Support Better Sleep, With Limits', featuring Seixas's role in the NSF consumer sleep tech statement.",
+  "evidence": [
+   "https://news.med.miami.edu/consumer-sleep-technology-can-support-better-sleep-with-limits/",
+   "https://med.miami.edu/faculty/azizi-a-seixas-phd",
+   "https://news.med.miami.edu/um-medical-researchers-accelerate-future-of-personalized-wellness-with-the-milbox/"
+  ],
+  "channel": "Faculty profile contact",
+  "contact_url": "https://med.miami.edu/faculty/azizi-a-seixas-phd",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "A 20-minute video call on whether a screenless overnight band with an SDK could be evaluated as a MILBox-style home sensor in a future study, or a letter of support for an SBIR/STTR focused on independent evaluation.",
+  "opener": "Dr. Seixas,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC. Your March 2026 work on when consumer sleep technology helps and where it needs independent evaluation is the standard we want to be held to. We're building a screenless overnight band that reads heart rate, HRV and sleep timing against each wearer's own baseline, with a developer SDK.\n\nCould we have 20 minutes over video to ask whether it might fit a future study in your lab? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Miami, FL",
+  "deadline": null,
+  "last_signal_date": "2026-03-25",
+  "confidence": "Medium: 2026 article seen via search results, not opened; no published lab email found. The 2026 item is a position-statement piece, not a recruiting study. Spot-check pages before outreach.",
+  "tags": [
+   "consumer sleep technology",
+   "personalized sleep",
+   "home sensing",
+   "Florida",
+   "SBIR letter"
+  ]
+ },
+ {
+  "name": "Fucito Lab: wearable sleep and alcohol interventions for young adults (Lisa M. Fucito, PhD)",
+  "org": "Yale School of Medicine, Department of Psychiatry",
+  "role": "Principal Investigator / Lab Director",
+  "type": "research-lab",
+  "hunt": "growth",
+  "why": "The lab runs wearable-feedback interventions for young adults in which overnight sleep and heart-rate data drive personalized feedback (Oura pilot RCT in JMIR 2025; 'Call it a Night' in JAMA Network Open 2025). Per-person feedback on how behaviour shifts sleep and HR is close to Vybe's own-baseline approach, and the SDK suits custom feedback reports.",
+  "why_now": "Yale faculty profile, updated 2026-08-20, lists an active 'Wearable Intervention for Alcohol Use Risk and Sleep in Young Adults' study plus a longitudinal study.",
+  "evidence": [
+   "https://medicine.yale.edu/profile/lisa-fucito/",
+   "https://medicine.yale.edu/lab/fucito/publications/",
+   "https://medicine.yale.edu/news-article/yale-study-wearable-intervention-for-alcohol-use-risk-and-sleep-in-young-adults/"
+  ],
+  "channel": "Lab website contact",
+  "contact_url": "https://medicine.yale.edu/lab/fucito/",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "A 20-minute video call on whether a screenless overnight band and SDK could fit a future wearable-feedback arm drawing on nightly HR, HRV and sleep timing.",
+  "opener": "Dr. Fucito,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC. Your wearable-feedback work showed young adults respond when they see how drinking shifts their own sleep and heart rate. That is the comparison our screenless overnight band makes: it reads heart rate, HRV and sleep timing against each wearer's own baseline, with a developer SDK for custom reports.\n\nCould we have 20 minutes over video to ask whether it could suit a future study? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "New Haven, CT",
+  "deadline": null,
+  "last_signal_date": "2026-08-20",
+  "confidence": "Medium-low: the 2026 signal is a profile-update date listing the study, not a dated recruitment notice; pages not opened; no lab email found. Verify the study is active before outreach. Spot-check pages before outreach.",
+  "tags": [
+   "young adults",
+   "alcohol",
+   "sleep feedback",
+   "behavioural intervention",
+   "Connecticut",
+   "Ivy"
+  ]
+ }
+]

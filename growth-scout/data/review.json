@@ -3936,6 +3936,21 @@
    "verdict": "A",
    "reason": "Active 2026 maintainers, HRV is the core of the project, and a clear free contribution path.",
    "move": "Open a GitHub Discussion in Ideas proposing a docs example (an overnight wearable HRV workflow on sample data); submit the PR if maintainers agree."
+  },
+  "dream-and-dream-couples-sleep-health-trials-nour-makarem-phd-columbia-university": {
+   "verdict": "A",
+   "reason": "Recruiting 2026 study on a Columbia-owned page, consumer wrist wearable over months of nights, named PI and a published team email.",
+   "move": "A 20-minute video call with Dr. Makarem's team on whether a screenless overnight band and SDK could suit a future DREAM-style sleep-regularity study, or a small co-designed validation pilot."
+  },
+  "media-and-innovation-lab-center-for-translational-sleep-and-circadian-sciences-a": {
+   "verdict": "A",
+   "reason": "2026 own-site item is specifically about consumer sleep tech, named and well-known PI, personalized-baseline fit; contact is a profile page.",
+   "move": "A 20-minute video call on whether a screenless overnight band with an SDK could be evaluated as a MILBox-style home sensor in a future study, or a letter of support for an SBIR/STTR focused on independent evaluation."
+  },
+  "fucito-lab-wearable-sleep-and-alcohol-interventions-for-young-adults-lisa-m-fuci": {
+   "verdict": "A",
+   "reason": "Core method is consumer overnight wearable feedback and Yale is a big name; 2026 evidence is thin, so verify first.",
+   "move": "A 20-minute video call on whether a screenless overnight band and SDK could fit a future wearable-feedback arm drawing on nightly HR, HRV and sleep timing."
   }
  }
 }

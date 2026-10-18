@@ -1787,13 +1787,6 @@
       "why_parked": "No signal and asks for all 5-10 DevKit units. Needs hardware."
     },
     {
-      "name": "Baltimore Running Festival 2026 Health & Fitness Expo",
-      "type": "event",
-      "geo": "Baltimore, MD",
-      "ask": "Ask Corrigan Sports for the 2027 vendor application (and whether one 2026 table is open)",
-      "why_parked": "costs money"
-    },
-    {
       "name": "MSFA Annual Convention & Conference (Ocean City)",
       "type": "event",
       "geo": "Ocean City, MD",
@@ -1875,13 +1868,6 @@
       "type": "event",
       "geo": "Durham, NC",
       "ask": "Ask whether a 10x10 expo table is still open for race weekend; if not, ask to be on the 2027 vendor list",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "IRONMAN 70.3 North Carolina 2026 (former Beach2Battleship)",
-      "type": "event",
-      "geo": "Wilmington, NC",
-      "ask": "Ask the local race director whether athlete village has a local-business table, or about 2027 vendor terms",
       "why_parked": "costs money"
     },
     {
@@ -5207,13 +5193,6 @@
       "type": "event",
       "geo": "Middletown, RI",
       "ask": "Ask the Y about an in-kind sponsor slot and a winter DevKit pilot with its run group",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Pawtuxet River 5k: Run of the Mills 2026",
-      "type": "event",
-      "geo": "Coventry, RI",
-      "ask": "Ask about a small in-kind sponsor slot or finish-line table",
       "why_parked": "costs money"
     },
     {
