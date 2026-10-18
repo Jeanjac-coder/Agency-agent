@@ -1,0 +1,233 @@
+[
+ {
+  "name": "Lerer Hippeau",
+  "org": "Lerer Hippeau",
+  "role": null,
+  "type": "vc",
+  "hunt": "investor",
+  "why": "New York generalist pre-seed/seed fund whose portfolio page lists Hardware & Robotics, Healthcare and Wellness & Longevity as sectors and includes MIRROR and Heartbeat Health; it led a consumer daily-health seed in 2026.",
+  "why_now": "Lerer Hippeau led Climatic's seed for a daily lung health system (announced 2026-01-28) and still features it as a New Investment on its homepage, a direct signal it is backing new daily-wellness habits alongside sleep.",
+  "evidence": [
+   "https://www.lererhippeau.com/",
+   "https://www.lererhippeau.com/portfolio",
+   "https://insider.fitt.co/press-release/climatic-raises-10m-seed-round-to-pioneer-daily-lung-health-category/"
+  ],
+  "channel": "email (contact@lererhippeau.com)",
+  "contact_url": "https://www.lererhippeau.com/",
+  "warm_path": "Cade Ventures (already on the board) co-invested with Lerer Hippeau and BBGV in Climatic; ask Cade for an intro before sending cold.",
+  "fit": 7,
+  "ask": "A 20-minute intro call to see whether Vybe fits their consumer health and wellness pre-seed thesis.",
+  "opener": "Hi, I'm Jeremy, founder of Vybe Health in Raleigh. I saw Lerer Hippeau led Climatic's seed this year to make daily lung health a habit. We're doing the same for sleep and recovery: a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. We're pre-seed, veteran, woman and minority-owned, with a public waitlist. Would you have 20 minutes to talk? https://calendly.com/jeremy-vybe/30min",
+  "check_size": "Not published; pre-seed and seed generalist",
+  "stage": "pre-seed, seed",
+  "geo": "New York, NY",
+  "deadline": null,
+  "last_signal_date": "2026-01-28",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "east-coast",
+   "consumer-health",
+   "pre-seed",
+   "seed",
+   "wellness",
+   "hardware"
+  ]
+ },
+ {
+  "name": "Deena Shakir",
+  "org": "Lux Capital",
+  "role": "Partner, Investing",
+  "type": "vc",
+  "hunt": "investor",
+  "why": "Lux is a New York-headquartered deep-tech fund that backs hardware and health; Deena Shakir is listed as an investing Partner and is Lux's best-known health investor.",
+  "why_now": "Lux led the seed for SONATA (announced 2026-07-14), a New York preventive-health membership that integrates wearable data with physician care, showing appetite for consumer prevention built on personal health data.",
+  "evidence": [
+   "https://www.luxcapital.com/people",
+   "https://femtechinsider.com/sonata-launches-doctor-led-preventive-health-membership-with-7m-in-funding/",
+   "https://alleywatch.com/2026/07/sonata-preventive-healthcare-membership-whole-genome-sequencing-personalized-medicine-sagan-schultz/"
+  ],
+  "channel": "LinkedIn message",
+  "contact_url": "https://www.luxcapital.com/people",
+  "warm_path": "No direct path found; BoxGroup and Sunflower co-led SONATA with Lux, so any founder or angel tie to those funds is the best route.",
+  "fit": 7,
+  "ask": "A 20-minute conversation on how Lux thinks about wearable data as the input layer for preventive care.",
+  "opener": "Hi Deena, I'm Jeremy, founder of Vybe Health in Raleigh. Lux leading SONATA's seed this summer caught my eye, since it treats wearable data as the base layer for prevention. We build a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. We're pre-seed with a public waitlist. I'd value 20 minutes on how you think about the data layer under preventive care. https://calendly.com/jeremy-vybe/30min",
+  "check_size": "Not published",
+  "stage": "seed and later",
+  "geo": "New York, NY (HQ)",
+  "deadline": null,
+  "last_signal_date": "2026-07-14",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "east-coast",
+   "preventive-health",
+   "seed",
+   "hardware",
+   "big-name"
+  ]
+ },
+ {
+  "name": "Northwell Holdings",
+  "org": "Northwell Health",
+  "role": null,
+  "type": "corporate-vc",
+  "hunt": "investor",
+  "why": "Strategic venture arm of New York's largest health system; states a preference for Seed, Series A and B and has now backed a wearable device company.",
+  "why_now": "On 2026-03-02 Spark Biomedical announced an investment by Northwell Holdings to commercialise OhmBody, a wearable earpiece for menstrual wellness, so Northwell wrote a 2026 check into consumer wearables.",
+  "evidence": [
+   "https://www.sparkbiomedical.com/news-articles/spark-biomedical-announces-investment-by-northwell-holdings-to-advance-their-ohmbody-tm-transcutaneous-auricular-neurostimulation-tan-for-menstruation",
+   "https://www.beckershospitalreview.com/innovation/northwell-holdings-key-things-to-know"
+  ],
+  "channel": "Inbound email listed on Northwell Ventures page (verify on page) or LinkedIn message",
+  "contact_url": "https://northwell.edu/about/our-organization/northwell-ventures",
+  "warm_path": "Spark Biomedical's team or Northwell's Katz Institute for Women's Health (quoted in the release) could vouch for a wearable pitch.",
+  "fit": 8,
+  "ask": "A 20-minute call to see whether Northwell Holdings would look at an overnight baseline band and SDK as a population-health or patient-experience fit.",
+  "opener": "Hi, I'm Jeremy, founder of Vybe Health in Raleigh. I read that Northwell Holdings invested in Spark Biomedical's OhmBody wearable in March. We build a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK, so patients and care teams see change against a personal norm, not a population average. We're pre-seed, veteran, woman and minority-owned. Could we have 20 minutes to see if this fits your population health theme? https://calendly.com/jeremy-vybe/30min",
+  "check_size": "Not published",
+  "stage": "seed, Series A, Series B",
+  "geo": "New York (Long Island), NY",
+  "deadline": null,
+  "last_signal_date": "2026-03-02",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "east-coast",
+   "corporate-vc",
+   "health-system",
+   "wearable",
+   "2026-deal"
+  ]
+ },
+ {
+  "name": "Tara Sullivan",
+  "org": "Flare Capital Partners",
+  "role": "Principal",
+  "type": "vc",
+  "hunt": "investor",
+  "why": "Boston healthtech fund that invests from pre-seed through Series A; its own companies page lists several 2026 pre-seed and seed entries.",
+  "why_now": "Flare led the seed for Kairon Health (announced 2026-09-15) and its companies page shows 2026 pre-seed and seed checks such as Healink, Greatly Health and Helm.",
+  "evidence": [
+   "https://www.flarecapital.com/companies",
+   "https://www.flarecapital.com/team",
+   "https://hitconsultant.net/2026/09/17/kairon-health-raises-5m-flare-capital-ai-execution-layer-value-based-care-lead-model/"
+  ],
+  "channel": "contact form or published general email (flare@flarecapital.com)",
+  "contact_url": "https://www.flarecapital.com/contact",
+  "warm_path": "None found; Flare's AI Advisory Council includes leaders from Florida Blue and MedStar, which may be a later route.",
+  "fit": 7,
+  "ask": "A 20-minute call to test whether Vybe's SDK and baseline data fit Flare's healthtech infrastructure thesis.",
+  "opener": "Hi Tara, I'm Jeremy, founder of Vybe Health in Raleigh. I saw Flare led Kairon Health's seed in September and keeps writing early checks in healthtech. We build a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK; the SDK lets other health products use personal overnight baselines. We're pre-seed with a public waitlist. Would you have 20 minutes to tell me whether this fits Flare's infrastructure view? https://calendly.com/jeremy-vybe/30min",
+  "check_size": "Not published",
+  "stage": "pre-seed, seed, Series A",
+  "geo": "Boston, MA",
+  "deadline": null,
+  "last_signal_date": "2026-09-15",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "east-coast",
+   "digital-health",
+   "pre-seed",
+   "seed",
+   "boston"
+  ]
+ },
+ {
+  "name": "BBG Ventures",
+  "org": "BBG Ventures (BBGV)",
+  "role": null,
+  "type": "vc",
+  "hunt": "investor",
+  "why": "New York pre-seed and seed fund that backs diverse founders whose lived experience gives them an edge, B2B or B2C, with health a stated focus; runs an open pitch form.",
+  "why_now": "BBGV joined Climatic's seed for a daily lung health system (announced 2026-01-28), a 2026 consumer-health bet next to sleep and recovery.",
+  "evidence": [
+   "https://www.bbgventures.com/",
+   "https://insider.fitt.co/press-release/climatic-raises-10m-seed-round-to-pioneer-daily-lung-health-category/"
+  ],
+  "channel": "pitch form (hello@bbgventures.com)",
+  "contact_url": "https://947689.typeform.com/to/FPR7znn6?typeform-source=www.bbgventures.com",
+  "warm_path": "Cade Ventures (already on the board) sat in the Climatic round with BBGV.",
+  "fit": 7,
+  "ask": "A 20-minute first conversation through their pitch form about a veteran, woman and minority-owned consumer health hardware company.",
+  "opener": "Hi, I'm Jeremy, founder of Vybe Health in Raleigh, a veteran, woman and minority-owned company. BBGV backing Climatic this year told me you're open to new daily health habits. We build a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. We're pre-seed with a public waitlist. Could we have 20 minutes? https://calendly.com/jeremy-vybe/30min",
+  "check_size": "Not published",
+  "stage": "pre-seed, seed",
+  "geo": "New York, NY",
+  "deadline": null,
+  "last_signal_date": "2026-01-28",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "east-coast",
+   "diverse-founders",
+   "consumer-health",
+   "pre-seed",
+   "open-application"
+  ]
+ },
+ {
+  "name": "Zeal Capital Partners (Barclays Pre-Seed Investments)",
+  "org": "Zeal Capital Partners",
+  "role": null,
+  "type": "vc",
+  "hunt": "investor",
+  "why": "Washington, DC fund with an Inclusive Investing framework and healthcare as a core category; it manages the Barclays Pre-Seed Investments vehicle for companies raising rounds of up to 3M with an MVP.",
+  "why_now": "Zeal co-led Understood Care's seed (its post dated 2026-04-22) and announced an investment in Prado on 2026-06-02, both health deals, and its pre-seed form is open.",
+  "evidence": [
+   "https://www.zealcapitalpartners.com/press/why-we-invested-in-understood-care/",
+   "https://www.zealcapitalpartners.com/press/why-we-invested-in-prado/",
+   "https://www.zealcapitalpartners.com/barclays-preseed-investments/"
+  ],
+  "channel": "pitch form (updates@zealcapitalpartners.com)",
+  "contact_url": "https://airtable.com/appXWSCtBWrl4Qmfe/shriE49FLoUZBlvdJ",
+  "warm_path": "None found; Zeal's Scout Program is a possible second route.",
+  "fit": 7,
+  "ask": "Submit through the Barclays Pre-Seed form and ask for a 20-minute conversation on health equity in personal baselines.",
+  "opener": "Hi, I'm Jeremy, founder of Vybe Health in Raleigh, a veteran, woman and minority-owned company. Your Understood Care and Prado posts this year show Zeal backing health access early. We build a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK, so people are measured against their own normal, not a narrow population average. We're pre-seed with a public waitlist. Could we have 20 minutes? https://calendly.com/jeremy-vybe/30min",
+  "check_size": "Pre-seed vehicle for rounds up to 3M (per Zeal page)",
+  "stage": "pre-seed, seed",
+  "geo": "Washington, DC",
+  "deadline": null,
+  "last_signal_date": "2026-06-02",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "east-coast",
+   "inclusive-investing",
+   "health-equity",
+   "pre-seed",
+   "open-application",
+   "minority-founders"
+  ]
+ },
+ {
+  "name": "Black Opal Ventures",
+  "org": "Black Opal Ventures",
+  "role": null,
+  "type": "vc",
+  "hunt": "investor",
+  "why": "New York, women-led early-stage fund at the intersection of healthcare and frontier technology, with a pillar on building inclusive ecosystems; has an open deal submission form.",
+  "why_now": "Black Opal was a returning investor in Kalogon's round for AI-driven smart seating sensor hardware (Business Wire, 2026-06-04) and joined Tiny Health in September 2026.",
+  "evidence": [
+   "https://www.blackopalventures.com/deal-submissions",
+   "https://www.businesswire.com/news/home/20260604930811/en/"
+  ],
+  "channel": "pitch form",
+  "contact_url": "https://www.blackopalventures.com/deal-submissions",
+  "warm_path": "Kalogon (Melbourne, FL) founders, who build sensor hardware for health, are a peer intro.",
+  "fit": 8,
+  "ask": "A 20-minute conversation through their deal submission form about health sensor hardware with an SDK.",
+  "opener": "Hi, I'm Jeremy, founder of Vybe Health in Raleigh. I saw Black Opal returned to Kalogon's round in June to back smart sensing hardware for health. We build a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. We're pre-seed, veteran, woman and minority-owned, with a public waitlist. Would you have 20 minutes to talk about health hardware with an SDK? https://calendly.com/jeremy-vybe/30min",
+  "check_size": "Not published",
+  "stage": "early stage (seed, Series A)",
+  "geo": "New York, NY",
+  "deadline": null,
+  "last_signal_date": "2026-06-04",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "east-coast",
+   "health-hardware",
+   "women-led-fund",
+   "open-application",
+   "reserve",
+   "reserve"
+  ]
+ }
+]
