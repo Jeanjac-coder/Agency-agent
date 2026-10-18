@@ -144,6 +144,26 @@
   "kitman-labs-ip-intelligence-platform-kitman-labs": {
    "big_name": 6,
    "big_name_why": "Well known in pro sport (NFL, MLB, Premier League clubs)."
+  },
+  "heads-up-health-heads-up-health-headsup-health-llc": {
+   "big_name": 4,
+   "big_name_why": "Known in the functional and longevity medicine niche."
+  },
+  "fulcra-life-api-fulcra-dynamics-inc": {
+   "big_name": 3,
+   "big_name_why": "Small venture-backed startup, niche brand."
+  },
+  "expiwell-wearable-integrations-expiwell-expimetrics-inc": {
+   "big_name": 3,
+   "big_name_why": "Known among academic EMA researchers."
+  },
+  "healthie-harbor-partner-ecosystem-healthie": {
+   "big_name": 6,
+   "big_name_why": "Well-known venture-backed EHR infrastructure for digital health companies."
+  },
+  "lifestack-device-integrations-lifestack-demind-inc": {
+   "big_name": 3,
+   "big_name_why": "Consumer app with modest press."
   }
  }
 }

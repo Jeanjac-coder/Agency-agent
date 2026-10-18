@@ -1,0 +1,191 @@
+[
+ {
+  "name": "Heads Up Health",
+  "org": "Heads Up Health (HeadsUp Health LLC)",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Clinician analytics platform that pulls Oura, Fitbit, Garmin, Apple Health and Strava data together with labs and EHR data into one dashboard for longevity and integrative practices; its own content reads overnight HRV suppression from Oura.",
+  "why_now": "Published 'Clinician's Guide to AI' webinar 2026-10-01 and a remote patient monitoring guide 2026-08-10 on its own site; contact page has a 'device not supported?' request path.",
+  "evidence": [
+   "https://headsuphealth.com/integrations/",
+   "https://headsuphealth.com/contact/",
+   "https://headsuphealth.com/webinars/clinicians-guide-to-ai/"
+  ],
+  "channel": "Contact page: 'Request a Feature' (device not supported)",
+  "contact_url": "https://headsuphealth.com/contact/",
+  "warm_path": null,
+  "fit": 8,
+  "ask": "Submit a device-support request for Vybe and ask for a 30-minute call on what an SDK-based source needs to be listed on their integrations page.",
+  "opener": "Hi Heads Up Health team,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed wearable startup in Raleigh, NC. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK from day one.\n\nYour clinicians already read overnight HRV next to labs, and we'd like to learn what it would take for Vybe to become a supported source on your integrations page. If you're open to a short call: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (Colorado)",
+  "deadline": null,
+  "last_signal_date": "2026-10-01",
+  "confidence": "Research agent read own-site pages (some via search results or site APIs); spot-check before sending. Spot-check pages before outreach.",
+  "tags": [
+   "data-aggregator"
+  ],
+  "existing_wearables": [
+   "Oura",
+   "Fitbit",
+   "Garmin",
+   "Apple Health",
+   "Strava",
+   "Dexcom"
+  ],
+  "partner_status": "open",
+  "opportunity": "Become a listed overnight HRV and sleep source inside a clinician dashboard used by longevity and functional-medicine practices."
+ },
+ {
+  "name": "Fulcra Life API",
+  "org": "Fulcra Dynamics Inc.",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "User-owned data backend for AI agents: its Context app pulls Apple Health, Oura, Garmin, Whoop and Dexcom data and exposes it through a Life API, Python SDK and MCP server to AI assistants, using sleep and HRV as its lead example.",
+  "why_now": "Apple Health MCP page discusses the January 2026 AI-assistant health launches; agent-context how-to posted 2026-10-12 with near-daily October posts.",
+  "evidence": [
+   "https://www.fulcradynamics.com/connect/apple-health-mcp",
+   "https://www.fulcradynamics.com/blog"
+  ],
+  "channel": "Published support email, plus developer docs and Discord (support@fulcradynamics.com)",
+  "contact_url": "https://www.fulcradynamics.com/contact",
+  "warm_path": null,
+  "fit": 8,
+  "ask": "Ask whether Fulcra takes direct-connector sources beyond Apple Health and what spec a new wearable source needs (data model, OAuth, webhooks).",
+  "opener": "Hi Fulcra team,\n\nI'm Jeremy from Vybe Health, a pre-seed startup in Raleigh, NC. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK from the start.\n\nYour Apple Health MCP page makes a strong case that agents need clean, per-source wearable data, and we'd love Vybe nights to be one of those sources. Could we spend 30 minutes on what a direct connector into the Life API would need? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (New York)",
+  "deadline": null,
+  "last_signal_date": "2026-10-12",
+  "confidence": "Research agent read own-site pages (some via search results or site APIs); spot-check before sending. Spot-check pages before outreach.",
+  "tags": [
+   "data-aggregator"
+  ],
+  "existing_wearables": [
+   "Apple Health",
+   "Oura",
+   "Garmin",
+   "Whoop",
+   "Dexcom"
+  ],
+  "partner_status": "open",
+  "opportunity": "Make Vybe overnight baseline data available to MCP-compatible AI agents through a normalized context store."
+ },
+ {
+  "name": "ExpiWell wearable integrations",
+  "org": "ExpiWell (Expimetrics, Inc.)",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Experience-sampling (EMA) research platform that links survey answers to Fitbit and Apple Watch sleep and heart-rate data, with Garmin and Oura listed as coming soon; the Fitbit API retirement pushes its research customers to find replacement overnight sources.",
+  "why_now": "Blog post 2026-08-25 'Fitbit Is Moving to Google Health: What It Means for Your Research Study'; integrations page lists Garmin and Oura as coming soon.",
+  "evidence": [
+   "https://www.expiwell.com/post/fitbit-is-moving-to-google-health-what-it-means-for-your-research-study",
+   "https://www.expiwell.com/integrations",
+   "https://www.expiwell.com/contact-us"
+  ],
+  "channel": "Published sales email and 'Talk to us about a sensor study' link (sales@expiwell.com)",
+  "contact_url": "https://www.expiwell.com/contact-us",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "Ask to be considered as an SDK-based overnight HR, HRV and sleep source alongside the Garmin and Oura connectors in progress, via a 30-minute technical call.",
+  "opener": "Hi ExpiWell team,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC. I read your August post on the Fitbit API moving to Google Health and saw Garmin and Oura listed as coming soon. We're building a screenless overnight band that reads heart rate, HRV and sleep timing against each person's own baseline, with a developer SDK, which seems a natural fit for EMA studies that need passive overnight data.\n\nWould a 30-minute call with your integrations lead work? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US",
+  "deadline": null,
+  "last_signal_date": "2026-09-30",
+  "confidence": "Research agent read own-site pages (some via search results or site APIs); spot-check before sending. Spot-check pages before outreach.",
+  "tags": [
+   "data-aggregator"
+  ],
+  "existing_wearables": [
+   "Fitbit",
+   "Apple Watch",
+   "Garmin (coming soon)",
+   "Oura (coming soon)"
+  ],
+  "partner_status": "open",
+  "opportunity": "Become an overnight physiology source for academic EMA studies as the Fitbit API sunset forces replacements."
+ },
+ {
+  "name": "Healthie Harbor partner ecosystem",
+  "org": "Healthie",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "EHR and practice platform for 40,000+ providers, including longevity and virtual-care companies; its Healthie Harbor marketplace already lists an Oura integration, it has a public API and an 'Apply to become a Partner' form.",
+  "why_now": "September 2026 Product Updates published on its own blog 2026-10-01; Harbor lists an Oura wearable integration.",
+  "evidence": [
+   "https://www.gethealthie.com/become-a-partner",
+   "https://www.gethealthie.com/marketplace",
+   "https://www.gethealthie.com/api",
+   "https://www.gethealthie.com/blog/september-2026-healthie-product-updates"
+  ],
+  "channel": "'Apply to become a Partner' form",
+  "contact_url": "https://www.gethealthie.com/become-a-partner",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "Submit the Become a Partner application describing a Vybe overnight data integration through Healthie's API, and ask what a wearable listing in Harbor needs.",
+  "opener": "Hi Healthie team,\n\nI'm Jeremy from Vybe Health, a pre-seed wearable startup in Raleigh, NC. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK.\n\nMany of your longevity and virtual-care providers already look at wearable data, and we'd like to explore how a Vybe integration could appear in Healthie Harbor through your API. Could we find 30 minutes to talk through the partner process? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (New York, NY)",
+  "deadline": null,
+  "last_signal_date": "2026-10-01",
+  "confidence": "Research agent read own-site pages (some via search results or site APIs); spot-check before sending. Spot-check pages before outreach.",
+  "tags": [
+   "data-aggregator"
+  ],
+  "existing_wearables": [
+   "Oura (via middleware)",
+   "Apple Health",
+   "Fitbit"
+  ],
+  "partner_status": "open",
+  "opportunity": "Get a Vybe integration listed in an EHR marketplace that thousands of virtual-care and longevity providers browse."
+ },
+ {
+  "name": "Lifestack device integrations",
+  "org": "Lifestack (Demind Inc.)",
+  "role": null,
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "AI energy copilot (50,000+ users) that pulls sleep and recovery from Oura, Whoop, Garmin, Fitbit, Ultrahuman, Eight Sleep and Apple Health and schedules work around daily energy; its integrations page invites requests for other devices.",
+  "why_now": "Blog active with device posts dated 2026-10-18; integrations page lists Ultrahuman and Eight Sleep and an 'Other devices - Tell Us More' request.",
+  "evidence": [
+   "https://lifestack.ai/integrations",
+   "https://lifestack.ai/blog"
+  ],
+  "channel": "'Other devices - Tell Us More' request on integrations page",
+  "contact_url": "https://lifestack.ai/integrations",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "Submit a device request for Vybe and ask for a short call on adding an SDK-based overnight HRV and sleep source.",
+  "opener": "Hi Lifestack team,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK.\n\nThat personal overnight baseline looks like the input your energy zones rely on. I'd love to understand what you need from a new device source: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Unconfirmed",
+  "deadline": null,
+  "last_signal_date": "2026-10-18",
+  "confidence": "Research agent read own-site pages (some via search results or site APIs); spot-check before sending. Spot-check pages before outreach.",
+  "tags": [
+   "data-aggregator"
+  ],
+  "existing_wearables": [
+   "Apple Health",
+   "Fitbit",
+   "Garmin",
+   "Oura",
+   "Whoop",
+   "Eight Sleep",
+   "Ultrahuman"
+  ],
+  "partner_status": "open",
+  "opportunity": "Become a listed sleep and recovery source in an AI productivity app that already builds on overnight data from many brands."
+ }
+]

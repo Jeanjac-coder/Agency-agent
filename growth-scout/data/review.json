@@ -3991,6 +3991,31 @@
    "verdict": "A",
    "reason": "2026 integration ingesting overnight HRV and sleep, and a public statement that they add new providers.",
    "move": "Ask the integrations team how a new overnight data provider gets added to iP and whether a pilot team could pull Vybe nightly data."
+  },
+  "heads-up-health-heads-up-health-headsup-health-llc": {
+   "verdict": "A",
+   "reason": "Ingests third-party overnight HRV and sleep, public device-request path, 2026 activity.",
+   "move": "Submit a device-support request for Vybe and ask for a 30-minute call on what an SDK-based source needs to be listed on their integrations page."
+  },
+  "fulcra-life-api-fulcra-dynamics-inc": {
+   "verdict": "A",
+   "reason": "Ingests Oura, Garmin and Whoop sleep and HRV, exposes developer API/SDK/MCP, very active in 2026.",
+   "move": "Ask whether Fulcra takes direct-connector sources beyond Apple Health and what spec a new wearable source needs (data model, OAuth, webhooks)."
+  },
+  "expiwell-wearable-integrations-expiwell-expimetrics-inc": {
+   "verdict": "A",
+   "reason": "Ingests third-party sleep and HR, adding sources in 2026, published sensor-study contact.",
+   "move": "Ask to be considered as an SDK-based overnight HR, HRV and sleep source alongside the Garmin and Oura connectors in progress, via a 30-minute technical call."
+  },
+  "healthie-harbor-partner-ecosystem-healthie": {
+   "verdict": "A",
+   "reason": "Explicit public partner application and an existing wearable listing; data arrives mostly via middleware.",
+   "move": "Submit the Become a Partner application describing a Vybe overnight data integration through Healthie's API, and ask what a wearable listing in Harbor needs."
+  },
+  "lifestack-device-integrations-lifestack-demind-inc": {
+   "verdict": "B",
+   "reason": "Strong data fit and a device-request path, but the 2026 signal is blog activity and HQ is unconfirmed.",
+   "move": "Submit a device request for Vybe and ask for a short call on adding an SDK-based overnight HRV and sleep source."
   }
  }
 }
