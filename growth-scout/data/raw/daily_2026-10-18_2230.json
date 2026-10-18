@@ -1,0 +1,253 @@
+[
+ {
+  "name": "Equinox EQX ARC + Equinox+ app",
+  "org": "Equinox",
+  "role": "EQX ARC women's health program team (via Equinox PR)",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "EQX ARC is Equinox's women's training program for cycle health through perimenopause; coaches personalise plans from Oura overnight data (sleep, HRV, resting heart rate), and the Equinox+ app reads heart rate and biometrics from Apple HealthKit. A defined, coach-led use for overnight HR, HRV and sleep.",
+  "why_now": "Equinox announced a Women's Health Advisory Board to support EQX ARC on 2026-05-04, and the Equinox+ app shipped again on 2026-10-14. The program is expanding its data-informed coaching in 2026.",
+  "evidence": [
+   "https://www.equinox.com/eqxarc",
+   "https://tools.prnewswire.com/en-us/live/20772/release/20260504PH50374",
+   "https://apps.apple.com/us/app/equinox/id318815572",
+   "https://www.equinox.com/contact-us"
+  ],
+  "channel": "email (pr@equinox.com)",
+  "contact_url": "https://www.equinox.com/contact-us",
+  "warm_path": "None known; pr@ is the published contact. Ask to be routed to the EQX ARC product or partnerships lead.",
+  "fit": 7,
+  "ask": "Route a short note to the EQX ARC product lead and share whether they would review early SDK docs for a second overnight data source.",
+  "opener": "Hi Equinox team, congratulations on the EQX ARC Women's Health Advisory Board in May. Your coaches already plan around overnight sleep and HRV, so I'd be glad to send early SDK docs and sample overnight data once ready, in case a second data source helps members who don't wear a ring. I'm Jeremy, founder of Vybe Health in Raleigh. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Could you forward this to whoever leads EQX ARC product? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (New York HQ)",
+  "deadline": null,
+  "last_signal_date": "2026-10-14",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "women's training",
+   "cycle-aware coaching",
+   "Oura",
+   "Apple Health",
+   "coach-led",
+   "sub-brief d"
+  ],
+  "existing_wearables": [
+   "Oura",
+   "Apple Watch (via Apple HealthKit)"
+  ],
+  "partner_status": "open",
+  "opportunity": "Second overnight HR/HRV/sleep source for EQX ARC coaching, next to Oura."
+ },
+ {
+  "name": "Technogym App + Technogym Coach (Mywellness open platform)",
+  "org": "Technogym S.p.A.",
+  "role": "Technogym app team (app@technogym.com)",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "The Technogym app's AI Technogym Coach adapts daily training from Oura recovery data (sleep, HRV, resting heart rate), and the Mywellness open platform connects Garmin, WHOOP, Polar, Apple Health and other wearables. Strength and gym programming that already uses overnight recovery from several devices.",
+  "why_now": "Steady 2026 app releases (3.43 to 3.45.5, the latest on 2026-09-25 per the App Store version history), and an open ecosystem that lists third-party wearables.",
+  "evidence": [
+   "https://apps.apple.com/us/app/technogym-training-gym-app/id976506047",
+   "https://ouraring.com/blog/new-movement-partnerships/",
+   "https://www.mywellness.com/en-INT/open-ecosystem"
+  ],
+  "channel": "email (app@technogym.com)",
+  "contact_url": "https://apps.apple.com/us/app/technogym-training-gym-app/id976506047",
+  "warm_path": "None known; app@technogym.com is published by Technogym in its App Store developer replies. Mywellness open platform is the integration route.",
+  "fit": 8,
+  "ask": "Tell us the right contact for a new wearable on the Mywellness open platform and whether early SDK docs would be useful.",
+  "opener": "Hi Technogym team, I like how Technogym Coach adjusts the day's session from overnight recovery, and I saw the steady 3.45 releases this autumn. When our SDK is ready I'd be glad to send docs and sample overnight data so you can judge it quickly. I'm Jeremy, founder of Vybe Health in Raleigh; we're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Who is the right person for a new wearable on the Mywellness open platform? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Global (Cesena, Italy HQ)",
+  "deadline": null,
+  "last_signal_date": "2026-09-25",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "strength",
+   "gym programming",
+   "AI coach",
+   "open platform",
+   "Oura",
+   "Garmin",
+   "WHOOP",
+   "sub-brief c"
+  ],
+  "existing_wearables": [
+   "Oura",
+   "Garmin",
+   "WHOOP",
+   "Polar",
+   "Apple Watch / Apple Health"
+  ],
+  "partner_status": "open",
+  "opportunity": "Add a screenless overnight HR/HRV/sleep feed to the Mywellness open platform for Technogym Coach."
+ },
+ {
+  "name": "Apollo Neuro app (SmartVibes + Oura integration)",
+  "org": "Apollo Neuroscience, Inc.",
+  "role": "Research and science team (research@apolloneuro.com)",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "The Apollo app connects Oura Ring and Apple Health so SmartVibes can schedule sessions and track sleep, stress and recovery progress. A stress and sleep app that already uses overnight HRV and sleep from more than one source.",
+  "why_now": "The 2026-09-25 release (4.3.7) simplified Vibes navigation and refined the 21-Day Challenge.",
+  "evidence": [
+   "https://apps.apple.com/us/app/apollo-neuro/id1457385148",
+   "https://apolloneuro.com/"
+  ],
+  "channel": "email (research@apolloneuro.com)",
+  "contact_url": "https://apolloneuro.com/",
+  "warm_path": "None known; research@ is published for science updates. support@apolloneuro.com is in their privacy policy as a fallback.",
+  "fit": 7,
+  "ask": "Would the science team look at early SDK docs and say whether a second overnight source would help SmartVibes?",
+  "opener": "Hi Apollo team, the September update with simpler Vibes navigation and a tighter 21-Day Challenge reads well. Since SmartVibes already uses Oura and Apple Health sleep and HRV, I'd be glad to share early SDK docs and sample overnight data when ready. I'm Jeremy, founder of Vybe Health in Raleigh; we're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Would your science team take a quick look and tell me if it fits? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (Pittsburgh, PA)",
+  "deadline": null,
+  "last_signal_date": "2026-09-25",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "HRV",
+   "stress",
+   "sleep",
+   "Oura",
+   "Apple Health",
+   "East Coast",
+   "sub-brief a"
+  ],
+  "existing_wearables": [
+   "Oura",
+   "Apple Health / Apple Watch"
+  ],
+  "partner_status": "open",
+  "opportunity": "Overnight HRV and sleep timing feed for SmartVibes scheduling and progress views."
+ },
+ {
+  "name": "HYBRD app (AI hybrid training + MCP)",
+  "org": "HYBRD Inc",
+  "role": "HYBRD support team (support@hybrd.com)",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "HYBRD builds hybrid strength-and-cardio plans and feeds its AI coach 'sleep and recovery from every device you've connected', reconciling conflicts between Garmin, Apple Watch, WHOOP, Coros, Polar, Suunto and Wahoo data. A very direct use of overnight recovery from many wearables.",
+  "why_now": "The 2026-10-15 release added Siri AI control and lets the HYBRD Agent update a plan in place; the site now offers an MCP connection for ChatGPT, Claude and Gemini.",
+  "evidence": [
+   "https://apps.apple.com/us/app/hybrd-get-stronger-faster/id6670271875",
+   "https://www.hybrd.com/",
+   "https://www.hybrd.com/contact"
+  ],
+  "channel": "email (support@hybrd.com)",
+  "contact_url": "https://www.hybrd.com/contact",
+  "warm_path": "None known; small team, the support form is the published route.",
+  "fit": 8,
+  "ask": "Would they review early SDK docs and tell us how a new device gets into their source reconciliation?",
+  "opener": "Hi HYBRD team, letting the Agent update a plan in place instead of regenerating it is a great October change. Since your coach already reconciles sleep and recovery across devices, I'd be glad to send early SDK docs and sample overnight data when ready. I'm Jeremy, founder of Vybe Health in Raleigh; we're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. How does a new device get added to your sources? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US",
+  "deadline": null,
+  "last_signal_date": "2026-10-15",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "hybrid",
+   "HYROX",
+   "strength",
+   "AI coach",
+   "MCP",
+   "multi-wearable",
+   "sub-brief c",
+   "reserve"
+  ],
+  "existing_wearables": [
+   "Garmin",
+   "Apple Watch",
+   "WHOOP",
+   "Coros",
+   "Polar",
+   "Suunto",
+   "Wahoo"
+  ],
+  "partner_status": "open",
+  "opportunity": "Another reconciled overnight sleep/recovery source for HYBRD's AI coach."
+ },
+ {
+  "name": "moonbird breathing coach app (new 2026 app)",
+  "org": "Moonbird B.V.",
+  "role": "Moonbird team (hello@moonbird.life)",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Moonbird's new app connects Oura and Apple Health so users see how breathing lines up with sleep, stress and recovery over time, with an AI breathing coach (Aura). HRV biofeedback plus overnight data from two sources.",
+  "why_now": "The new app first shipped 2026-04-21; version 3.11.0 on 2026-10-09 added French and more reliable offline session sync.",
+  "evidence": [
+   "https://apps.apple.com/us/app/moonbird-breathing-coach/id6751544333",
+   "https://moonbird.life/pages/contact"
+  ],
+  "channel": "email (hello@moonbird.life)",
+  "contact_url": "https://moonbird.life/pages/contact",
+  "warm_path": "None known.",
+  "fit": 7,
+  "ask": "Would they look at early SDK docs as a possible extra overnight source for Aura?",
+  "opener": "Hi moonbird team, congratulations on the new app this year and the French launch in October. Since Aura already lines breathing up with Oura and Apple Health sleep and recovery, I'd be glad to send early SDK docs and sample overnight data when ready. I'm Jeremy, founder of Vybe Health in Raleigh; we're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Would you be open to a quick look? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Europe (Antwerp, Belgium); ships to US",
+  "deadline": null,
+  "last_signal_date": "2026-10-09",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "breathwork",
+   "HRV biofeedback",
+   "Oura",
+   "Apple Health",
+   "sub-brief a",
+   "reserve"
+  ],
+  "existing_wearables": [
+   "Oura",
+   "Apple Health / Apple Watch"
+  ],
+  "partner_status": "open",
+  "opportunity": "Overnight HRV/sleep timing context for Aura's personalised breathing sessions."
+ },
+ {
+  "name": "Estrogen, Garmin-measured sleep and ADHD feasibility study (Jessica Lunsford-Avery, PhD)",
+  "org": "Duke University Medical Center",
+  "role": "Principal Investigator (study contact: Matthew Gibson)",
+  "type": "research-lab",
+  "hunt": "growth",
+  "why": "A Durham study (NCT07805382) tracking Garmin-measured sleep across menstrual cycles in adolescent girls with ADHD, alongside daily phone check-ins. Sleep timing over many nights is the core signal, and the lab is 25 minutes from us.",
+  "why_now": "First posted on ClinicalTrials.gov on 2026-09-04 with an estimated September 2026 start; recruiting now.",
+  "evidence": [
+   "https://clinicaltrials.gov/study/NCT07805382"
+  ],
+  "channel": "email (matthew.gibson646@duke.edu)",
+  "contact_url": "https://clinicaltrials.gov/study/NCT07805382",
+  "warm_path": "Local Triangle network (Raleigh to Durham); Duke rows on the board are other labs, none in this group.",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 5,
+   "e": 7
+  },
+  "ask": "A 20-minute chat about how they handle night-to-night sleep timing from consumer wearables, and whether early SDK docs would help future studies.",
+  "opener": "Hi Matthew, I saw the new Duke study on sleep across the cycle in adolescent girls, using Garmin data. I'd be glad to share early SDK docs and notes on how we line up each night against a person's own baseline, in case that's useful for later studies. I'm Jeremy, founder of Vybe Health in Raleigh; we're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Could I ask you and Dr. Lunsford-Avery a few questions about handling sleep timing data? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Durham, NC (East Coast)",
+  "deadline": null,
+  "last_signal_date": "2026-09-04",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "research-lab",
+   "sleep timing",
+   "consumer wearable",
+   "Garmin",
+   "menstrual cycle",
+   "Triangle",
+   "exploratory",
+   "exploratory"
+  ]
+ }
+]

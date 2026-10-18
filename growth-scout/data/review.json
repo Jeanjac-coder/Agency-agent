@@ -4096,6 +4096,36 @@
    "verdict": "B",
    "reason": "Costs nothing and is a new channel type; the contributing guide asks for tested resources, so it is best timed for the public SDK docs.",
    "move": "Open one pull request adding the Vybe developer SDK under Open Source Projects or Devices and Wearables once the SDK docs are public, following the one-line format in the contributing guide."
+  },
+  "equinox-eqx-arc-equinox-app-equinox": {
+   "verdict": "B",
+   "reason": "Huge name and clear coach-led use of overnight data, but only Oura is named as a direct feed (Apple HealthKit second), and the only published email is PR.",
+   "move": "Route a short note to the EQX ARC product lead and share whether they would review early SDK docs for a second overnight data source."
+  },
+  "technogym-app-technogym-coach-mywellness-open-platform-technogym-s-p-a": {
+   "verdict": "B",
+   "reason": "Strong multi-device fit and an open platform, but the 2026 signals are routine app releases and the Oura feature dates from 2025.",
+   "move": "Tell us the right contact for a new wearable on the Mywellness open platform and whether early SDK docs would be useful."
+  },
+  "apollo-neuro-app-smartvibes-oura-integration-apollo-neuroscience-inc": {
+   "verdict": "B",
+   "reason": "Good fit and a published science email, but only two sources (Oura direct plus Apple Health) and the 2026 release is UI-focused.",
+   "move": "Would the science team look at early SDK docs and say whether a second overnight source would help SmartVibes?"
+  },
+  "hybrd-app-ai-hybrid-training-mcp-hybrd-inc": {
+   "verdict": "A",
+   "reason": "Best data fit in this batch (multi-source sleep and recovery, active October 2026 shipping), held back only by brand size.",
+   "move": "Would they review early SDK docs and tell us how a new device gets into their source reconciliation?"
+  },
+  "moonbird-breathing-coach-app-new-2026-app-moonbird-b-v": {
+   "verdict": "B",
+   "reason": "Clear fit and fresh 2026 app, but only two sources and modest US recognition.",
+   "move": "Would they look at early SDK docs as a possible extra overnight source for Aura?"
+  },
+  "estrogen-garmin-measured-sleep-and-adhd-feasibility-study-jessica-lunsford-avery": {
+   "verdict": "B",
+   "reason": "Recent, local and squarely about multi-night sleep timing, but it is a small feasibility study in minors; treat as a learning conversation, not a pilot.",
+   "move": "A 20-minute chat about how they handle night-to-night sleep timing from consumer wearables, and whether early SDK docs would help future studies."
   }
  }
 }
