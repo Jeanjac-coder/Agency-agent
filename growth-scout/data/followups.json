@@ -1,6 +1,6 @@
 {
  "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
- "checked": "2026-10-18T10:45Z",
+ "checked": "2026-10-18T12:50Z",
  "threads": [
   {
    "org": "Head of the Schuylkill Regatta",
@@ -414,7 +414,7 @@
    "first_sent": "2026-10-09",
    "state": "replied",
    "due": "2026-10-14",
-   "next": "11 Oct: sent John's reply with the correct Vybe link, asking for a 30-minute call on adding Vybe as an Open Wearables source."
+   "next": "18 Oct: follow-up with the correct booking link prepared on the approval page (open-loop-open-wearables-call). Owner Jeremy: approve by 21 Oct; close as quiet if no reply by 1 Nov. Earlier: 11 Oct: sent John's reply with the correct Vybe link, asking for a 30-minute call on adding Vybe as an Open Wearables source."
   },
   {
    "org": "Tredict",
@@ -422,7 +422,7 @@
    "first_sent": "2026-10-09",
    "state": "replied",
    "due": "",
-   "next": "Felix Gertz replied 12 Oct: bodyvaluesWrite covers HRV and sleep upload; Tredict identifies the source by clientId; no call needed, docs cover it. Jeremy: apply for Tredict API access (bodyvaluesWrite scope) when the SDK can write data, and build against the docs. No more emails needed until then.",
+   "next": "18 Oct: application prepared on the approval page (open-loop-tredict-api-application) per Tredict's apply list. Owner Jeremy: fill callback URL and privacy URL, attach 124px logo, approve by 25 Oct; default if not: hold until the SDK writes data. Earlier: Felix Gertz replied 12 Oct: bodyvaluesWrite covers HRV and sleep upload; Tredict identifies the source by clientId; no call needed, docs cover it. Jeremy: apply for Tredict API access (bodyvaluesWrite scope) when the SDK can write data, and build against the docs. No more emails needed until then.",
    "offer": "\"yes, bodyvaluesWrite is necessary for this and covers it... Tredict knows the source by the clientId. No need for a video call... shoot me a message if anything is unclear or not working.\""
   },
   {
@@ -458,7 +458,7 @@
    "state": "replied",
    "due": "2026-11-09",
    "offer": "\"Sounds like we're on similar paths! We're working on a band as well but I'd be happy to connect... send me an invite for anytime after 8am pacific any day other than Thursday the week of Nov 9\"",
-   "next": "Replied 12 Oct: open to a call, but they are building their own band (possible competitor). Jeremy: send a calendar invite for the week of 9 Nov, after 8am PT, not Thursday (Nov 12). Keep it to data integration; no bands."
+   "next": "18 Oct: reply prepared on the approval page (open-loop-lighthouse-4ps-invite) proposing Tue 10 Nov 9:00 PT. Owner Jeremy: approve by 21 Oct, then send the calendar invite. Earlier: Replied 12 Oct: open to a call, but they are building their own band (possible competitor). Jeremy: send a calendar invite for the week of 9 Nov, after 8am PT, not Thursday (Nov 12). Keep it to data integration; no bands."
   },
   {
    "org": "Terra API (integration partner programme)",
