@@ -1,6 +1,6 @@
 {
  "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
- "checked": "2026-10-18T00:40Z",
+ "checked": "2026-10-18T02:35Z",
  "threads": [
   {
    "org": "Head of the Schuylkill Regatta",
@@ -459,6 +459,16 @@
    "due": "2026-11-09",
    "offer": "\"Sounds like we're on similar paths! We're working on a band as well but I'd be happy to connect... send me an invite for anytime after 8am pacific any day other than Thursday the week of Nov 9\"",
    "next": "Replied 12 Oct: open to a call, but they are building their own band (possible competitor). Jeremy: send a calendar invite for the week of 9 Nov, after 8am PT, not Thursday (Nov 12). Keep it to data integration; no bands."
+  },
+  {
+   "org": "Terra API (integration partner programme)",
+   "to": "antoine@tryterra.co",
+   "role": "Antoine Miller, Strategy & Operations (cc julien@, vanessa@tryterra.co)",
+   "first_sent": "2026-10-18",
+   "state": "replied",
+   "due": "2026-10-25",
+   "offer": "\"Thanks for submitting your details to become an integration partner at Terra API! I'll be in touch shortly after our engineering team reviews your form details. To get started, could you securely send us your developer credentials so we can begin integrating?\"",
+   "next": "Jeremy submitted Terra's integration-partner form himself about 01:45Z 18 Oct (magic-link sign-in at 01:48Z). Terra asks for developer credentials. Share only test/sandbox credentials, through Terra's provider portal or a secure channel, never production secrets by email reply. Jeremy to answer by hand; no draft made."
   }
  ],
  "forwarded": [
