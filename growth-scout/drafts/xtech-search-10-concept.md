@@ -54,6 +54,6 @@ Jeremy Lahn, Founder, Vybe Health · jeremy@vybe.health · https://calendly.com/
 
 ## Before you submit
 
-- No ECG claims, no diagnosis claims, no promised device quantities or delivery dates.
+- Only heart rate, HRV and sleep timing claims; no diagnosis claims, no promised device quantities or delivery dates.
 - Questions on eligibility only: usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@army.mil
 - If you decide not to enter, say so and the board row closes as "passed: deadline".
