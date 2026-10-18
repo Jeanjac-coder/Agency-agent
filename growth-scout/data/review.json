@@ -4061,6 +4061,41 @@
    "verdict": "B",
    "reason": "Strong fit with health sensor hardware in 2026 and an open form, but big_name is below the lead bar, so kept as reserve.",
    "move": "A 20-minute conversation through their deal submission form about health sensor hardware with an SDK."
+  },
+  "samsung-health-data-sdk-partnership-request-samsung-electronics-samsung-health": {
+   "verdict": "A",
+   "reason": "Huge reach, a free and documented partner request, and write access to heart rate and sleep is gated on exactly that request.",
+   "move": "Submit a Health Data SDK partnership request for a companion app that writes heart rate and sleep sessions from the band into Samsung Health, and ask which data types are open for third-party insert."
+  },
+  "sleep-as-android-urbandroid-petr-n-levka": {
+   "verdict": "A",
+   "reason": "Publishes a wearable integration API, explicitly invites new devices, gives an email, and shipped wearable fixes every month of 2026.",
+   "move": "Ask them to evaluate the band for their wearable list, or to whitelist a Vybe add-on package that sends heart rate and HRV through the Wearable API intents."
+  },
+  "cronometer-partner-with-us-devices-wearables-path-cronometer-software-inc": {
+   "verdict": "A",
+   "reason": "Brand-new, free partner intake that names devices and wearables, from an app that already imports recovery and sleep from 8+ wearables.",
+   "move": "Submit a Devices & wearables enquiry proposing a sleep and overnight heart rate import, and ask what data format their integrations team prefers."
+  },
+  "goldencheetah-goldencheetah-open-source-project": {
+   "verdict": "B",
+   "reason": "Active 2026 releases and a clear pattern for new measures sources, but HRV is a side feature for a cycling-first audience and integration depends on volunteer time.",
+   "move": "Open a GitHub issue proposing an HRV measures import from the Vybe SDK modelled on the Tredict integration, and ask maintainers which measures fields they would want."
+  },
+  "exist-hello-code-melbourne": {
+   "verdict": "B",
+   "reason": "Strong fit and a public intake, but small audience and they add integrations by vote count.",
+   "move": "Ask whether a Vybe import would qualify for their integrations list once the SDK is public, and add it as a roadmap suggestion."
+  },
+  "practice-better-technology-partners-practice-better": {
+   "verdict": "B",
+   "reason": "Open free partner application and a clear use case, but B2B practitioner reach rather than wearable-developer brand.",
+   "move": "Apply to the Technology Partners program to send nightly sleep and heart rate summaries into client journals."
+  },
+  "awesome-quantified-self-devices-and-wearables-list-woop-awesome-quantified-self-": {
+   "verdict": "B",
+   "reason": "Costs nothing and is a new channel type; the contributing guide asks for tested resources, so it is best timed for the public SDK docs.",
+   "move": "Open one pull request adding the Vybe developer SDK under Open Source Projects or Devices and Wearables once the SDK docs are public, following the one-line format in the contributing guide."
   }
  }
 }

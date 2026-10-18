@@ -200,6 +200,34 @@
   "black-opal-ventures-black-opal-ventures": {
    "big_name": 5,
    "big_name_why": "Respected emerging healthtech fund (founders from In-Q-Tel and Bind), but not yet a household name."
+  },
+  "samsung-health-data-sdk-partnership-request-samsung-electronics-samsung-health": {
+   "big_name": 9,
+   "big_name_why": "Samsung Health ships on every Galaxy phone and is a household name for Android wearable users and developers."
+  },
+  "sleep-as-android-urbandroid-petr-n-levka": {
+   "big_name": 8,
+   "big_name_why": "Editors' Choice on Google Play with 10M+ downloads and 393K reviews; one of the best-known sleep apps on Android."
+  },
+  "cronometer-partner-with-us-devices-wearables-path-cronometer-software-inc": {
+   "big_name": 7,
+   "big_name_why": "Leading nutrition tracker (19M+ users, 4.8 App Store rating) widely known to Oura and WHOOP users who log food."
+  },
+  "goldencheetah-goldencheetah-open-source-project": {
+   "big_name": 6,
+   "big_name_why": "Best-known open-source training analysis tool (2.2k GitHub stars), familiar to data-minded cyclists and endurance developers."
+  },
+  "exist-hello-code-melbourne": {
+   "big_name": 5,
+   "big_name_why": "Well known in the quantified-self community but niche for mainstream wearable users."
+  },
+  "practice-better-technology-partners-practice-better": {
+   "big_name": 5,
+   "big_name_why": "Known among health coaches and practitioners, not to most wearable users or developers."
+  },
+  "awesome-quantified-self-devices-and-wearables-list-woop-awesome-quantified-self-": {
+   "big_name": 5,
+   "big_name_why": "Well-known awesome-list among quantified-self developers; modest reach beyond GitHub."
   }
  }
 }

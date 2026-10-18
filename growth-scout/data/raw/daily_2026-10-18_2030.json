@@ -1,0 +1,302 @@
+[
+ {
+  "name": "Samsung Health Data SDK partnership request",
+  "org": "Samsung Electronics (Samsung Health)",
+  "role": "Samsung Health developer partnerships team",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Samsung Health is the default health hub on Galaxy phones and its Data SDK lets approved partner apps read and insert heart rate and sleep data, with a DeviceManager that tracks which device each record came from. Writing data needs an access code issued only after a partnership request is approved, so a new overnight band has a defined, free path in.",
+  "why_now": "Samsung Health Data SDK v1.1.0 shipped on 12 March 2026 (new sleep apnea and irregular heart rhythm read types), and the process page says partnership requests must be submitted before an app is distributed.",
+  "evidence": [
+   "https://developer.samsung.com/health/data/release-note.html",
+   "https://developer.samsung.com/health/data/process.html",
+   "https://developer.samsung.com/health/partnerships"
+  ],
+  "channel": "Partnership request form on Samsung Developer (Health Data SDK)",
+  "contact_url": "https://developer.samsung.com/health/partnerships",
+  "warm_path": null,
+  "fit": 8,
+  "ask": "Submit a Health Data SDK partnership request for a companion app that writes heart rate and sleep sessions from the band into Samsung Health, and ask which data types are open for third-party insert.",
+  "opener": "Hi Samsung Health team, Jeremy here, founder of Vybe Health. Once our SDK docs are ready I'd be glad to share an early copy and some overnight test data, so you can see how a third-party band's records sit beside Galaxy Watch data. I saw Health Data SDK v1.1.0 landed in March 2026. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Could you tell me which data types are open to partner inserts today, so our partnership request is scoped correctly? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Global (Korea HQ; US developer relations)",
+  "deadline": null,
+  "last_signal_date": "2026-03-12",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "developer-platform",
+   "android",
+   "sleep",
+   "heart-rate",
+   "partner-request"
+  ],
+  "existing_wearables": [
+   "Galaxy Watch",
+   "Galaxy Ring",
+   "Connected weight scales (per DeviceManager docs)"
+  ],
+  "partner_status": "open",
+  "opportunity": "Become an approved data writer so Vybe nights show up in Samsung Health for Galaxy users."
+ },
+ {
+  "name": "Sleep as Android",
+  "org": "Urbandroid (Petr Nálevka)",
+  "role": "Developer team (support@urbandroid.org)",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Sleep as Android is a 10M+ download sleep tracker that already takes overnight data from Pixel Watch, Galaxy, Wear OS, Garmin, Pebble, Polar, Fitbit, Mi Band/Amazfit and PineTime and scores HRV. Its Wearable integration API page invites third-party wearables: write to them about a device and they will judge whether to build it, or the maker can build an add-on, and they whitelist the add-on on request.",
+  "why_now": "The 2026 release notes are full of wearable work: a new Garmin watch app (20260429), HR and HRV fixes for Pebble across the whole night (20260916), and automatic reconnect for Polar SDK in the latest version 20261006. Google Play shows an update on 15 Oct 2026.",
+  "evidence": [
+   "https://github.com/urbandroid-team/sleep-docs/blob/HEAD/hugo/content/devs/wearable_api.md",
+   "https://github.com/urbandroid-team/sleep-docs/blob/HEAD/hugo/content/general/release_notes.md",
+   "https://play.google.com/store/apps/details?id=com.urbandroid.sleep&hl=en",
+   "https://github.com/urbandroid-team/Sleep-as-Android-Garmin-Addon"
+  ],
+  "channel": "Email published on their Wearable integration API page (support@urbandroid.org)",
+  "contact_url": "https://github.com/urbandroid-team/sleep-docs/blob/HEAD/hugo/content/devs/wearable_api.md",
+  "warm_path": null,
+  "fit": 9,
+  "ask": "Ask them to evaluate the band for their wearable list, or to whitelist a Vybe add-on app that sends heart rate and HRV through the Wearable API intents.",
+  "opener": "Hi Urbandroid team, Jeremy here, founder of Vybe Health. When our SDK docs and a sample of overnight test data are ready, I'd like to send them to you first, since your Wearable API page is the clearest invitation to device makers I've found. I saw the 20261006 release added automatic reconnect for Polar SDK, after the new Garmin app earlier this year. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Would you be open to whitelisting a small Vybe add-on app when we have one to test? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Prague, Czech Republic (global users)",
+  "deadline": null,
+  "last_signal_date": "2026-10-15",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "android",
+   "sleep",
+   "hrv",
+   "open-wearable-api",
+   "indie"
+  ],
+  "existing_wearables": [
+   "Pixel Watch",
+   "Galaxy Watch",
+   "Wear OS",
+   "Garmin (Connect IQ)",
+   "Pebble",
+   "Polar (H10, OH10, Verity Sense)",
+   "Fitbit (Ionic, Sense, Versa)",
+   "Mi Band / Amazfit / Zepp",
+   "PineTime"
+  ],
+  "partner_status": "open",
+  "opportunity": "Ship a Vybe add-on via their Wearable API so Sleep as Android users can track nights with the band."
+ },
+ {
+  "name": "Cronometer Partner with Us (Devices & wearables path)",
+  "org": "Cronometer Software Inc.",
+  "role": "Partnerships team",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Cronometer (19M+ users) imports heart rate, recovery and sleep from Apple Watch, Fitbit, Garmin, WHOOP, Oura, Polar, Withings and Suunto. Its new Partner with Us page has a dedicated Devices & wearables path for products that help users connect nutrition with recovery and biometrics, with a free enquiry form.",
+  "why_now": "The Partner with Us page was published on 14 Oct 2026 with a Devices & wearables path; Crono Coach, a new in-app assistant, launched 28 Jul 2026.",
+  "evidence": [
+   "https://cronometer.com/blog/partner-with-us/",
+   "https://cronometer.com/features/sync-devices.html",
+   "https://cronometer.com/blog/crono-coach/"
+  ],
+  "channel": "Partnership enquiry form (Devices & wearables path)",
+  "contact_url": "https://cronometer.com/blog/partner-with-us/",
+  "warm_path": null,
+  "fit": 9,
+  "ask": "Submit a Devices & wearables enquiry proposing a sleep and overnight heart rate import, and ask what data format their integrations team prefers.",
+  "opener": "Hi Cronometer partnerships team, Jeremy here, founder of Vybe Health. Once our SDK docs are ready I'd be glad to send an early copy and a sample of overnight test data, so your team can see how a night's recovery numbers sit beside a diary. I saw the new Partner with Us page from 14 October with a Devices & wearables path. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Could you point me to the person who reviews device enquiries, so I can send a short note? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Revelstoke, BC, Canada (global users)",
+  "deadline": null,
+  "last_signal_date": "2026-10-14",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "nutrition",
+   "wearable-integrations",
+   "partner-program",
+   "sleep",
+   "recovery"
+  ],
+  "existing_wearables": [
+   "Apple Watch",
+   "Fitbit",
+   "Garmin",
+   "WHOOP",
+   "Oura",
+   "Polar",
+   "Withings",
+   "Suunto",
+   "Dexcom"
+  ],
+  "partner_status": "open",
+  "opportunity": "Get Vybe overnight recovery and sleep data into Cronometer's device list through the new wearables partner path."
+ },
+ {
+  "name": "GoldenCheetah",
+  "org": "GoldenCheetah (open-source project)",
+  "role": "Maintainers and contributors (users forum and GitHub)",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "GoldenCheetah is a long-running open-source performance analysis app for cyclists and runners. It imports FIT files from any device and pulls Body and HRV measures from cloud services, and the v3.8 notes link a wiki section that uses Tredict as a worked example of adding a cloud service with measures download, which is a template a new HRV source could follow.",
+  "why_now": "v3.8 shipped on 20 Sep 2026 with automatic Withings and Tredict (Body/HRV) measures download at startup; the snapshot build of 17 Oct 2026 adds Wahoo Cloud FIT download.",
+  "evidence": [
+   "https://github.com/GoldenCheetah/GoldenCheetah/releases/tag/v3.8",
+   "https://github.com/GoldenCheetah/GoldenCheetah/releases/tag/snapshot",
+   "https://github.com/GoldenCheetah/GoldenCheetah/wiki/UG_Special-Topics_Upload_Download-to-web-sites"
+  ],
+  "channel": "GitHub Discussions/issue or the GoldenCheetah users forum",
+  "contact_url": "https://groups.google.com/g/golden-cheetah-users",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "Open a GitHub issue proposing an HRV measures import from the Vybe SDK modelled on the Tredict integration, and ask maintainers which measures fields they would want.",
+  "opener": "Hi GoldenCheetah folks, Jeremy here, founder of Vybe Health. When our SDK docs are ready I'd like to share them plus a sample of overnight HRV test data, so whoever touches the measures code can see if it maps cleanly. I saw v3.8 on 20 September made Withings and Tredict HRV measures download automatic at startup, with Tredict written up as the model cloud service. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Would maintainers be open to an issue proposing a measures import along the same lines? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Global (open-source, volunteer maintainers)",
+  "deadline": null,
+  "last_signal_date": "2026-10-17",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "open-source",
+   "cycling",
+   "hrv",
+   "github",
+   "desktop"
+  ],
+  "existing_wearables": [
+   "Withings (Body measures)",
+   "Tredict (Body/HRV measures)",
+   "Wahoo Cloud (snapshot)",
+   "FIT file import from Garmin and other devices"
+  ],
+  "partner_status": "open",
+  "opportunity": "Add Vybe as an HRV measures source next to Withings and Tredict in GoldenCheetah."
+ },
+ {
+  "name": "Exist",
+  "org": "Hello Code (Melbourne)",
+  "role": "Founders Josh Sharp and Belle B. Cooper",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Exist is a small-team personal analytics app that imports sleep stages, bedtime, wake time, resting heart rate and HRV from Fitbit, Garmin, Oura, Withings, Apple Health and Health Connect, and runs a public Changemap roadmap where users vote on new integrations; it also has a developer API.",
+  "why_now": "New in Exist: PDF exports was posted on 23 Apr 2026, and the public roadmap lists 'HRV from Garmin' as Planned, showing HRV sources are an active priority.",
+  "evidence": [
+   "https://exist.io/blog/",
+   "https://exist.io/apps-data-syncing/",
+   "https://changemap.co/hellocode/exist/",
+   "http://developer.exist.io"
+  ],
+  "channel": "Published email and public roadmap suggestion (hello@exist.io)",
+  "contact_url": "https://changemap.co/hellocode/exist/",
+  "warm_path": null,
+  "fit": 8,
+  "ask": "Ask whether a Vybe import would qualify for their integrations list once the SDK is public, and add it as a roadmap suggestion.",
+  "opener": "Hi Josh and Belle, Jeremy here, founder of Vybe Health. When our SDK docs are ready I'd be glad to send an early copy and a sample of overnight test data, since Exist's correlations are exactly where a nightly baseline would be useful. I saw your April 2026 PDF exports post and that HRV from Garmin is now Planned on the roadmap. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Would a direct import be something you'd consider once the SDK is public? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Melbourne, Australia (global users)",
+  "deadline": null,
+  "last_signal_date": "2026-04-23",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "quantified-self",
+   "indie",
+   "hrv",
+   "sleep",
+   "public-roadmap",
+   "reserve"
+  ],
+  "existing_wearables": [
+   "Fitbit",
+   "Garmin",
+   "Oura",
+   "Withings",
+   "Apple Health",
+   "Health Connect"
+  ],
+  "partner_status": "open",
+  "opportunity": "Become a native data source in Exist so baseline nights feed its mood and habit correlations."
+ },
+ {
+  "name": "Practice Better Technology Partners",
+  "org": "Practice Better",
+  "role": "Technology partnerships team",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Practice Better is a practice-management platform for tens of thousands of health coaches, dietitians and functional medicine practitioners; clients sync Garmin, Oura, Apple Health and Fitbit sleep and heart rate into Practice Better journals. It runs a Technology Partners program with an open Apply today form for products that integrate via its APIs.",
+  "why_now": "'What's new in Practice Better: Q2 2026' was published 10 Aug 2026, the Technology Partners page was updated in July 2026, and the Fitbit Web API shuts down on 30 Oct 2026, so its Fitbit sync has to move.",
+  "evidence": [
+   "https://practicebetter.io/technology-partners",
+   "https://practicebetter.io/feature/journaling",
+   "https://practicebetter.io/blog/whats-new-in-practice-better-q2-2026",
+   "https://practicebetter.io/integrations/fitbit"
+  ],
+  "channel": "Technology Partners application form",
+  "contact_url": "https://practicebetter.io/technology-partners",
+  "warm_path": null,
+  "fit": 8,
+  "ask": "Apply to the Technology Partners program to send nightly sleep and heart rate summaries into client journals.",
+  "opener": "Hi Practice Better partnerships team, Jeremy here, founder of Vybe Health. Once our SDK docs are ready I'd be glad to share them plus a sample of overnight test data, so your team can see how a nightly summary would look in a client journal. I saw the Q2 2026 product update and that Garmin, Oura and Fitbit already feed journals. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Could you tell me what a Technology Partners application needs for a wearable data source? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Toronto, Canada (global practitioners)",
+  "deadline": null,
+  "last_signal_date": "2026-08-10",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "practitioner-platform",
+   "coaches",
+   "wearable-integrations",
+   "partner-program",
+   "reserve"
+  ],
+  "existing_wearables": [
+   "Garmin",
+   "Oura",
+   "Apple Health",
+   "Fitbit"
+  ],
+  "partner_status": "open",
+  "opportunity": "Reach coaches and dietitians by appearing as a journal data source next to Garmin and Oura."
+ },
+ {
+  "name": "Awesome Quantified Self (Devices and Wearables list)",
+  "org": "woop/awesome-quantified-self (GitHub)",
+  "role": "List maintainers",
+  "type": "listing",
+  "hunt": "growth",
+  "why": "A curated GitHub awesome-list (2.8k stars) with a Devices and Wearables section that already lists Fitbit, Garmin, Withings, WHOOP, Oura and Apple Watch, plus Sleep, Heart and Open Source Projects sections. Additions go in by pull request under a published contributing guide, so the listing is free.",
+  "why_now": "Maintainers merged a batch of community PRs on 6 Jul 2026, including a new Polar link and ble-scale-sync, so the list is being curated in 2026.",
+  "evidence": [
+   "https://github.com/woop/awesome-quantified-self",
+   "https://github.com/woop/awesome-quantified-self/blob/master/contributing.md",
+   "https://github.com/woop/awesome-quantified-self/commits/master"
+  ],
+  "channel": "GitHub pull request",
+  "contact_url": "https://github.com/woop/awesome-quantified-self/pulls",
+  "warm_path": null,
+  "fit": 7,
+  "ice": {
+   "i": 4,
+   "c": 5,
+   "e": 9
+  },
+  "ask": "Open one pull request adding the Vybe developer SDK under Open Source Projects or Devices and Wearables once the SDK docs are public, following the one-line format in the contributing guide.",
+  "opener": "Hi maintainers, Jeremy here, founder of Vybe Health. Thanks for the July 2026 merge batch; the Polar and ble-scale-sync additions made the device section more current. When our SDK docs are public I'd be glad to share them so you can judge whether they belong here. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Would a one-line PR under Devices and Wearables be welcome once there is public documentation to link? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Global (GitHub)",
+  "deadline": null,
+  "last_signal_date": "2026-07-06",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "directory",
+   "github",
+   "awesome-list",
+   "quantified-self",
+   "exploratory",
+   "exploratory"
+  ]
+ }
+]
