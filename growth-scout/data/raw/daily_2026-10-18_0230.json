@@ -1,0 +1,102 @@
+[
+ {
+  "name": "Trail Runner Nation",
+  "org": "Trail Runner Nation (independent)",
+  "role": null,
+  "type": "amplifier",
+  "hunt": "social",
+  "why": "Long-running independent trail and ultra podcast for endurance athletes; in 2026 it ran a full episode on wearable accuracy, which sets up the compare-to-your-own-baseline angle, and its contact page invites show ideas.",
+  "why_now": "EP 769 'Is Your Watch Lying? The Truth About VO2 Max and Real Fitness' (February 2026) on the accuracy and limits of wearable estimates.",
+  "evidence": [
+   "https://trailrunnernation.com/2026/02/ep-769-is-your-watch-lying-the-truth-about-vo%E2%82%82-max-and-real-fitness/",
+   "https://trailrunnernation.com/contact/",
+   "https://trailrunnernation.com/about-the-show/"
+  ],
+  "channel": "Email on their contact page (invites show ideas) (support@trailrunnernation.com)",
+  "contact_url": "https://trailrunnernation.com/contact/",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "Pitch a guest show idea, as a follow-up to EP 769, on what overnight HRV and resting HR trends read against your own baseline can and can't tell a trail runner.",
+  "opener": "Hi Trail Runner Nation team,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC. EP 769, 'Is Your Watch Lying?', hit the problem we're working on: wearable numbers only mean something next to your own normal. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK and a public waitlist.\n\nIf a follow-up on what overnight HRV can and can't tell trail runners fits the show, I'd love to come on as a guest. Calendar here if easier: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (national audience)",
+  "deadline": null,
+  "last_signal_date": "2026-02-20",
+  "confidence": "Medium: episode and contact pages seen via search results restricted to trailrunnernation.com; not opened this run. Spot-check pages before outreach.",
+  "tags": [
+   "podcast",
+   "trail running",
+   "ultrarunning",
+   "wearable accuracy",
+   "guest pitch"
+  ]
+ },
+ {
+  "name": "Uphill Athlete Podcast",
+  "org": "Uphill Athlete",
+  "role": null,
+  "type": "amplifier",
+  "hunt": "social",
+  "why": "Mountain and endurance training podcast and coaching brand; in 2026 it gave a full episode to HRV and wearable data with Marco Altini and its site runs HRV explainers.",
+  "why_now": "'Making Sense of the Data with Dr. Marco Altini' (Season 6 Ep 35, 2026-04-15) on HRV for endurance athletes, sensor accuracy and doubts about compound readiness scores.",
+  "evidence": [
+   "https://uphillathlete.com/podcast/",
+   "https://uphillathlete.com/aerobic-training/heart-rate-variability-mountain-athletes/",
+   "https://uphillathlete.com/contact/"
+  ],
+  "channel": "Contact form on uphillathlete.com",
+  "contact_url": "https://uphillathlete.com/contact/",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "Be a guest or source on raw overnight HR/HRV trends against your own baseline versus packaged readiness scores, building on the Altini episode.",
+  "opener": "Hi Uphill Athlete team,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC. Your April 2026 episode with Marco Altini made the case that HRV only means something against your own trend, not a packaged score. That's what we're building on: a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK and a public waitlist.\n\nWe'd be glad to be a source or guest on how mountain athletes can read overnight trends without over-trusting them: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (international athlete audience)",
+  "deadline": null,
+  "last_signal_date": "2026-04-15",
+  "confidence": "Medium: date from two directory listings; site pages seen via search results only. Spot-check pages before outreach.",
+  "tags": [
+   "podcast",
+   "mountain athletes",
+   "endurance",
+   "HRV",
+   "guest pitch"
+  ]
+ },
+ {
+  "name": "High Performance Longevity podcast (Outliyr)",
+  "org": "Outliyr (Nick Urban)",
+  "role": null,
+  "type": "amplifier",
+  "hunt": "social",
+  "why": "Biohacking and performance podcast that hosts wearable founders and covers sleep trackers and HRV through 2026.",
+  "why_now": "E244 with Pison CEO Dexter Ang, a wearable founder (2026-01-14), and a 2026-04-03 breathwork-for-recovery episode covering heart-rate tracking.",
+  "evidence": [
+   "https://outliyr.com/podcast/neural-sensing-wearable-for-peak-performance-pison-dexter-ang",
+   "https://outliyr.com/podcast/functional-breath-work-adam-ludwin",
+   "https://outliyr.com/podcast/podcast-welcome"
+  ],
+  "channel": "'Suggest a guest' link in show notes (unverified)",
+  "contact_url": "https://outliyr.com/podcast/podcast-welcome",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "Pitch a founder conversation on comparing each night to your own baseline and an open developer SDK; guest spot only, decline any affiliate or review arrangement.",
+  "opener": "Hi Nick,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC. Your January 2026 episode with Dexter Ang showed how much your audience wants wearable founders to explain what the sensor really measures. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK.\n\nI'd love to come on as a guest to talk about trends against your own baseline versus one-night scores: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (global online audience)",
+  "deadline": null,
+  "last_signal_date": "2026-04-03",
+  "confidence": "Medium-low: episode pages seen via search results only; guest route unverified; the site earns affiliate commissions on reviews, so keep this guest-only. Spot-check pages before outreach.",
+  "tags": [
+   "podcast",
+   "biohacking",
+   "quantified self",
+   "HRV",
+   "sleep tracking",
+   "guest pitch"
+  ]
+ }
+]
