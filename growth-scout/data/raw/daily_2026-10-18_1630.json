@@ -1,0 +1,69 @@
+[
+ {
+  "name": "xTech|Search 10 (U.S. Army open-topic competition)",
+  "org": "U.S. Army FUZE xTech Program (ASA(ALT))",
+  "role": null,
+  "type": "program",
+  "hunt": "growth",
+  "why": "Open-topic Army competition for US small businesses: entry costs nothing, round one is a concept white paper, semifinal pitches are virtual (January 2027), and finalists can apply for a Phase I Army SBIR/STTR. Overnight HRV, heart rate and sleep timing against a Soldier's own baseline fits Army H2F readiness interest. Only finalists travel (March 2027 demo in Miami), and their award covers it.",
+  "why_now": "xTech site lists the submission window 2026-09-10 to 2026-10-19, due 2026-10-19 at 5pm ET.",
+  "evidence": [
+   "https://www.xtech.army.mil/competition/xtechsearch10/",
+   "https://www.xtech.army.mil/competitions/",
+   "https://www.usa.gov/challenges/xtech-search-10"
+  ],
+  "channel": "Online submission portal (xTech site) (usarmy.pentagon.hqda-asa-alt.mbx.xtechsearch@army.mil)",
+  "contact_url": "https://www.xtech.army.mil/competition/xtechsearch10/",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "Submit the concept white paper (overnight readiness baseline for Soldiers plus the SDK for unit data teams) before 5pm ET on 2026-10-19; use the mailbox only for eligibility questions.",
+  "opener": "Concept white paper (outline in growth-scout/drafts/xtech-search-10-concept.md): a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the Soldier's own baseline, with a developer SDK for unit data teams.",
+  "check_size": null,
+  "stage": "pre-seed",
+  "geo": "US (remote submission; virtual semifinals)",
+  "deadline": "2026-10-19",
+  "last_signal_date": "2026-09-10",
+  "confidence": "High: research agent read the xTech pages via curl. Spot-check pages before outreach.",
+  "tags": [
+   "military",
+   "human-performance",
+   "open-innovation",
+   "SBIR-pathway",
+   "non-dilutive",
+   "deadline-imminent"
+  ]
+ },
+ {
+  "name": "USOPC Performance Innovation (innovator submission intake)",
+  "org": "U.S. Olympic & Paralympic Committee",
+  "role": null,
+  "type": "program",
+  "hunt": "growth",
+  "why": "USOPC's Performance Innovation team takes submissions from small businesses with products of interest to Team USA athletes and staff through a free online form; it runs the Performance Innovation Fund and Athlete360, and piloted REST USA, a sleep-tracking programme with winter athletes. An own-baseline overnight band with an SDK fits that sleep and recovery work.",
+  "why_now": "USOPC press release dated 2026-06-26 launched the 2025 Impact Report, citing the REST USA sleep pilot and Performance Innovation funding; the intake form is live on usopc.org/technology.",
+  "evidence": [
+   "https://www.usopc.org/technology",
+   "https://www.usopc.org/news/2026/june/26/u-s-olympic-paralympic-committee-highlights-a-year-of-turning-momentum-into-impact-in-2025-impact-report"
+  ],
+  "channel": "Online innovator submission form",
+  "contact_url": "https://usoc.az1.qualtrics.com/jfe/form/SV_0Vze3Y6yzE8xp2K",
+  "warm_path": null,
+  "fit": 7,
+  "ask": "Fill in the Performance Innovation submission form, positioning own-baseline sleep data and the SDK as a complement to REST USA, and ask for a 30-minute discovery call.",
+  "opener": "Hi USOPC Performance Innovation team,\n\nI'm Jeremy, founder of Vybe Health, a pre-seed startup in Raleigh, NC. We're building a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the athlete's own baseline, with a developer SDK so performance staff can pull the data into their own tools.\n\nYour REST USA sleep work caught our eye, and we'd value 30 minutes to learn what your staff look for in overnight recovery data: https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": "pre-seed",
+  "geo": "US (remote intake)",
+  "deadline": null,
+  "last_signal_date": "2026-06-26",
+  "confidence": "Medium: research agent read USOPC pages via curl; rolling intake, reply not guaranteed. Spot-check pages before outreach.",
+  "tags": [
+   "sports-tech",
+   "olympic",
+   "sleep",
+   "recovery",
+   "open-intake",
+   "SDK"
+  ]
+ }
+]
