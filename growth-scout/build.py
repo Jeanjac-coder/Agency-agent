@@ -616,7 +616,7 @@ QUEUE_HUNTS = ("partnership", "growth", "social")
 PARKED: list = []
 # The Vybe Health Calendly (jeremy@vybe.health). Never the i-grow account.
 CALENDLY = "https://calendly.com/jeremy-vybe/30min"
-SIGNOFF = "\n\nJeremy Lahn\nVybe Health\njeremy@vybe.health · vybe.health"
+SIGNOFF = "\n\nJeremy Lahn, Founder, Vybe Health\njeremy@vybe.health · vybe.health\n" + CALENDLY
 
 
 def email_subject(row: dict) -> str:
