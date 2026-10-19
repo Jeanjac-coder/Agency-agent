@@ -1864,13 +1864,6 @@
       "why_parked": "Stale 2024 evidence; needs units Vybe lacks."
     },
     {
-      "name": "Bull City Race Fest 2026",
-      "type": "event",
-      "geo": "Durham, NC",
-      "ask": "Ask whether a 10x10 expo table is still open for race weekend; if not, ask to be on the 2027 vendor list",
-      "why_parked": "costs money"
-    },
-    {
       "name": "First Responder Mental Wellness Summit - Asheville 2026 (Pierce Foundation)",
       "type": "event",
       "geo": "Asheville, NC",
@@ -8521,13 +8514,6 @@
       "why_parked": "Stale; irrelevant."
     },
     {
-      "name": "Powerlifting (USA Powerlifting Ohio)",
-      "type": "sport",
-      "geo": "Columbus / Bowling Green, OH",
-      "ask": "Ask the Ohio co-state chair whether Vybe can recruit 10 adult lifters at the Nov 14 state meet for a peaking-block overnight-wear trial (vendor table if allowed).",
-      "why_parked": "costs money"
-    },
-    {
       "name": "Youth and adult bouldering (Akron)",
       "type": "sport",
       "geo": "Akron, OH",
@@ -8997,13 +8983,6 @@
       "why_parked": "Distant athletic medicine group; generic feedback ask."
     },
     {
-      "name": "New England Half Marathon 2026 (presented by Millennium Running)",
-      "type": "event",
-      "geo": "Concord, NH",
-      "ask": "Ask whether a finish-area table is open on Oct 18; if not, ask about a 2027 multi-race vendor package across Millennium events",
-      "why_parked": "costs money"
-    },
-    {
       "name": "Seacoast Half Marathon 2026 + Mercuria Running training group",
       "type": "event",
       "geo": "Portsmouth, NH",
@@ -9141,13 +9120,6 @@
       "type": "event",
       "geo": "Boston, MA",
       "ask": "Ask whether the 2027 B-Fit Challenge has a vendor or in-kind partner tier for a pre-launch wearable",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "Kanawha State Forest Half Marathon / 7K 2026 (WV Cryptid Race Series)",
-      "type": "event",
-      "geo": "Charleston, WV",
-      "ask": "Ask whether a small table near the start/finish is possible on Oct 18; if not, ask about partnering for the 2027 Cryptid Race Series",
       "why_parked": "costs money"
     },
     {
@@ -9310,13 +9282,6 @@
       "geo": "Bethlehem, PA",
       "ask": "15-minute call on whether DevKit v0.1 raw ECG/HRV export would help his validation work",
       "why_parked": "No 2026 activity and partnered with competitor Ultrahuman. Stale."
-    },
-    {
-      "name": "Delaware Distance Classic 15K & 5K 2026",
-      "type": "event",
-      "geo": "Wilmington, DE",
-      "ask": "Ask for a finish-area table on Oct 18, or a 2027 sponsor slot",
-      "why_parked": "costs money"
     },
     {
       "name": "Pike Creek Valley Running Club",

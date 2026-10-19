@@ -1,0 +1,215 @@
+[
+ {
+  "name": "Teamworks AMS (incl. Tactical Clearinghouse)",
+  "org": "Teamworks",
+  "role": "James Coffos, Chief Strategy Officer (named author of the 2026 readiness posts); route via Teamworks contact form",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Teamworks AMS (formerly Smartabase) is the athlete management system used across college, pro and military programmes. Its AMS page cites 100+ integrations with popular wearables plus an API, and its Clearinghouse brings Garmin, Oura, WHOOP and Polar sleep and recovery data into IL5 military environments. A screenless overnight band compared to each wearer's own baseline is a clean extra source for both its college S&C and tactical customers. Teamworks has its roots in Durham, NC, a short drive from Vybe in Raleigh.",
+  "why_now": "On 2 Oct 2026 CSO James Coffos published 'The Best Readiness Data Is the Data Nobody Had to Collect' on H2F performance teams and readiness, followed on 18 Oct 2026 by his piece on defense software buying. Readiness from passively collected data is the exact theme Vybe fits.",
+  "evidence": [
+   "https://teamworks.com/blog/best-readiness-data-nobody-had-to-collect",
+   "https://teamworks.com/blog/why-most-defense-software-startups-never-hit-escape-velocity",
+   "https://teamworks.com/ams/",
+   "https://teamworks.com/blog/smartabase-clearinghouse",
+   "https://teamworks.com/about-us"
+  ],
+  "channel": "Website contact form (Talk with Sales / general), addressed to the strategy team",
+  "contact_url": "https://teamworks.com/contact",
+  "warm_path": "Triangle proximity: Teamworks' roots are in Durham, NC. Ask Raleigh-Durham founder or university contacts for an intro to the AMS or Tactical team; otherwise the contact form referencing the 2 Oct 2026 post.",
+  "fit": 8,
+  "ask": "A 30-minute call to learn what a new overnight wearable must show before Teamworks considers adding it as an AMS or Clearinghouse data source.",
+  "opener": "Hi James, I'm Jeremy, founder of Vybe Health in Raleigh, just down the road from Teamworks' Durham roots. Your 2 October piece, The Best Readiness Data Is the Data Nobody Had to Collect, struck a chord here. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Once ready, I can share early SDK docs and sample overnight data so you can judge if it fits alongside the Garmin, Oura, WHOOP and Polar feeds in AMS. What does a new wearable need to show before Teamworks considers an integration? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Durham, NC, USA (global customers; US college, pro and military)",
+  "deadline": null,
+  "last_signal_date": "2026-10-18",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "athlete-management-system",
+   "college-s&c",
+   "tactical",
+   "military",
+   "H2F",
+   "NC-local",
+   "sub-brief-a",
+   "sub-brief-b"
+  ],
+  "existing_wearables": [
+   "Garmin",
+   "Oura",
+   "WHOOP",
+   "Polar"
+  ],
+  "partner_status": "open",
+  "opportunity": "Be evaluated as an additional overnight HR/HRV/sleep-timing source in Teamworks AMS and its Clearinghouse BYOD flow for college and military performance teams."
+ },
+ {
+  "name": "JOIN Readiness (Oura and WHOOP integrations)",
+  "org": "JOIN (join.cc)",
+  "role": "Jim van den Berg (named author of JOIN's Oura and WHOOP integration posts); route via published support email",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "JOIN is an adaptive cycling training app whose Readiness system adjusts each day's plan. In 2026 it added Oura's Readiness Score and WHOOP's Recovery score as direct inputs, so it already uses overnight recovery from two third-party wearables with a defined use case: dialling sessions up or down based on how the rider woke up.",
+  "why_now": "JOIN shipped two wearable readiness integrations in under two months: Oura on 26 Aug 2026 and WHOOP on 7 Oct 2026, both announced on its own blog. It is actively adding readiness sources right now.",
+  "evidence": [
+   "https://join.cc/cycling-tips/your-oura-readiness-score-now-shapes-your-join-training",
+   "https://join.cc/cycling-tips/train-on-how-recovered-you-really-are-whoop-now-connects-to-join-readiness",
+   "https://join.cc/partners"
+  ],
+  "channel": "Email to published support address, referencing the Oura and WHOOP posts (support@join.cc)",
+  "contact_url": "https://join.cc/partners",
+  "warm_path": "None known; reference the two 2026 integration posts by name.",
+  "fit": 8,
+  "ask": "A short call or email reply on what JOIN needs before adding a new readiness source to JOIN Readiness.",
+  "opener": "Hi Jim, I'm Jeremy, founder of Vybe Health. I read your posts on Oura's Readiness Score shaping JOIN training (26 August) and WHOOP Recovery connecting to JOIN Readiness (7 October). We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the rider's own baseline, with a developer SDK. Once ready, I can send early SDK docs and sample overnight data so your team can see whether it would fit JOIN Readiness as another signal. What does JOIN look for before adding a new readiness source? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Global cycling app (European, partners with Dutch federation KNWU); serves US riders",
+  "deadline": null,
+  "last_signal_date": "2026-10-07",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "endurance",
+   "cycling",
+   "readiness",
+   "adaptive-training",
+   "sub-brief-c"
+  ],
+  "existing_wearables": [
+   "Oura",
+   "WHOOP"
+  ],
+  "partner_status": "open",
+  "opportunity": "Become a third readiness input to JOIN Readiness, feeding nightly HR/HRV/sleep-timing versus personal baseline into daily plan adjustment."
+ },
+ {
+  "name": "Vitruve Hub import integrations",
+  "org": "Vitruve",
+  "role": "Alejandro Gamez (named author of the Feb 2026 Vitruve Hub product update); route via contact form",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Vitruve Hub is a coach and athlete platform for colleges, high schools and pro teams. Its import integrations pull daily sleep, recovery, HRV and activity from Oura, Polar, WHOOP, Fitbit, Garmin and Withings into the Labs Health tab, next to its own velocity and force data.",
+  "why_now": "On 3 Feb 2026 Vitruve published 'New in Vitruve Hub: Less Setup, More Coaching' (new Medical Reports section, Vitruve Chat, multi-import of athletes), showing an active 2026 product cadence around its Hub.",
+  "evidence": [
+   "https://support.vitruve.fit/import-integrations-whoop-oura-polar-garmin-etc",
+   "https://vitruve.fit/blog/new-in-vitruve-hub-less-setup-more-coaching/"
+  ],
+  "channel": "Website contact form",
+  "contact_url": "https://vitruve.fit/contact/",
+  "warm_path": "None known.",
+  "fit": 7,
+  "ask": "An email reply or short call on whether Vitruve adds new wearables to its import integrations and what it needs to evaluate one.",
+  "opener": "Hi Alejandro, I'm Jeremy, founder of Vybe Health. I saw your 3 February update on Vitruve Hub, and that Labs already imports sleep, recovery and HRV from Oura, Polar, WHOOP, Fitbit, Garmin and Withings. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the athlete's own baseline, plus a developer SDK. Once ready, I can share early SDK docs and sample overnight data for your team to review. How does Vitruve decide which new wearables join the import list? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Global; markets dedicated college and high school solutions in the US",
+  "deadline": null,
+  "last_signal_date": "2026-02-03",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "s&c",
+   "college",
+   "high-school",
+   "vbt",
+   "sub-brief-a",
+   "reserve",
+   "reserve"
+  ],
+  "existing_wearables": [
+   "Oura",
+   "Polar",
+   "WHOOP",
+   "Fitbit",
+   "Garmin",
+   "Withings"
+  ],
+  "partner_status": "open",
+  "opportunity": "Be added as an import integration feeding overnight HR/HRV/sleep timing into Vitruve Labs' Health tab for college and high school S&C staff."
+ },
+ {
+  "name": "SWORN.ai first-responder wellness platform",
+  "org": "SWORN.ai",
+  "role": "Partnerships via the SWORN team (contact page invites partnering)",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "SWORN is a wellness platform for police and other public-safety agencies that pairs biometrics from Oura, WHOOP, Fitbit and Garmin with AI coaching to flag stress, fatigue and recovery trends, giving agencies aggregated readiness views. Note: it also offers its own wearable, so it is partly an overlapping product.",
+  "why_now": "SWORN has published steadily in 2026, including 'Turning Insight Into a System That Works for You' (25 Feb 2026) and 'How Workforce Wellness Impacts the Bottom Line' (18 Feb 2026), and runs an Oura partnership highlight on its home page.",
+  "evidence": [
+   "https://sworn.ai/",
+   "https://sworn.ai/blog/turning-insight-into-a-system-that-works-for-you/",
+   "https://sworn.ai/contact"
+  ],
+  "channel": "Published email / contact form (info@sworn.ai)",
+  "contact_url": "https://sworn.ai/contact",
+  "warm_path": "None known.",
+  "fit": 7,
+  "ask": "A short call on whether SWORN adds new third-party wearables alongside Oura, WHOOP, Fitbit and Garmin.",
+  "opener": "Hi SWORN team, I'm Jeremy, founder of Vybe Health. I read your 25 February post, Turning Insight Into a System That Works for You, and saw SWORN already pairs Oura, WHOOP, Fitbit and Garmin data for public-safety teams. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Once ready, I can share early SDK docs and sample overnight data for your team to review. Do you add new third-party wearables, and what do you need to see first? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Provo, UT, USA",
+  "deadline": null,
+  "last_signal_date": "2026-02-25",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "tactical",
+   "first-responder",
+   "police",
+   "sub-brief-b",
+   "reserve",
+   "reserve"
+  ],
+  "existing_wearables": [
+   "Oura",
+   "WHOOP",
+   "Fitbit",
+   "Garmin"
+  ],
+  "partner_status": "open",
+  "opportunity": "Offer agencies a screenless overnight option among SWORN's supported wearables for shift-worker recovery tracking."
+ },
+ {
+  "name": "Open Health Stack Discord",
+  "org": "Google for Developers (Open Health Stack)",
+  "role": "Community members and the OHS engineering team (open Discord)",
+  "type": "community",
+  "hunt": "growth",
+  "why": "Open Health Stack is Google's open-source toolkit (Android FHIR SDK and related components) for building digital health apps. Its community page invites developers, implementers and clinicians into an open Discord and regular developer calls, a free place to learn how builders represent consumer wearable readings and to meet SDK-minded developers.",
+  "why_now": "The OHS community page was updated 15 May 2026 and still points to an open Discord invite and developer calls with the OHS engineering team.",
+  "evidence": [
+   "https://developers.google.com/open-health-stack/community",
+   "https://discord.gg/Uyxn5YDvUW"
+  ],
+  "channel": "Open Discord invite",
+  "contact_url": "https://discord.gg/Uyxn5YDvUW",
+  "warm_path": "Open join; no intro needed.",
+  "fit": 7,
+  "ice": {
+   "join_url": "https://discord.gg/Uyxn5YDvUW",
+   "how_to_join": "Open invite linked from the Google OHS community page; free",
+   "first_step": "Join, read the server rules, then post a short intro in whichever channel the server designates for introductions or general questions",
+   "topic_hook": "How builders model nightly HRV and sleep timing from consumer wearables (for example as FHIR Observations)",
+   "time_cost": "About 15 minutes",
+   "exploratory_note": "First community of this kind on the board (open-source digital-health developer Discord)"
+  },
+  "ask": "Join the open Discord, post a short intro and one question about modelling overnight wearable readings, and offer early SDK docs once ready.",
+  "opener": "Hi all, I'm Jeremy, founder of Vybe Health in Raleigh. I found this server through the OHS community page (updated May 2026). We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. I'm here to learn, and I'm happy to share early SDK docs and sample overnight data once ready with anyone mapping that kind of data. One question: has anyone here modelled nightly HRV or sleep timing as FHIR Observations with the Android FHIR SDK? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Global, online",
+  "deadline": null,
+  "last_signal_date": "2026-05-15",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "community",
+   "developer",
+   "open-source",
+   "FHIR",
+   "exploratory",
+   "sub-brief-e",
+   "exploratory"
+  ]
+ }
+]

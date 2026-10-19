@@ -4126,6 +4126,31 @@
    "verdict": "B",
    "reason": "Recent, local and squarely about multi-night sleep timing, but it is a small feasibility study in minors; treat as a learning conversation, not a pilot.",
    "move": "A 20-minute chat about how they handle night-to-night sleep timing from consumer wearables, and whether early SDK docs would help future studies."
+  },
+  "teamworks-ams-incl-tactical-clearinghouse-teamworks": {
+   "verdict": "A",
+   "reason": "Ingests sleep/recovery from 4+ named wearables, publishes an API and wearable integration story, fresh Oct 2026 readiness content from a named exec, and a local Triangle angle.",
+   "move": "A 30-minute call to learn what a new overnight wearable must show before Teamworks considers adding it as an AMS or Clearinghouse data source."
+  },
+  "join-readiness-oura-and-whoop-integrations-join-join-cc": {
+   "verdict": "A",
+   "reason": "Two fresh 2026 wearable readiness integrations prove they are adding sources now; clear defined use case; published email.",
+   "move": "A short call or email reply on what JOIN needs before adding a new readiness source to JOIN Readiness."
+  },
+  "vitruve-hub-import-integrations-vitruve": {
+   "verdict": "B",
+   "reason": "Strong fit (6 wearables imported) but mid-tier recognition and only a contact form.",
+   "move": "An email reply or short call on whether Vitruve adds new wearables to its import integrations and what it needs to evaluate one."
+  },
+  "sworn-ai-first-responder-wellness-platform-sworn-ai": {
+   "verdict": "B",
+   "reason": "Fits (4 wearables, US first responders, published email) but small name and sells its own wearable, which may limit appetite.",
+   "move": "A short call on whether SWORN adds new third-party wearables alongside Oura, WHOOP, Fitbit and Garmin."
+  },
+  "open-health-stack-discord-google-for-developers-open-health-stack": {
+   "verdict": "B",
+   "reason": "Free, open join and active in 2026, but wearable-specific traffic is unproven; a low-cost learning and SDK-feedback channel.",
+   "move": "Join the open Discord, post a short intro and one question about modelling overnight wearable readings, and offer early SDK docs once ready."
   }
  }
 }
