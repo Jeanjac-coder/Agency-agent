@@ -4301,6 +4301,51 @@
    "verdict": "A",
    "reason": "Free listserv path, active 2026 calls with a near date, and the P1752.2 scope directly covers heart rate and HRV.",
    "move": "Subscribe to 1752-wg, listen in on the 22 October CardioRespiratory subgroup call, and offer Vybe overnight HR, HRV and sleep timing fields as a test case for P1752.2 schemas."
+  },
+  "xyz-ventures-xyz-venture-capital": {
+   "verdict": "A",
+   "reason": "Led a 2026 consumer health wearable round, named partner on record, and a published inbound email.",
+   "move": "A 20-minute intro call to see whether Vybe fits the consumer health sensing thesis behind the Vital Signals lead."
+  },
+  "headline-headline": {
+   "verdict": "B",
+   "reason": "Strong 2026 wearable signal and brand, but the portfolio page is undated beyond the year and the only route is a general intro form.",
+   "move": "A 20-minute intro call with the US early-stage team about consumer health wearables."
+  },
+  "mucker-capital-mucker-capital": {
+   "verdict": "A",
+   "reason": "Seed lead in overnight biometric sleep hardware within 24 months, explicit thesis for founders outside Silicon Valley, and an open submission form.",
+   "move": "A 20-minute call on whether Vybe fits the overnight sleep and recovery thesis behind Orion."
+  },
+  "precursor-ventures-precursor-ventures": {
+   "verdict": "A",
+   "reason": "2026 women's health pre-seed lead, pre-seed is the whole thesis, and an open online form plus a published inbox.",
+   "move": "A 20-minute first conversation about leading or joining Vybe's pre-seed."
+  },
+  "sogal-ventures-sogal-ventures": {
+   "verdict": "A",
+   "reason": "October 2026 pre-seed in a wearable-facing women's health API, underrepresented-founder mandate Vybe matches, and an open pitch form.",
+   "move": "A 20-minute call about SoGal's health thesis and whether Vybe fits a first or second round."
+  },
+  "afore-capital-afore-capital": {
+   "verdict": "B",
+   "reason": "2026 pre-seed lead in wearable sensing hardware and pre-traction friendly, but the deal is not health and there is no inbound form, only LinkedIn.",
+   "move": "A 20-minute call on whether Vybe fits Afore's pre-traction hardware bets."
+  },
+  "south-loop-ventures-south-loop-ventures": {
+   "verdict": "B",
+   "reason": "Near perfect fit (sleep health, pre-seed, diverse founders, open form, reply in 2 business days) but limited name recognition and the round is single-sourced.",
+   "move": "A 20-minute call about the healthtech and sportstech pre-seed thesis."
+  },
+  "crush-it-ventures-crush-it-ventures": {
+   "verdict": "B",
+   "reason": "Operator-led wellness fund with a sleep wearable in portfolio and an open pitch page, but small and little known.",
+   "move": "A 20-minute call about a small check and fitness community introductions."
+  },
+  "openvc-flow-free-curated-deal-flow-openvc": {
+   "verdict": "B",
+   "reason": "Exploratory: a free, curated investor-matching listing type not yet on the board; low effort, uncertain yield.",
+   "move": "Create a free founder profile and deck so Vybe can be surfaced in OpenVC Flow to investors filtering for health and hardware at the prototype stage."
   }
  }
 }

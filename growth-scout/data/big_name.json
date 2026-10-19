@@ -392,6 +392,42 @@
   "ieee-p1752-open-mobile-health-working-group-p1752-2-cardiorespiratory-and-sleep-": {
    "big_name": 7,
    "big_name_why": "IEEE is a globally recognised standards body; Open mHealth schemas are known to health data platforms and researchers."
+  },
+  "xyz-ventures-xyz-venture-capital": {
+   "big_name": 7,
+   "big_name_why": "Ross Fubini's fund is an early Anduril backer (Anduril's co-founder says Ross was the first person they pitched) and backs Chapter; well known to seed investors and founders."
+  },
+  "headline-headline": {
+   "big_name": 8,
+   "big_name_why": "Multi-billion global firm (formerly e.ventures) known for Farfetch; instantly recognised by co-investors."
+  },
+  "mucker-capital-mucker-capital": {
+   "big_name": 7,
+   "big_name_why": "Backed Honey (sold to PayPal) and ServiceTitan (IPO); a well known LA seed fund for founders outside the Bay Area."
+  },
+  "precursor-ventures-precursor-ventures": {
+   "big_name": 8,
+   "big_name_why": "Charles Hudson's Precursor is one of the best known pre-seed firms in the US and a frequent first check for underrepresented founders."
+  },
+  "sogal-ventures-sogal-ventures": {
+   "big_name": 6,
+   "big_name_why": "Pocket Sun's SoGal is a widely recognised women-led fund with Everlywell, Lovevery and Function of Beauty in the portfolio."
+  },
+  "afore-capital-afore-capital": {
+   "big_name": 7,
+   "big_name_why": "Gaurav Jain and Anamitra Banerji's Afore is among the best known dedicated pre-seed funds (Hightouch among its pre-seed exits)."
+  },
+  "south-loop-ventures-south-loop-ventures": {
+   "big_name": 5,
+   "big_name_why": "Respected emerging manager in Houston and diverse-founder circles, less known nationally."
+  },
+  "crush-it-ventures-crush-it-ventures": {
+   "big_name": 4,
+   "big_name_why": "New small fund; known in New York fitness and wellness circles through Dogpound, not yet among VCs broadly."
+  },
+  "openvc-flow-free-curated-deal-flow-openvc": {
+   "big_name": 5,
+   "big_name_why": "Widely used free investor database among early founders; known to founders more than to investors."
   }
  }
 }
