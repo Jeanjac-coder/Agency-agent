@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19 10:41 UTC",
+  "generated": "2026-10-19 11:57 UTC",
   "today": "2026-10-19",
   "scope": {
     "company": "Vybe Health",
@@ -26940,7 +26940,7 @@
   ],
   "followups": {
     "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
-    "checked": "2026-10-19T10:50Z",
+    "checked": "2026-10-19T12:20Z",
     "threads": [
       {
         "org": "Concept2 Logbook",
@@ -28362,6 +28362,15 @@
         "by": "Jeremy (by hand)",
         "subject": "Re: Partnership idea for Baseline 4PS: Vybe Health",
         "note": "Proposes 10 Nov 9:00 PT. Quoted history below the reply carries the old pre-10-Oct booking link."
+      }
+    ],
+    "decide": [
+      {
+        "org": "Total Wellness (recovery spa, founder order 19 Oct)",
+        "state": "needs-founder-input",
+        "due": "2026-10-21",
+        "offer": "No recovery spa named Total Wellness found in Ohio or NC. Checked: Total Bliss Wellness (South Reno NV, real recovery spa, 1 site, first year, quantum-biology scans and supplement claims; fit 6, big_name 2), Vitality Total Wellness (Naples FL, IV, hormone and injection services), MYO Total Wellness (South Jordan UT, bodywork), Total Wellness Centre (Centennial CO, facials/massage, site down), Steel Mill Total Wellness (FL gym), Ohio: Allife (Akron, holistic, no site), Total Health and Wellness (Canton, counseling), Bodyworks Total Wellness (Copley, massage); NC: Carolina Total Wellness (Raleigh, functional medicine).",
+        "next": "Owner: Jeremy. Give the city or website of the Total Wellness he heard about by 21 Oct (team take due the same day). No board row or draft until it is confirmed; none of the candidates reaches fit 7."
       }
     ]
   },

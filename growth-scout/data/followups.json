@@ -489,16 +489,6 @@
    "due": "2026-10-26",
    "offer": "The marketing desk emailed Bevel at 03:13Z 19 Oct asking which third-party HRV, heart rate and sleep data Bevel reads via Apple Health; Bevel sent an out-of-office auto-reply.",
    "next": "Owner: marketing desk. Growsom's own Bevel draft on the approval page (bevel-bevel-bevel-health) should not also be sent; Jeremy to reject or hold it. If Bevel answers, log it here."
-  },
-  {
-   "org": "Total Wellness (recovery spa, founder order 19 Oct)",
-   "to": "",
-   "role": "unidentified",
-   "first_sent": null,
-   "state": "needs-founder-input",
-   "due": "2026-10-21",
-   "offer": "No recovery spa named Total Wellness found in Ohio or NC. Checked: Total Bliss Wellness (South Reno NV, real recovery spa, 1 site, first year, quantum-biology scans and supplement claims; fit 6, big_name 2), Vitality Total Wellness (Naples FL, IV, hormone and injection services), MYO Total Wellness (South Jordan UT, bodywork), Total Wellness Centre (Centennial CO, facials/massage, site down), Steel Mill Total Wellness (FL gym), Ohio: Allife (Akron, holistic, no site), Total Health and Wellness (Canton, counseling), Bodyworks Total Wellness (Copley, massage); NC: Carolina Total Wellness (Raleigh, functional medicine).",
-   "next": "Owner: Jeremy. Give the city or website of the Total Wellness he heard about by 21 Oct (team take due the same day). No board row or draft until it is confirmed; none of the candidates reaches fit 7."
   }
  ],
  "forwarded": [
@@ -567,6 +557,15 @@
    "by": "Jeremy (by hand)",
    "subject": "Re: Partnership idea for Baseline 4PS: Vybe Health",
    "note": "Proposes 10 Nov 9:00 PT. Quoted history below the reply carries the old pre-10-Oct booking link."
+  }
+ ],
+ "decide": [
+  {
+   "org": "Total Wellness (recovery spa, founder order 19 Oct)",
+   "state": "needs-founder-input",
+   "due": "2026-10-21",
+   "offer": "No recovery spa named Total Wellness found in Ohio or NC. Checked: Total Bliss Wellness (South Reno NV, real recovery spa, 1 site, first year, quantum-biology scans and supplement claims; fit 6, big_name 2), Vitality Total Wellness (Naples FL, IV, hormone and injection services), MYO Total Wellness (South Jordan UT, bodywork), Total Wellness Centre (Centennial CO, facials/massage, site down), Steel Mill Total Wellness (FL gym), Ohio: Allife (Akron, holistic, no site), Total Health and Wellness (Canton, counseling), Bodyworks Total Wellness (Copley, massage); NC: Carolina Total Wellness (Raleigh, functional medicine).",
+   "next": "Owner: Jeremy. Give the city or website of the Total Wellness he heard about by 21 Oct (team take due the same day). No board row or draft until it is confirmed; none of the candidates reaches fit 7."
   }
  ]
 }
