@@ -5679,6 +5679,13 @@
       "why_parked": "costs money"
     },
     {
+      "name": "xTech|Search 10 (U.S. Army open-topic competition)",
+      "type": "program",
+      "geo": "US (remote submission; virtual semifinals)",
+      "ask": "Submit the concept white paper (overnight readiness baseline for Soldiers plus the SDK for unit data teams) before 5pm ET on 2026-10-19; use the mailbox only for eligibility questions.",
+      "why_parked": "Passed: deadline. No entry decision on the approval page and no submission confirmation in the Vybe inbox by 19 Oct 5pm ET."
+    },
+    {
       "name": "Infinity Medical Concierge",
       "type": "builder",
       "geo": "Johannesburg, South Africa",
