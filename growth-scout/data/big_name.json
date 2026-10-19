@@ -364,6 +364,34 @@
   "healthcare-innovation-world-cup-2027-wearables-and-digital-health-innovation-wor": {
    "big_name": 5,
    "big_name_why": "Known in European medtech and wearables circles through MEDICA; limited recognition with US seed investors."
+  },
+  "perplexity-health-connector-marketplace-proposal-perplexity": {
+   "big_name": 8,
+   "big_name_why": "Perplexity is one of the best known AI brands; its March 2026 health launch with Eric Topol on the advisory board drew wide health tech coverage."
+  },
+  "evidation-app-connected-wearables-real-world-data-source-evidation-health": {
+   "big_name": 7,
+   "big_name_why": "Evidation is a widely known real world data company with millions of members and work for BARDA and the UK's Our Future Health."
+  },
+  "function-health-connected-apps-wearable-integrations-function-health": {
+   "big_name": 7,
+   "big_name_why": "Function is a fast growing consumer health brand that raised 450 million in growth financing in 2026 and partners with Google Health and Microsoft."
+  },
+  "welldoc-partnering-programme-device-integration-welldoc": {
+   "big_name": 6,
+   "big_name_why": "Welldoc is a long established digital chronic care company, named to TIME's World's Top HealthTech Companies of 2026 and one of the first CMS ACCESS participants."
+  },
+  "thread-device-and-sensor-library-partner-programme-thread-definitive-media-corp": {
+   "big_name": 6,
+   "big_name_why": "THREAD is a recognised DCT and eCOA platform, DiMe Seal recipient, backed by JLL Partners and Water Street."
+  },
+  "dacadoo-app-connector-insurer-wellness-platform-dacadoo": {
+   "big_name": 5,
+   "big_name_why": "Known among insurtech and insurer wellness buyers, less so with US health tech investors."
+  },
+  "ieee-p1752-open-mobile-health-working-group-p1752-2-cardiorespiratory-and-sleep-": {
+   "big_name": 7,
+   "big_name_why": "IEEE is a globally recognised standards body; Open mHealth schemas are known to health data platforms and researchers."
   }
  }
 }

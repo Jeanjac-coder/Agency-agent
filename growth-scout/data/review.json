@@ -4266,6 +4266,41 @@
    "verdict": "B",
    "reason": "Reserve: wearables specific and free, but low US investor recognition, the deadline is far off, and finalist pitching is in person in Germany (optional; can be declined).",
    "move": "Enter the healthcare category with the same profile used for the ST Innovation Challenge, before 9 Sep 2027."
+  },
+  "perplexity-health-connector-marketplace-proposal-perplexity": {
+   "verdict": "A",
+   "reason": "Big brand, ingests sleep and heart data from several wearables, and publishes an open connector proposal path with an email.",
+   "move": "Send a short connector proposal for Vybe nightly data (HR, HRV, sleep timing against personal baseline) and ask whether they prefer a direct connector or the Terra route."
+  },
+  "evidation-app-connected-wearables-real-world-data-source-evidation-health": {
+   "verdict": "B",
+   "reason": "Strong ingest fit and 2026 activity, but no published device partner path; only a general customer form.",
+   "move": "Ask who decides which new data sources the Evidation app adds, and offer SDK docs and sample nights once ready."
+  },
+  "function-health-connected-apps-wearable-integrations-function-health": {
+   "verdict": "B",
+   "reason": "Good ingest fit and very recent 2026 news, but the only published contact is a general inbox, not a partner path.",
+   "move": "Ask for the person who reviews new Connected Apps sources and offer SDK docs and sample nights once ready."
+  },
+  "welldoc-partnering-programme-device-integration-welldoc": {
+   "verdict": "B",
+   "reason": "Published partner path and strong 2026 signals, but named consumer wearables beyond Apple Health and HRV ingestion are not confirmed on its pages.",
+   "move": "Ask whether Welldoc adds new wellness wearables directly or only through an aggregator, and offer SDK docs and sample nights once ready."
+  },
+  "thread-device-and-sensor-library-partner-programme-thread-definitive-media-corp": {
+   "verdict": "A",
+   "reason": "Explicit device partner programme, consumer wearable support, fresh September 2026 news and a local warm path.",
+   "move": "Ask what a new wearable must show to join the THREAD device library, and offer SDK docs and sample nights once ready."
+  },
+  "dacadoo-app-connector-insurer-wellness-platform-dacadoo": {
+   "verdict": "B",
+   "reason": "Fits sub brief b on data ingest and 2026 activity, but no published device partner path and moderate recognisability.",
+   "move": "Ask how a new device is added to the App Connector list, and offer SDK docs and sample nights once ready."
+  },
+  "ieee-p1752-open-mobile-health-working-group-p1752-2-cardiorespiratory-and-sleep-": {
+   "verdict": "A",
+   "reason": "Free listserv path, active 2026 calls with a near date, and the P1752.2 scope directly covers heart rate and HRV.",
+   "move": "Subscribe to 1752-wg, listen in on the 22 October CardioRespiratory subgroup call, and offer Vybe overnight HR, HRV and sleep timing fields as a test case for P1752.2 schemas."
   }
  }
 }

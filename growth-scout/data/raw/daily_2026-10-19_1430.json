@@ -1,0 +1,292 @@
+[
+ {
+  "name": "Perplexity Health Connector Marketplace proposal",
+  "org": "Perplexity",
+  "role": "Connector Marketplace team",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Perplexity Health (launched 19 March 2026) brings wearable data from Fitbit, Ultrahuman, Withings and Apple Health into personalised health answers, and the Perplexity Help Center invites companies to propose new connectors through a form or connectors@perplexity.ai. Nightly HR, HRV and sleep timing compared with a personal baseline is the kind of context those answers draw on.",
+  "why_now": "Perplexity Health launched on 19 March 2026 and the 27 March 2026 changelog rolled it out to Pro and Max subscribers in the US; the connector proposal article is live in the Help Center now.",
+  "evidence": [
+   "https://www.perplexity.ai/hub/blog/introducing-perplexity-health",
+   "https://www.perplexity.ai/help-center/en/articles/2026092501-submit-a-connector-proposal",
+   "https://www.perplexity.ai/changelog/what-we-shipped--march-27-2026",
+   "https://www.perplexity.ai/help-center/en/articles/14035438-what-is-perplexity-health"
+  ],
+  "channel": "Connector proposal form in the Perplexity Help Center, or email connectors@perplexity.ai with company, use case and API docs (connectors@perplexity.ai)",
+  "contact_url": "https://www.perplexity.ai/help-center/en/articles/2026092501-submit-a-connector-proposal",
+  "warm_path": "Wearable connectors run on Terra API, which is already on the board; a Terra listing gives a second route in alongside a direct proposal.",
+  "fit": 8,
+  "ask": "Send a short connector proposal for Vybe nightly data (HR, HRV, sleep timing against personal baseline) and ask whether they prefer a direct connector or the Terra route.",
+  "opener": "Hi Perplexity Connectors team, I'm Jeremy, founder of Vybe Health in Raleigh. Perplexity Health launched in March with Fitbit, Ultrahuman and Withings connectors, and your Help Center now invites connector proposals. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. When it's ready I'd be glad to send early SDK docs and sample overnight data so your team can judge the fit. Would you rather see a direct connector proposal from us, or should we come in through Terra? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (San Francisco)",
+  "deadline": null,
+  "last_signal_date": "2026-03-27",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "ai-health-assistant",
+   "connectors",
+   "sub-brief-d",
+   "terra-powered"
+  ],
+  "existing_wearables": [
+   "Apple Health",
+   "Fitbit",
+   "Ultrahuman",
+   "Withings"
+  ],
+  "partner_status": "open",
+  "opportunity": "Become a Perplexity Health wearable connector (direct or via Terra) so members can ask about their own overnight baseline."
+ },
+ {
+  "name": "Evidation app connected wearables (real world data source)",
+  "org": "Evidation Health",
+  "role": "Customer and partnerships team (contact form)",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Evidation's app pulls data from Fitbit, Garmin, Oura, Withings, Strava and other connected apps to power real world research for life science and public health partners. An overnight baseline source with HR, HRV and sleep timing fits its prospective studies and real world data offerings.",
+  "why_now": "Evidation launched a Temporal Proteomics Platform for autoimmune research on 8 January 2026 and published GLP-1 insights from 165,000 people on 2 July 2026.",
+  "evidence": [
+   "https://evidation.com/news",
+   "https://help.evidation.com/hc/en-us/articles/360008060493-Currently-available-apps",
+   "https://evidation.com/frequently-asked-questions/how-do-i-connect-the-garmin-app-with-evidation",
+   "https://evidation.com/for-customers/contact-us"
+  ],
+  "channel": "Contact form on evidation.com (For Customers, Contact Us)",
+  "contact_url": "https://evidation.com/for-customers/contact-us",
+  "warm_path": "None known; cold via the customer contact form.",
+  "fit": 7,
+  "ask": "Ask who decides which new data sources the Evidation app adds, and offer SDK docs and sample nights once ready.",
+  "opener": "Hi Evidation team, I'm Jeremy, founder of Vybe Health in Raleigh. I saw the Temporal Proteomics Platform launch in January and your July survey insights from 165,000 people, and I know your members already connect Fitbit, Garmin and Oura. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with a developer SDK. Once ready I'd be glad to share early SDK docs and sample overnight data. Who on your team decides which new data sources the app adds? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (San Mateo, CA)",
+  "deadline": null,
+  "last_signal_date": "2026-07-02",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "research-platform",
+   "real-world-data",
+   "sub-brief-c"
+  ],
+  "existing_wearables": [
+   "Fitbit",
+   "Garmin",
+   "Oura",
+   "Withings",
+   "Strava",
+   "Dexcom"
+  ],
+  "partner_status": "open",
+  "opportunity": "Be added as a connected data source in the Evidation app for research programmes that study sleep and recovery."
+ },
+ {
+  "name": "Function Health Connected Apps (wearable integrations)",
+  "org": "Function Health",
+  "role": "General inbox (hello@functionhealth.com)",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Function members link Oura, Fitbit, Garmin, Apple Health, Withings, Peloton and iFit through Connected Apps so wearable trends sit next to 160+ lab tests and its Medical Intelligence. In 2026 it added AI connectors (Copilot Health in March, ChatGPT, Claude and Perplexity in August) and a Google Health partnership.",
+  "why_now": "On 12 October 2026 Function and Google Health announced a partnership pairing wearable signals such as sleep patterns, resting heart rate and HRV with Function lab results, starting later this fall.",
+  "evidence": [
+   "https://www.functionhealth.com/faqs/does-function-integrate-with-oura-fitbit-apple-health-or-other-health-services",
+   "https://www.functionhealth.com/function-membership",
+   "https://www.prnewswire.com/news-releases/function-and-google-join-forces-to-connect-daily-habits-with-whats-happening-inside-the-body-302905844.html",
+   "https://www.prnewswire.com/news-releases/millions-of-americans-are-already-using-ai-for-health-questions-function-lets-members-bring-personal-biology-into-the-conversation-302853565.html",
+   "https://www.functionhealth.com/newsroom"
+  ],
+  "channel": "Email hello@functionhealth.com or the contact page (hello@functionhealth.com)",
+  "contact_url": "https://www.functionhealth.com/contact-us",
+  "warm_path": "None known; Function's newsroom links all releases, so a reply to the Google Health news is the natural hook.",
+  "fit": 7,
+  "ask": "Ask for the person who reviews new Connected Apps sources and offer SDK docs and sample nights once ready.",
+  "opener": "Hi Function team, I'm Jeremy, founder of Vybe Health in Raleigh. Your October partnership with Google Health pairs sleep patterns and HRV with lab results, and members already link Oura, Garmin and Fitbit through Connected Apps. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. When it's ready I'd be glad to send early SDK docs and sample overnight data. Is there someone on the partnerships side who reviews new Connected Apps sources? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (Austin, TX)",
+  "deadline": null,
+  "last_signal_date": "2026-10-12",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "health-os",
+   "labs-plus-wearables",
+   "sub-brief-d"
+  ],
+  "existing_wearables": [
+   "Oura",
+   "Fitbit",
+   "Garmin",
+   "Apple Health",
+   "Withings",
+   "Peloton",
+   "iFit"
+  ],
+  "partner_status": "open",
+  "opportunity": "Become a Connected Apps source so Function members see overnight baseline trends beside their labs."
+ },
+ {
+  "name": "Welldoc partnering programme (device integration)",
+  "org": "Welldoc",
+  "role": "Partnering team (Contact Welldoc Sales)",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "Welldoc's cardiometabolic platform connects to 400+ devices and data sources, includes sleep support and sleep apnea within its condition coverage, and its Partnering page invites companies to link their therapy or device. It is live as a CMS ACCESS Model participant delivering remote chronic care.",
+  "why_now": "On 30 September 2026 Welldoc launched its AI powered Care Loop connecting daily health data to care teams; it went live in the CMS ACCESS Model on 8 July 2026.",
+  "evidence": [
+   "https://www.welldoc.com/platform/partnering",
+   "https://www.welldoc.com/news/welldoc-launches-ai-powered-care-loop-connecting-daily-health-to-care-teams-keeping-patients-and-clinicians-in-control",
+   "https://www.welldoc.com/news/welldoc-goes-live-on-cms-access-model-as-credentialed-medicare-part-b-supplier-to-deliver-scalable-digital-first-chronic-care",
+   "https://www.welldoc.com/news/welldoc-brings-ai-powered-cardiometabolic-care-to-68-million-medicare-beneficiaries-through-the-access-model-and-medicare-app-library",
+   "https://www.welldoc.com/news-events"
+  ],
+  "channel": "Partnering page contact form (Contact Welldoc Sales)",
+  "contact_url": "https://www.welldoc.com/platform/partnering",
+  "warm_path": "None known; Welldoc also partners with b.well, which could be a second route later.",
+  "fit": 7,
+  "ask": "Ask whether Welldoc adds new wellness wearables directly or only through an aggregator, and offer SDK docs and sample nights once ready.",
+  "opener": "Hi Welldoc team, I'm Jeremy, founder of Vybe Health in Raleigh. Your Care Loop launch on September 30 connects daily health data to care teams, and your partnering page invites device companies to link in. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Once it's ready I'd be glad to share early SDK docs and sample overnight data for your team to review. Does Welldoc bring in new wellness wearables directly, or only through an aggregator? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (Columbia, MD)",
+  "deadline": null,
+  "last_signal_date": "2026-09-30",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "remote-monitoring",
+   "cardiometabolic",
+   "cms-access",
+   "sub-brief-a"
+  ],
+  "existing_wearables": [
+   "Apple Health",
+   "Eversense CGM (Senseonics partnership)",
+   "Bluetooth activity trackers, scales and cuffs (400+ sources)"
+  ],
+  "partner_status": "open",
+  "opportunity": "Join Welldoc's device ecosystem so overnight baseline data can feed Care Loop insights for care teams."
+ },
+ {
+  "name": "THREAD Device and Sensor Library (partner programme)",
+  "org": "THREAD (Definitive Media Corp.)",
+  "role": "Partnerships via sales@threadresearch.com",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "THREAD's DCT and eCOA platform offers 300+ prebuilt integrations with medical devices, wearables and health apps, lets participants share data from their own consumer wearables, and runs a partner programme with a Sensor and Device category. It is based in Cary, NC, close to Vybe in Raleigh.",
+  "why_now": "On 9 September 2026 THREAD announced new capabilities to standardise participant, device and wearable data from any source; on 30 September 2026 it announced new adaptive trials now enrolling.",
+  "evidence": [
+   "https://www.threadresearch.com/one-decentralized-platform/sensors",
+   "https://www.threadresearch.com/services/partnerships",
+   "https://www.threadresearch.com/press-releases/thread-transforms-digital-health-data-into-actionable-trial-insights",
+   "https://www.threadresearch.com/fit-for-purpose-solutions/digital-health-technology",
+   "https://www.threadresearch.com/contact"
+  ],
+  "channel": "Email sales@threadresearch.com referencing the Sensor and Device partner programme (sales@threadresearch.com)",
+  "contact_url": "https://www.threadresearch.com/services/partnerships",
+  "warm_path": "Same Triangle region (THREAD HQ is in Cary, NC); a local in person coffee is realistic.",
+  "fit": 8,
+  "ask": "Ask what a new wearable must show to join the THREAD device library, and offer SDK docs and sample nights once ready.",
+  "opener": "Hi THREAD team, I'm Jeremy, founder of Vybe Health, just up the road from you in Raleigh. Your September 9 release on unifying device and wearable data from any source caught my eye, along with your Sensor and Device partner programme. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Once ready I'd be glad to share early SDK docs and sample overnight data. What does a new wearable need to show before it joins your device library? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (Cary, NC)",
+  "deadline": null,
+  "last_signal_date": "2026-09-30",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "dct",
+   "ecoa",
+   "device-library",
+   "local-nc",
+   "sub-brief-c"
+  ],
+  "existing_wearables": [
+   "Consumer wearables via participant data sharing",
+   "Apple iOS Health apps",
+   "300+ prebuilt device, wearable and app integrations"
+  ],
+  "partner_status": "open",
+  "opportunity": "Get Vybe into THREAD's device and sensor library for decentralised and hybrid studies that track sleep and recovery."
+ },
+ {
+  "name": "dacadoo App Connector (insurer wellness platform)",
+  "org": "dacadoo",
+  "role": "Partnerships via contact form",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "dacadoo's Digital Health Engagement Platform is white labelled by life and health insurers; its App Connector syncs sleep sessions, workout heart rate, steps and weight from several third party trackers into its Health Score, and a DHEP API lets partners build on it.",
+  "why_now": "On 19 May 2026 dacadoo announced a partnership with Bradesco Vida e Previdência to bring digital health engagement to millions of policyholders in Brazil.",
+  "evidence": [
+   "https://appconnector.dacadoo.com",
+   "https://www.dacadoo.com/news/dacadoo-bradesco-digital-health-engagement-brazil/",
+   "https://www.dacadoo.com/solutions/dhep/",
+   "https://www.dacadoo.com/solutions/dhep/api/"
+  ],
+  "channel": "Contact form on dacadoo.com",
+  "contact_url": "https://www.dacadoo.com/contact-us/",
+  "warm_path": "None known.",
+  "fit": 7,
+  "ask": "Ask how a new device is added to the App Connector list, and offer SDK docs and sample nights once ready.",
+  "opener": "Hi dacadoo team, I'm Jeremy, founder of Vybe Health in Raleigh. Congratulations on the Bradesco Vida e Previdência partnership in May; your App Connector already syncs sleep sessions and heart rate from several trackers into the Health Score. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Once ready I'd be glad to share early SDK docs and sample overnight data. How does a new device get added to the App Connector list? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Switzerland (global insurer clients)",
+  "deadline": null,
+  "last_signal_date": "2026-05-19",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "insurance",
+   "life-insurance",
+   "wellness-platform",
+   "sub-brief-b",
+   "reserve"
+  ],
+  "existing_wearables": [
+   "Multiple third party trackers via App Connector (sleep session, heart rate, steps, weight)"
+  ],
+  "partner_status": "open",
+  "opportunity": "Be added as an App Connector source so insurer programmes can use overnight baseline data in the Health Score."
+ },
+ {
+  "name": "IEEE P1752 Open Mobile Health Working Group (P1752.2 CardioRespiratory and Sleep subgroups)",
+  "org": "IEEE Standards Association (EMB Standards Committee)",
+  "role": "Working group mailing list (1752-wg via ListServ@ieee.org)",
+  "type": "community",
+  "hunt": "growth",
+  "why": "P1752 publishes open schemas for mobile health data; P1752.2 covers cardiovascular, respiratory and metabolic measures, with wearable makers and data aggregators named as stakeholders, and there is a Sleep subgroup. Joining is by subscribing to the 1752-wg listserv. Mapping Vybe's SDK output to these schemas would make it easier for aggregators to take in.",
+  "why_now": "The working group posted slides and minutes for calls throughout 2026 (6 January to 22 September); the next CardioRespiratory subgroup call is 22 October 2026 and the next working group call is 3 November 2026.",
+  "evidence": [
+   "https://sagroups.ieee.org/1752/",
+   "https://sagroups.ieee.org/1752/meeting-agenda-minutes/",
+   "https://sagroups.ieee.org/1752/meetings/",
+   "https://opensource.ieee.org/omh/1752/-/tree/main"
+  ],
+  "channel": "Email ListServ@ieee.org with subject 1752-wg and body 'subscribe 1752-wg FirstName LastName', then post to the list (ListServ@ieee.org)",
+  "contact_url": "https://sagroups.ieee.org/1752/",
+  "warm_path": "Open mHealth lineage; the group's own pages list openmhealth.org contacts, but no named person is greeted.",
+  "fit": 8,
+  "ice": {
+   "impact": 7,
+   "confidence": 8,
+   "ease": 9,
+   "score": 8.0,
+   "note": "Free listserv join; low effort, builds standards credibility with aggregators."
+  },
+  "ask": "Subscribe to 1752-wg, listen in on the 22 October CardioRespiratory subgroup call, and offer Vybe overnight HR, HRV and sleep timing fields as a test case for P1752.2 schemas.",
+  "opener": "Hello P1752 working group, I'm Jeremy, founder of Vybe Health in Raleigh. I've been reading the P1752.2 cardiorespiratory work and your 2026 meeting minutes, most recently September 22. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK, and we'd like our data to map cleanly to your schemas. Once ready I'd be glad to share early SDK docs and sample overnight data as a test case. Would the cardiorespiratory subgroup welcome a new wearable maker listening in on October 22? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Global (virtual calls)",
+  "deadline": "2026-10-22 (next CardioRespiratory subgroup call)",
+  "last_signal_date": "2026-09-22",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "standards",
+   "open-mhealth",
+   "interoperability",
+   "sub-brief-e",
+   "exploratory"
+  ]
+ }
+]
