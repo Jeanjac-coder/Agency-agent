@@ -4396,6 +4396,41 @@
    "verdict": "B",
    "reason": "Exploratory test of a developer newsletter channel; low reach and wearable focus is indirect.",
    "move": "Would an open overnight data SDK fit your planned piece on companies building in the open?"
+  },
+  "rouvy-companion-app-health-metrics-whoop-oura-apple-health-beta-virtualtraining-": {
+   "verdict": "A",
+   "reason": "Direct WHOOP and Oura overnight HRV and sleep feeds, and their own page says the supported platform list is still being built. Only a general contact form is published.",
+   "move": "Pass a short note to the Companion App health integrations owner and tell us what they need from a new overnight data source during the beta."
+  },
+  "hexis-wearable-wellness-sync-for-athlete-fuelling-hexis-health-and-human-perform": {
+   "verdict": "A",
+   "reason": "Direct Garmin and WHOOP overnight wellness sync, fresh team sport wins outside the US, and a published email. Smaller brand than the consumer names.",
+   "move": "Route a short note to whoever owns wearable integrations and tell us how Hexis decides which new wellness sources to add."
+  },
+  "zwift-whoop-integration-recovery-score-adjusts-personal-recommendations-zwift-in": {
+   "verdict": "B",
+   "reason": "Huge name and a fresh 2026 recovery integration it calls the first, but only WHOOP feeds overnight data and the only published contact is PR.",
+   "move": "Forward a short note to the team that built the WHOOP connection and share whether Zwift plans more recovery data partners."
+  },
+  "headspace-connected-devices-oura-and-new-apple-watch-app-headspace": {
+   "verdict": "B",
+   "reason": "Big name with a named 2026 Connected Devices launch, but the Oura article body sat behind a bot check (wording seen in the search index only) and the only route is a general brand partners form.",
+   "move": "Route a short note to the Connected Devices product owner and share how Headspace decides which devices to add next."
+  },
+  "form-swim-system-whoop-recovery-integration-form": {
+   "verdict": "B",
+   "reason": "Fresh 2026 recovery integration with a defined use, but only WHOOP supplies overnight data, and the only published contact is support.",
+   "move": "Forward a short note to the owner of Connected Apps and share whether they would consider a second recovery source."
+  },
+  "athletemonitoring-wearable-integrations-whoop-oura-polar-garmin-fitstats-technol": {
+   "verdict": "B",
+   "reason": "Strong fit, four direct wearable feeds and a named contact, but a niche B2B brand.",
+   "move": "A short reply on how AthleteMonitoring picks new wearable integrations and what data format they prefer."
+  },
+  "out-there-healthtech-free-community-and-landing-pad-health-on-cloud-productions-": {
+   "verdict": "B",
+   "reason": "Free, active in October 2026 and open to outside firms, but broad healthtech rather than wearable specific, and NHS leaning.",
+   "move": "Join the free community and ask the team which members work on consumer wearables or sleep."
   }
  }
 }
