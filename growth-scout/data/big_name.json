@@ -308,6 +308,38 @@
   "hackaday-io-project-page-plus-hackaday-tip-line-hackaday-supplyframe": {
    "big_name": 6,
    "big_name_why": "Hackaday is a well-known name among hardware engineers and makers; modest recognition with investors."
+  },
+  "center-for-remote-health-monitoring-ryan-mcginnis-phd-wake-forest-university-sch": {
+   "big_name": 6,
+   "big_name_why": "Wake Forest University School of Medicine inside Atrium Health / Advocate Health is a recognised academic health system; the center itself is less known to investors."
+  },
+  "vital-coach-medical-student-resiliency-study-dermot-phelan-md-phd-wake-forest-un": {
+   "big_name": 6,
+   "big_name_why": "Atrium Health Wake Forest Baptist and the Sanger Heart & Vascular Institute are well known regional names; Phelan is a sports cardiologist with a public profile."
+  },
+  "ai-sleep-chatbot-trials-with-fitbit-sleep-outcomes-xiaoyue-liu-phd-new-york-univ": {
+   "big_name": 7,
+   "big_name_why": "NYU is a top tier research university well known to health-tech investors."
+  },
+  "night-shift-fatigue-coaching-trial-with-fitbit-sleep-and-hrv-steven-bird-md-umas": {
+   "big_name": 6,
+   "big_name_why": "UMass Chan Medical School is a recognised academic medical center in the Boston area."
+  },
+  "personalized-trials-program-with-fitbit-sleep-baselines-karina-davidson-phd-nort": {
+   "big_name": 7,
+   "big_name_why": "Northwell Health is New York's largest health system and the Feinstein Institutes are well known; Davidson is a senior research leader."
+  },
+  "cadet-sleep-pilot-at-the-citadel-with-oura-ring-mark-rosenberg-md-medical-univer": {
+   "big_name": 5,
+   "big_name_why": "MUSC is a known regional academic medical center but not a top name for health-tech investors; The Citadel adds military context."
+  },
+  "cardiovascular-and-applied-physiology-laboratory-sleep-study-joseph-watso-phd-fl": {
+   "big_name": 5,
+   "big_name_why": "Florida State is a large research university with moderate recognition among health-tech investors."
+  },
+  "4youandme-our-transitions-study-and-open-source-study-app-framework-sarah-goodda": {
+   "big_name": 5,
+   "big_name_why": "A small research nonprofit; its Open Band page lists Sage Bionetworks and Tsinghua University as collaborators, which helps but is not a big investor name."
   }
  }
 }

@@ -1,6 +1,6 @@
 {
  "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
- "checked": "2026-10-19T02:50Z",
+ "checked": "2026-10-19T10:50Z",
  "threads": [
   {
    "org": "Head of the Schuylkill Regatta",
@@ -479,6 +479,16 @@
    "due": "2026-10-21",
    "offer": "John replied 18 Oct 23:40-23:53Z to three Marksom approval threads with per-number verdicts: approve-with-changes 10, 11, 16, 18, 20, 21, 22, 25; change/reserve 12-15, 23, 24; no 17, 19, 26; Akron (27): Jeremy owns the 22 Oct call, no bands, sponsorship or content commitments.",
    "next": "These are Marksom's drafts, not Growsom's; Growsom sends nothing on them. Owner: Marksom to apply the wording changes; Jeremy to decide sending on the approval page (the founder said John's yes is not approval) and to keep or move the Akron call by 21 Oct. John's general notes (confirm sender identity, development-stage wording, no 'before any ask', ask about distribution first) are now applied to Growsom's new openers."
+  },
+  {
+   "org": "Bevel (hello@bevel.health)",
+   "to": "hello@bevel.health",
+   "role": "Bevel support",
+   "first_sent": "2026-10-19",
+   "state": "auto-reply",
+   "due": "2026-10-26",
+   "offer": "The marketing desk emailed Bevel at 03:13Z 19 Oct asking which third-party HRV, heart rate and sleep data Bevel reads via Apple Health; Bevel sent an out-of-office auto-reply.",
+   "next": "Owner: marketing desk. Growsom's own Bevel draft on the approval page (bevel-bevel-bevel-health) should not also be sent; Jeremy to reject or hold it. If Bevel answers, log it here."
   }
  ],
  "forwarded": [

@@ -1,0 +1,311 @@
+[
+ {
+  "name": "Center for Remote Health Monitoring (Ryan McGinnis, PhD)",
+  "org": "Wake Forest University School of Medicine (Atrium Health / Advocate Health)",
+  "role": "Founding director, Center for Remote Patient and Participant Monitoring; Associate Professor of Biomedical Engineering",
+  "type": "research-lab",
+  "hunt": "growth",
+  "why": "The center runs several remote studies built on Oura Rings. Its April 2026 Frontiers in Digital Health paper used over 6 months of Oura passive sensing in 182 young adults to find next day panic attack risk factors. The team is NC based and works on wearable digital biomarkers at health system scale.",
+  "why_now": "On 2026-10-07 the center posted a grant funded Data Collector role to run recruitment and remote data collection with Oura Rings, so new protocols are being staffed now.",
+  "evidence": [
+   "https://aah.wd5.myworkdayjobs.com/en-US/External/job/Data-Collector--Center-for-Remote-Health-Monitoring_R274955-1",
+   "https://school.wakehealth.edu/research/institutes-and-centers/center-for-remote-health-monitoring",
+   "https://school.wakehealth.edu/faculty/m/ryan-mcginnis",
+   "https://doi.org/10.3389/fdgth.2026.1764371"
+  ],
+  "channel": "email (rmcginni@wakehealth.edu)",
+  "contact_url": "https://school.wakehealth.edu/faculty/m/ryan-mcginnis",
+  "warm_path": "None known. Same state (Raleigh to Winston-Salem); possible intro through Wake Forest or Atrium Health innovation contacts.",
+  "fit": 8,
+  "ice": {
+   "i": 7,
+   "c": 7,
+   "e": 7
+  },
+  "ask": "A 20-minute call on which overnight fields and export format their Oura based remote protocols need, and our data format and SDK docs once ready.",
+  "opener": "Hi Dr. McGinnis, I'm Jeremy, founder of Vybe Health in Raleigh. I read your center's Frontiers in Digital Health paper using six months of Oura Ring data from 182 young adults to spot next day panic attack risk, and saw the new Data Collector role for Oura based remote studies. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Happy to send our data format and SDK docs once ready. Which overnight fields matter most for your remote protocols? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Winston-Salem, NC",
+  "deadline": null,
+  "last_signal_date": "2026-10-07",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "NC",
+   "digital-health",
+   "mobile-sensing",
+   "Oura",
+   "remote-monitoring",
+   "lane-a",
+   "lane-d"
+  ]
+ },
+ {
+  "name": "Vital Coach medical student resiliency study (Dermot Phelan, MD, PhD)",
+  "org": "Wake Forest University Health Sciences / Atrium Health Sanger Heart & Vascular Institute",
+  "role": "Principal investigator; sports cardiologist",
+  "type": "research-lab",
+  "hunt": "growth",
+  "why": "The Vital Coach study (NCT07342673) ran January to May 2026 with first year medical students and used nightly PPG wearable data as its primary outcomes: nocturnal HRV (RMSSD), nocturnal resting heart rate, sleep duration and sleep consistency (SD of mid sleep time). That outcome set is very close to what Vybe measures against each person's own baseline.",
+  "why_now": "The registry record was updated on 2026-07-28 after the study completed in May 2026, so the team is likely planning analysis and any follow up cohort now.",
+  "evidence": [
+   "https://clinicaltrials.gov/study/NCT07342673"
+  ],
+  "channel": "ClinicalTrials.gov record, then Atrium Health office or LinkedIn",
+  "contact_url": "https://clinicaltrials.gov/study/NCT07342673",
+  "warm_path": "None known. NC health system; possible intro through Atrium Health or Charlotte sports medicine contacts.",
+  "fit": 8,
+  "ice": {
+   "i": 7,
+   "c": 6,
+   "e": 5
+  },
+  "ask": "A 20-minute call on what overnight data a follow up cohort would need, and whether sleep timing consistency stays a primary outcome.",
+  "opener": "Hi Dr. Phelan, I'm Jeremy, founder of Vybe Health in Raleigh. Your Vital Coach study with first year medical students tracked nocturnal HRV, resting heart rate, sleep duration and sleep consistency from January to May 2026. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. I'd value a short call on what overnight data a follow up cohort would need. Would sleep timing consistency stay a primary outcome next round? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Winston-Salem and Charlotte, NC",
+  "deadline": null,
+  "last_signal_date": "2026-07-28",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "NC",
+   "sports-cardiology",
+   "HRV",
+   "sleep-timing",
+   "medical-students",
+   "lane-a",
+   "lane-b"
+  ]
+ },
+ {
+  "name": "AI sleep chatbot trials with Fitbit sleep outcomes (Xiaoyue Liu, PhD)",
+  "org": "New York University (Rory Meyers College of Nursing)",
+  "role": "Principal investigator and listed study contact",
+  "type": "research-lab",
+  "hunt": "growth",
+  "why": "Liu runs a recruiting trial (NCT07718750, Generative AI for Sleep Promotion) whose outcomes are Fitbit measured sleep duration, sleep onset, sleep efficiency and wake after sleep onset in U.S. adults, plus a new pilot for Filipino American adults with poor sleep (NCT07850687).",
+  "why_now": "NCT07850687 was posted as not yet recruiting on 2026-10-02 and NCT07718750 was updated on 2026-07-22, so protocols are active this fall.",
+  "evidence": [
+   "https://clinicaltrials.gov/study/NCT07718750",
+   "https://clinicaltrials.gov/study/NCT07850687"
+  ],
+  "channel": "email (xl5272@nyu.edu)",
+  "contact_url": "https://clinicaltrials.gov/study/NCT07850687",
+  "warm_path": "None known.",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 7,
+   "e": 7
+  },
+  "ask": "Share our data format and SDK docs once ready; 20 minutes on which nightly measures their chatbot uses to tailor guidance.",
+  "opener": "Hi Dr. Liu, I'm Jeremy, founder of Vybe Health. I saw your Generative AI for Sleep Promotion trial uses Fitbit measured sleep duration, onset and efficiency, and that your Filipino American sleep pilot was posted this month. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Happy to share our data format and SDK docs once ready. Which nightly measures does your chatbot use to tailor its guidance? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "New York, NY",
+  "deadline": null,
+  "last_signal_date": "2026-10-02",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "NYU",
+   "sleep",
+   "Fitbit",
+   "AI-chatbot",
+   "sleep-timing",
+   "lane-d"
+  ]
+ },
+ {
+  "name": "Night shift fatigue coaching trial with Fitbit sleep and HRV (Steven Bird, MD)",
+  "org": "UMass Chan Medical School / UMass Memorial Health",
+  "role": "Principal investigator and listed site contact; Professor of Emergency Medicine",
+  "type": "research-lab",
+  "hunt": "growth",
+  "why": "NCT06100809 tests personalized fatigue coaching for emergency medicine residents on night shifts and measures sleep, HRV and readiness/recovery with Fitbit across a baseline week, the night shift block and a recovery week. Healthy adult shift workers, overnight recovery focus.",
+  "why_now": "The record was updated on 2026-03-13 with an estimated start of 2026-07-15, so data collection setup is current.",
+  "evidence": [
+   "https://clinicaltrials.gov/study/NCT06100809"
+  ],
+  "channel": "email (steven.bird@umassmemorial.org)",
+  "contact_url": "https://clinicaltrials.gov/study/NCT06100809",
+  "warm_path": "None known.",
+  "fit": 8,
+  "ice": {
+   "i": 6,
+   "c": 7,
+   "e": 7
+  },
+  "ask": "A 20-minute call on what overnight data their protocol needs, especially daytime sleep after night shifts; our data format once ready.",
+  "opener": "Hi Dr. Bird, I'm Jeremy, founder of Vybe Health. Your fatigue coaching trial for emergency medicine residents on night shifts plans to track sleep, HRV and recovery with Fitbit across baseline, night shift and recovery weeks. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. I'd be glad to do a short call on what overnight data your protocol needs. How are you handling daytime sleep after night shifts in the Fitbit data? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Worcester, MA",
+  "deadline": null,
+  "last_signal_date": "2026-03-13",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "shift-work",
+   "HRV",
+   "recovery",
+   "Fitbit",
+   "residents",
+   "lane-b"
+  ]
+ },
+ {
+  "name": "Personalized Trials program with Fitbit sleep baselines (Karina Davidson, PhD)",
+  "org": "Northwell Health, Institute of Health System Science / Feinstein Institutes for Medical Research",
+  "role": "Principal investigator of the Personalized Trials program",
+  "type": "research-lab",
+  "hunt": "growth",
+  "why": "Davidson's group runs N of 1 Personalized Trials. NCT05408832 used a two week run in baseline with Fitbit derived sleep and activity data, then returned a personal report to each participant. The program also lists a Sleep Quality study and a Fitbit study on its site. Their within person design is the same idea as Vybe's own baseline comparison.",
+  "why_now": "The NCT05408832 registry record was updated on 2026-03-23, and the program site still invites researchers and clinicians to get in touch.",
+  "evidence": [
+   "https://clinicaltrials.gov/study/NCT05408832",
+   "https://www.personalizedhealth.org"
+  ],
+  "channel": "email (personalizedtrials@northwell.edu)",
+  "contact_url": "https://www.personalizedhealth.org",
+  "warm_path": "None known to the lab. Northwell Holdings is already on the board as a separate investment contact; do not mix the two threads.",
+  "fit": 8,
+  "ice": {
+   "i": 7,
+   "c": 6,
+   "e": 6
+  },
+  "ask": "Share our data format and SDK docs once ready; 20 minutes on which nightly measures were most useful in their personal reports.",
+  "opener": "Hi Dr. Davidson, I'm Jeremy, founder of Vybe Health. Your Personalized Trials for Stress Management study used a run in baseline with Fitbit sleep data to build each person's report, and its record was updated in March 2026. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK, so your N of 1 approach is close to ours. Happy to share our data format and SDK docs once ready. Which nightly measures proved most useful in the reports? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "New York, NY",
+  "deadline": null,
+  "last_signal_date": "2026-03-23",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "N-of-1",
+   "personal-baseline",
+   "Fitbit",
+   "sleep",
+   "Northwell",
+   "lane-d"
+  ]
+ },
+ {
+  "name": "Cadet sleep pilot at The Citadel with Oura Ring (Mark Rosenberg, MD)",
+  "org": "Medical University of South Carolina, Department of Neurology (Aerospace and Performance Neurology)",
+  "role": "Principal investigator",
+  "type": "research-lab",
+  "hunt": "growth",
+  "why": "NCT07201935 is a pilot in 45 military cadets from The Citadel's Ranger Challenge group testing cold water immersion, sauna and their combination on sleep, with Oura Ring sleep efficiency, total sleep and stage durations as outcomes. Military and tactical lane on the East Coast.",
+  "why_now": "Record updated 2026-09-01 with an estimated start of October 2026, so the protocol is starting now.",
+  "evidence": [
+   "https://clinicaltrials.gov/study/NCT07201935"
+  ],
+  "channel": "ClinicalTrials.gov record, then MUSC Neurology directory",
+  "contact_url": "https://clinicaltrials.gov/study/NCT07201935",
+  "warm_path": "None known. MUSC Health Sports Medicine is already on the board as a separate contact; this is a different department.",
+  "fit": 8,
+  "ice": {
+   "i": 5,
+   "c": 6,
+   "e": 5
+  },
+  "ask": "A 20-minute call on what overnight data a cadet protocol needs; our data format and SDK docs once ready.",
+  "opener": "Hi Dr. Rosenberg, I'm Jeremy, founder of Vybe Health. I saw your pilot at The Citadel testing cold water immersion and sauna on cadet sleep, with the Oura Ring tracking sleep efficiency and stage durations. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. I'd welcome a short call on what overnight data a cadet protocol like yours needs. Are you looking at how each cadet's nights shift from their own baseline across the exposures? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Charleston, SC",
+  "deadline": null,
+  "last_signal_date": "2026-09-01",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "military",
+   "cadets",
+   "Oura",
+   "sleep",
+   "recovery",
+   "lane-c",
+   "reserve"
+  ]
+ },
+ {
+  "name": "Cardiovascular and Applied Physiology Laboratory sleep study (Joseph Watso, PhD)",
+  "org": "Florida State University",
+  "role": "Principal investigator; lab director",
+  "type": "research-lab",
+  "hunt": "growth",
+  "why": "NCT06403098 tested nasal dilator strips during sleep in adults and tracked immediate post waking HRV (SDNN) and heart rate with a Polar H10 and the Elite HRV app for 14 consecutive days, plus objective and perceived sleep quality.",
+  "why_now": "Registry record updated 2026-09-09 after completion, so results and the next protocol are in play.",
+  "evidence": [
+   "https://clinicaltrials.gov/study/NCT06403098"
+  ],
+  "channel": "ClinicalTrials.gov record, then FSU directory",
+  "contact_url": "https://clinicaltrials.gov/study/NCT06403098",
+  "warm_path": "None known.",
+  "fit": 7,
+  "ice": {
+   "i": 4,
+   "c": 6,
+   "e": 5
+  },
+  "ask": "Share our data format and SDK docs once ready; ask whether overnight HRV would help their next sleep protocol.",
+  "opener": "Hi Dr. Watso, I'm Jeremy, founder of Vybe Health. Your nasal dilator strip study tracked post waking HRV with a Polar H10 and Elite HRV over 14 days alongside sleep quality. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. Happy to send our data format and SDK docs once ready. Would overnight HRV, rather than a single morning reading, help your next sleep protocol? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Tallahassee, FL",
+  "deadline": null,
+  "last_signal_date": "2026-09-09",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "exercise-physiology",
+   "HRV",
+   "Polar",
+   "sleep",
+   "lane-b",
+   "reserve"
+  ]
+ },
+ {
+  "name": "4YouandMe Our Transitions study and open source study app framework (Sarah Goodday, PhD)",
+  "org": "4YouandMe (research nonprofit)",
+  "role": "Listed study contact, Our Transitions",
+  "type": "app-partner",
+  "hunt": "partnership",
+  "why": "4YouandMe builds open source study apps for wearable research cohorts. Its Our Transitions study (NCT07597915) gives participants an Oura Ring Gen 4 and a Fitbit Sense 2 and collects data from both through its study app for 6 to 9 months. Its iOS framework is public on GitHub and was updated in October 2026, and its own site lists an Open Band Challenge for an open firmware wristband, so it serves researchers and thinks about open wearable data.",
+  "why_now": "Our Transitions was posted with a May 2026 start (record updated 2026-05-20) and the 4YouandMeiOS repository was pushed on 2026-10-02.",
+  "evidence": [
+   "https://clinicaltrials.gov/study/NCT07597915",
+   "https://github.com/4YouandMeData/4YouandMeiOS",
+   "https://4youandme.org/our-studies/open-band-challenge",
+   "https://www.4youandme.org/studies"
+  ],
+  "channel": "email (sarah@4youandme.org)",
+  "contact_url": "https://clinicaltrials.gov/study/NCT07597915",
+  "warm_path": "None known.",
+  "fit": 8,
+  "ask": "A data format conversation about what a new overnight device must provide to be added to their open source study framework.",
+  "opener": "Hi Dr. Goodday, I'm Jeremy, founder of Vybe Health. I saw Our Transitions pairs the Oura Ring Gen 4 and Fitbit Sense 2 with your study app, and that 4YouandMe keeps its iOS study framework open source. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. I'd like to compare data formats so Vybe could fit your framework later. What does a new device need to provide for your team to consider it? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "New York (studies in US and Canada)",
+  "deadline": null,
+  "last_signal_date": "2026-10-02",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "app-partner",
+   "open-source",
+   "research-platform",
+   "Oura",
+   "Fitbit",
+   "exploratory",
+   "exploratory"
+  ],
+  "existing_wearables": [
+   "Oura Ring Gen 4",
+   "Fitbit Sense 2"
+  ],
+  "partner_status": "open",
+  "opportunity": "Become a supported overnight device in 4YouandMe's open source study framework used for multi wearable research cohorts."
+ }
+]

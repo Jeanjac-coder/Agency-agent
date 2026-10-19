@@ -4196,6 +4196,46 @@
    "verdict": "B",
    "reason": "Free and active in 2026, but untested for pre-launch consumer hardware; useful mainly for SDK developer reach.",
    "move": "Publish a free project page on the SDK and send one tip pointing editors to it."
+  },
+  "center-for-remote-health-monitoring-ryan-mcginnis-phd-wake-forest-university-sch": {
+   "verdict": "A",
+   "reason": "NC lab with active, staffed Oura based remote studies and a published faculty email; a data format conversation is a natural free next step.",
+   "move": "A 20-minute call on which overnight fields and export format their Oura based remote protocols need, and our data format and SDK docs once ready."
+  },
+  "vital-coach-medical-student-resiliency-study-dermot-phelan-md-phd-wake-forest-un": {
+   "verdict": "A",
+   "reason": "Outcomes match Vybe's nightly metrics almost one to one; the study used a coaching platform from another company, so pitch a data conversation only. No published email, so outreach is slower.",
+   "move": "A 20-minute call on what overnight data a follow up cohort would need, and whether sleep timing consistency stays a primary outcome."
+  },
+  "ai-sleep-chatbot-trials-with-fitbit-sleep-outcomes-xiaoyue-liu-phd-new-york-univ": {
+   "verdict": "A",
+   "reason": "Two live 2026 protocols with consumer wearable sleep timing outcomes and a published registry email.",
+   "move": "Share our data format and SDK docs once ready; 20 minutes on which nightly measures their chatbot uses to tailor guidance."
+  },
+  "night-shift-fatigue-coaching-trial-with-fitbit-sleep-and-hrv-steven-bird-md-umas": {
+   "verdict": "A",
+   "reason": "Overnight HRV and recovery in shift workers maps directly to Vybe; published registry email for the PI.",
+   "move": "A 20-minute call on what overnight data their protocol needs, especially daytime sleep after night shifts; our data format once ready."
+  },
+  "personalized-trials-program-with-fitbit-sleep-baselines-karina-davidson-phd-nort": {
+   "verdict": "A",
+   "reason": "Strongest conceptual match (within person baselines) at a big name system; 2026 signal is a registry update rather than a new protocol, so confidence is medium.",
+   "move": "Share our data format and SDK docs once ready; 20 minutes on which nightly measures were most useful in their personal reports."
+  },
+  "cadet-sleep-pilot-at-the-citadel-with-oura-ring-mark-rosenberg-md-medical-univer": {
+   "verdict": "B",
+   "reason": "Good tactical fit with a live 2026 start, but no published email and mid tier recognisability.",
+   "move": "A 20-minute call on what overnight data a cadet protocol needs; our data format and SDK docs once ready."
+  },
+  "cardiovascular-and-applied-physiology-laboratory-sleep-study-joseph-watso-phd-fl": {
+   "verdict": "B",
+   "reason": "Defined consumer HRV use in a sleep protocol, but the study is complete, no published email, and recognisability is mid tier.",
+   "move": "Share our data format and SDK docs once ready; ask whether overnight HRV would help their next sleep protocol."
+  },
+  "4youandme-our-transitions-study-and-open-source-study-app-framework-sarah-goodda": {
+   "verdict": "B",
+   "reason": "Exploratory row of a new kind: open source multi wearable research platform with an explicit interest in open bands. Only a data format talk; do not discuss funding their Open Band work.",
+   "move": "A data format conversation about what a new overnight device must provide to be added to their open source study framework."
   }
  }
 }
