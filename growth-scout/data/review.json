@@ -4236,6 +4236,36 @@
    "verdict": "B",
    "reason": "Exploratory row of a new kind: open source multi wearable research platform with an explicit interest in open bands. Only a data format talk; do not discuss funding their Open Band work.",
    "move": "A data format conversation about what a new overnight device must provide to be added to their open source study framework."
+  },
+  "schare-smart-devices-and-sensing-technologies-grand-challenge-phase-i-national-i": {
+   "verdict": "A",
+   "reason": "Wearables-specific, free, online, open now with a dated timeline on NIH's own page. Watch-outs: the brief is framed around chronic disease disparities, so Vybe must enter as a wellness data and SDK concept with no clinical claims; Phase II needs a functional device, which we should not promise.",
+   "move": "Sign up by 18 Dec 2026 and send a Phase I proof of concept by 15 Feb 2027 for the nightly personal-baseline data layer and SDK as an interoperable research data source."
+  },
+  "milestone-makers-winter-2027-healthtech-cohort-nasdaq-entrepreneurial-center": {
+   "verdict": "A",
+   "reason": "Free, virtual, health-themed, open now with a deadline one week out on the programme's own page. Generic mentoring rather than hardware-specific, so fit is 7.",
+   "move": "Apply by 26 Oct 2026 with one 12-week milestone: turn the waitlist into a first structured wear group and close a pre-seed round."
+  },
+  "st-innovation-challenge-healthcare-and-wearables-track-innovation-world-cup-2027": {
+   "verdict": "A",
+   "reason": "Hardware and wearables specific, free entry and free kits, remote support. Only finalists are invited to pitch in person at Hannover Messe, which we can decline. The ST page itself states no date; the 4 Feb 2027 deadline comes from the Innovation World Cup page it sits under, so confirm the ST track date when entering.",
+   "move": "Enter by 4 Feb 2027, pick the ST Innovation Challenge, and ask for an ST development kit plus a field application engineer session on low-power biosignal sensing and on-device processing."
+  },
+  "military-founders-lab-cohort-27a-ideation-seed-track-d-aniello-institute-for-vet": {
+   "verdict": "B",
+   "reason": "Free, virtual, dated 2027 cohorts on its own page, and squarely for veteran founders. Not health or hardware specific, so lower leverage. No application deadline is published (interest form), so deadline is null; last_signal_date is the date the page was checked, as the page shows no publish date.",
+   "move": "Fill in the interest form for cohort 27A (Ideation/Seed track, Tuesdays 2:30pm ET) and ask Rosie Lee to confirm Vybe's eligibility."
+  },
+  "agetech-collaborative-january-open-mic-challenge-accelerator-and-testbed-network": {
+   "verdict": "B",
+   "reason": "Exploratory row: free nonprofit testbed network for real-user pilots, reached through a free, no-equity virtual accelerator; dated deadline on its own page. Testbed access is not guaranteed and comes after the accelerator; last_signal_date is the date the page was checked.",
+   "move": "Apply by 31 Oct 2026 to pitch at the 28 Jan 2027 online Open Mic, with the goal of entering the accelerator and then a Testbed pilot with older adult users."
+  },
+  "healthcare-innovation-world-cup-2027-wearables-and-digital-health-innovation-wor": {
+   "verdict": "B",
+   "reason": "Reserve: wearables specific and free, but low US investor recognition, the deadline is far off, and finalist pitching is in person in Germany (optional; can be declined).",
+   "move": "Enter the healthcare category with the same profile used for the ST Innovation Challenge, before 9 Sep 2027."
   }
  }
 }

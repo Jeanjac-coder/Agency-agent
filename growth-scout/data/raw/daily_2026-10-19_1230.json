@@ -1,0 +1,244 @@
+[
+ {
+  "name": "SCHARE Smart Devices and Sensing Technologies Grand Challenge (Phase I)",
+  "org": "National Institute on Minority Health and Health Disparities (NIMHD), NIH",
+  "role": null,
+  "type": "program",
+  "hunt": "growth",
+  "why": "NIH challenge that explicitly asks for wearable sensors, software and integrated sensing ecosystems that generate interoperable, AI-ready whole-person data. Phase I only asks for a proof of concept, so a pre-launch team with a nightly personal-baseline concept and a developer SDK can enter. Free, fully online (web form plus a Box upload). Eligibility: US citizen team lead or a US-incorporated entity; SAM.gov entity setup is needed to receive any cash award.",
+  "why_now": "Launched 21 Sep 2026; sign-up closes 18 Dec 2026; Phase I proof of concept due 15 Feb 2027; Phase I winners named 26 Mar 2027.",
+  "evidence": [
+   "https://www.nimhd.nih.gov/resources/schare/grand-challenges/smart-devices-and-sensing-technologies",
+   "https://www.nimhd.nih.gov/resources/schare/grand-challenges"
+  ],
+  "channel": "Online sign-up form linked from the challenge page, then submission to an assigned Box folder; questions to the published SCHARE challenges inbox (SCHAREChallenges@nih.gov)",
+  "contact_url": "https://www.nimhd.nih.gov/resources/schare/grand-challenges/smart-devices-and-sensing-technologies",
+  "warm_path": "None known. Cold: the challenge inbox, and the NIH SCHARE Think-a-Thon community listed on the same site.",
+  "fit": 8,
+  "ice": {
+   "i": 8,
+   "c": 5,
+   "e": 6
+  },
+  "ask": "Sign up by 18 Dec 2026 and send a Phase I proof of concept by 15 Feb 2027 for the nightly personal-baseline data layer and SDK as an interoperable research data source.",
+  "opener": "Hello SCHARE team, I'm Jeremy, founder of Vybe Health in Raleigh, NC. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK that gives researchers consistent nightly data. We plan to enter Phase I with a proof of concept for an interoperable, AI ready nightly data layer that could sit alongside SCHARE. We have not launched yet, we have a public waitlist, and we are veteran, woman and minority owned. Could we confirm scope fit on a short call before we submit? https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (online; US citizen lead or US-incorporated entity)",
+  "deadline": "2026-12-18",
+  "last_signal_date": "2026-09-21",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "nih",
+   "challenge",
+   "wearables",
+   "sensors",
+   "sdk",
+   "ai-ready-data",
+   "free",
+   "virtual",
+   "lane-a-b"
+  ]
+ },
+ {
+  "name": "Milestone Makers: Winter 2027 HealthTech cohort",
+  "org": "Nasdaq Entrepreneurial Center",
+  "role": null,
+  "type": "program",
+  "hunt": "growth",
+  "why": "Free 12-week mentoring, coaching and training cohort with a HealthTech theme for Winter 2027; the call lists digital health, health data, patient engagement and AI-enabled health among the areas it wants. Virtual onboarding; each founder sets one 12-week milestone such as launching a product or raising a round, which matches a pre-launch waitlist stage. Alumni base is 54% women and 77% under-resourced founders.",
+  "why_now": "Applications for the Winter 2027 HealthTech cohort close 26 Oct 2026 (page FAQ updated 5 Oct 2026).",
+  "evidence": [
+   "https://nasdaqcenter.org/milestone-makers/"
+  ],
+  "channel": "Online application linked from the Milestone Makers page",
+  "contact_url": "https://nasdaqcenter.org/milestone-makers/",
+  "warm_path": "None known. Programme partners listed on the page include KPMG, Wilson Sonsini and Google Cloud; a Wilson Sonsini or KPMG contact could nominate.",
+  "fit": 7,
+  "ice": {
+   "i": 7,
+   "c": 6,
+   "e": 9
+  },
+  "ask": "Apply by 26 Oct 2026 with one 12-week milestone: turn the waitlist into a first structured wear group and close a pre-seed round.",
+  "opener": "I'm Jeremy, founder of Vybe Health in Raleigh, NC. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK so other health apps can use those nightly signals. We have not launched yet, we have a public waitlist, and we are veteran, woman and minority owned. Our 12 week milestone would be to turn waitlist interest into a first structured wear group and to close our preseed round. Mentoring on health data partnerships would help us. https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US/global (virtual)",
+  "deadline": "2026-10-26",
+  "last_signal_date": "2026-10-05",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "nasdaq",
+   "healthtech",
+   "cohort",
+   "mentoring",
+   "women-founders",
+   "under-resourced-founders",
+   "free",
+   "virtual",
+   "lane-b-d"
+  ]
+ },
+ {
+  "name": "ST Innovation Challenge (healthcare and wearables track, Innovation World Cup 2027)",
+  "org": "STMicroelectronics with the Innovation World Cup Series (Techpreneurs)",
+  "role": null,
+  "type": "program",
+  "hunt": "growth",
+  "why": "STMicroelectronics' flagship startup programme for hardware teams; its scope names healthcare and wearables (biosignal sensing, wellness devices, body-worn electronics that process data on device). Taking part means free ST development kits such as SensorTile.box PRO, work with ST field application engineers and business advice, all remote. Entry is free. Fits a band plus SDK team that wants silicon and edge AI support from a big chip maker.",
+  "why_now": "Submissions for the 18th Innovation World Cup and its ST Innovation Challenge close 4 Feb 2027 (ST special track reported as 11 Feb 2027); finalists are offered speaking slots at Hannover Messe 2027.",
+  "evidence": [
+   "https://www.innovationworldcup.com/categories/st-innovation-challenge/",
+   "https://www.innovationworldcup.com/categories/innovation-world-cup/"
+  ],
+  "channel": "Online submission on innovationworldcup.com, selecting the ST Innovation Challenge",
+  "contact_url": "https://www.innovationworldcup.com/categories/st-innovation-challenge/",
+  "warm_path": "None known. WT | Wearable Technologies (same organiser group) is already on the board via MEDICA 2026; that contact could flag the entry.",
+  "fit": 8,
+  "ice": {
+   "i": 7,
+   "c": 5,
+   "e": 7
+  },
+  "ask": "Enter by 4 Feb 2027, pick the ST Innovation Challenge, and ask for an ST development kit plus a field application engineer session on low-power biosignal sensing and on-device processing.",
+  "opener": "I'm Jeremy, founder of Vybe Health in Raleigh, NC. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, with processing on the band to save battery and protect privacy, plus a developer SDK. We have not launched yet, we have a public waitlist, and we are veteran, woman and minority owned. We would like to evaluate ST motion and biosignal sensing for our next hardware revision and would value time with an ST field application engineer. https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Global (online entry; finals optional, in person in Germany)",
+  "deadline": "2027-02-04",
+  "last_signal_date": "2026-10-15",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "stmicroelectronics",
+   "big-tech-hardware",
+   "dev-kits",
+   "edge-ai",
+   "wearables",
+   "free",
+   "lane-a"
+  ]
+ },
+ {
+  "name": "Military Founders Lab, cohort 27A (Ideation/Seed track)",
+  "org": "D'Aniello Institute for Veterans and Military Families (IVMF), Syracuse University (Bunker Labs legacy)",
+  "role": null,
+  "type": "program",
+  "hunt": "growth",
+  "why": "Free, fully online 10-week founder programme for veterans and military spouses, the successor to Bunker Labs programming. Its Ideation/Seed track is built for pre-revenue businesses with capital invested, which fits pre-launch Vybe. Weekly live Founders Exchange with peer founders plus expert sessions; about 5 to 8 hours a week. Requirements on its own page: honourable service documentation, a registered business, 6+ months of active development, under 250K revenue or capital invested.",
+  "why_now": "Cohort 27A runs 25 Jan to 4 Apr 2027 (27B from 29 Apr 2027, 27C from 13 Sep 2027); entry is through the interest form now.",
+  "evidence": [
+   "https://ivmf.syracuse.edu/programs/entrepreneurship/mfl/",
+   "https://ivmf.syracuse.edu/programs/entrepreneurship/"
+  ],
+  "channel": "Interest form on the programme page; email to the published programme manager (rlee57@syr.edu)",
+  "contact_url": "https://ivmf.syracuse.edu/programs/entrepreneurship/mfl/",
+  "warm_path": "Founder Institute Veteran Accelerator and Vetted are already on the board; either network may know the IVMF online programs team.",
+  "fit": 7,
+  "ice": {
+   "i": 6,
+   "c": 7,
+   "e": 9
+  },
+  "ask": "Fill in the interest form for cohort 27A (Ideation/Seed track, Tuesdays 2:30pm ET) and ask Rosie Lee to confirm Vybe's eligibility.",
+  "opener": "Hi Rosie, I'm Jeremy, founder of Vybe Health, a veteran, woman and minority owned startup in Raleigh, NC. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK. We have capital invested, no revenue yet and a public waitlist, so the Ideation and Seed track for cohort 27A looks like the right fit. I am filling in the interest form and would like to confirm eligibility and the documents you need. https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (virtual)",
+  "deadline": null,
+  "last_signal_date": "2026-10-19",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "veteran-founders",
+   "bunker-labs",
+   "ivmf",
+   "syracuse",
+   "cohort",
+   "free",
+   "virtual",
+   "lane-d"
+  ]
+ },
+ {
+  "name": "AgeTech Collaborative January Open Mic Challenge, accelerator and Testbed network",
+  "org": "AgeTech Collaborative from AARP",
+  "role": null,
+  "type": "program",
+  "hunt": "growth",
+  "why": "Exploratory testbed route. AARP's nonprofit AgeTech Collaborative runs an online Open Mic pitch event; being selected makes a startup eligible for its 8-week virtual accelerator (no cost, no equity), and graduates are connected to its Testbed network of senior living, hospital and university partners to pilot with real older adult users. A nightly heart rate, HRV and sleep timing baseline fits the 50+ healthy-ageing market.",
+  "why_now": "January Open Mic Challenge is an online event on 28 Jan 2027; applications close 31 Oct 2026, 11:59 pm.",
+  "evidence": [
+   "https://agetechcollaborative.org/events/",
+   "https://agetechcollaborative.org/startups/"
+  ],
+  "channel": "Online pitch application on the events page",
+  "contact_url": "https://agetechcollaborative.org/events/",
+  "warm_path": "None known. Cold via the application; AARP research staff speak at the accelerator info sessions listed on the events page.",
+  "fit": 7,
+  "ice": {
+   "i": 7,
+   "c": 5,
+   "e": 8
+  },
+  "ask": "Apply by 31 Oct 2026 to pitch at the 28 Jan 2027 online Open Mic, with the goal of entering the accelerator and then a Testbed pilot with older adult users.",
+  "opener": "I'm Jeremy, founder of Vybe Health in Raleigh, NC. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, so adults 50 and over can see how their nights change over time without another screen. A developer SDK lets care and wellness apps use the same nightly signals. We have not launched yet, we have a public waitlist, and we are veteran, woman and minority owned. We would welcome the chance to pitch and to learn from AARP's testbed partners. https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "US (online)",
+  "deadline": "2026-10-31",
+  "last_signal_date": "2026-10-19",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "aarp",
+   "agetech",
+   "testbed",
+   "pilot-sites",
+   "older-adults",
+   "accelerator",
+   "free",
+   "no-equity",
+   "virtual",
+   "lane-e",
+   "exploratory",
+   "exploratory"
+  ]
+ },
+ {
+  "name": "Healthcare Innovation World Cup 2027 (wearables and digital health)",
+  "org": "Innovation World Cup Series (Techpreneurs) with MEDICA",
+  "role": null,
+  "type": "program",
+  "hunt": "growth",
+  "why": "Free competition for smart health devices, medical and wellness wearables and digital biomarkers, run by the same organiser group as WT | Wearable Technologies. Online entry; jury feedback and business introductions. The top 12 are invited to pitch at MEDICA 2027 in Germany and at WT conferences, so finalist stages involve optional travel.",
+  "why_now": "Deadline 9 Sep 2027; finalist pitch at the MEDICA Innovation Forum on 15 Nov 2027.",
+  "evidence": [
+   "https://www.innovationworldcup.com/categories/healthcare/",
+   "https://www.innovationworldcup.com/wt-innovation-world-cup/"
+  ],
+  "channel": "Online submission on innovationworldcup.com",
+  "contact_url": "https://www.innovationworldcup.com/categories/healthcare/",
+  "warm_path": "Same submission system as the ST Innovation Challenge row; enter once and tick both.",
+  "fit": 9,
+  "ice": {
+   "i": 5,
+   "c": 5,
+   "e": 7
+  },
+  "ask": "Enter the healthcare category with the same profile used for the ST Innovation Challenge, before 9 Sep 2027.",
+  "opener": "I'm Jeremy, founder of Vybe Health in Raleigh, NC. We're developing a screenless overnight band that reads heart rate, HRV and sleep timing and compares each night to the wearer's own baseline, plus a developer SDK for other health apps. We have not launched yet, we have a public waitlist, and we are veteran, woman and minority owned. We would value jury feedback and introductions to wearable partners. https://calendly.com/jeremy-vybe/30min",
+  "check_size": null,
+  "stage": null,
+  "geo": "Global (online entry; finals in person in Germany)",
+  "deadline": "2027-09-09",
+  "last_signal_date": "2026-10-15",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "wearables",
+   "competition",
+   "medica",
+   "free",
+   "reserve",
+   "reserve"
+  ]
+ }
+]

@@ -1,6 +1,6 @@
 {
  "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
- "checked": "2026-10-19T12:20Z",
+ "checked": "2026-10-19T12:55Z",
  "threads": [
   {
    "org": "Head of the Schuylkill Regatta",
@@ -214,7 +214,7 @@
    "first_sent": "2026-10-09",
    "state": "call booked",
    "due": "2026-10-22",
-   "next": "15 Oct: Nick Turchan booked the Calendly 30-min for Thu 22 Oct 10:00 EDT and accepted the invite (likely this club's Nick, who proposed next Thursday; his invite came from nick.turchan@team8global.com). Jeremy takes the call.",
+   "next": "15 Oct: Nick Turchan booked the Calendly 30-min for Thu 22 Oct 10:00 EDT and accepted the invite (likely this club's Nick, who proposed next Thursday; his invite came from nick.turchan@team8global.com). Jeremy takes the call. Update 19 Oct: marketing desk brief shows the call kept for Thu 22 Oct 10:00 ET with Jeremy.",
    "role": "Nick (club contact)",
    "offer": "\"I'll grab a spot on your calendar, looking forward to discussing further!\""
   },
@@ -282,7 +282,7 @@
    "first_sent": "2026-10-09",
    "state": "on hold",
    "due": "",
-   "next": "John, 12 Oct: reserve, no email now. Worth considering if they can provide adult audience numbers and commit to member emails and on-site promotion."
+   "next": "John, 12 Oct: reserve, no email now. Worth considering if they can provide adult audience numbers and commit to member emails and on-site promotion. Update 19 Oct: marketing desk brief shows the call kept for Thu 22 Oct 10:00 ET with Jeremy."
   },
   {
    "org": "Aaron Handy",
