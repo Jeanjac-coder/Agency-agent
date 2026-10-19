@@ -4151,6 +4151,51 @@
    "verdict": "B",
    "reason": "Free, open join and active in 2026, but wearable-specific traffic is unproven; a low-cost learning and SDK-feedback channel.",
    "move": "Join the open Discord, post a short intro and one question about modelling overnight wearable readings, and offer early SDK docs once ready."
+  },
+  "boutayna-chokrane-wired-reviews-gear-team": {
+   "verdict": "A",
+   "reason": "Verified 2026 screenless-band review by the beat writer, plus an outlet-published contact route; ask is a briefing, not coverage.",
+   "move": "A 20-minute background briefing for a future story on screenless overnight bands and per-person baselines; no coverage requested now."
+  },
+  "dan-bracaglia-tom-s-guide": {
+   "verdict": "A",
+   "reason": "Verified 2026 screenless-band review by the category lead and an email published on the outlet's own page.",
+   "move": "Keep Vybe on file as a source for future screenless-band and overnight HRV stories; a short background call when useful."
+  },
+  "matt-swider-the-shortcut-substack": {
+   "verdict": "A",
+   "reason": "Verified 2026 screenless-band review and an explicit, published product-pitch email.",
+   "move": "A short background note on Vybe for a future screenless-band roundup; source availability, no review request."
+  },
+  "dr-lucy-mcbride-are-you-okay-substack-newsletter": {
+   "verdict": "B",
+   "reason": "Strong, fresh 2026 HRV piece and published email, but the inbox is general inquiries and her stance on trackers is cautious.",
+   "move": "Offer to be a background source on screenless, own-baseline overnight data if she revisits wearables; no coverage now."
+  },
+  "the-ready-state-podcast-kelly-and-juliet-starrett-the-ready-state": {
+   "verdict": "B",
+   "reason": "Verified 2026 HRV episode and big reach, but the only published route is the team's general support inbox, not a guest form.",
+   "move": "Consideration as a future guest or background voice on own-baseline overnight HRV for training decisions."
+  },
+  "technical-ly-technical-ly-dc-philadelphia-baltimore-pittsburgh-and-research-tria": {
+   "verdict": "A",
+   "reason": "Verified 2026 wearable health-tech and Triangle coverage plus an open, free pitch form.",
+   "move": "Consider a founder profile or inclusion in Triangle health-tech coverage when Vybe has a milestone; for now, a background intro."
+  },
+  "grepbeat-grepbeat-nc-startup-media-nonprofit": {
+   "verdict": "A",
+   "reason": "Local, verified 2026 wearable-adjacent founder coverage and a published story-ideas inbox.",
+   "move": "A founder profile or Friday Fix mention when Vybe has news; for now, an intro and background note."
+  },
+  "power-athlete-radio-power-athlete": {
+   "verdict": "B",
+   "reason": "Two verified 2026 HRV episodes and tactical audience, but only a general contact form and mid-tier recognisability.",
+   "move": "Consideration as a future guest or background voice on own-baseline overnight HRV for tactical and athletic users."
+  },
+  "hackaday-io-project-page-plus-hackaday-tip-line-hackaday-supplyframe": {
+   "verdict": "B",
+   "reason": "Free and active in 2026, but untested for pre-launch consumer hardware; useful mainly for SDK developer reach.",
+   "move": "Publish a free project page on the SDK and send one tip pointing editors to it."
   }
  }
 }

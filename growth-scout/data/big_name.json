@@ -272,6 +272,42 @@
   "open-health-stack-discord-google-for-developers-open-health-stack": {
    "big_name": 6,
    "big_name_why": "Backed and hosted by Google for Developers, a name every health-tech buyer and developer recognises; the OHS community itself is niche."
+  },
+  "boutayna-chokrane-wired-reviews-gear-team": {
+   "big_name": 9,
+   "big_name_why": "WIRED is a top-tier national tech outlet that investors and wearable buyers read; its Reviews team is a recognised buying reference."
+  },
+  "dan-bracaglia-tom-s-guide": {
+   "big_name": 8,
+   "big_name_why": "Tom's Guide is a large US consumer-tech buying guide (Future plc) that wearable shoppers use; recognisable to consumer investors."
+  },
+  "matt-swider-the-shortcut-substack": {
+   "big_name": 6,
+   "big_name_why": "Swider is a former TechRadar editor and The Shortcut is a widely read consumer-tech Substack; known to gadget buyers, less so to investors."
+  },
+  "dr-lucy-mcbride-are-you-okay-substack-newsletter": {
+   "big_name": 6,
+   "big_name_why": "Practicing DC internist with a national newsletter, podcast and book; recognisable to health-literate readers and some consumer-health investors."
+  },
+  "the-ready-state-podcast-kelly-and-juliet-starrett-the-ready-state": {
+   "big_name": 8,
+   "big_name_why": "Kelly Starrett is a widely known performance coach and author whose show reaches athletes and coaches; recognisable to fitness buyers and consumer investors."
+  },
+  "technical-ly-technical-ly-dc-philadelphia-baltimore-pittsburgh-and-research-tria": {
+   "big_name": 6,
+   "big_name_why": "Known to East Coast founders and regional VCs as the startup news source for DC, Philly, Baltimore and now the Triangle."
+  },
+  "grepbeat-grepbeat-nc-startup-media-nonprofit": {
+   "big_name": 6,
+   "big_name_why": "The best-known startup newsroom in the Triangle; read by NC founders, angels and regional VCs."
+  },
+  "power-athlete-radio-power-athlete": {
+   "big_name": 5,
+   "big_name_why": "Well known in strength and tactical coaching circles (800+ episodes), but little recognition with investors or mainstream wearable buyers."
+  },
+  "hackaday-io-project-page-plus-hackaday-tip-line-hackaday-supplyframe": {
+   "big_name": 6,
+   "big_name_why": "Hackaday is a well-known name among hardware engineers and makers; modest recognition with investors."
   }
  }
 }
