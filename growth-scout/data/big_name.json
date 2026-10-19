@@ -428,6 +428,46 @@
   "openvc-flow-free-curated-deal-flow-openvc": {
    "big_name": 5,
    "big_name_why": "Widely used free investor database among early founders; known to founders more than to investors."
+  },
+  "yasa-v0-8-0-wearable-evaluation-module-yasa-raphaelvallat-yasa-open-source-sleep": {
+   "big_name": 7,
+   "big_name_why": "YASA is one of the most cited open source sleep analysis libraries; sleep researchers and sleep tech developers know it, investors less so."
+  },
+  "ggir-and-ggirread-device-file-readers-wadpac-ggir-ggirread-open-source-r-toolkit": {
+   "big_name": 7,
+   "big_name_why": "GGIR underpins a large share of published wrist sensor sleep and activity research, including UK Biobank style cohorts; well known to research developers."
+  },
+  "oxwearables-actipy-and-asleep-oxford-wearables-group-oxwearables-university-of-o": {
+   "big_name": 7,
+   "big_name_why": "Oxford Wearables Group tools are used on UK Biobank wrist data and are well known among wearable researchers and health data developers."
+  },
+  "jupyterhealth-omh-shim-adding-a-new-source-jupyterhealth-jupyterhealth-omh-shim": {
+   "big_name": 7,
+   "big_name_why": "Carries the Project Jupyter name and is a known open health data infrastructure effort among research and health data developers."
+  },
+  "scikit-digital-health-skdh-pfizer-pfizer-opensource-scikit-digital-health": {
+   "big_name": 7,
+   "big_name_why": "Pfizer's name carries weight with health developers and investors; SKDH is known in digital endpoint circles."
+  },
+  "pyhrv-v0-5-0-pyhrv-pgomes92-pyhrv-open-source-hrv-toolbox": {
+   "big_name": 6,
+   "big_name_why": "Widely cited HRV toolbox known to physiology and HRV developers; little investor recognition."
+  },
+  "apple-developer-forums-healthkit-tag-apple-apple-developer-forums": {
+   "big_name": 9,
+   "big_name_why": "Apple's official developer forum; every health app developer and investor knows HealthKit."
+  },
+  "mirobody-new-device-providers-theta-health-thetahealth-mirobody": {
+   "big_name": 5,
+   "big_name_why": "Popular in AI health data circles on GitHub (about 1.4k stars), but Theta Health is not widely known to investors."
+  },
+  "hrv-analysis-v1-0-6-aura-healthcare-aura-healthcare-hrv-analysis": {
+   "big_name": 5,
+   "big_name_why": "Known to HRV researchers and Python developers; limited recognition beyond that."
+  },
+  "cool-things-in-healthtech-for-devs-jennifer-jiang-kells-substack": {
+   "big_name": 3,
+   "big_name_why": "Small, newer developer zine; reach is niche."
   }
  }
 }

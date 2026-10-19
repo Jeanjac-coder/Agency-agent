@@ -4346,6 +4346,56 @@
    "verdict": "B",
    "reason": "Exploratory: a free, curated investor-matching listing type not yet on the board; low effort, uncertain yield.",
    "move": "Create a free founder profile and deck so Vybe can be surfaced in OpenVC Flow to investors filtering for health and hardware at the prototype stage."
+  },
+  "yasa-v0-8-0-wearable-evaluation-module-yasa-raphaelvallat-yasa-open-source-sleep": {
+   "verdict": "A",
+   "reason": "Fresh October 2026 release built specifically for wearable vs reference comparison; free public channel and verified maintainer.",
+   "move": "Would a wearable example (band derived hypnogram vs reference) be welcome as a tutorial or discussion post once our sample nights exist?"
+  },
+  "ggir-and-ggirread-device-file-readers-wadpac-ggir-ggirread-open-source-r-toolkit": {
+   "verdict": "A",
+   "reason": "Device readers are the project's core, a manufacturer contributed in September 2026, and the channel is a free GitHub issue.",
+   "move": "Would you accept a reader for our band's overnight epoch export (heart rate plus sleep timing) if we open an issue with a sample file and format spec?"
+  },
+  "oxwearables-actipy-and-asleep-oxford-wearables-group-oxwearables-university-of-o": {
+   "verdict": "B",
+   "reason": "Strong group and fresh releases, but fit depends on whether Vybe exposes raw motion data in a compatible form.",
+   "move": "Would a device reader for our band's export be welcome in actipy, or should we target the generic CSV path for asleep?"
+  },
+  "jupyterhealth-omh-shim-adding-a-new-source-jupyterhealth-jupyterhealth-omh-shim": {
+   "verdict": "A",
+   "reason": "Explicit new source guide, fresh September 2026 release and a free GitHub issue path.",
+   "move": "Would you accept a Vybe source module for heart rate, HRV and sleep episodes if we follow your Adding a New Source guide?"
+  },
+  "scikit-digital-health-skdh-pfizer-pfizer-opensource-scikit-digital-health": {
+   "verdict": "B",
+   "reason": "Recognisable owner and steady 2026 releases, but no explicit call for new devices and the sleep module is motion based.",
+   "move": "Is a reader for a new overnight band in scope for skdh.io, or should we document a CSV route into the sleep module?"
+  },
+  "pyhrv-v0-5-0-pyhrv-pgomes92-pyhrv-open-source-hrv-toolbox": {
+   "verdict": "B",
+   "reason": "Good HRV fit and a 2026 revival, but no explicit request for new device data.",
+   "move": "Would an example using overnight beat intervals from a wearable band be a welcome addition to the docs?"
+  },
+  "apple-developer-forums-healthkit-tag-apple-apple-developer-forums": {
+   "verdict": "B",
+   "reason": "Huge, active and free, but it is a support forum, so visibility depends on useful replies rather than announcements.",
+   "move": "Join with a free Apple ID, answer a few sleep and heart rate threads, and post a short note on the SDK when docs are live."
+  },
+  "mirobody-new-device-providers-theta-health-thetahealth-mirobody": {
+   "verdict": "B",
+   "reason": "Explicit call for new device providers and very fresh release; reserve because recognisability is moderate.",
+   "move": "Would a Vybe provider in mirobody/collect/providers be welcome once our SDK is ready?"
+  },
+  "hrv-analysis-v1-0-6-aura-healthcare-aura-healthcare-hrv-analysis": {
+   "verdict": "B",
+   "reason": "Clean HRV fit and a 2026 release, but modest reach and no explicit device call; reserve.",
+   "move": "Would a wearable overnight example be welcome in the docs once our sample data exists?"
+  },
+  "cool-things-in-healthtech-for-devs-jennifer-jiang-kells-substack": {
+   "verdict": "B",
+   "reason": "Exploratory test of a developer newsletter channel; low reach and wearable focus is indirect.",
+   "move": "Would an open overnight data SDK fit your planned piece on companies building in the open?"
   }
  }
 }
