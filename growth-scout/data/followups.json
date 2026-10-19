@@ -1,6 +1,6 @@
 {
  "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
- "checked": "2026-10-19T00:40Z",
+ "checked": "2026-10-19T02:40Z",
  "threads": [
   {
    "org": "Head of the Schuylkill Regatta",
@@ -455,10 +455,10 @@
    "to": "joe@lighthousehw.org",
    "role": "Joe Ramirez",
    "first_sent": "2026-10-09",
-   "state": "replied",
-   "due": "2026-11-09",
+   "state": "replied-by-founder",
+   "due": "2026-11-10",
    "offer": "\"Sounds like we're on similar paths! We're working on a band as well but I'd be happy to connect... send me an invite for anytime after 8am pacific any day other than Thursday the week of Nov 9\"",
-   "next": "18 Oct: reply prepared on the approval page (open-loop-lighthouse-4ps-invite) proposing Tue 10 Nov 9:00 PT. Owner Jeremy: approve by 21 Oct, then send the calendar invite. Earlier: Replied 12 Oct: open to a call, but they are building their own band (possible competitor). Jeremy: send a calendar invite for the week of 9 Nov, after 8am PT, not Thursday (Nov 12). Keep it to data integration; no bands."
+   "next": "Jeremy replied by hand 19 Oct 01:41Z proposing Tue 10 Nov, 9:00 PT (with the Vybe Calendly link). Waiting on Joe to confirm; if he does, Jeremy sends the invite. If no answer by 3 Nov, one short nudge from Jeremy. The approval-page draft open-loop-lighthouse-4ps-invite is now superseded."
   },
   {
    "org": "Terra API (integration partner programme)",
@@ -540,6 +540,13 @@
    "at": "2026-10-17T10:27Z",
    "by": "hub",
    "result": "internal email 'Approval needed: 6 new community leads (numbers 16-21)'; asks John to approve by email, which is not an approval route here (only the approval page counts)"
+  },
+  {
+   "at": "2026-10-19T01:41Z",
+   "to": "joe@lighthousehw.org",
+   "by": "Jeremy (by hand)",
+   "subject": "Re: Partnership idea for Baseline 4PS: Vybe Health",
+   "note": "Proposes 10 Nov 9:00 PT. Quoted history below the reply carries the old pre-10-Oct booking link."
   }
  ]
 }
