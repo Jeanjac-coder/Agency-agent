@@ -270,5 +270,109 @@
    "reserve",
    "exploratory"
   ]
+ },
+ {
+  "type": "research-lab",
+  "hunt": "growth",
+  "check_size": null,
+  "stage": null,
+  "deadline": null,
+  "warm_path": null,
+  "name": "Jill A. Rabinowitz (Rutgers Robert Wood Johnson Medical School, Department of Psychiatry)",
+  "org": "Rutgers Robert Wood Johnson Medical School",
+  "role": "Senior author on 2026 WHOOP resting heart rate and HRV study and 2026 Fitbit adolescent sleep study",
+  "why": "Senior author on two 2026 consumer wearable papers: continuous WHOOP resting heart rate and HRV tracked against each participant's own trend during early residential substance use treatment, and Fitbit derived sleep stages and wake after sleep onset in 4,545 ABCD adolescents. Her group already reasons about within person physiologic change, which is the Vybe baseline framing, and works with Johns Hopkins biostatistics on wearable data.",
+  "why_now": "Fitbit sleep paper published online 9 October 2026 in European Child and Adolescent Psychiatry; WHOOP HRV paper published 10 June 2026 in Front Psychiatry. Both name continuous consumer wearable monitoring as the path for follow up work.",
+  "evidence": [
+   "https://link.springer.com/article/10.1007/s00787-026-03207-z (Fitbit sleep architecture and fragmentation in ABCD adolescents, online 2026-10-09, Rabinowitz senior author, author email listed in page metadata)",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13290847/ (WHOOP resting heart rate and HRV over first month of SUD treatment, Front Psychiatry 2026-06-10, DOI 10.3389/fpsyt.2026.1755153, Rabinowitz senior author, RWJMS Psychiatry affiliation)"
+  ],
+  "channel": "email (jr1919@rwjms.rutgers.edu)",
+  "contact_url": "https://link.springer.com/article/10.1007/s00787-026-03207-z",
+  "fit": 9,
+  "ask": "A short call to learn what her team would need from a research SDK for overnight heart rate, HRV and sleep timing read against each participant's own baseline.",
+  "opener": "Hi Dr. Rabinowitz, I read your June 2026 paper tracking resting heart rate and HRV from WHOOP across the first month of residential substance use treatment, and your October 2026 Fitbit sleep work in ABCD adolescents. I'm Jeremy, founder of Vybe Health in Raleigh, and we're developing a screenless overnight wrist band that reads heart rate, HRV and sleep timing against each wearer's own baseline, with a developer SDK for research teams. Your finding that physiologic change varied person to person is the gap we're building for. Would you be open to a short call about what your team would need from a research SDK?",
+  "geo": "Piscataway / New Brunswick, NJ",
+  "last_signal_date": "2026-10-09",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "top-up",
+   "research-lab",
+   "WHOOP",
+   "Fitbit",
+   "HRV",
+   "sleep",
+   "psychiatry",
+   "New Jersey"
+  ]
+ },
+ {
+  "type": "research-lab",
+  "hunt": "growth",
+  "check_size": null,
+  "stage": null,
+  "deadline": null,
+  "warm_path": null,
+  "name": "Hongwu Wang, PhD (Technology for Occupational Performance Lab, University of Florida)",
+  "org": "University of Florida, Department of Occupational Therapy",
+  "role": "Assistant Professor and director of the TOP Lab; corresponding author",
+  "why": "Corresponding author on an October 2026 study tracking sleep for four months with Apple Watch, Fitbit Charge 5 and Oura rings, comparing devices against sleep diaries and showing how weekly check ins cut missing data. His lab lists wearable and mHealth work as a core research area and mentors a PhD project on wearable based sleep screening, so a new overnight band with an SDK is a natural device to evaluate.",
+  "why_now": "Published 9 October 2026 in JMIR Formative Research; the paper explicitly reports sleep timing and duration trends and calls for longer consumer wearable sleep monitoring with active adherence protocols.",
+  "evidence": [
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13652396/ (JMIR Form Res 2026-10-09, DOI 10.2196/93019, Apple Watch, Fitbit and Oura sleep tracking over 4 months; corresponding author Hongwu Wang with email listed)",
+   "https://phhp.ufl.edu/profile/wang-hongwu (UF faculty profile, wearable and mHealth research focus)",
+   "https://top.ot.phhp.ufl.edu/people (TOP Lab people page)"
+  ],
+  "channel": "email (hongwu.wang@ufl.edu)",
+  "contact_url": "https://phhp.ufl.edu/profile/wang-hongwu",
+  "fit": 8,
+  "ask": "A short call about what a research SDK for an overnight band should offer for long term sleep timing and HRV studies.",
+  "opener": "Hi Dr. Wang, I read your October 2026 JMIR Formative Research case report following two students for four months on Apple Watch, Fitbit and Oura, and how weekly check ins cut missing nights. I'm Jeremy, founder of Vybe Health in Raleigh, and we're developing a screenless overnight wrist band that reads heart rate, HRV and sleep timing against each wearer's own baseline, plus a developer SDK. Your point that adherence protocols make or break long term sleep tracking is one we think about daily. Would your TOP Lab be open to a short call about what a research SDK should offer?",
+  "geo": "Gainesville, FL",
+  "last_signal_date": "2026-10-09",
+  "confidence": "high Spot-check pages before outreach.",
+  "tags": [
+   "top-up",
+   "research-lab",
+   "Oura",
+   "Fitbit",
+   "Apple Watch",
+   "sleep",
+   "mHealth",
+   "Florida"
+  ]
+ },
+ {
+  "type": "research-lab",
+  "hunt": "growth",
+  "check_size": null,
+  "stage": null,
+  "deadline": null,
+  "warm_path": null,
+  "name": "Robert S. Brown and Adam P. Buckholz (Division of Gastroenterology and Hepatology, Weill Cornell Medicine)",
+  "org": "Weill Cornell Medicine / NewYork-Presbyterian",
+  "role": "Corresponding author (Brown) and first author (Buckholz) on 2026 Oura sleep regularity cohort",
+  "why": "Their team followed 119 people with cirrhosis across two New York academic centers with six months of Oura tracking, analyzing 12,516 sleep episodes, and found the Sleep Regularity Index was the strongest mediator of reduced wellbeing. That is long horizon sleep timing measured against each person's own pattern, the core Vybe signal, and the paper argues remote wearable monitoring can support targeted intervention.",
+  "why_now": "Published 8 August 2026 in JHEP Reports (accepted 2 August 2026), with a stated next step of remote wearable sleep assessment and intervention.",
+  "evidence": [
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13659491/ (JHEP Reports 2026, DOI 10.1016/j.jhepr.2026.101990, six months of Oura Ring tracking in 119 participants, SRI strongest mediator; corresponding author Robert S. Brown with email listed)"
+  ],
+  "channel": "email (rsb2005@med.cornell.edu)",
+  "contact_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13659491/",
+  "fit": 8,
+  "ask": "A short call with the study team about what a remote sleep study would need from an overnight band SDK reporting sleep timing, heart rate and HRV against each participant's baseline.",
+  "opener": "Hi Dr. Brown, I read your team's 2026 JHEP Reports paper following 119 people with cirrhosis on Oura for six months, where the Sleep Regularity Index came out as the strongest mediator of reduced wellbeing. I'm Jeremy, founder of Vybe Health in Raleigh, and we're developing a screenless overnight wrist band that reads heart rate, HRV and sleep timing against each wearer's own baseline, with a developer SDK for research teams. Sleep regularity over months is exactly what we're built to track. Would you or Dr. Buckholz be open to a short call about what a remote sleep study would need from an SDK?",
+  "geo": "New York, NY",
+  "last_signal_date": "2026-08-08",
+  "confidence": "medium Spot-check pages before outreach.",
+  "tags": [
+   "top-up",
+   "research-lab",
+   "Oura",
+   "sleep regularity",
+   "sleep timing",
+   "hepatology",
+   "New York"
+  ]
  }
 ]

@@ -4521,6 +4521,21 @@
    "verdict": "B",
    "reason": "Untried student led channel with a genuine 2026 project, but no published email and a single undergraduate project may not continue.",
    "move": "Ask the student and mentor whether a follow up project would welcome SDK docs and sample overnight data once ready, as a free comparison data source."
+  },
+  "jill-a-rabinowitz-rutgers-robert-wood-johnson-medical-school-department-of-psych": {
+   "verdict": "A",
+   "reason": "Direct match: two 2026 consumer wearable papers on HRV and sleep, senior author, author email published on the Springer article page.",
+   "move": "A short call to learn what her team would need from a research SDK for overnight heart rate, HRV and sleep timing read against each participant's own baseline."
+  },
+  "hongwu-wang-phd-technology-for-occupational-performance-lab-university-of-florid": {
+   "verdict": "A",
+   "reason": "Direct match: 2026 multi device consumer wearable sleep study with sleep timing focus, wearable focused lab, corresponding email published on the article page.",
+   "move": "A short call about what a research SDK for an overnight band should offer for long term sleep timing and HRV studies."
+  },
+  "robert-s-brown-and-adam-p-buckholz-division-of-gastroenterology-and-hepatology-w": {
+   "verdict": "B",
+   "reason": "Strong data match on months long consumer wearable sleep timing, but a clinical hepatology group rather than a wearables lab, so device evaluation appetite is less certain.",
+   "move": "A short call with the study team about what a remote sleep study would need from an overnight band SDK reporting sleep timing, heart rate and HRV against each participant's baseline."
   }
  }
 }
