@@ -4481,6 +4481,46 @@
    "verdict": "B",
    "reason": "An exploratory forum-native row with an honest 2026 wearable review, but the only public route is a general forum contact address.",
    "move": "Offer to be a source on screenless, own-baseline overnight tracking for a future 'do you need it' wearable piece, or send a short outline"
+  },
+  "leah-acker-md-phd-acker-lab-wearable-hrv-in-older-surgical-patients-duke-univers": {
+   "verdict": "A",
+   "reason": "2026 peer reviewed paper on the exact signal (overnight wrist HRV), published Duke email, 25 miles from Raleigh, and the ask is a free conversation plus docs.",
+   "move": "A 20 minute researcher conversation on what an overnight wrist HRV source would need to be useful for preoperative baselines in older adults, and permission to share SDK docs and sample overnight data once ready."
+  },
+  "deshira-d-wallace-phd-farmworker-wearable-feasibility-study-with-nc-field-unc-ch": {
+   "verdict": "A",
+   "reason": "2026 NC paper naming device data flow problems a band plus SDK can speak to, published faculty email, local, free ask.",
+   "move": "A researcher conversation on what device and data flow constraints the next farmworker study must meet, and sharing SDK docs and sample overnight data once ready as a possible candidate data source."
+  },
+  "nancy-i-williams-scd-women-s-health-and-exercise-laboratory-penn-state-universit": {
+   "verdict": "A",
+   "reason": "2026 athlete sleep paper using a consumer wrist wearable, published email, and a purely free ask to share docs and data.",
+   "move": "A short researcher conversation about the overnight metrics the lab relies on in athlete studies, and permission to send SDK docs and sample overnight data once ready so the band can be weighed as a future candidate device."
+  },
+  "josh-lawton-sleep-hrv-wearable-accuracy-study-old-dominion-university": {
+   "verdict": "B",
+   "reason": "Near perfect topical fit and an open email, but the contact appears to be a student researcher and joining a validation round needs hardware Vybe cannot promise yet.",
+   "move": "Ask whether a later round of the HRV accuracy study could consider additional overnight devices, and offer SDK docs and sample overnight data once ready; no units promised."
+  },
+  "yun-soung-kim-phd-advanced-wearable-sensors-and-electronics-lab-bmeii-icahn-scho": {
+   "verdict": "B",
+   "reason": "Strong name and 2026 output on wearables in remote trials, email published in the paper record, but the lab's core work is soft skin patches so fit for a wrist band is indirect.",
+   "move": "A researcher conversation on what an overnight consumer band and SDK would need (data access, nightly baselines) to be usable in remote wearable trials, plus sharing SDK docs once ready."
+  },
+  "carissa-a-low-phd-mobile-sensing-health-institute-university-of-pittsburgh-depar": {
+   "verdict": "B",
+   "reason": "Real 2026 remote sensing work and a recognised institution, but no published email and the clinical cancer setting means any study use is further out.",
+   "move": "A researcher conversation on which overnight wearable signals her clinicians found most useful, and an offer to share SDK docs and sample overnight data once ready as a possible data source."
+  },
+  "ucf-restores-first-responder-and-military-trauma-research-team-deborah-c-beidel-": {
+   "verdict": "B",
+   "reason": "2026 objective sleep trial in service members and active firefighter sleep work, published director email (from her CV on the centre's site), but sleep is a secondary outcome to PTSD treatment.",
+   "move": "A researcher conversation on whether overnight wrist data could complement actigraphy in their follow up assessments, and sharing SDK docs and sample overnight data once ready."
+  },
+  "sara-quintero-undergraduate-researcher-collegiate-swimmer-recovery-study-nova-so": {
+   "verdict": "B",
+   "reason": "Untried student led channel with a genuine 2026 project, but no published email and a single undergraduate project may not continue.",
+   "move": "Ask the student and mentor whether a follow up project would welcome SDK docs and sample overnight data once ready, as a free comparison data source."
   }
  }
 }
