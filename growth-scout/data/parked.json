@@ -1493,13 +1493,6 @@
       "why_parked": "costs money"
     },
     {
-      "name": "All Things Open 2026",
-      "type": "event",
-      "geo": "Raleigh, NC",
-      "ask": "Attend 10/19-20 and ask organizers about a hallway demo or a 2027 lightning-talk slot on open wearable data",
-      "why_parked": "costs money"
-    },
-    {
       "name": "Hack_NCState 2027",
       "type": "event",
       "geo": "Raleigh, NC",
@@ -1602,13 +1595,6 @@
       "type": "event",
       "geo": "Charlottesville, VA",
       "ask": "Sponsor a health-category prize for March 2027 with loaner DevKits",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "FFCA Safety & Health Conference 2026 (vendor showcase)",
-      "type": "event",
-      "geo": "Kissimmee, FL",
-      "ask": "Ask FFCA whether a vendor-showcase table is still open for Oct 19-21; if not, reserve a table for the Oct 2027 edition",
       "why_parked": "costs money"
     },
     {
@@ -5679,13 +5665,6 @@
       "why_parked": "costs money"
     },
     {
-      "name": "xTech|Search 10 (U.S. Army open-topic competition)",
-      "type": "program",
-      "geo": "US (remote submission; virtual semifinals)",
-      "ask": "Submit the concept white paper (overnight readiness baseline for Soldiers plus the SDK for unit data teams) before 5pm ET on 2026-10-19; use the mailbox only for eligibility questions.",
-      "why_parked": "Passed: deadline. No entry decision on the approval page and no submission confirmation in the Vybe inbox by 19 Oct 5pm ET."
-    },
-    {
       "name": "Infinity Medical Concierge",
       "type": "builder",
       "geo": "Johannesburg, South Africa",
@@ -8882,13 +8861,6 @@
       "type": "event",
       "geo": "Washington, DC",
       "ask": "Ask about a packet insert or small finish-area table",
-      "why_parked": "costs money"
-    },
-    {
-      "name": "IEEE Healthcom 2026",
-      "type": "event",
-      "geo": "New York, NY",
-      "ask": "Register to attend and ask the organizers whether there is a demo or industry table",
       "why_parked": "costs money"
     },
     {

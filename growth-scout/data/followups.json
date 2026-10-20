@@ -1,6 +1,6 @@
 {
  "note": "Real outreach sent from jeremy@vybe.health, checked against the Gmail Sent folder and inbox. One follow-up per contact (params.toml max_follow_ups = 1), due 5 to 7 days after the first email. Update this file when mail is sent or a reply lands.",
- "checked": "2026-10-19T20:55Z",
+ "checked": "2026-10-20T00:30Z",
  "threads": [
   {
    "org": "Head of the Schuylkill Regatta",
@@ -489,6 +489,15 @@
    "due": "2026-10-26",
    "offer": "The marketing desk emailed Bevel at 03:13Z 19 Oct asking which third-party HRV, heart rate and sleep data Bevel reads via Apple Health; Bevel sent an out-of-office auto-reply.",
    "next": "Owner: marketing desk. Growsom's own Bevel draft on the approval page (bevel-bevel-bevel-health) should not also be sent; Jeremy to reject or hold it. If Bevel answers, log it here."
+  },
+  {
+   "org": "Ragnar Relay",
+   "to": "nathan.larsen@fitlab.com",
+   "first_sent": "2026-10-16",
+   "followed_up": "",
+   "state": "replied",
+   "due": "2026-10-20",
+   "next": "19 Oct 23:22Z: Nathan Larsen, Ragnar partnership manager (also nlarsen@runragnar.com), offered a call Tue 20 Oct after 12pm PT or next week; he leaves Wed for a race. Reply drafted on the approval page (open-loop-ragnar-nathan-call), booking link only, signed Jeremy Lahn, Founder. Send only when approved."
   }
  ],
  "forwarded": [
@@ -528,7 +537,7 @@
    "org": "Ragnar Relay",
    "at": "2026-10-16T10:28Z",
    "by": "hub",
-   "result": "BOUNCED: domain ragnarrelay.com not found. Needs a verified address before any resend. Resent 16 Oct 17:17 UTC by the hub to customerservice@runragnar.com (signed as John). Do not send again."
+   "result": "BOUNCED: domain ragnarrelay.com not found. Needs a verified address before any resend. Resent 16 Oct 17:17 UTC by the hub to customerservice@runragnar.com (signed as John). Do not send again. 19 Oct 23:11Z Ragnar support CC'd the partnership manager; 23:22Z Nathan Larsen replied."
   },
   {
    "to": "membership@usmastersswimming.org",
